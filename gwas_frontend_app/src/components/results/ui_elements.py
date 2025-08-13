@@ -1,7 +1,23 @@
+"""
+Gene Table Builders
+-------------------
+
+Utilities for constructing Dash Bootstrap tables for:
+1. Genes associated with a trait.
+2. Detailed NCBI gene information.
+
+These functions return `dbc.Table` objects that can be rendered
+directly in a Dash application.
+"""
+
 from typing import List, Dict, Optional
 from dash import html
 import dash_bootstrap_components as dbc
 
+
+# ───────────────────────────────
+# Gene-to-Trait Table
+# ───────────────────────────────
 
 def build_gene_table(trait_name: str, matched_genes: List[Dict]) -> dbc.Table:
     """
@@ -9,7 +25,7 @@ def build_gene_table(trait_name: str, matched_genes: List[Dict]) -> dbc.Table:
 
     Args:
         trait_name: Name of the trait.
-        matched_genes: List of dicts with gene info, expected keys:
+        matched_genes: List of dicts with gene info. Expected keys:
             - 'gene_name'
             - 'relation_type' (optional)
 
@@ -18,6 +34,7 @@ def build_gene_table(trait_name: str, matched_genes: List[Dict]) -> dbc.Table:
     """
     return dbc.Table(
         [
+            # Table header
             html.Thead(
                 html.Tr([
                     html.Th("Gene"),
@@ -25,6 +42,7 @@ def build_gene_table(trait_name: str, matched_genes: List[Dict]) -> dbc.Table:
                     html.Th("Trait"),
                 ])
             ),
+            # Table body with one row per matched gene
             html.Tbody([
                 html.Tr([
                     html.Td(gene["gene_name"]),
@@ -40,6 +58,10 @@ def build_gene_table(trait_name: str, matched_genes: List[Dict]) -> dbc.Table:
         striped=True,
     )
 
+
+# ───────────────────────────────
+# NCBI Gene Detail Table
+# ───────────────────────────────
 
 def build_ncbi_table(
     matched_genes: List[Dict],
@@ -57,11 +79,13 @@ def build_ncbi_table(
     """
     ncbi_map = ncbi_map or {}
 
+    # Table headers
     headers = [
         "Graph Gene", "NCBI Name", "Description", "Chromosome",
         "OtherAliases", "GenomicInfo", "Summary", "Organism"
     ]
 
+    # Build table rows
     rows = []
     for gene in matched_genes:
         gene_id = gene.get("gene_id")

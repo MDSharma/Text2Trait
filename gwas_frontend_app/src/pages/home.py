@@ -1,8 +1,23 @@
+"""
+Home Page – GWAS-P
+------------------
+
+This is the landing page for the GWAS-P application.
+It provides:
+    - An introductory description of the app.
+    - Search inputs for traits and (optionally) specific genes.
+    - Redirect to the results page with query parameters.
+"""
+
 import dash
 from dash import dcc, html, callback, Output, Input, State
 import dash_bootstrap_components as dbc
 from urllib.parse import urlencode
 
+
+# ───────────────────────────────
+# Page Registration
+# ───────────────────────────────
 dash.register_page(
     __name__,
     path="/",
@@ -10,9 +25,13 @@ dash.register_page(
     title="GWAS-P",
 )
 
-# Page layout
+
+# ───────────────────────────────
+# Page Layout
+# ───────────────────────────────
 layout = html.Div([
     dcc.Location(id="url", refresh=True),
+
     # ──────────────── Header ────────────────
     dbc.Row(
         dbc.Col(
@@ -30,7 +49,10 @@ layout = html.Div([
                     },
                 ),
                 html.H4(
-                    "This application helps you explore traits and related genes to discover meaningful biological associations.",
+                    (
+                        "This application helps you explore traits and related genes "
+                        "to discover meaningful biological associations."
+                    ),
                     className="text-center mb-3"
                 ),
             ],
@@ -38,18 +60,26 @@ layout = html.Div([
         ),
         className="pb-4"
     ),
-    # ──────────────── Search options ────────────────
+
+    # ──────────────── Search Options ────────────────
     dbc.Row([
-        # LEFT COLUMN - Text only
+
+        # LEFT COLUMN – Search instructions
         dbc.Col([
             html.H4("Search instructions:", className="pb-1"),
-            html.H5("If you are interested in a trait please fill in your input on the right."
-                    " If you are looking for a specific trait that may influence this input please define it in the field below."),
+            html.H5(
+                (
+                    "If you are interested in a trait please fill in your input on the right. "
+                    "If you are looking for a specific trait that may influence this input, "
+                    "please define it in the field below."
+                )
+            ),
         ], width=6),
 
-        # RIGHT COLUMN - Two stacked input sections
+        # RIGHT COLUMN – Two stacked input sections
         dbc.Col([
-            # Trait input
+
+            # Trait input section
             html.Div([
                 html.H6("Search by the trait you're interested in:", style={'fontSize': 16}),
                 dbc.InputGroup([
@@ -58,10 +88,14 @@ layout = html.Div([
                         placeholder="e.g. Flowering time",
                         type="text",
                     ),
-                    dbc.Button([
-                        "Search ",
-                        html.I(className="bi bi-search", style={"fontSize": "1rem", "verticalAlign": "middle"})
-                    ],
+                    dbc.Button(
+                        [
+                            "Search ",
+                            html.I(
+                                className="bi bi-search",
+                                style={"fontSize": "1rem", "verticalAlign": "middle"}
+                            )
+                        ],
                         id="input-button-trait",
                         n_clicks=0,
                         className="ms-2",
@@ -69,7 +103,7 @@ layout = html.Div([
                 ])
             ], className="mb-3"),
 
-            # Gene input
+            # Gene input section
             html.Div([
                 html.H6("Looking for something more specific? Search by gene:", style={'fontSize': 16}),
                 dbc.InputGroup([
@@ -78,10 +112,14 @@ layout = html.Div([
                         placeholder="e.g. FT",
                         type="text",
                     ),
-                    dbc.Button([
-                        "Search ",
-                        html.I(className="bi bi-search", style={"fontSize": "1rem", "verticalAlign": "middle"})
-                    ],
+                    dbc.Button(
+                        [
+                            "Search ",
+                            html.I(
+                                className="bi bi-search",
+                                style={"fontSize": "1rem", "verticalAlign": "middle"}
+                            )
+                        ],
                         id="input-button-gene",
                         n_clicks=0,
                         className="ms-2",
@@ -92,15 +130,28 @@ layout = html.Div([
     ]),
 ])
 
-# ──────────────── Disable gene search button if input is empty ────────────────
+
+# ───────────────────────────────
+# Callbacks
+# ───────────────────────────────
+
 @callback(
     Output("input-button-gene", "disabled"),
     Input("input-query-gene", "value"),
 )
-def toggle_gene_button(gene_input):
+def toggle_gene_button(gene_input: str) -> bool:
+    """
+    Disable the gene search button if the input is empty.
+
+    Args:
+        gene_input: The text entered into the gene search input.
+
+    Returns:
+        True if the button should be disabled, False otherwise.
+    """
     return not bool(gene_input)
 
-# ──────────────── Redirect to results page with query string ────────────────
+
 @callback(
     Output("url", "href"),
     Input("input-button-trait", "n_clicks"),
@@ -109,7 +160,18 @@ def toggle_gene_button(gene_input):
     State("input-query-gene", "value"),
     prevent_initial_call=True
 )
-def redirect_to_results(_, __, trait_value, gene_value):
+def redirect_to_results(_, __, trait_value: str, gene_value: str) -> str:
+    """
+    Redirect to the results page with the selected query parameters.
+
+    Args:
+        trait_value: Value from the trait search input (required).
+        gene_value: Value from the gene search input (optional).
+
+    Returns:
+        URL string with query parameters for the results page.
+        If no trait is provided, does not trigger a redirect.
+    """
     if not trait_value:
         return dash.no_update
 

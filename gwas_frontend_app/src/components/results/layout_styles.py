@@ -1,3 +1,7 @@
+# ───────────────────────────────
+# Graph Container Styles
+# ───────────────────────────────
+# Styles for the main graph visualization container.
 GRAPH_CONTAINER_STYLE = {
     "backgroundColor": "#d1e8ec",
     "padding": "10px",
@@ -9,6 +13,10 @@ GRAPH_CONTAINER_STYLE = {
     "width": "100%"
 }
 
+# ───────────────────────────────
+# Toolbar Styles
+# ───────────────────────────────
+# Sticky toolbar at the top of the page for graph controls.
 TOOLBAR_STYLE = {
     "position": "sticky",
     "top": 0,
@@ -16,8 +24,13 @@ TOOLBAR_STYLE = {
     "marginBottom": "10px"
 }
 
+# Fixed button height style for uniformity across buttons
 BUTTON_FIXED_HEIGHT_STYLE = {"height": "40px"}
 
+# ───────────────────────────────
+# Table Container Styles
+# ───────────────────────────────
+# Styles for the collapsible table at the bottom of the page.
 TABLE_CONTAINER_STYLE = {
     "position": "absolute",
     "bottom": 0,
@@ -31,6 +44,7 @@ TABLE_CONTAINER_STYLE = {
     "transition": "height 0.3s ease, width 0.3s ease",
 }
 
+# Expanded state of the bottom table container
 TABLE_CONTAINER_EXPANDED_STYLE = TABLE_CONTAINER_STYLE.copy()
 TABLE_CONTAINER_EXPANDED_STYLE.update({
     "height": "300px",
@@ -38,6 +52,10 @@ TABLE_CONTAINER_EXPANDED_STYLE.update({
     "width": "calc(100% - 400px)"
 })
 
+# ───────────────────────────────
+# Side Button Styles
+# ───────────────────────────────
+# Styles for the side toggle button that expands/collapses the side panel.
 SIDE_BUTTON_STYLE = {
     "position": "fixed",
     "top": "50%",
@@ -58,6 +76,10 @@ SIDE_BUTTON_STYLE = {
     "whiteSpace": "nowrap",
 }
 
+# ───────────────────────────────
+# Side Panel Styles
+# ───────────────────────────────
+# Styles for the side panel (collapsed state).
 SIDE_PANEL_STYLE = {
     "position": "absolute",
     "top": "0",
@@ -73,6 +95,7 @@ SIDE_PANEL_STYLE = {
     "padding": "0"
 }
 
+# Expanded state of the side panel
 SIDE_PANEL_EXPANDED_STYLE = SIDE_PANEL_STYLE.copy()
 SIDE_PANEL_EXPANDED_STYLE.update({
     "width": "400px",

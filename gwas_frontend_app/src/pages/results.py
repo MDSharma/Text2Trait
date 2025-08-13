@@ -1,10 +1,20 @@
+"""
+Results Page – GWAS-P
+----------------------
+
+This page displays the GWAS-P results, including a trait-gene interaction 
+graph using Cytoscape, interactive tables for matched genes, and a side panel 
+for detailed gene information retrieved from NCBI.
+"""
+
 import os
+from pathlib import Path
+from urllib.parse import parse_qs
+
 import dash
 from dash import html, dcc, Input, Output, State, callback
 import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
-from urllib.parse import parse_qs
-from pathlib import Path
 
 from utils.data_loader import load_graph
 from utils.search_utils import get_genes_influencing_trait
@@ -18,49 +28,79 @@ from components.results.layout_styles import (
 )
 from components.results.ui_elements import build_gene_table, build_ncbi_table
 
-# ──────────────── NCBI configuration ────────────────
+# ───────────────────────────────
+# NCBI Configuration
+# ───────────────────────────────
+# Ensure Entrez email is set for NCBI API usage
 set_email(os.getenv("ENTREZ_EMAIL", "your.email@example.com"))
 
-dash.register_page(__name__, 
-                   path="/results", 
-                   name="Results", 
-                   title="GWAS-P Results")
+# ───────────────────────────────
+# Page Registration
+# ───────────────────────────────
+dash.register_page(
+    __name__,
+    path="/results",
+    name="Results",
+    title="GWAS-P Results"
+)
 
+# ───────────────────────────────
+# Load Graph Data
+# ───────────────────────────────
 script_dir = Path(__file__).resolve().parent
 json_path = script_dir.parent / "data" / "initial_arabiodopsis_kg.json"
 G, _ = load_graph(json_path)
 
-# ──────────────── Build Cytoscape graph elements ────────────────
+
+# ───────────────────────────────
+# Cytoscape Elements Builder
+# ───────────────────────────────
 def build_cytoscape_elements(trait_id, trait_name, matched_genes):
+    """
+    Build Cytoscape nodes and edges for a given trait and its matched genes.
+    """
     elements = [{
         "data": {"id": trait_id, "label": trait_name, "node_type": "trait"},
         "classes": "trait"
     }]
+
     for gene in matched_genes:
+        # Add gene node
         elements.append({
             "data": {"id": gene["gene_id"], "label": gene["gene_name"], "node_type": "gene"},
             "classes": "gene"
         })
+
+        # Determine edge class based on relation type
         relation_class = gene.get("relation_type", "")
         relation_class = relation_class if relation_class in RELATION_COLORS else "default"
+
+        # Add edge between gene and trait
         edge_id = f"{gene['gene_id']}_{trait_id}_{relation_class}"
+        label = (gene.get("relation_type") or "N/A").replace("_", " ").capitalize()
+
         elements.append({
             "data": {
                 "id": edge_id,
                 "source": gene["gene_id"],
                 "target": trait_id,
                 "relation_type": gene.get("relation_type", "N/A"),
-                "label": (gene.get("relation_type") or "N/A").replace("_", " ").capitalize(),
-                "hover_label": (gene.get("relation_type") or "N/A").replace("_", " ").capitalize()
+                "label": label,
+                "hover_label": label
             },
             "classes": relation_class
         })
+
     return elements
 
-# ──────────────── Page layout ────────────────
-layout = html.Div([
-    dcc.Location(id="url"),
 
+# ───────────────────────────────
+# Page Layout
+# ───────────────────────────────
+layout = html.Div([
+
+    # URL & State Stores
+    dcc.Location(id="url"),
     dcc.Store(id="cyto-elements-store"),
     dcc.Store(id="table-visible", data=False),
     dcc.Store(id="side-panel-visible", data=False),
@@ -68,53 +108,75 @@ layout = html.Div([
     dcc.Store(id="graph-loaded", data=False),
     dcc.Store(id="timer-done", data=False),
     dcc.Interval(id="loading-timer", interval=1500, n_intervals=0, max_intervals=1),
-    # ──────────────── Loading modal ────────────────
+
+    # ──────────────── Loading Modal ────────────────
     dbc.Modal(
         [
             dbc.ModalBody(
                 html.Div([
                     dbc.Spinner(size="lg", color="primary", type="border"),
-                    html.Div("Loading the network...", style={"marginTop": "10px", "fontWeight": "bold"})
-                ], style={
-                "display": "flex",
-                "flexDirection": "column",
-                "justifyContent": "center",
-                "alignItems": "center",
-                "height": "100%",  # Fill the modal body height for vertical centering
-                "textAlign": "center"
-            })
+                    html.Div(
+                        "Loading the network...",
+                        style={"marginTop": "10px", "fontWeight": "bold"}
+                    )
+                ],
+                style={
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "height": "100%",
+                    "textAlign": "center"
+                })
             )
         ],
         id="loading-modal",
         is_open=True,
         backdrop=True,
-        centered=True,  # This centers modal content vertically and horizontally
+        centered=True,
         keyboard=False,
         fullscreen=True
     ),
+
     # ──────────────── Toolbar ────────────────
-    dbc.Card([
-        dbc.CardBody([
+    dbc.Card(
+        dbc.CardBody(
             dbc.Row([
-                dbc.Col(dbc.Button([
-                    "Reset ",
-                    html.I(className="bi bi-arrow-clockwise", style={"fontSize": "1rem", "verticalAlign": "middle"})
-                    ], id="reset-graph", color="primary", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE), width=2),
-                dbc.Col(dbc.Button([
-                    "Zoom ",
-                    html.I(className="bi bi-zoom-in", style={"fontSize": "1rem", "verticalAlign": "middle"})
-                    ], id="zoom-in", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE), width=2),
-                dbc.Col(dbc.Button([
-                    "Zoom ",
-                    html.I(className="bi bi-zoom-out", style={"fontSize": "1rem", "verticalAlign": "middle"})
-                    ], id="zoom-out", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE), width=2),
-                dbc.Col(dbc.Button("Show Table", id="toggle-table", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE), width=3),
-                dbc.Col(dbc.Button("Download PNG", id="download-png", color="success", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE), width=3),
+                dbc.Col(dbc.Button(
+                    ["Reset ", html.I(className="bi bi-arrow-clockwise")],
+                    id="reset-graph", color="primary", size="sm",
+                    className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE
+                ), width=2),
+
+                dbc.Col(dbc.Button(
+                    ["Zoom ", html.I(className="bi bi-zoom-in")],
+                    id="zoom-in", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE
+                ), width=2),
+
+                dbc.Col(dbc.Button(
+                    ["Zoom ", html.I(className="bi bi-zoom-out")],
+                    id="zoom-out", size="sm", className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE
+                ), width=2),
+
+                dbc.Col(dbc.Button(
+                    "Show Table", id="toggle-table", size="sm",
+                    className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE
+                ), width=3),
+
+                dbc.Col(dbc.Button(
+                    "Download PNG", id="download-png", color="success", size="sm",
+                    className="w-100", style=BUTTON_FIXED_HEIGHT_STYLE
+                ), width=3),
             ], className="g-2")
-        ])
-    ], className="mt-2 mb-2 pb-2", style=TOOLBAR_STYLE),
-    # ──────────────── Graph and side panels ────────────────
+        ),
+        className="mt-2 mb-2 pb-2",
+        style=TOOLBAR_STYLE
+    ),
+
+    # ──────────────── Graph & Side Panels ────────────────
     html.Div([
+
+        # Graph & Table Container
         html.Div([
             cyto.Cytoscape(
                 id="graph-output",
@@ -129,6 +191,7 @@ layout = html.Div([
                 zoom=1.4,
                 tapEdgeData=True
             ),
+
             html.Div([
                 dbc.Tabs([
                     dbc.Tab(label="Trait Matches", tab_id="trait_matches"),
@@ -138,35 +201,48 @@ layout = html.Div([
             ], id="gene-table-container", style=TABLE_CONTAINER_STYLE)
         ], style=GRAPH_CONTAINER_STYLE),
 
+        # Side Panel
         html.Div([
-            dbc.Button(
-                "Quick info", id="toggle-side-panel", size="sm", style=SIDE_BUTTON_STYLE
-            ),
+            dbc.Button("Quick info", id="toggle-side-panel", size="sm", style=SIDE_BUTTON_STYLE),
+
             html.Div([
                 dbc.Button("\u00d7", id="close-side-panel", size="sm"),
                 html.Div(id="side-panel-inner-content", style={"paddingTop": "15px"})
             ], id="side-panel-content", style={"position": "relative", "height": "100%", "width": "100%"})
         ], id="side-panel", style=SIDE_PANEL_STYLE)
+
     ], style={"display": "flex", "position": "relative", "height": "100%"})
 ])
 
-# ──────────────── Callbacks ────────────────
+# ───────────────────────────────
+# Callbacks
+# ───────────────────────────────
+# Timer completion callback
 @callback(
     Output("timer-done", "data"),
     Input("loading-timer", "n_intervals"),
     prevent_initial_call=True
 )
 def finish_timer(_):
+    """Mark the loading timer as done after the interval."""
     return True
 
+
+# Loading modal visibility callback
 @callback(
     Output("loading-modal", "is_open"),
     Input("graph-loaded", "data"),
     Input("timer-done", "data")
 )
 def update_modal(graph_loaded, timer_done):
+    """
+    Keep the loading modal open until both the graph is loaded
+    and the loading timer has completed.
+    """
     return not (graph_loaded and timer_done)
 
+
+# Load Cytoscape graph elements based on URL search parameters
 @callback(
     Output("cyto-elements-store", "data"),
     Output("graph-output", "elements"),
@@ -176,41 +252,59 @@ def update_modal(graph_loaded, timer_done):
     prevent_initial_call=True
 )
 def load_graph_elements(search):
+    """
+    Parse URL parameters for trait and gene filters,
+    build Cytoscape elements for visualization.
+    """
     if not search:
         return [], [], build_stylesheet(), True
+
     try:
         params = parse_qs(search[1:])
         trait = params.get("trait", [None])[0]
         gene = params.get("gene", [None])[0]
+
         if not trait:
             return [], [], build_stylesheet(), True
+
         result = get_genes_influencing_trait(G, trait, gene)
         if not result:
             return [], [], build_stylesheet(), True
+
         matched_genes = result.get("matched_genes", [])
         elements = build_cytoscape_elements(result["trait_id"], result["trait_name"], matched_genes)
+
         return {
             "elements": elements,
             "matched_genes": matched_genes,
             "trait_id": result["trait_id"],
             "trait_name": result["trait_name"]
         }, elements, build_stylesheet(), True
+
     except Exception as e:
         print("Error in load_graph_elements:", e)
         return [], [], build_stylesheet(), True
 
+
+# Fetch NCBI data for matched genes
 @callback(
     Output("ncbi-store", "data"),
     Input("cyto-elements-store", "data"),
     prevent_initial_call=True
 )
 def fetch_ncbi_data(data):
+    """
+    Fetch detailed gene information from NCBI for each matched gene
+    and store it in the dcc.Store for side panel display.
+    """
     if not data or "matched_genes" not in data:
         return {}
+
     matched_genes = data["matched_genes"]
     query_names = [g.get("gene_name") for g in matched_genes if g.get("gene_name")]
     if not query_names:
         return {}
+
     try:
         ncbi_results = fetch_multiple_genes_info(query_names)
         ncbi_map = {}
@@ -220,10 +314,13 @@ def fetch_ncbi_data(data):
             info["graph_gene_name"] = g.get("gene_name")
             ncbi_map[key] = info
         return ncbi_map
+
     except Exception as e:
         print("Error fetching NCBI data:", e)
         return {}
 
+
+# Zoom in/out callback
 @callback(
     Output("graph-output", "zoom"),
     Input("zoom-in", "n_clicks"),
@@ -232,21 +329,27 @@ def fetch_ncbi_data(data):
     prevent_initial_call=True
 )
 def zoom_graph(zoom_in_clicks, zoom_out_clicks, current_zoom):
+    """Adjust the Cytoscape graph zoom level based on user clicks."""
     triggered_id = dash.callback_context.triggered_id
     if triggered_id == "zoom-in":
-        return min(current_zoom+0.2, 2.5)
+        return min(current_zoom + 0.2, 2.5)
     elif triggered_id == "zoom-out":
-        return max(current_zoom-0.2, 0.3)
+        return max(current_zoom - 0.2, 0.3)
     return current_zoom
 
+
+# Graph PNG download callback
 @callback(
     Output("graph-output", "generateImage"),
     Input("download-png", "n_clicks"),
     prevent_initial_call=True
 )
 def download_graph(n_clicks):
+    """Trigger download of the current Cytoscape graph as PNG."""
     return {"type": "png", "action": "download"}
 
+
+# Toggle table visibility callback
 @callback(
     Output("table-visible", "data"),
     Output("toggle-table", "children"),
@@ -255,8 +358,11 @@ def download_graph(n_clicks):
     prevent_initial_call=True
 )
 def toggle_table(n_clicks, currently_visible):
+    """Show or hide the gene table and update button label."""
     return (False, "Show Table") if currently_visible else (True, "Hide Table")
 
+
+# Side panel toggle and content update callback
 @callback(
     Output("side-panel", "style"),
     Output("toggle-side-panel", "style"),
@@ -270,12 +376,19 @@ def toggle_table(n_clicks, currently_visible):
     prevent_initial_call=True
 )
 def toggle_side_panel(toggle_clicks, close_clicks, tap_node_data, is_visible, ncbi_store):
+    """
+    Manage side panel state: toggle visibility, update content when a gene is clicked,
+    or show placeholder if empty.
+    """
     ctx = dash.callback_context.triggered_id
     base_button_style = SIDE_BUTTON_STYLE
+
+    # Node tapped in graph
     if ctx == "graph-output" and tap_node_data:
         node_type = tap_node_data.get("node_type", "")
         if node_type != "gene":
             return SIDE_PANEL_STYLE, base_button_style, False, ""
+        
         gene_id = tap_node_data.get("id")
         info = (ncbi_store or {}).get(gene_id)
         if not info:
@@ -283,6 +396,7 @@ def toggle_side_panel(toggle_clicks, close_clicks, tap_node_data, is_visible, nc
                 info = fetch_gene_info_by_name(tap_node_data.get("label", ""))
             except Exception:
                 info = {}
+
         content_children = [
             html.H5(info.get("Name", tap_node_data.get("label", ""))),
             html.Hr(),
@@ -293,7 +407,12 @@ def toggle_side_panel(toggle_clicks, close_clicks, tap_node_data, is_visible, nc
             html.P([html.Strong("Summary: "), html.Span(info.get("Summary", ""))]),
             html.P([html.Strong("Organism: "), html.Span(info.get("Organism", ""))]),
         ]
-        return SIDE_PANEL_EXPANDED_STYLE, {**base_button_style, "display": "none"}, True, html.Div(content_children, style={"padding": "10px", "maxHeight": "85vh", "overflowY": "auto"})
+
+        return SIDE_PANEL_EXPANDED_STYLE, {**base_button_style, "display": "none"}, True, html.Div(
+            content_children, style={"padding": "10px", "maxHeight": "85vh", "overflowY": "auto"}
+        )
+
+    # Toggle button clicked
     if ctx == "toggle-side-panel":
         if not is_visible:
             return SIDE_PANEL_EXPANDED_STYLE, {**base_button_style, "display": "none"}, True, html.Div([
@@ -302,10 +421,15 @@ def toggle_side_panel(toggle_clicks, close_clicks, tap_node_data, is_visible, nc
             ], style={"padding": "10px"})
         else:
             return SIDE_PANEL_STYLE, base_button_style, False, ""
+
+    # Close button clicked
     if ctx == "close-side-panel" and is_visible:
         return SIDE_PANEL_STYLE, base_button_style, False, ""
+
     return SIDE_PANEL_STYLE, base_button_style, False, ""
 
+
+# Sync table container style with side panel visibility
 @callback(
     Output("gene-table-container", "style"),
     Input("side-panel-visible", "data"),
@@ -313,6 +437,7 @@ def toggle_side_panel(toggle_clicks, close_clicks, tap_node_data, is_visible, nc
     prevent_initial_call=True
 )
 def sync_table_style(side_panel_visible, table_visible):
+    """Adjust gene table container style dynamically based on side panel and table visibility."""
     style = TABLE_CONTAINER_STYLE.copy()
     if table_visible:
         if side_panel_visible:
@@ -333,6 +458,8 @@ def sync_table_style(side_panel_visible, table_visible):
         })
     return style
 
+
+# Update table content based on active tab
 @callback(
     Output("table-content", "children"),
     Input("table-tab-selector", "active_tab"),
@@ -343,16 +470,24 @@ def sync_table_style(side_panel_visible, table_visible):
     prevent_initial_call=True
 )
 def update_table(tab, table_visible, elements_data, search, ncbi_store):
+    """
+    Render gene table or gene descriptions depending on the selected tab,
+    table visibility, and available data.
+    """
     if not table_visible or not elements_data or not search:
         return ""
+
     params = parse_qs(search[1:])
     elements = elements_data.get("elements", []) if isinstance(elements_data, dict) else []
     trait_name = elements_data.get("trait_name") if isinstance(elements_data, dict) else None
+
+    # Build relation map for genes
     gene_relations = {
         el["data"]["source"]: el["data"].get("relation_type", "N/A")
         for el in elements
         if "source" in el["data"] and "target" in el["data"]
     }
+
     matched_genes = [{
         "gene_id": el["data"]["id"],
         "gene_name": el["data"]["label"],
@@ -365,4 +500,5 @@ def update_table(tab, table_visible, elements_data, search, ncbi_store):
         if not ncbi_store:
             return html.Div("Loading gene descriptions...", style={"fontStyle": "italic"})
         return build_ncbi_table(matched_genes, ncbi_store)
+
     return ""

@@ -1,5 +1,17 @@
+"""
+Index Page – GWAS-P
+-------------------
+
+This page provides a browsable index of:
+    - All traits in the knowledge graph.
+    - All trait–gene pairs.
+
+Users can click "View Results" links to navigate directly to the results page
+for a specific trait or trait–gene combination.
+"""
+
 import dash
-from dash import html, dcc, dash_table
+from dash import html, dash_table
 import dash_bootstrap_components as dbc
 from urllib.parse import urlencode
 from pathlib import Path
@@ -11,6 +23,10 @@ from utils.search_utils import (
     get_all_traits
 )
 
+
+# ───────────────────────────────
+# Page Registration
+# ───────────────────────────────
 dash.register_page(
     __name__,
     path="/index",
@@ -18,13 +34,22 @@ dash.register_page(
     title="Index"
 )
 
-# ─────────────── Load Graph Data ───────────────
+
+# ───────────────────────────────
+# Load Graph Data
+# ───────────────────────────────
 script_dir = Path(__file__).resolve().parent
-json_path = script_dir.parent / "data" / "gwas_kg.json"
+json_path = script_dir.parent / "data" / "initial_arabiodopsis_kg.json"
 G, _ = load_graph(json_path)
 
-# ─────────────── Helper Functions ───────────────
-def make_link(trait_id=None, gene_id=None):
+
+# ───────────────────────────────
+# Helper Functions
+# ───────────────────────────────
+def make_link(trait_id: str = None, gene_id: str = None) -> str:
+    """
+    Construct a URL to the results page with optional trait and gene parameters.
+    """
     params = {}
     if trait_id:
         params["trait"] = trait_id
@@ -32,7 +57,8 @@ def make_link(trait_id=None, gene_id=None):
         params["gene"] = gene_id
     return f"/results?{urlencode(params)}"
 
-# Shared styles for tables
+
+# Shared DataTable styles
 shared_styles = {
     "table": {
         "overflowX": "auto",
@@ -81,8 +107,14 @@ shared_styles = {
     ]
 }
 
-# ─────────────── Traits Table ───────────────
-def generate_traits_tab():
+
+# ───────────────────────────────
+# Table Generators
+# ───────────────────────────────
+def generate_traits_tab() -> dash_table.DataTable:
+    """
+    Create a DataTable listing all traits in the graph, each linking to results.
+    """
     data = [
         {
             "Trait": get_trait_name(G, trait_id),
@@ -107,10 +139,12 @@ def generate_traits_tab():
         markdown_options={"html": True},
     )
 
-# ─────────────── Trait-Gene Table ───────────────
-def generate_trait_gene_tab():
-    pairs = get_all_trait_gene_pairs(G)
 
+def generate_trait_gene_tab() -> dash_table.DataTable:
+    """
+    Create a DataTable listing all trait–gene pairs in the graph, each linking to results.
+    """
+    pairs = get_all_trait_gene_pairs(G)
     data = [
         {
             "Trait": trait_name,
@@ -137,7 +171,10 @@ def generate_trait_gene_tab():
         markdown_options={"html": True},
     )
 
-# ─────────────── Layout ───────────────
+
+# ───────────────────────────────
+# Page Layout
+# ───────────────────────────────
 layout = dbc.Container([
     html.H2("GWAS-P Knowledge Graph Explorer", className="my-4"),
     dbc.Row([

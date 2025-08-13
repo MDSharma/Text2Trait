@@ -1,3 +1,7 @@
+# ───────────────────────────────
+# Relation Colors
+# ───────────────────────────────
+# Mapping of edge relation types to their respective colors for visualization.
 RELATION_COLORS = {
     "ASSOCIATED_WITH": "#7fb0d6",
     "CAUSES": "#e88b8b",
@@ -14,6 +18,10 @@ RELATION_COLORS = {
     "default": "#cbdbe2",
 }
 
+# ───────────────────────────────
+# Node Style Definitions
+# ───────────────────────────────
+# Predefined styles for different node types in the Cytoscape graph.
 NODE_STYLE = {
     "trait": {
         "background-color": "#67e7da",
@@ -37,7 +45,11 @@ NODE_STYLE = {
     },
 }
 
-
+# ───────────────────────────────
+# Cytoscape Stylesheet Builder
+# ───────────────────────────────
+# Constructs a list of style dictionaries for nodes and edges.
+# Optionally highlights a clicked edge by its ID.
 def build_stylesheet(clicked_edge_id: str = None) -> list:
     """
     Build and return the Cytoscape stylesheet list.
@@ -48,6 +60,7 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
     Returns:
         List of style dictionaries for Cytoscape.
     """
+    # Base node styles
     stylesheet = [
         {
             "selector": "node",
@@ -62,8 +75,10 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
                 "border-color": "#000",
             },
         },
-        {"selector": ".trait", "style": NODE_STYLE["trait"]},
-        {"selector": ".gene", "style": NODE_STYLE["gene"]},
+        {"selector": ".trait", "style": NODE_STYLE["trait"]},  # Trait-specific style
+        {"selector": ".gene", "style": NODE_STYLE["gene"]},    # Gene-specific style
+
+        # Base edge style
         {
             "selector": "edge",
             "style": {
@@ -79,6 +94,7 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
         },
     ]
 
+    # Highlight clicked edge if provided
     if clicked_edge_id:
         stylesheet.append(
             {
@@ -96,6 +112,7 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
             }
         )
 
+    # Apply colors for different relation types
     for relation, color in RELATION_COLORS.items():
         stylesheet.append(
             {

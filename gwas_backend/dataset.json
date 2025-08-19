@@ -1,0 +1,3518 @@
+[
+    {
+        "sentence": "Interestingly, some ILs show novel fruit color variation, such as the dark orange fruits of IL6-3 (Introgression Line chromosome 6, segment 3) and IL12-2",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "IL6-3",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit color variation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "IL12-2",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit color variation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "Consequently, lycopene b-cyclase is highly expressed from breaker to full fruit ripening in maturing fruits of IL6-3, giving rise to a higher content of b-carotene. In IL12-2 a single dominant gene",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "lycopene b-cyclase",
+                    "attr": "Enzyme"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "b-carotene",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "IL6-3",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "b-carotene",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "IL2-5 carries at least three fruit weight QTL, the most significant of which is fruit weight 2.2",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "IL2-5",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit weight QTL",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "In developing fruits, fw2.2 represses cell division, and different alleles exhibit heterochronic changes in gene expression accounting for their phenotypic effects",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "alleles",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "gene expression",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "In this respect, the genetic basis of fw2.2 resembles selection for promoter-based transcriptional variation at the tb1 locus in maize — another domestication QTL",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "tb1",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "comment": "no idea whether we can say it is a trait or not - that my guess. if not different category is needed",
+                "span-s": {
+                    "span": "tb1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "domestication QTL",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "comment": "no idea whether we can say it is a trait or not - that my guess. if not different category is needed",
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "promoter-based transcriptional variation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "Concomitant with fw2.2 was the cloning of a tomato sugar yield, or brix, QTL",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "tomato sugar yield (brix) QTL",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "Brix9-2-5 increases sugars by as much as 25%, and using ultra-high resolution mapping, the molecular basis of this QTL was localized to a cell-wall invertase gene, LIN5",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "Brix9-2-5",
+                    "attr": "Variant"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "sugars",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Brix9-2-5",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "comment": "is it?",
+                "span-s": {
+                    "span": "cell-wall invertase",
+                    "attr": "Enzyme"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "The availability of IL populations for additional tomato species enabled a comparative association study between the nucleotide polymorphism and activity of LIN5, which pinpointed the effect of Brix9-2-5 to a change in a conserved amino acid localized near the invertase active site responsible for sucrose recognition and binding",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "nucleotide polymorphism",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Brix9-2-5",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "invertase",
+                    "attr": "Enzyme"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "sucrose recognition and binding",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "Importantly, these QTL were the first among many showing that quantitative variation shares the same molecular features as laboratory-induced mutations, though an important distinction is that functional polymorphisms more often influence transcriptional regulation (fw2.2) as opposed to protein function (Brix9-2-5)",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "functional polymorphisms",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "transcriptional regulation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "transcriptional regulation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "The S. pennellii ILs are proving to be a powerful tool to discover the loci that govern heterosis.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "S. pennellii",
+                    "attr": "Organism"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "ILs",
+                    "attr": "Variant"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "For example, the mean fruit yield of plants heterozygous for IL2-5 and IL8-3 was significantly higher than both parents in three years of testing in irrigated and drought conditions.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "IL2-5",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit yield",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "IL8-3",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit yield",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "The major pleiotropic IL affecting metabolic QTL was IL6-3. This IL carries a functional SELF PRUNING (SP) gene (orthologous to Arabidopsis TERMINAL FLOWER1) that qualitatively reverts sp ‘determinate’ processing tomato varieties back to the ‘indeterminate’ vine-like sympodial growth that defines wild species.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "IL6-3",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "metabolic QTL",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SELF PRUNING (SP)",
+                    "attr": "Gene"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "processing tomato varieties",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "SP mutants exhibit compact growth by successively decreasing flowering time between sympodial units, making SP the most important developmental and agronomical switch to enable processing tomato production.",
+        "pairs": [
+            {
+                "comment": "do we need some sort of algorithm to make same genes have the same label?",
+                "span-s": {
+                    "span": "SP",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "flowering time",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SP",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "compact growth",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "As all S. pennellii ILs are in the background of the determinate line M82, the indeterminacy of IL6-3 immediately provided an isogenic perennial that facilitated the identification of SP by map-based cloning",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "IL6-3",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "indeterminacy",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "comment": "how to note dwon map_based cloning? or do we just skip this?",
+                "span-s": {
+                    "span": "SP",
+                    "attr": "Gene"
+                },
+                "rel": "develops_from",
+                "span-e": {
+                    "span": "map-based cloning",
+                    "attr": "default"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "It is important to note that IL6-3 is the most QTL laden in the entire IL population, and it is believed that SP, having vast pleiotropic effects by modifying source–sink relationships, is the central link between plant morphology and fruit metabolite distribution",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SP",
+                    "attr": "Gene"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "pleiotropic effects",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "pleiotropic effects",
+                    "attr": "Trait"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "plant morphology",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "pleiotropic effects",
+                    "attr": "Trait"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit metabolite distribution",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "Interestingly, IL9-2-5 carries a second sugar QTL tightly linked to Brix9-2-5, which appears only in SP determinate mutant plants due to the semi-indeterminate effects of another SP homologue, SP9D",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "IL9-2-5",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "Brix9-2-5",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "mutant plants",
+                    "attr": "Organism"
+                },
+                "rel": "develops_from",
+                "span-e": {
+                    "span": "SP9D",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SP homologue",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "SP9D",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "A proof of concept for an extended Solanaceae complex trait view has been the identification of an orthologous yield associated QTL common to potato and tomato: the invertase gene invGE colocalizes with cold-sweetening and starch content QTL from potato",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "invGE",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "invertase",
+                    "attr": "Enzyme"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cold-sweetening",
+                    "attr": "Trait"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "potato",
+                    "attr": "Organism"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "starch content",
+                    "attr": "Trait"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "potato",
+                    "attr": "Organism"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "The potato invertase is orthologous to the tomato LIN5 that is responsible for the QTL Brix9-2-5 [25], indicating that natural variation of sugar yield in tomato fruits and potato tubers is controlled by functional variants of the same gene.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "The potato invertase",
+                    "attr": "Enzyme"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Brix9-2-5",
+                    "attr": "Variant"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "10.1016/j.gde.2007.07.007"
+    },
+    {
+        "sentence": "Additionally, the most significant marker associated with citric acid content was identified by BLINK as SNP_01844 on chromosome 1, attributing 20.88 % of the phenotypic variance, with an allelic effect of − 0.052.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SNP_01844",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "citric acid content",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1016/j.scienta.2023.112838"
+    },
+    {
+        "sentence": "Subsequently, we utilized OmicsBox® to map and was able to annotate 4 SNPs from 2 phenotypes (SNP_03723 on chromosome 2 and SNP_01821 on chromosome 1 for locule number; SNP_13946 on chromosome 9 and SNP_16862 on chromosome 11 for citric acid content)",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SNP_03723",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "locule number",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SNP_01821",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "locule number",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SNP_13946",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "citric acid content",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SNP_16862",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "citric acid content",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1016/j.scienta.2023.112838"
+    },
+    {
+        "sentence": "SNP_01844, which exhibited one of the highest percentages of phenotypic variance explained (% PVE) in citric acid levels, was subjected to a BLASTx search. The analysis revealed that this SNP is situated within the coding region of a putative agamous-like MADS-box protein, specifically an AGL21-like isoform X1",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SNP_01844",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "citric acid levels",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SNP_01844",
+                    "attr": "Variant"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "AGL21-like isoform X1",
+                    "attr": "Protein"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1016/j.scienta.2023.112838"
+    },
+    {
+        "sentence": "Among the annotated SNPs, the discovery of an SNP_01844 within a MADS-box gene holds exciting implications for controlling citric acid content in tomato fruit",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SNP_01844",
+                    "attr": "Variant"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "MADS-box gene",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "citric acid content",
+                    "attr": "Trait"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "tomato fruit",
+                    "attr": "Organism"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1016/j.scienta.2023.112838"
+    },
+    {
+        "sentence": "The AGL21-like isoform X1, associated with this SNP, may affect citric acid regulation",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "AGL21-like isoform X1",
+                    "attr": "Protein"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "citric acid regulation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1016/j.scienta.2023.112838"
+    },
+    {
+        "sentence": "Some of these loci are connected with processes of hormonal plant development at the phase of anthesis, fertilization, formation of fruits and seeds, and so, they are involved in auxin (SlPIN4, SlTIR1, SlARF7, SlARF8, SlIAA9) and gibberellin (SlGA20ox1, SlDELLA1) signaling pathways.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlPIN4",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "auxin signaling pathways",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlTIR1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "auxin signaling pathways",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlARF7",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "auxin signaling pathways",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlARF8",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "auxin signaling pathways",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlIAA9",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "auxin signaling pathways",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlGA20ox1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "gibberellin signaling pathways",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlDELLA1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "gibberellin signaling pathways",
+                    "attr": "Regulator"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Others control cell enlargement during fruit development and maturing, and so, they are involved in regulation of primary (HXK1, SuSY, LIN5, TIV1, mMDH, cpFBP, SPA) and secondary (NOTABILIS/NCED1, FLACCA, Gal-LDH, GME) metabolism.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "HXK1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SuSY",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TIV1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "mMDH",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cpFBP",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SPA",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "NOTABILIS/NCED1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "secondary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FLACCA",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "secondary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Gal-LDH",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "secondary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "GME",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "secondary metabolism",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Individual group of loci controls cell cycle at the period of ovary development (TAGL1, FAS, LC, SlWUS, SlIMA) and fruit growth (SlCDKA1, SlCDCB1, SlCDKB2 and SlCCS52A, SlWEE1, SlKRP1) (L. Azzi et al., 2015)",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "ovary development",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "ovary development",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LC",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "ovary development",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlWUS",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "ovary development",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlIMA",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "ovary development",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCDKA1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCDCB1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCDKB2",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCCS52A",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlWEE1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlKRP1",
+                    "attr": "Gene"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Locus fw2.2 controls the small fruit size in S. lycopersicum and is semidominant to allele FW2.2 of large fruit size",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "small fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "large fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "small fruit size",
+                    "attr": "Trait"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "S. lycopersicum",
+                    "attr": "Organism"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Because genetic mutation(s) causing change in fruit size must be to the left of XO33, cDNA44 cannot be involved and open reading frame is the likely cause of the small-fruit phenotype",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "cDNA44",
+                    "attr": "Gene"
+                },
+                "rel": "is_not_related_to",
+                "span-e": {
+                    "span": "small-fruit phenotype",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Next studies indicated that fw2.2 acts as a negative regulator of cell division during the very early stages of fruit development following pollination",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "negative regulator",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "comment": "do we want to include something like that?",
+                "span-s": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit development",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Thus, fw2.2 is one of regulatory QTLs, such as achaete-scute, scabrous and Delta QTLs in fruit flies, teosinte-branched 1(tb1) in maize and Hox genes in animals (cited by B. Cong et al., 2006).",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory QTLs",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "achaete-scute",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory QTLs",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "scabrous",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory QTLs",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Delta QTLs",
+                    "attr": "Variant"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory QTLs",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "tb1",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory QTLs",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "comment": "do we want to include something like that?",
+                "span-s": {
+                    "span": "Hox genes",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory QTLs",
+                    "attr": "Variant"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Possible, locus FW2.2 is positive regulator of cell division, which is involved in interaction with cytoplasmic membranes mediated by the regulatory (beta)-subunits of CKII kinase, that is well known in yeast and animals where it forms part of cell cycle related with signaling pathway (B. Cong et al., 2006).",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "positive regulator",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "CKII kinase",
+                    "attr": "Enzyme"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "cell cycle",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cell cycle",
+                    "attr": "Trait"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "signaling pathway",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "CKII kinase",
+                    "attr": "Enzyme"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "yeast",
+                    "attr": "Organism"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "CKII kinase",
+                    "attr": "Enzyme"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "animals",
+                    "attr": "Organism"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "All studied wild species of S. lycopersicum carry small-fruit alleles fw2.2, while modern varieties carry large-fruit alleles FW2.2",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "wild species of S. lycopersicum",
+                    "attr": "Organism"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "modern varieties",
+                    "attr": "Organism"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "It was found that fw2.2 acts as a negative regulator of cell division in the earliest stages of fruit development, i.e., after pollination",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "negative regulator",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "comment": "do we want to include something like that?",
+                "span-s": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit development",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Thus, the fw2.2 is one of the regulatory quantitate trait loci (QTL) for an increase in fruit size, similar, for example, to the achaete-scute, scabrous, and Delta loci in fruit-cultures, teosinte-branched 1 (tb1) in maize and Hox genes of animals, in which morphological changes reflect variations in gene regulation rather than modification of protein functions [cited from 14].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory quantitate trait loci (QTL)",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "achaete-scute",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory quantitate trait loci (QTL)",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "scabrous",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory quantitate trait loci (QTL)",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Delta loci",
+                    "attr": "Variant"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory quantitate trait loci (QTL)",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "tb1",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory quantitate trait loci (QTL)",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Hox genes",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "regulatory quantitate trait loci (QTL)",
+                    "attr": "Variant"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "As for the FW2.2 locus, it most likely plays the role of a positive regulator, direct or indirect, of cell division",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "positive regulator",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Thus, although FW2.2 is a specific plant protein [11] and regulates cell division in a specialized organ (fruit), it appears to be involved in the cellular control of signal transduction [14]",
+        "pairs": [
+            {
+                "comment": "do we want to include something like that?",
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "protein",
+                    "attr": "Protein"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cell division",
+                    "attr": "Trait"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "fruit",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "cellular control of signal transduction",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "The effect of SlKLUH is to increase the fruit volume through an increase in the cell number in the pericarp and septum tissues",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit volume",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fruit volume",
+                    "attr": "Trait"
+                },
+                "rel": "develops_from",
+                "span-e": {
+                    "span": "cell number",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cell number",
+                    "attr": "Trait"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "pericarp and septum tissues",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "FW11.3 is another important QTL responsible for tomato fruit weight [19]. Genetic mapping revealed an overlap of FW11.3 with the fasciated (fas) locus which determines the fruit shape and is located on chromosome 11, but FW11.3 and fas are not alleles [20]",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FW11.3",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "QTL",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW11.3",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "tomato fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fas",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "locus",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fas",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW11.3",
+                    "attr": "Gene"
+                },
+                "rel": "is_not_related_to",
+                "span-e": {
+                    "span": "fas",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "For example, in Arabidopsis, proteins of the OVATE family act as transcriptional repressors of the expression of AtGA20ox1, a key factor in the biosynthesis of gibberellic acid, which reduces cell elongation and, therefore, can affect fruit size [24, 26, 27]",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "OVATE family",
+                    "attr": "Protein"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "AtGA20ox1",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "AtGA20ox1",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "biosynthesis of gibberellic acid",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "biosynthesis of gibberellic acid",
+                    "attr": "Trait"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "cell elongation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cell elongation",
+                    "attr": "Trait"
+                },
+                "rel": "develops_from",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Elongated fruit shape is associated with the SUN gene.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SUN",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "Elongated fruit shape",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Overexpression of the SUN gene increases the cell number in the direction of fruit elongation, which ultimately forms a phenotype with an elongated fruit [30]",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SUN",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "cell number",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cell number",
+                    "attr": "Trait"
+                },
+                "rel": "develops_from",
+                "span-e": {
+                    "span": "elongated fruit",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "QTL FASCIATED (FAS) has been identified as a locus that regulates tomato fruit size via an increased number of locules, from 2 to 7 or more, while the lc mutation has a weaker effect [31, 32]",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "QTL",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "tomato fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "lc",
+                    "attr": "Variant"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "tomato fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "More specific WUS genes are involved in maintaining stem thickness and meristem size, and therefore WUSCHEL can influence the number of locules.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "WUS genes",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "stem thickness",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "WUS genes",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "meristem size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "WUSCHEL",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "FAS and LC are able to epistatically interact and produce fruits with a very large number of locules",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "LC",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LC",
+                    "attr": "Variant"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "the appearance of enormous fruits [33, 34]. Functional analysis using TOMATO AGAMOUS-LIKE1 (TAGL1), an ortholog of the duplicated SHATTERPROOF (SHP) MADS box gene of Arabidopsis thaliana, showed the involvement of this transcription factor in the regulation of fruit development [37]",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "transcription_factor",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "SHP",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit development",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Tomato plants in which TAGL1 expression was suppressed produced small fruits with a thin pericarp consisting of several layers of cells, and the pigmentation of the fruits also changed during ripening, which indicated the participation of TAGL1 in the regulation of these processes.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "small fruits",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "thin pericarp",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit pigmentation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "The loci TAGL1, FAS, LC, SlWUS, and SlIMA are involved in the development of the ovule cell.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "TAGL1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "ovule cell",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "ovule cell",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LC",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "ovule cell",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlWUS",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "ovule cell",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlIMA",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "ovule cell",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "During the flowering period, the genes SlPIN4, SlTIR1, SlARF7, SlARF8, and SlIAA9 are involved in auxin signaling, and the SlGA20ox1 and SlDELLA1 participate in gibberellin signaling.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlPIN4",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlTIR1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlARF7",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlARF8",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlIAA9",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlGA20ox1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "gibberellin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlDELLA1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "gibberellin signaling",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "During fruit growth, SlCDKA1, SlCDCB1, SlCDKB2 (cell cycle control), FW2.2, SlKLUH/FW3.2, FW11.3, OVATE, SUN, SlIMA (cell division control), and SlPIN4 (auxin signaling) are active. SlCCS52A, SlWEE1, SlKRP1 (cell cycle control), HXK1, SuSY, LIN5, TIV1, mMDH, cpFBP (primary metabolism), SlIAA17 (auxin signaling), SPA (regulation of primary metabolism), NOTABILIS/NCED1, FLACCA (biosynthesis of abscisic acid), Gal-LDH, GME (biosynthesis of ascorbates) are involved in increasing fruit volume (cell expansion) [13].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlCDKA1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell cycle control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCDCB1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell cycle control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCDKB2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell cycle control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell division control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlKLUH/FW3.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell division control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW11.3",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell division control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "OVATE",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell division control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SUN",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell division control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlIMA",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell division control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlPIN4",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlCCS52A",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell cycle control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlWEE1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell cycle control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlKRP1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "cell cycle control",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "HXK1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SuSY",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LIN5",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TIV1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "mMDH",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "cpFBP",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlIAA17",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "auxin signaling",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SPA",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "regulation of primary metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "NOTABILIS/NCED1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "biosynthesis of abscisic acid",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FLACCA",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "biosynthesis of abscisic acid",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Gal-LDH",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "biosynthesis of ascorbates",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "GME",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "biosynthesis of ascorbates",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Temporal and spatial distribution of PIN and AUX/LAX expression suggests that their coordinated action regulates auxin transport during fruit development in tomato [50].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "PIN",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "auxin transport",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "AUX/LAX",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "auxin transport",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Silencing of the SlPIN4 gene, which is first expressed in flower buds and young developing fruits, leads to the parthenocarpy of small fruits, which indicates the premature development of these fruits [51].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlPIN4",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "parthenocarpy of small fruits",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "The erroneous expression of the TIR1 gene for the auxin receptor in tomato, as well as the erroneous expression of specific members of this gene family, the Aux/IAA and ARF, disrupts the flowering and formation of the ovary, as a result, normal pollination and fertilization does not occur, which increases the number of parthenocarpic fruits on a tomato plant [48, 52, 53].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "TIR1",
+                    "attr": "Gene"
+                },
+                "rel": "disrupts",
+                "span-e": {
+                    "span": "flowering",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TIR1",
+                    "attr": "Gene"
+                },
+                "rel": "disrupts",
+                "span-e": {
+                    "span": "formation of the ovary",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "TIR1",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "number of parthenocarpic fruits",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Aux/IAA",
+                    "attr": "Gene"
+                },
+                "rel": "disrupts",
+                "span-e": {
+                    "span": "flowering",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Aux/IAA",
+                    "attr": "Gene"
+                },
+                "rel": "disrupts",
+                "span-e": {
+                    "span": "formation of the ovary",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Aux/IAA",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "number of parthenocarpic fruits",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "ARF",
+                    "attr": "Gene"
+                },
+                "rel": "disrupts",
+                "span-e": {
+                    "span": "flowering",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "ARF",
+                    "attr": "Gene"
+                },
+                "rel": "disrupts",
+                "span-e": {
+                    "span": "formation of the ovary",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "ARF",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "number of parthenocarpic fruits",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "QTL Lin5 has been identified as the main QTL controlling fruit weight and sugar content [65].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "Lin5",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Lin5",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "sugar content",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "When Lin5 was silenced, fruit yield, fruit and seed size, and seed number were significantly reduced [67].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "Lin5",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "fruit yield",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Lin5",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Lin5",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "seed size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Lin5",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "seed number",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "The SPA protein of tomatoes interacts with the thylakoid membranes of chloroplasts, plays an important role in metabolism, affects the redistribution of carbohydrates and, as a result, changes the harvest index [70].",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SPA",
+                    "attr": "Protein"
+                },
+                "rel": "part_of",
+                "span-e": {
+                    "span": "tomatoes",
+                    "attr": "Organism"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SPA",
+                    "attr": "Protein"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "metabolism",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SPA",
+                    "attr": "Protein"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "redistribution of carbohydrates",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SPA",
+                    "attr": "Protein"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "harvest index",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "LC encodes the WUSCHEL tomato ortholog (WUS), while the FAS encodes the CLAVATA3 tomato ortholog (CLV3)",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "LC",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "WUS",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "CLV3",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "Other authors, combining the sequence mapping technique and the CRISPR-Cas9 genome editing method, identified the AP2/ERF transcription factor locus which regulates the activity of the flower meristem [72]",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "AP2/ERF",
+                    "attr": "Regulator"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "flower meristem",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "doi: 10.15389/agrobiology.2020.5.876eng"
+    },
+    {
+        "sentence": "A single base insertion in an exon of Solyc12g006860, a gene annotated as a brassinosteroid hydroxylase, segregated completely with shape in all populations tested",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "single base insertion",
+                    "attr": "Variant"
+                },
+                "rel": "inheres_in",
+                "span-e": {
+                    "span": "Solyc12g006860",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Solyc12g006860",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "brassinosteroid hydroxylase",
+                    "attr": "Enzyme"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "single base insertion",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "shape",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "While SUN and OVATE are involved in fruit elongation, LC and FAS regulate the number of locules in the fruit, which in turn impacts both fruit shape and size.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SUN",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "OVATE",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LC",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "On the other hand, mutations at two loci, FW2.2 and FW3.2, are implicated in the increase in fruit size to a great extent",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW3.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "OVATE interacts with the sov1 and sov2 loci on chromosomes 10 and 11, respectively, the first influencing the degree of pear shape and the second fruit elongation.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "OVATE",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "sov1",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "OVATE",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "sov2",
+                    "attr": "Gene"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "sov1",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "degree of pear shape",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "sov2",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "FAS and LC, located on chromosomes 2 and 11, respectively, regulate the number of locules in the fruit, which in turn impacts both fruit shape and size.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FAS",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "LC",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "number of locules",
+                    "attr": "Trait"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "On the other hand, SlWUS is the gene underlying the lc mutant, which controls the inflorescence and floral meristem formation phase ultimately affecting the final size of the fruit.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlWUS",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "lc mutant",
+                    "attr": "Variant"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "lc mutant",
+                    "attr": "Variant"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "inflorescence and floral meristem formation phase",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "inflorescence and floral meristem formation phase",
+                    "attr": "Trait"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "final size of the fruit",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "fw2.2 increases fruit weight by causing the expansion of the placenta and columella of the fruit.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "placenta expansion",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "columella expansion",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "FW2.2 is a cell number regulator (CNR) located on the bottom of chromosome 2, and it is believed that a mutation in the promoter region increases fruit size by influencing the rate of cell division.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FW2.2",
+                    "attr": "Gene"
+                },
+                "rel": "is_a",
+                "span-e": {
+                    "span": "cell number regulator",
+                    "attr": "Regulator"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "mutation in the promoter region",
+                    "attr": "Variant"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "mutation in the promoter region",
+                    "attr": "Variant"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "rate of cell division",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "The expression of SlKLUH is exceptionally high in the growing seeds27, suggesting that a seed-produced compound may be involved in the increase in fruit mass2.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "increase in fruit mass",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "Other important fruit size and shape QTLs are fs8.1, controlling fruit elongation, and fw11.3 which explained from 8 to 13% of fruit weight variation in populations between domesticated and wild tomato accessions29,30.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fs8.1",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fw11.3",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "These results confirmed Solyc12g006860 as GLOBE and support that the single base pair insertion in the last exon of the natural mutant results in a gene knock out, thereby pro",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "Solyc12g006860",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "GLOBE",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "This study identified GLOBE as a major fruit shape gene on the upper arm of chromosome 12.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "GLOBE",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "In our study, the single-base thymine insertion towards the end of the coding sequence of Solyc12g006860 completely co-segregated with fruit shape in all populations tested and among all large-fruited inbred lines surveyed, placing this gene as the only likely candidate.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "Solyc12g006860",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "It is presently understood that increased expression of SlKLUH originated by the tandem duplication at the FW3.2 locus is what drives increased fruit mass28.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit mass",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW3.2",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "Besides providing circumstantial evidence supporting Solyc12g006860 as the GLOBE gene, these findings suggest that SlKLUH and Solyc12g006860 may function similarly in the regulation of fruit size and shape.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Solyc12g006860",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "Solyc12g006860",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "On the other hand, there are three major QTLs associated with fruit elongation: sun, ovate, and fs8.1 (ref. 29,36).",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "sun",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "ovate",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "fs8.1",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit elongation",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "sun does not affect fruit size because the increase in height is compensated by a reduction in width12 ;",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "sun",
+                    "attr": "Gene"
+                },
+                "rel": "does_not_influence",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "fs8.1 causes an increase in fruit height with no reduction in width29",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fs8.1",
+                    "attr": "Gene"
+                },
+                "rel": "increases",
+                "span-e": {
+                    "span": "fruit height",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "ovate results in different elongated shapes depending on the genetic background with a slight reduction in fruit weight13",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "ovate",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "elongated shapes",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "ovate",
+                    "attr": "Gene"
+                },
+                "rel": "decreases",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "Thus, globe has an apparently unique effect, as it impacts both fruit shape and size, and it seems to have a greater proximal end impact than fw3.2.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "globe",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "globe",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit size",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "globe also has an effect on plant biomass and pedicel length, where homozygosity for the mutant allele results in a reduced plant biomass and longer and thinner fruit pedicels.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "globe",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "plant biomass",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "globe",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "pedicel length",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "Thus, similar to FW3.2, GLOBE may also have pleiotropic effects on plant growth.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "GLOBE",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "plant growth",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "FW3.2",
+                    "attr": "Gene"
+                },
+                "rel": "may_influence",
+                "span-e": {
+                    "span": "plant growth",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00574-3"
+    },
+    {
+        "sentence": "Of these, the SLA773077 marker on chromosome 1 showed significant associations with both fruit weight and width.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SLA773077",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SLA773077",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit width",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00638-4"
+    },
+    {
+        "sentence": "Furthermore, the 2nd MTA on chromosome 2 was found at 9.23 Mb away from the 1st MTA and its marker (SLA773357) was significantly associated with both the fruit weight and width (Table 3 and Fig. 3).",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SLA773357",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SLA773357",
+                    "attr": "Variant"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit width",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00638-4"
+    },
+    {
+        "sentence": "There are three major genes for tomato fruit development on chromosome 2, including fw2.2 for fruit weight at 50.29 Mb, ovate for fruit shape at 46.38 Mb, and lc for locule number at 45.19 Mb.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw2.2",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "ovate",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit shape",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "lc",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "locule number",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00638-4"
+    },
+    {
+        "sentence": "The SLA773077 marker on chromosome 1 was associated with both the fruit weight and fruit width.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SLA773077",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SLA773077",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit width",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00638-4"
+    },
+    {
+        "sentence": "The other marker (SLA773357) on chromosome 2 showed associations with the fruit weight, fruit width, and locule number.",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SLA773357",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit weight",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SLA773357",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "fruit width",
+                    "attr": "Trait"
+                }
+            },
+            {
+                "span-s": {
+                    "span": "SLA773357",
+                    "attr": "Gene"
+                },
+                "rel": "influences",
+                "span-e": {
+                    "span": "locule number",
+                    "attr": "Trait"
+                }
+            }
+        ],
+        "source": "https://doi.org/10.1038/s41438-021-00638-4"
+    }
+]

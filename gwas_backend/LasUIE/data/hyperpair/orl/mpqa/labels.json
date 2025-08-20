@@ -1,0 +1,11 @@
+{
+    "orl": "opinion role labeling",
+    "span-attribute": {
+        "opinion": "opinion",
+        "role": "role"
+    },
+    "relation-type": {
+        "AGENT": "agent",
+        "TARGET": "target"
+    }
+}

@@ -25,4 +25,4 @@ The frontend is relatively easy to use and designed for quick setup.
 4. Open the displayed link in your browser — the application should load immediately.
 Every part of the code in this section is well commented and described. If you have any doubts how certain method work, you can find it's description just under the method definition.
 
-## 🚀 Frontend Application
+## 🚀 Backend Application

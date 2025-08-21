@@ -1,46 +1,16 @@
 """
-Gene–Trait Relationship Utilities
-----------------------------------
+Search & Subgraph Utilities
+---------------------------
 
-This module provides functions for:
-    - Identifying trait and gene nodes in a graph.
-    - Fuzzy matching traits or genes based on names.
-    - Retrieving genes influencing specific traits.
-    - Listing all trait–gene pairs with influence relations.
-
-The graph is expected to be a `networkx.DiGraph` with nodes containing:
-    - "label": Type of the node ("Gene", "Trait", etc.)
-    - "text": Display name of the node
-
-Edges are expected to have a "type" attribute describing the relationship.
+Provides:
+    - Fuzzy search for traits (and optionally genes).
+    - Expansion: return all connected nodes + edges (all relations).
+    - Helpers to convert into Cytoscape elements.
 """
 
 from typing import List, Tuple, Dict, Optional
 import networkx as nx
 from rapidfuzz import process, fuzz
-
-# ───────────────────────────────
-# Configuration Constants
-# ───────────────────────────────
-
-# Relations considered as gene–trait influences
-INFLUENCE_RELATIONS = {
-    "ASSOCIATED_WITH",
-    "CAUSES",
-    "CONTRIBUTES_TO",
-    "ENCODES",
-    "HAS_MEASUREMENT",
-    "IDENTIFIED_IN",
-    "IS_A",
-    "LOCATED_IN",
-    "NOT_ASSOCIATED_WITH",
-    "PART_OF",
-    "REGULATES",
-    "USED_IN"
-}
-
-# Acceptable node labels for traits
-TRAIT_LABELS = {"Trait", "Trait / Phenotype"}
 
 
 # ───────────────────────────────
@@ -48,41 +18,19 @@ TRAIT_LABELS = {"Trait", "Trait / Phenotype"}
 # ───────────────────────────────
 
 def is_trait_node(node_data: dict) -> bool:
-    """Check if a node represents a trait."""
-    return node_data.get("label") in TRAIT_LABELS
+    return node_data.get("label") in {"Trait", "Trait / Phenotype"}
 
 
 def is_gene_node(node_data: dict) -> bool:
-    """Check if a node represents a gene."""
     return node_data.get("label") == "Gene"
 
 
 # ───────────────────────────────
-# Name Retrieval Helpers
+# Name Helpers
 # ───────────────────────────────
 
-def get_trait_name(G: nx.DiGraph, node_id: str) -> str:
-    """Return the name of a trait node, or its ID if no name exists."""
+def get_node_name(G: nx.DiGraph, node_id: str) -> str:
     return G.nodes[node_id].get("text", node_id)
-
-
-def get_gene_name(G: nx.DiGraph, node_id: str) -> str:
-    """Return the name of a gene node, or its ID if no name exists."""
-    return G.nodes[node_id].get("text", node_id)
-
-
-# ───────────────────────────────
-# Node List Retrieval
-# ───────────────────────────────
-
-def get_all_traits(G: nx.DiGraph) -> List[str]:
-    """Return a list of all trait node IDs."""
-    return [n_id for n_id, data in G.nodes(data=True) if is_trait_node(data)]
-
-
-def get_all_genes(G: nx.DiGraph) -> List[str]:
-    """Return a list of all gene node IDs."""
-    return [n_id for n_id, data in G.nodes(data=True) if is_gene_node(data)]
 
 
 # ───────────────────────────────
@@ -96,14 +44,9 @@ def find_best_traits(
     min_score: int = 70,
     scorer=fuzz.WRatio
 ) -> List[Tuple[str, float]]:
-    """
-    Find the best-matching traits using fuzzy string matching.
-
-    Returns:
-        List of tuples (trait_id, score)
-    """
+    """Fuzzy match trait nodes by text."""
     trait_nodes = {
-        n_id: data["text"]
+        n_id: data.get("text", n_id)
         for n_id, data in graph.nodes(data=True)
         if is_trait_node(data)
     }
@@ -115,104 +58,61 @@ def find_best_traits(
         limit=limit
     )
 
-    return [
-        (node_id, score)
-        for _, score, node_id in matches
-        if score >= min_score
-    ]
+    return [(node_id, score) for _, score, node_id in matches if score >= min_score]
 
 
 # ───────────────────────────────
-# Gene–Trait Influence Retrieval
+# Trait + Gene Resolution
 # ───────────────────────────────
 
-def get_genes_influencing_trait(
+def resolve_trait_and_genes(
     graph: nx.DiGraph,
     trait_query: str,
     gene_query: Optional[str] = None,
-    match_limit: int = 1,
-    min_score: int = 70,
-    scorer=fuzz.WRatio
+    min_score: int = 70
 ) -> Optional[Dict]:
     """
-    Retrieve genes influencing a specified trait, with optional filtering by gene.
-
+    Resolve trait (fuzzy) and optionally filter to a specific gene.
     Returns:
         {
             "trait_id": str,
             "trait_name": str,
-            "matched_genes": [
-                {
-                    "gene_id": str,
-                    "gene_name": str,
-                    "relation_type": str,
-                    "direction": "gene → trait" | "trait → gene"
-                }
-            ]
+            "matched_genes": [ { "gene_id": str, "gene_name": str } ]
         }
     """
-    # Resolve Trait ID
+    # Find trait
     if trait_query in graph.nodes and is_trait_node(graph.nodes[trait_query]):
         trait_id = trait_query
     else:
-        matches = find_best_traits(
-            graph,
-            trait_query,
-            limit=match_limit,
-            min_score=min_score,
-            scorer=scorer
-        )
+        matches = find_best_traits(graph, trait_query, min_score=min_score)
         if not matches:
             return None
         trait_id, _ = matches[0]
 
-    trait_name = get_trait_name(graph, trait_id)
-    matched_genes = []
+    trait_name = get_node_name(graph, trait_id)
 
-    # Check gene → trait relationships
-    for gene_id in graph.predecessors(trait_id):
-        if is_gene_node(graph.nodes[gene_id]):
-            edge_data = graph.get_edge_data(gene_id, trait_id)
-            if edge_data.get("type") in INFLUENCE_RELATIONS:
-                matched_genes.append({
-                    "gene_id": gene_id,
-                    "gene_name": get_gene_name(graph, gene_id),
-                    "relation_type": edge_data["type"],
-                    "direction": "gene → trait"
-                })
+    # Find all connected genes
+    candidate_genes = []
+    for neighbor in set(graph.predecessors(trait_id)) | set(graph.successors(trait_id)):
+        if is_gene_node(graph.nodes[neighbor]):
+            candidate_genes.append({
+                "gene_id": neighbor,
+                "gene_name": get_node_name(graph, neighbor)
+            })
 
-    # Check trait → gene relationships
-    for gene_id in graph.successors(trait_id):
-        if is_gene_node(graph.nodes[gene_id]):
-            edge_data = graph.get_edge_data(trait_id, gene_id)
-            if edge_data.get("type") in INFLUENCE_RELATIONS:
-                matched_genes.append({
-                    "gene_id": gene_id,
-                    "gene_name": get_gene_name(graph, gene_id),
-                    "relation_type": edge_data["type"],
-                    "direction": "trait → gene"
-                })
-
-    # Filter by gene if provided
-    if gene_query:
-        if not matched_genes:
-            return {
-                "trait_id": trait_id,
-                "trait_name": trait_name,
-                "matched_genes": []
-            }
-
+    # Filter if gene_query provided
+    matched_genes = candidate_genes
+    if gene_query and candidate_genes:
         # Direct match by ID
-        if gene_query in {g["gene_id"] for g in matched_genes}:
-            matched_genes = [g for g in matched_genes if g["gene_id"] == gene_query]
+        if gene_query in {g["gene_id"] for g in candidate_genes}:
+            matched_genes = [g for g in candidate_genes if g["gene_id"] == gene_query]
         else:
-            # Fuzzy match by name
-            gene_dict = {g["gene_id"]: g["gene_name"] for g in matched_genes}
-            best_match = process.extractOne(gene_query, gene_dict, scorer=scorer)
-
+            # Fuzzy match by gene name
+            gene_dict = {g["gene_id"]: g["gene_name"] for g in candidate_genes}
+            best_match = process.extractOne(gene_query, gene_dict, scorer=fuzz.WRatio)
             if best_match and best_match[1] >= min_score:
                 best_id = best_match[2]
-                matched_genes = [g for g in matched_genes if g["gene_id"] == best_id]
+                matched_genes = [g for g in candidate_genes if g["gene_id"] == best_id]
             else:
                 matched_genes = []
 
@@ -224,22 +124,33 @@ def get_genes_influencing_trait(
 
 
 # ───────────────────────────────
-# Bulk Retrieval
+# Subgraph Expansion (ALL relations)
 # ───────────────────────────────
 
-def get_all_trait_gene_pairs(G: nx.DiGraph) -> List[Tuple[str, str, str, str]]:
+def get_connected_subgraph(graph: nx.DiGraph, focus_nodes: List[str]) -> Dict[str, list]:
     """
-    Get all trait–gene pairs connected by influence relations.
+    Return all nodes + edges connected to the focus nodes (trait + matched genes).
+    Includes ALL relation types.
+    """
+    connected_nodes = set(focus_nodes)
+    connected_edges = []
 
-    Returns:
-        List of tuples:
-            (trait_id, trait_name, gene_id, gene_name)
-    """
-    pairs = []
-    for trait_id in get_all_traits(G):
-        trait_name = get_trait_name(G, trait_id)
-        result = get_genes_influencing_trait(G, trait_id)
-        if result:
-            for gene in result["matched_genes"]:
-                pairs.append((trait_id, trait_name, gene["gene_id"], gene["gene_name"]))
-    return pairs
+    for n in focus_nodes:
+        for neighbor in graph.successors(n):
+            connected_nodes.add(neighbor)
+            connected_edges.append((n, neighbor, graph.get_edge_data(n, neighbor)))
+        for neighbor in graph.predecessors(n):
+            connected_nodes.add(neighbor)
+            connected_edges.append((neighbor, n, graph.get_edge_data(neighbor, n)))
+
+    # Build dict
+    nodes_data = [
+        {"id": nid, "label": graph.nodes[nid].get("label", "unknown"), "text": get_node_name(graph, nid)}
+        for nid in connected_nodes
+    ]
+    edges_data = [
+        {"source": src, "target": tgt, **(edata or {})}
+        for src, tgt, edata in connected_edges
+    ]
+
+    return {"nodes": nodes_data, "edges": edges_data}

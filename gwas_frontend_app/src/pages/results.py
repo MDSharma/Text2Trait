@@ -17,7 +17,7 @@ import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
 
 from utils.data_loader import load_graph
-from utils.search_utils import get_genes_influencing_trait
+from utils.search_utils import get_connected_subgraph, resolve_trait_and_genes
 from utils.search_NCBI import set_email, fetch_multiple_genes_info, fetch_gene_info_by_name
 from components.results.cytoscape_config import COSE_LAYOUT
 from components.results.cytoscape_styles import build_stylesheet, RELATION_COLORS
@@ -48,43 +48,48 @@ dash.register_page(
 # Load Graph Data
 # ───────────────────────────────
 script_dir = Path(__file__).resolve().parent
-json_path = script_dir.parent / "data" / "initial_arabiodopsis_kg.json"
-G, _ = load_graph(json_path)
+node_json_path = script_dir.parent / "data" / "graph_nodes.json"
+edge_json_path = script_dir.parent / "data" / "graph_edges.json"
+G, _ = load_graph(node_json_path, edge_json_path)
 
 
 # ───────────────────────────────
 # Cytoscape Elements Builder
 # ───────────────────────────────
-def build_cytoscape_elements(trait_id, trait_name, matched_genes):
+def build_cytoscape_elements(subgraph: dict, relation_colors: dict):
     """
-    Build Cytoscape nodes and edges for a given trait and its matched genes.
+    Build Cytoscape elements from a subgraph dict with 'nodes' and 'edges'.
     """
-    elements = [{
-        "data": {"id": trait_id, "label": trait_name, "node_type": "trait"},
-        "classes": "trait"
-    }]
+    elements = []
 
-    for gene in matched_genes:
-        # Add gene node
+    # Nodes
+    for node in subgraph["nodes"]:
+        node_type = node["label"].lower()
         elements.append({
-            "data": {"id": gene["gene_id"], "label": gene["gene_name"], "node_type": "gene"},
-            "classes": "gene"
+            "data": {
+                "id": node["id"],
+                "label": node["text"],
+                "node_type": node_type
+            },
+            "classes": node_type
         })
 
-        # Determine edge class based on relation type
-        relation_class = gene.get("relation_type", "")
-        relation_class = relation_class if relation_class in RELATION_COLORS else "default"
+    # Edges
+    for edge in subgraph["edges"]:
+        # Normalize the relation type: lowercase, strip spaces, replace spaces with underscore
+        relation_class = str(edge.get("type", "")).strip().lower().replace(" ", "_")
+        if relation_class not in relation_colors:
+            relation_class = "default"
 
-        # Add edge between gene and trait
-        edge_id = f"{gene['gene_id']}_{trait_id}_{relation_class}"
-        label = (gene.get("relation_type") or "N/A").replace("_", " ").capitalize()
+        edge_id = f"{edge['source']}_{edge['target']}_{relation_class}"
+        label = (edge.get("type") or "N/A").replace("_", " ").capitalize()
 
         elements.append({
             "data": {
                 "id": edge_id,
-                "source": gene["gene_id"],
-                "target": trait_id,
-                "relation_type": gene.get("relation_type", "N/A"),
+                "source": edge["source"],
+                "target": edge["target"],
+                "relation_type": edge.get("type", "N/A"),
                 "label": label,
                 "hover_label": label
             },
@@ -92,6 +97,7 @@ def build_cytoscape_elements(trait_id, trait_name, matched_genes):
         })
 
     return elements
+
 
 
 # ───────────────────────────────
@@ -214,6 +220,8 @@ layout = html.Div([
     ], style={"display": "flex", "position": "relative", "height": "100%"})
 ])
 
+
+
 # ───────────────────────────────
 # Callbacks
 # ───────────────────────────────
@@ -254,7 +262,8 @@ def update_modal(graph_loaded, timer_done):
 def load_graph_elements(search):
     """
     Parse URL parameters for trait and gene filters,
-    build Cytoscape elements for visualization.
+    expand to all connected nodes/edges,
+    and build Cytoscape elements for visualization.
     """
     if not search:
         return [], [], build_stylesheet(), True
@@ -267,16 +276,23 @@ def load_graph_elements(search):
         if not trait:
             return [], [], build_stylesheet(), True
 
-        result = get_genes_influencing_trait(G, trait, gene)
+        # 1. Find trait (and optional gene)
+        result = resolve_trait_and_genes(G, trait, gene)
         if not result:
             return [], [], build_stylesheet(), True
 
-        matched_genes = result.get("matched_genes", [])
-        elements = build_cytoscape_elements(result["trait_id"], result["trait_name"], matched_genes)
+        # 2. Focus nodes = trait + any matched genes
+        focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
+
+        # 3. Expand subgraph (all relations)
+        subgraph = get_connected_subgraph(G, focus_nodes)
+
+        # 4. Convert to Cytoscape elements
+        elements = build_cytoscape_elements(subgraph, RELATION_COLORS)
 
         return {
             "elements": elements,
-            "matched_genes": matched_genes,
+            "matched_genes": result["matched_genes"],
             "trait_id": result["trait_id"],
             "trait_name": result["trait_name"]
         }, elements, build_stylesheet(), True
@@ -472,27 +488,36 @@ def sync_table_style(side_panel_visible, table_visible):
 def update_table(tab, table_visible, elements_data, search, ncbi_store):
     """
     Render gene table or gene descriptions depending on the selected tab,
-    table visibility, and available data.
+    table visibility, and available data. Only genes connected to the trait
+    are displayed.
     """
     if not table_visible or not elements_data or not search:
         return ""
 
-    params = parse_qs(search[1:])
     elements = elements_data.get("elements", []) if isinstance(elements_data, dict) else []
     trait_name = elements_data.get("trait_name") if isinstance(elements_data, dict) else None
+    trait_id = elements_data.get("trait_id") if isinstance(elements_data, dict) else None
 
-    # Build relation map for genes
+    if not trait_id:
+        return ""
+
+    # Only consider edges pointing to the trait
     gene_relations = {
         el["data"]["source"]: el["data"].get("relation_type", "N/A")
         for el in elements
-        if "source" in el["data"] and "target" in el["data"]
+        if el.get("data", {}).get("target") == trait_id
     }
 
-    matched_genes = [{
-        "gene_id": el["data"]["id"],
-        "gene_name": el["data"]["label"],
-        "relation_type": gene_relations.get(el["data"]["id"], "N/A")
-    } for el in elements if el.get("classes") == "gene"]
+    # Include only genes connected to the trait
+    matched_genes = [
+        {
+            "gene_id": el["data"]["id"],
+            "gene_name": el["data"]["label"],
+            "relation_type": gene_relations.get(el["data"]["id"], "N/A")
+        }
+        for el in elements
+        if el.get("classes") == "gene" and el["data"]["id"] in gene_relations
+    ]
 
     if tab == "trait_matches" and trait_name:
         return build_gene_table(trait_name, matched_genes)

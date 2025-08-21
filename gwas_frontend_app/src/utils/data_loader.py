@@ -1,23 +1,23 @@
 """
-Graph Loader
-------------
+Graph Loader (Two-File Version)
+-------------------------------
 
-Utility for loading a graph from a JSON file into a `networkx.DiGraph`.
+Utility for loading a graph from **two JSON files** (nodes and edges) into a `networkx.DiGraph`.
 
 Expected JSON structure:
-{
-    "nodes": [
-        {"id": str, "label": str, "text": str, ...},
-        ...
-    ],
-    "edges": [
-        {"source": str, "target": str, "type": str, ...},
-        ...
-    ]
-}
+- Nodes file:
+[
+    {"id": str, "label": str, "text": str, ...},
+    ...
+]
+- Edges file:
+[
+    {"source": str, "target": str, "type": str, ...},
+    ...
+]
 
 Returns:
-    Tuple[nx.DiGraph, dict] → (graph object, raw JSON data)
+    Tuple[nx.DiGraph, dict] → (graph object, combined raw JSON data)
 """
 
 from pathlib import Path
@@ -26,52 +26,63 @@ import networkx as nx
 from typing import Tuple, Dict, Any, Union
 
 
-# ───────────────────────────────
-# Loading utility
-# ───────────────────────────────
-
-def load_graph(json_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
+def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
     """
-    Load a graph from a JSON file.
+    Load a knowledge graph from separate JSON files for nodes and edges.
 
     Args:
-        json_path: Path to the JSON file.
+        nodes_path: Path to the JSON file containing nodes.
+        edges_path: Path to the JSON file containing edges.
 
     Returns:
-        A tuple:
-            - NetworkX directed graph (`nx.DiGraph`)
-            - Raw JSON data as a dictionary
+        - nx.DiGraph: A directed graph with nodes and edges loaded from files.
+        - dict: Combined raw JSON data in the format {"nodes": [...], "edges": [...]}.
 
     Raises:
-        FileNotFoundError: If the provided path does not exist.
+        FileNotFoundError: If either nodes or edges file is missing.
     """
-    json_path = Path(json_path)
+    # Ensure paths are Path objects
+    nodes_path = Path(nodes_path)
+    edges_path = Path(edges_path)
 
-    if not json_path.exists():
-        raise FileNotFoundError(f"JSON file not found at: {json_path}")
+    # Verify files exist
+    if not nodes_path.exists():
+        raise FileNotFoundError(f"Nodes file not found: {nodes_path}")
+    if not edges_path.exists():
+        raise FileNotFoundError(f"Edges file not found: {edges_path}")
 
-    # Load raw JSON
-    with json_path.open("r", encoding="utf-8") as f:
-        raw = json.load(f)
+    # Load JSON content
+    with nodes_path.open("r", encoding="utf-8") as f:
+        nodes = json.load(f)
+
+    with edges_path.open("r", encoding="utf-8") as f:
+        edges = json.load(f)
+
+    # Combine into a single raw dictionary (like old single-file format)
+    raw = {"nodes": nodes, "edges": edges}
 
     # Create directed graph
     G = nx.DiGraph()
 
     # Add nodes with attributes
-    for node in raw.get("nodes", []):
-        G.add_node(
-            node["id"],
-            label=node.get("label"),
-            text=node.get("text")
-        )
+    for node in nodes:
+        node_id = node["id"]
+        attr = dict(node)
+        # Ensure expected keys exist
+        attr.setdefault("label", None)
+        attr.setdefault("text", None)
+        G.add_node(node_id, **attr)
 
-    # Add edges with type attribute
-    for edge in raw.get("edges", []):
-        G.add_edge(
-            edge["source"],
-            edge["target"],
-            type=edge.get("type")
-        )
+    # Add edges with attributes
+    for edge in edges:
+        source = edge["source"]
+        target = edge["target"]
+        edge_attr = dict(edge)
+        edge_attr.setdefault("type", None)
+        # Remove source and target from attributes (they are part of the edge itself)
+        edge_attr.pop("source", None)
+        edge_attr.pop("target", None)
+        G.add_edge(source, target, **edge_attr)
 
     return G, raw
 
@@ -79,20 +90,13 @@ def load_graph(json_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]
 # ───────────────────────────────
 # Script Entry Point (for testing)
 # ───────────────────────────────
-
 if __name__ == "__main__":
+    # Current script directory
     current_dir = Path(__file__).resolve().parent
-    json_path = current_dir / "data" / "initial_arabiodopsis_kg.json"
+    data_dir = current_dir.parent / "data"
+    nodes_file = data_dir / "graph_nodes.json"
+    edges_file = data_dir / "graph_edges.json"
 
-    if not json_path.exists():
-        raise FileNotFoundError(f"File not found: {json_path}")
-
-    graph, data = load_graph(json_path)
-    print(f"Loaded graph with {graph.number_of_nodes()} nodes and {graph.number_of_edges()} edges")
-
-    # Print one example node and edge
-    example_node = next(iter(graph.nodes(data=True)))
-    print("Example node:", example_node)
-
-    example_edge = next(iter(graph.edges(data=True)))
-    print("Example edge:", example_edge)
+    # Load graph from two files
+    graph, raw_data = load_graph(nodes_file, edges_file)
+    print(f"Graph loaded with {graph.number_of_nodes()} nodes and {graph.number_of_edges()} edges")

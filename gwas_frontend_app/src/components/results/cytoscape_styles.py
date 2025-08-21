@@ -3,20 +3,22 @@
 # ───────────────────────────────
 # Mapping of edge relation types to their respective colors for visualization.
 RELATION_COLORS = {
-    "ASSOCIATED_WITH": "#7fb0d6",
-    "CAUSES": "#e88b8b",
-    "CONTRIBUTES_TO": "#ffc680",
-    "ENCODES": "#8fcf8f",
-    "HAS_MEASUREMENT": "#c5a6dd",
-    "IDENTIFIED_IN": "#c99589",
-    "IS_A": "#ef9ed6",
-    "LOCATED_IN": "#b0b0b0",
-    "NOT_ASSOCIATED_WITH": "#e2e269",
-    "PART_OF": "#73d3dd",
-    "REGULATES": "#b7d1eb",
-    "USED_IN": "#f4a6c8",
+    "is_a": "#ef9ed6",
+    "part_of": "#73d3dd",
+    "inheres_in": "#c5a6dd",
+    "develops_from": "#ffc680",
+    "is_related_to": "#7fb0d6",
+    "is_not_related_to": "#e2e269",
+    "increases": "#8fcf8f",
+    "decreases": "#e88b8b",
+    "influences": "#b7d1eb",
+    "does_not_influence": "#f4a6c8",
+    "may_influence": "#cbdbe2",
+    "may_not_influence": "#d0d0d0",
+    "disrupts": "#c99589",
     "default": "#cbdbe2",
 }
+
 
 # ───────────────────────────────
 # Node Style Definitions
@@ -66,9 +68,9 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
             "selector": "node",
             "style": {
                 "label": "data(label)",
-                "width": 25,
-                "height": 25,
-                "font-size": 8,
+                "width": 35,
+                "height": 35,
+                "font-size": 12,
                 "text-valign": "top",
                 "text-halign": "center",
                 "border-width": 1,
@@ -84,7 +86,7 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
             "style": {
                 "curve-style": "bezier",
                 "target-arrow-shape": "triangle",
-                "font-size": 10,
+                "font-size": 16,
                 "opacity": 0.9,
                 "label": "data(label)",
                 "text-rotation": "autorotate",

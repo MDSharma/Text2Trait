@@ -7,6 +7,7 @@ Text2Trait is a project that combines a user-friendly **frontend application** w
 ## 📂 Repository Structure
 1. **Frontend Application**  
 2. **Backend Algorithm** (LasUIE-based)
+3. **Utility Scripts**
 
 ---
 
@@ -26,3 +27,4 @@ The frontend is relatively easy to use and designed for quick setup.
 Every part of the code in this section is well commented and described. If you have any doubts how certain method work, you can find it's description just under the method definition.
 
 ## 🚀 Backend Application
+## 🚀 Utility Scripts

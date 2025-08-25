@@ -68,8 +68,8 @@ def build_stylesheet(clicked_edge_id: str = None) -> list:
             "selector": "node",
             "style": {
                 "label": "data(label)",
-                "width": 35,
-                "height": 35,
+                "width": 40,
+                "height": 40,
                 "font-size": 12,
                 "text-valign": "top",
                 "text-halign": "center",

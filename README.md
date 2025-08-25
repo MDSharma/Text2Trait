@@ -1,6 +1,6 @@
 # Text2Trait
 
-Text2Trait is a project that combines a user-friendly **frontend application** with a **backend algorithm** powered by the [LasUIE tool (https://github.com/ChocoWu/LasUIE/tree/master). Every part of the application requires different libraries, hence every folder with a certain utility contains a requirements/conifg file allowing you to download appropiate versions of the dependencies.
+Text2Trait is a project that combines a user-friendly **frontend application** with a **backend algorithm** powered by the [LasUIE tool (https://github.com/ChocoWu/LasUIE/tree/master). Every part of the application requires different libraries, hence every folder with a certain utility contains a requirements.txt/pyproject.toml file allowing you to download appropiate versions of the dependencies.
 
 ---
 

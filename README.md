@@ -8,6 +8,7 @@ Text2Trait is a project that combines a user-friendly **frontend application** w
 1. **Frontend Application**  
 2. **Backend Algorithm** (LasUIE-based)
 3. **Utility Scripts**
+4. **Dataset**
 
 ---
 
@@ -64,4 +65,7 @@ This section provides a collection of lightweight, well-documented scripts to st
 
 - Convert PDF data into `.txt` and `.json` formats  
 - Transform Excel data into the required JSON training format  
-- Split datasets into **train**, **validation (dev)**, and **test** sets  
+- Split datasets into **train**, **validation (dev)**, and **test** sets
+- Transfom inference data into a knowledge graph that is used in the application to visualize results
+
+---

@@ -1,0 +1,564 @@
+Journal of Experimental Botany, Vol. 55, No. 403, pp.
+1671–1685, August 2004 DOI: 10.1093/jxb/erh207 Advance Access publication 16 July, 2004   RESEARCH PAPER  #
+A genetic map of candidate genes and QTLs involved in tomato fruit size and composition   M. Causse
+[1,] *, P. Duffe
+[1], M. C. Gomez [1], M. Buret
+[2], R. Damidaux
+[1], D. Zamir [3], A. Gur
+[3], C. Chevalier [4], M. Lemaire-Chamley [4] and C. Rothan
+[4]   1 INRA Unite´ de Ge´ne´tique et Ame´lioration des Fruits et Le´gumes, BP 94, F-84143 Montfavet Cedex, France 2 INRA, UMR Se´curite´ et Qualite´ des Produits d’Origine Ve´ge´tale, Domaine Saint-
+Paul, F-84914 Avignon Cedex 9, France 3 Hebrew University of Jerusalem, Faculty of Agriculture, Department of Field, Vegetable Crops and Genetics, Israel 4 UMR619
+Physiologie et
+Biotechnologie Ve´ge´tales IBVM, INRA Bordeaux, BP 81, F-33883 Villenave d’Ornon Cedex, France   Received 13 February 2004; Accepted 20 May 2004    Abstract   In order to screen for putative candidate genes linked to tomato fruit weight and to sugar or acid content, genes and QTLs involved in fruit size and composition were mapped.
+Genes were selected among EST clones in the [TIGR tomato EST database (http://www.tigr.org/tdb/tgi/](http://www.tigr.org/tdb/tgi/lgi/)
+[lgi/) or corresponded to genes preferentially expressed](http://www.tigr.org/tdb/tgi/lgi/) in the early stages of fruit development.
+These clones were located on the tomato map using a population of introgression lines (ILs) having one segment of Lycopersicon pennellii (LA716) in a L. esculentum (M82) background.
+The 75 ILs allowed the genome to be segmented into 107 bins.
+Sixty-three genes involved in carbon metabolism revealed 79 loci.
+They represented enzymes involved in the Calvin cycle, glycolysis, the TCA cycle, sugar and starch metabolism, transport, and a few other functions.
+In addition, seven cell-cyclespecific genes mapped into nine loci.
+Fourteen genes, primarily expressed during the cell division stage, and 23 genes primarily expressed during the cell expansion stage, revealed 24 and 26 loci, respectively.
+The fruit weight, sugars, and organic acids content of each IL was measured and several QTLs controlling these traits were mapped.
+Comparisonbetween map location of QTLsand candidate gene loci indicated a few candidate genes that may influence the variation of sugar or acid contents.
+Furthermore, the gene/QTL locations could be compared with the loci mapped in other tomato populations.
+Key words: Candidate genes, carbon metabolism, fruit development, genetic map, Lycopersicon esculentum, Quantita tive Trait Locus.
+Introduction   Tomato fruit is primarily composed of sugars and organic acids, which represent about 60% of tomato dry matter weight (Davies and Hobson, 1981).
+In mature tomato, glucose and fructose constitute the major sugars, and citric and malic acids are the major organic acids.
+Tomato fruit size and composition exhibit a quantitative variation, controlled by several genes, more or less influenced by environmental conditions.
+Molecular markers allow the dissection of such quantitative traits into discrete Quantitative Trait Loci (QTL) which can be located on a genetic map (Fulton et al., 2002; Saliba-Colombani et al., 2001).
+The existence of a QTL in a chromosomal region reveals that at least one polymorphic locus is segregating in this region, and is responsible for part of the trait variation.
+Fruit development can be divided into four distinct phases: (i) ovule fertilization and fruit set, (ii) cell division, (iii) cell expansion, and (iv) ripening (Gillaspy et al., 1993).
+The second phase is characterized by intense cell divisions during which the final number of cells in the pericarp is almost determined.
+The duration and intensity of this phase has been shown to be related to the final fruit size (Bohner and Bangerth, 1988).
+The third phase, corresponding to cell     - To whom correspondence should be addressed.
+Fax: +33 4 32 72 27 02.
+E-mail: mathilde.causse@avignon.inra.fr   Journal of Experimental Botany, Vol. 55, No. 403, ª Society for Experimental Biology 2004; all rights reserved   1672 Causse et al.   expansion, is related to the accumulation in fruit cell vacuoles of water, organic acids, and minerals (Coombe, 1976).
+A peak of transient starch accumulation is also shown which is converted later to reducing sugars (Wang et al., 1993).
+The ripening phase is characterized by fruit softening, colouring, and sweetening (Giovannoni, 2001).
+Thus, early stages of fruit development are particularly important in the latter characteristics of mature fruits, including fruit weight and fruit composition in primary metabolites.
+Several genes may be responsible for the variation of fruit composition.
+They could either be genes involved in carbon metabolism or partitioning, or any gene specifically expressed during the synthesis and accumulation of reserves.
+The candidate gene approach, which consists in looking for genes segregating around a locus putatively responsible for the variation of a trait, has been proposed as a way to start QTL characterization (Pflieger et al., 2001; Etienne et al., 2002b).
+In tomato, more than 120 000 expressed sequence tags (ESTs), derived from more than 23 cDNA libraries have been sequenced (Moore et al., 2002).
+Contigs have been created, allowing the definition of more than [30 000 unigenes (Van der Hooven et al., 2002; http://](http://www.sgn.cornell.edu)
+[www.sgn.cornell.edu).
+They represent a large set of candi-](http://www.sgn.cornell.edu) date sequences involved in the various physiological processes leading to plant development.
+The isolation of gene sequences specifically or differentially expressed during one developmental stage provides other sources of candidate genes (Wang et al., 1999; Aharoni et al., 2000).
+Eshed and Zamir (1995) have constructed a population of introgressed lines derived from a wild species Lycopersicon pennellii.
+Each introgression line possesses a single chromosome fragment of the wild species in the same cultivated L. esculentum background, that allows the genome to be segmented into 107 bins (Pan et al., 2000).
+This population is a powerful tool for genetic and molecular studies of the genetic bases of fruit traits and for gene mapping.
+It has been used to dissect quantitative traits, such as fruit weight, soluble solid content, pH, yield (Eshed and Zamir, 1995), or carotenoid content in relation to fruit colour (Liu et al., 2003).
+It has also been used to clone the genes corresponding to determinate growth and several colour mutations (Pnueli et al., 1998;
+Ronen et al., 1999; Isaacson et al., 2002) and two QTLs controlling sugar content in fruit (Fridman et al., 2000) and fruit weight (Frary et al., 2000).
+This report presents the genetic location on the tomato map (i) of loci corresponding to expressed sequences chosen for their function or their specific expression during early fruit development and (ii) of QTLs controlling fruit weight and content in reducing sugars and organic acids in the interspecific introgression lines.
+Comparison between map location of QTLs and candidate gene loci highlighted a few candidate genes that may influence the variation of sugar or acid contents.
+Furthermore, the gene/QTL loca   tions were compared to the loci mapped in other tomato populations.
+Materials and methods   Plant material  The IL population is composed of 75 lines each containing a single introgression from L. pennellii (LA 716) in the genetic background of [the processing tomato variety M82 (Pan et al., 2000; http://www.](http://www.sgn.cornell.edu)
+[sgn.cornell.edu).
+The lines were planted near Avignon (south-east](http://www.sgn.cornell.edu) France) during summer 2000, in a three block trial under irrigated conditions.
+Each block contained 70 lines (six plants per plot) and four plots of M82 as the control.
+Lines IL1-1-3, IL3-3, IL6-2, IL6-2-2, and IL6-3 were not planted.
+Fully ripe fruit of each block were harvested at 1 week intervals and seven fruits were randomly chosen in each harvest for chemical analyses.
+Thus the analyses were performed on 21 fruits per IL.
+In summer 2001, 25 ILs were grown under the same conditions for a second year of experiments.
+Fruit measurements  Fruit weight (fw) was first measured and then fruits were cut and frozen (�30 8C) for further chemical analyses.
+Chemical analyses were performed on frozen fruit powder derived from blending seven fruits in liquid nitrogen.
+Chemical analyses, which included soluble solid content (brx), reducing sugar content (red), titratable acidity (ta), and pH, were as recommended in Lime et al. (1957) and the SCAR Agro-Food tomato Working Group (1991).
+The compositions of glucose (glu), fructose (fru), citric acid (ca), and malic acid (ma) were enzymatically assessed using Boehringer Mannheim enzymatic kit and procedures, with a Hitachi sequential analyser.
+cDNA clones used for mapping  The tomato cDNA clones and their accession numbers are listed in  Tables 1 and 2.
+Clones related to carbon metabolism were either obtained through RT-PCR or from the TIGR Tomato EST database.
+RT-PCR was performed as described in Menu et al. (2001) and Etienne et al. (2002a), using total RNA extracted from fruit 10 d postanthesis and the following degenerate primers, designed from conserved protein domains in the corresponding proteins: hexokinase (forward 59-ATG ACI GTI GAR ATG CAY GC-39 and reverse 59CCA YTC CAT RTT DAT NAC CAT YT-39), sucrose synthase (forward 59-GCI GCI GKI CAR TTY GGI TGG GC-39 and reverse 59-CCC ATC CAR CTI GTR CT-39), invertase (forward 59-AAY TGG ATH AAY GAY CCI AAY GG-39 and reverse 59-TCI GGR CAY TCC CAC ATI CC-39), hexose transporter (forward 59-GGW GCW TGG TCW TGG GGW CC-39 and reverse 59-ACY CCY TTI GTY GG-39), and MIP (forward 59-TGG GCI TTY GGI GGI ATG AT–39 and reverse 59-ACC CAR YGR TCR TCC CAI GC-39).
+The [early releases of the TIGR tomato EST database (http://www.tigr.org/](http://www.tigr.org/tdb/tgi/lgi/) [tdb/tgi/lgi/) were screened for tomato homologues of carbon metab-](http://www.tigr.org/tdb/tgi/lgi/) olism genes by tBlastX, using known plant or animal amino acid sequences.
+Selected clones were provided by the Clemson University Genomic Institute (CUGI).
+Tentative Consensus (TC) numbers and in silico expression patterns listed in Table 1 were derived from the TIGR Tomato Gene Index release 9.0 (17 April, 2003).
+The Led clones originated from a differential screening of a ‘young fruit’ cDNA library (Joube`s et al., 1999) performed to isolate cDNAs preferentially expressed at the cell division stage of tomato fruit development.
+The cDNAs of accession numbers AJ270956 to AJ270964, AJ243876, and the clone Mo5-3C11/2 no. 4 (Table 2) were isolated by mRNA differential display reverse transcription PCR (DDRT-PCR) as described by Lemaire-Chamley et al. (2000).
+The Lee clones were isolated by a differential screening of a cDNA   Candidate genes and QTLs of tomato fruit 1673   1674 Causse et al.
+Candidate genes and QTLs of tomato fruit 1675   1676 Causse et al.   Table 2.
+Map location of tomato clones specifically or differentially expressed during cell division and expansion stages corresponding to cell cycle genes or cDNAs isolated by differential screening    Gene code Stage of maximum expression    Gene function or sequence homology
+[a] Clone or GenBank accession [b] Bin [c]  (% sequence Id.)
+CdkA1 div Cyclin Dependent Kinase A1 Y17225 (c) 11-F (50) CdkA2 div Cyclin Dependent Kinase A2 Y17226 (c) 12-G CycA1 div Cyclin A1;1 AJ243451 (d) 11-A CycA2 div Cyclin A2;1 AJ243152 (d) 5-C, 6-CD, 11-C (50) CycB1 div Cyclin B1;1 AJ243454 (d) 6-E CycB2 div Cyclin B2;1 AJ243455 (d) 2-I CycD3 div Cyclin D3;1 AJ245415 (d) 2-K (CL) Led5 div Glutaredoxin Y18346 (e) 6-A (50) (CL)
+Led26 div 3-deoxy- D -Manno octulosonic acid AJ294902 (f) 11-GH (50) (CL) 8-phosphate synthase (86% Id. P. sat.)
+Led41 div Putative beta-ureidohydrolase Y19104 12-HI (50) (79% Id A. tha.)
+Led50 div Phenylalanine ammonia lyase LED50 3-D, 4-AB, 4-I, 7-E, (100% Id L. esc.)
+10-AB, 11-A, 11-E (50) (CL)
+Led62 div Ferritin (87% Id G. max) LED62 2-AB, 2-K, 3-C, 11-C (50) Led69 div Hypothetical protein (96% Id C. ari.)
+LED69 6-A (50) (CL)
+IppI div IPP isomerase (94% Id. A. tha.)
+MO5 3C11/2_4 (g) 5-I (50) Fedx div Non-photosynthetic ferredoxin AJ270962 (g) 2-HI (50) (61% Id L. esc.)
+Rad23 div RAD 23 (86% Id D. car.)
+AJ270958 (g) 2-J (50) Subt div Subtilisin-like (50% A. tha.)
+AJ270956 (g) 5-G, 8-GH (50) 14-3-3 div 14-3-3 protein (96% Id L. esc.)
+AJ270959 (g) 4-G Exp div Expansin 18 (100% Id L. esc.)
+AJ270960 (g) 10-G (50) Ubi div Ubiquitin-like (97% Id. A. tha.)
+AJ270957 (g) 11-C (50) cP450 div Cytochrome P450 (47% Id H. ann.)
+AJ270961 (g) 4-FG (50) Vpe exp Vacuolar processing enzyme AJ243876 (h) 8-C (53% Id. A. tha.)
+GlyDC exp Glycine decarboxylase P subunit AJ270963 (g) 8-ABC (50) (95% Id S. tub.)
+Vic exp Vicilin (56% Id P. sat.)
+AJ270964 (g) 9-IJK (50) Ephy exp Epoxyde hydrolase (75% Id N. tab.)
+LEEA3-1 2-G pEdpg exp EDPG precursor (56% Id D. car.)
+LEEA7-3 1-D Snf5 exp SNF5 homolog BSH (76% Id. A. tha.)
+LEEB4-1 11-C Gly exp Gly rich Protein, RNA fixation LEEB5-3 1-I (95% Id S. tub.)
+Mcm2 exp MCM2-like protein (98% Id. N. tab.) LEEB11-1 11-C, 12-D aPept exp Mitochondrial processing peptidase alpha LEEC1-1 12-C subunit (77% Id S. tub.)
+T6p exp Trehalose 6P phosphatase LEEF9-2 4-G (49% Id. A. tha.)
+IMcp exp Fruit specific metallocarboxypeptidase LEEF10-1 7-E inhibitor (85% Id L. esc.)
+Agrt exp Anthocyanidine rhamnosyl-transferase LEEG8-3 11-B (44% Id. A. tha.)
+GluS exp Glucan synthase (86% Id. A. tha.)
+LEEH7-1 1-A LeeH9 exp No homology LEEH9-1 3-F, 6-D UGPase exp UDP Glucose pyrophosphorylase LEEA91–2 11-C (100% Id S. tub.)
+Transp exp Transporter (67% Id. A. tha.) LEEA92–3 9-F (CL) Ksh exp Shaggy-related protein kinase LEEA93–1 1-G (80% Id N. tab.)
+Psx exp Cell differentiation protein LEEA98–1 12-D (80% Id A. tha.)
+Amid exp Amidase (77% Id A. tha) LEEB96–3 1-H (50)
+Ank exp Dehydration-induced protein LEEB97–2 4-E (77% Id. A. tha.)
+G3Pat exp Acyl transferase (90% Id A. tha.)
+LEEC93–2 4-H Adh exp Alcohol dehydrogenase (100% Id L. esc.)
+LEEC910–3 1-D, 3-D (50) tmf5 exp tmf5 (75% Id L. esc.)
+LEED93–1 3-D   a Homology: L. esc., Lycopersicon esculentum; P. sat., Pisum sativum; S. tub., Solanum tuberosum; A. tha., Arabidopsis thaliana; N. tab., Nicotiana tabacum; C. ari., Cicer arietinum; D. car., Daucus carota; H. ann., Helianthus annuum; G. max, Glycine max.
+b (c) Joube`s et al. (1999);
+(d) Joube`s et al. (2000); (e) Chevalier et al. (1999); (f) Delmas et al. (2003); (g) Lemaire-Chamley et al. (2000); (h) LemaireChamley et al. (1999).
+c Bin indicates the chromosome bin on which the locus mapped (50 means mapped on the first set of 50 ILs; CL means also mapped in the map described by Saliba-Colombani et al. (2000).
+library from tomato fruits harvested during the cell expansion phase as described in Joube`s et al. (2001).
+RFLP map  The IL population was connected to the high-density map of tomato (Tanksley et al., 1992) by probing all the ILs with the RFLP markers from the framework F 2 map (Pan et al., 2000).
+The genes and ESTs were mapped by restriction fragment length polymorphism (RFLP) after screening for polymorphism with four restriction enzymes (EcoRI, EcoRV, HindIII, and XbaI).
+Genomic DNA extraction, digestion, and hybridization were performed as described in SalibaColombani et al. (2000).
+A few genes were also mapped in an intraspecific population (Saliba-Colombani et al., 2000) and gene location in the IL map was deduced from the RFLP markers common to the two maps.
+QTL analysis  Statistical analyses were performed using the SAS statistical package (SAS Institute, Inc, 1994).
+For each trait, means were calculated for each line and Pearson coefficients of correlation estimated.
+Means were compared with the M82 control by a Dunnett test, with an alpha level of 0.05.
+The QTL effects are presented as the percentage difference from M82.
+The basic prerequisite for mapping a QTL to a specific bin was that all the ILs that included this bin had a significant effect on the phenotype in the same direction relative to the control.
+Thus, a few ambiguous cases were not taken into account.
+Results   The candidate gene map  Two sets of candidate genes were mapped: one is composed of genes and ESTs whose function is related to carbon metabolism, the other is composed of ESTs preferentially expressed during the cell division or cell expansion stages, and genes involved in cell cycle control.
+Sixty-three genes involved in carbon metabolism were mapped (Table 1; Fig. 1).
+Based on their functions, they constituted obvious candidate genes for sugar and acid content.
+They represented enzymes involved in the Calvin cycle, glycolysis, the TCA cycle, sugar metabolism, transport, and a few other functions.
+Most of them (48/63 genes) were chosen by screening several cDNA libraries available in the early releases of the TIGR Tomato EST database: tomato ovary, shoot, Pseudomonas-sensitive or -resistant libraries.
+Nine of the 15 genes obtained by RT-PCR were later shown to have homologues in the TIGR EST database.
+Their in silico expression patterns in tomato plants were further analysed (among more than 150 000 ESTs).
+Among the 57 genes present in the TIGR database, seven corresponded to singletons, 16 were represented by less than ten ESTs, 27 were represented by 10–100 ESTs and seven by more than 100 ESTs, with a maximum for acid invertase from ripening fruit (302 clones).
+Eleven ESTs had no homologue in fruit, but, conversely, five were detected only in flower, pollen, ovary, or fruit libraries (four of which were singletons).
+The second source of candidate genes was composed of seven genes involved in cell cycle control (various cyclins and A-type cyclin-dependent kinases) and 37 sequences    Candidate genes and QTLs of tomato fruit 1677   preferentially expressed during the early stages of fruit development (Table 2).
+These clones were isolated by DDRTPCR experiments and differential screening of dividing or expanding fruit cDNA libraries.
+According to their stage of maximum expression, 14 ESTs were preferentially expressed during the cell division stage and 23 ESTs were preferentially expressed during the cell expansion phase.
+These ESTs rarely revealed homology with enzymes involved in metabolism (with the exceptions of UDPG pyrophosphorylase, phenylalanine ammonia lyase, and alcohol dehydrogenase).
+Lemaire-Chamley et al. (2000) described nine of these clones whose functions could be  assigned.
+The gene map (Fig. 1) is composed of 79 loci corresponding to 63 carbon metabolism genes and 59 loci corresponding to 44 stage-specific genes.
+A majority of probes revealed a single copy signal.
+Among the 107 probes, only 20 allowed two or more loci to be mapped, and three showed a multiple copy pattern.
+The loci mapped on all the chromosomes, although some bins were not covered.
+On Fig. 1, the loci are represented only by their function code, and an exponent letter indicates when several loci were mapped.
+When several probes corresponding to the same function revealed different loci, they were followed by a number.
+A few loci involved in carbon metabolism, previously mapped in other studies, were added to the map.
+They correspond to several isozyme loci, to the Waxy (Wx) locus, to RUBISCO isoforms (Tanksley et al., 1992), to four ADP-glucose pyrophosphorylase isoforms (Schaffer et al., 2000) and to sucrose phosphate synthase loci (Fuglevand et al., 1998).
+Several probes with the same function mapped to different loci.
+For instance, five genes corresponding to cyclins allowed seven loci to be mapped, and three ESTs for fructose biphosphate aldolase (corresponding to different unigenes) mapped to three distinct loci; the same trend was observed for hexokinase, fructokinase, invertase, and vacuolar ATPase loci.
+All these functions are known to correspond to multigene families and several distinct contigs could be found for them in the TIGR database.
+Conversely, three different probes for hexose transporters mapped with the same profile to the same Hxt(1) locus on chromosome 2, revealing a cluster of genes.
+The genome sequencing will probably reveal more clusters of genes with related functions as shown in Arabidopsis thaliana (Lange and Ghassemian, 2003).
+Genetic variation in fruit composition  The objective of this study was to identify genomic regions involved in the variation of tomato fruit composition in sugars and acids and to look for putative colocalizations with candidate genes.
+The distribution of the ILs for these traits was continuous and a wide range of variation was observed for all the traits.
+Fruit weight varied from 35 g to 91 g on average, around that of the M82 line (61 g).
+Brix   1678 Causse et al.   Fig.
+1. Gene and QTL location on the tomato genetic map.
+The introgressed fragments in each IL are shown on the right of the chromosomes: ILs which were repeated during the second year in light grey, ILs which were not studied in the field trial in dotted lines.
+QTLs are on the right of the chromosomes, plus and minus signs indicating that the wild species alleles at the QTL increase or decrease the trait value, respectively.
+Bins are on the left of the chromosomes as presented in Pan et al. (2000).
+Gene locations are indicated close to their corresponding bin.
+Gene codes are detailed in Tables 1 and 2.
+Genes involved in carbon metabolism and isozymes mapped in other studies are indicated in italics: the isozyme loci, Rbcs, and Wx loci were mapped by Tanksley et al. (1992), ADP glucose pyrophosphorylase subunits (AGPase) by Schaffer et al. (2000).
+See Table 4 for QTL nomenclature and trait abbreviations.
+varied from 5.2 8Bx to 7.1 8Bx, most of the lines being equal or higher than M82 (5.6 8Bx).
+For pH and titratable acidity, the ranges of variation (from 4.0 to 4.44 and from 3.72 to 7.90, respectively) were around the mean value of M82 (4.21 and 5.12, respectively).
+The ranges of variation and the relationship between glucose and fructose content on the one hand and between citric acid and malic acid  content on the other hand, are shown in Fig.
+2.
+These variations were in the classical range of variation observed in interspecific progeny (Stevens, 1986).
+Glucose and fructose contents showed the same range of variation, but their ratio varied from 0.56 to 1.00 in the ILs (0.75 for M82).
+Mature fruits exhibited a citric acid content about ten times higher than that of malic acid, the ratio varying from 6.2 to 20.3, around that of M82 (8.9).
+Significant correlations were detected among the measured traits (Table 3).
+Titratable acidity was negatively correlated with pH, and positively correlated with malate and citrate contents.
+The contents of malate and citrate were positively correlated.
+Another group of correlations concerned the soluble solids, reducing sugars, glucose and fructose contents.
+Soluble solid content was also positively correlated with titratable acidity, with citrate content, and with fructose and glucose contents, and negatively correlated with malate content.
+Fruit weight was not correlated with any of the other traits.
+These correlations were in accordance with most of those observed by Fulton et al. (2002) in several interspecific populations.
+The relationship between fruit weight and brix varies from one progeny to the other and is often negative (Saliba-Colombani et al., 2001), in contrast to these results.
+One explanation for the negative correlation between pH and titratable acidity is that pH value also depends on the difference in buffering capacity of different genotypes (Paulson and Stevens, 1974).
+QTLs for fruit weight and composition  Depending on the traits, between four and 25 lines were significantly different from the M82 control.
+The QTLs were located in bins according to the adjacent ILs that were    Candidate genes and QTLs of tomato fruit 1679   significantly different from M82.
+For instance, a QTL was declared in the bin 2-D for fruit weight because only IL2-2 was different from M82, and a QTL was declared in the bin 2-K because two ILs (IL2-5 and IL2-6) were different from M82.
+A few ambiguous cases remained, for instance when only one subIL (with a smaller fragment than the related IL) was significantly different from M82.
+These cases were not taken into account, except when the other IL was just below the threshold, and that a QTL was detected in the same bin for a related trait.
+On chromosome 5, for fruit weight and titratable acidity, several interpretations were possible as differences were detected with IL5-2, 5-3, and 5-4, which lead to at least two QTLs in bins 5-C and 5-F, or 5-D and 5-G, or 5-C, 5-E, and 5
+-G. Thus, these QTLs could not be precisely located (Table 4; Fig. 1).
+Thirteen regions were associated with modifications in fruit weight (Table 4).
+L. pennellii alleles increased the fruit weight in seven cases, and a strong effect could be observed, as on fw-7C where the wild allele increased fruit weight by 43%.
+The replication trial in 2001 confirmed the observed effects for three QTLs out of four.
+Two QTLs were also observed under the conditions in Israel (fw-2D and fw-7F, data not shown).
+Nine bins were associated with soluble solid content, L. pennellii alleles providing a higher content in all the cases.
+Four of these nine bins also carried QTLs for reducing sugars and titratable acidity, three carried QTLs for reducing sugars, and two carried QTLs for titratable acidity.
+Three QTLs for brix out of six were confirmed during the second trial, and six out of nine QTLs were also detected under the conditions in Israel, among which brx-1J and brx-12D had the strongest effects (data not shown).
+Thirteen QTLs were detected for reducing sugars, among which four were associated with fructose content and four with glucose content.
+L. pennellii alleles increased the sugar content in all the cases.
+Three QTLs out of five were common to glucose and fructose content.
+All of them exhibited a strong effect.
+For acids, 15, 11, 7, and 5 QTLs were detected for titratable acidity, pH, citric acid content, and malic acid    Fig.
+2. Relationship between glucose and fructose content (a) and citric and malic acid content (b) in fruits.
+All the means are expressed in mg (100 g)
+[�][1] fresh weight.
+The average value of M82 is indicated.
+1680 Causse et al.   Table 3.
+Correlations among IL average values for fruit weight and composition   fw ta pH brx red glu fru ma   Fruit weight (fw) 1
+Acidity (ta) ns [a] 1 Ph ns �0.58 1  Soluble solid ns 0.43 ns 1 content (brx)
+Reducing sugar ns ns ns 0.79 1 content (red)  Glucose ns ns ns 0.67 0.81 1 content (glu)  Fructose ns ns ns 0.69 0.83 0.69 1 content (fru)  Malate content (ma) ns 0.38 �0.3 ns �0.32 �0.27 �0.32 1 Citrate content (ca) ns 0.89 �0.45 0.35 ns ns ns 0.37   a ns: P>0.05.
+content, respectively, L. pennellii alleles increasing the trait values in 11, 6, 5, and 0 cases.
+All ten QTLs tested in the second year for titratable acidity were recovered.
+The stability was lower for pH as none of the three QTLs tested were recovered in the second year.
+Five QTLs were common to pH and acidity, among which L. pennellii alleles increased the acidity and reduced the pH value in three cases, with the reverse in two cases, confirming the negative relation between the two traits.
+All the QTLs for citric acid content were common with those for titratable  acidity, following the same direction of allele effect.
+For malic acid content, only two QTLs were common with those for titratable acidity, one with an opposite allele effect (L. pennellii increasing titratable acidity, but decreasing malic acid content), whilst on bin 8-E, a QTL was detected for both acids and titratable acidity, all with a negative effect of L. pennellii alleles.
+On bin 4-G, a QTL was detected for malic acid and pH, both with a negative effect of L. pennellii alleles.
+Colocalizations of QTLs for pH and titratable acidity with opposite effects were expected based on the negative correlation between the two traits.
+In the same way, QTLs for titratable acidity and citric acid content were found to be colocalized.
+The relationship between titratable acidity and malic acid was less obvious since, for instance, the QTLs for titratable acidity and for malic acid showed opposite effects on the bins 3-F and 4-I, by contrast with the QTLs on bin 8-E.
+In agreement with these data, Stevens (1972) reported a good correlation between titratable acidity and citric acid content, but no relationship between malic acid and titratable acidity.
+Three bins carrying QTLs for fruit weight with negative effect of L. pennellii alleles carried QTLs for titratable acidity with an opposite effect, another one increased the fruit weight and decreased pH, and eight fruit weight QTLs were located in bins without any effect on other traits.
+Eight bins carried QTLs for both acid and sugar related traits.
+Discussion   Comparison among gene maps  The gene map is composed of 138 loci.
+Some of the gene locations could be compared with loci already mapped.
+The same binlocation was foundfor most of the isozyme loci, but new loci were mapped for Adh, Idh, Pgm, and Mdh.
+X Chen et al. (2001) also constructed a molecular-function map for carbohydrate- and transport-related genes in potato, an other Solanaceae crop.
+They mapped 85 loci corresponding to 69 genes.
+It is difficult to compare both maps because of the lack of common markers, but the linkage group assignments could be compared.
+The same linkage groups were found for many genes (UGPase, Pfpb, SPS, Sus4, Inv, Sut, Fk, Eno, Ldh, Ppc, Cis, Aco, Me), but different linkage groups were found for Stp, Hxk, Idh, Mdh, and Pfpa.
+All the genes where discrepancies were detected corresponded to multigene families, for which several unigenes could be identified.
+It is thus possible that another member of the gene family was mapped.
+There is also a possibility, for the probes revealing a multiple copy pattern, that a related pseudogene was mapped.
+In such cases, primers should be designed to reveal only the specific gene of interest.
+QTLs for the fruit composition in sugars and acids  The interspecific introgression lines were shown to be powerful material to dissect plant yield (Eshed and Zamir, 1995; Eshed et al., 1996) or fruit colour (Liu et al., 2003).
+Eshed and Zamir (1995) have evaluated 50 of the L. pennellii ILs in Israel, and reported a minimum number of 18 and 23 QTLs for fruit weight and soluble solid content, respectively.
+These results were compared with those obtained in France with the same subset of ILs.
+French conditions seemed less stringent to reveal Brix QTLs, but did not reveal many new QTLs, by contrast with fruit weight QTLs.
+Indeed, fewer QTLs were detected in France, but eight among the nine soluble solid content QTLs found were also detected by Eshed and Zamir (1995).
+For fruit weight, seven of the 13 QTLs detected in France were common to both trials, and the five QTLs specific to French conditions corresponded with transgressive QTLs.
+With a large range of variation for fruit composition, several QTLs for sugar and acid composition could also be mapped.
+L. pennellii alleles increased the line mean for all the sugar-related QTLs.
+Positive and negative alleles were found for acids.
+Fulton et al. (2002) also found in several interspecific populations that wild alleles increased the sugar content for the majority of QTLs, whilst both positive and negative effects were found for organic acids.
+The comparison with other QTL studies for acid and sugar-related traits (Saliba-Colombani et al., 2001; Fulton et al., 2002) revealed a few regions where QTLs for the same trait could be found in different populations.
+Some QTLs controlling acid or sugar-related traits were observed in the same bin regions in the synthesis of Fulton et al. (2002), in   Table 4.
+QTL characteristics
+The QTL nomenclature corresponds to the trait followed by the chromosome and the Bin.
+The ILs for which significant differences were detected are indicated.% M82 is the percentage of difference between the IL and M82.
+When two or more ILs were concerned, the maximum%M82 is indicated.
+The parental species whose allele increased the trait is indicated.
+QTL stability indicates when the QTL was confirmed the second year of experiment (2) or when it was only detected the first year (1); na for the lines which were not repeated.
+Trait QTL IL %M82 Parent QTL stability   Fruit weight fw-2D il02_2 24.9 L. pen.
+na fw-2K il02_5/il02_6 �38.3 L. esc.
+2 fw-2L il02_6_5 26.9 L. pen.
+na fw-3FG il03_4 �32.7 L. esc.
+na fw-4G il04_3 15.8 L. pen.
+na fw-5 [a] il05_2/IL5_3/IL5_4 17.4 L. pen.
+na fw-6G il06_4 19.9 L. pen.
+na fw-7C il07_4/il07_4_1/il07_5 43.2 L. pen.
+na fw-7F il07_2/il07_3 �18.0 L. esc. 2 fw-9J il09_3/il09_3_2 �18.7 L. esc.
+1 fw-10B il10_1 �19.5 L. esc.
+na fw-11A il11_1 �31.7 L. esc.
+2 fw-12I il12_4/il12_4_1 19.6 L. pen.
+na Soluble solid content .brx-1J
+il01_4 16.2 L. pen. 1 brx-3CD il03_2 19.6 L. pen.
+na brx-4I il04_4 20.8 L. pen. 2 brx-5G il05_4 22.4 L. pen.
+na brx-7F il07_2/il07_3 18.3 L. pen. 2 brx-9D il09_2/il09_2_5 18.7 L. pen. 2 brx-10B il10_1 14.0 L. pen.
+na brx-10E il10_2/il10_2_2 19.9 L. pen. 1 brx-12D [b] il12_3 20.2 L. pen.
+1
+Reducing sugar content red-1J il01_4/il01_4_18 21.7 L. pen. 1 red-2F il02_3 23.7 L. pen. 1
+red-4I il04_4 29.4 L. pen. 2 red-5G il05_4 33.4 L. pen.
+na red-7F il07_2/il07_3 23.5 L. pen. 1 red-8E
+[b] il8-2 18.2 L. pen.
+na red-9D il09_1/il09_2/il09_2_5 24.7 L. pen. 2 red-10A [b] il10_1_1 17.2 L. pen.
+na red-10E il10_2/il10_2_2 24.3 L. pen. 1 red-10G il10_3 19.2 L. pen.
+na red-11B il11_1/il11_2 15.8 L. pen. 1 red-11G il11_4 20.2 L. pen. na red-12D il12_2/il12_3/il12_3_1 24.7 L. pen. 1
+Fructose content fru-4I il04_4 47.4 L. pen.
+na fru-5G il05_4 32.7 L. pen.
+na fru-7F il07_2/il07_3 28.8 L. pen.
+na fru-9D [b] il09_2/il09_2_5 22.2 L. pen.
+na Glucose content glu-4I il04_4 39.6 L. pen.
+na glu-5G il05_4 42.4 L. pen.
+na glu-9D
+[b] il09_1_3 37.3 L. pen. na glu-12D il12_2/il12_3/il12_3_1 45.4 L. pen.
+na Titratable acidity ta-2F il02_3 �18.5 L. esc.
+2 ta-3CD il03_2 39.7 L. pen.
+na ta-3FG il03_4 20.0 L. pen.
+na ta-4F il04_3/il04_3_2 �20.8 L. esc.
+na ta-4I il04_4 15.6 L. pen. 2 ta-5 [a] il05_2/il05_3/il05_4 14.6 L. pen. 2 ta-7B il07_4_1/il07_5/il07_5_5 27.3 L. pen. 2 ta-7G il07_2 19.3 L. pen. 2 ta-8E il08_2/il08_2_1 �27.4 L. esc.
+na ta-9D il09_1/il09_2/il09_2_5 12.6 L. pen. 2 (continued)    Candidate genes and QTLs of tomato fruit 1681   Trait QTL IL %M82 Parent QTL stability   ta-9F il09_2 40.8 L. pen .
+2 ta-10B il10_1 54.3 L. pen.
+na ta-10E il10_2/il10_2_2 35.8 L. pen. 2 ta-11A il11_1 14.7 L. pen. 2 ta-12C il12_2 �14.4 L. esc.
+2
+pH ph-2F il02_3 2.5 L. pen. 1 ph-4G il04_3 �2.6 L. esc.
+na ph-5E il05_3 �2.9 L. esc.
+1 ph-5G il05_4 2.5 L. pen.
+na ph-8E il08_2/il08_2_1 5.5 L. pen.
+na ph-9F il09_2 �4.8 L. esc.
+na ph-10B il10_1 �3.2 L. esc.
+na ph-10G il10_3 2.3 L. pen.
+na ph-11E il11_3 2.4 L. pen.
+na ph-12B il12_1/il12_2 2.7 L. pen. 1 ph-12H il12_4 �2.4 L. esc.
+na Citric acid content ca-4F il04_3_2 �22.0 L. esc.
+na ca-5E il05_3 40.6 L. pen.
+na ca-7B il07_5/il07_5_5 37.1 L. pen.
+na ca-8E il08_2/il08_2_1 �28.5 L. esc.
+na ca-9F il09_2 51.6 L. pen.
+na ca-10B il10_1 68.2 L. pen.
+na ca-10E il10_2/il10_2_2 35.1 L. pen.
+na Malic acid content ma-3FG il03_4 �53.3 L. esc.
+na ma-4G il04_3 �47.6 L. esc.
+na ma-4I il04_4 �40.9 L. esc.
+na ma-8E il08_2/il08_2_1 �45.6 L. esc.
+na ma-12D il12_2/il12_3/il12_3_1 �45.2 L. esc.
+na   a Several interpretations possible for the QTL on ch5 (see text).
+b QTL was deduced from one IL only, but the other IL(s) in the bin were just below the level of significance.
+seven cases for acids and in four cases for sugars.
+Two of these regions (9-D and 11-E) were common to those found in the thestudyofSaliba-Colombani et al. (2001).
+Forinstance, Fulton et al. (2002) found QTLs for sugar-related traits around the bins 1-J, 10-E, and 12-D in an L. peruvianumderived population.
+On bin 9-D, the apoplastic invertase gene was shown to be a QTL for sugar content in the population derived from L. pennellii (Fridman et al., 2000), and QTLs were found in the same region in populations derived from other species (L. peruvianum and L. parviflorum in Fulton et al., 2002; L. esculentum var.
+cerasiforme in Saliba-Colombani et al., 2001).
+For acid-related traits, common QTLs were detected in the ILs and in the study by Fulton et al. (2002) in bins 4-F and 9-F (L. hirsutum population), 5-E, 9-F, 12-D (L. parviflorum population), 5E, 9-F, 11-E (L. pimpinellifollium population), and 8-E, 12B (L. peruvianum population), and with the population derived from a cross with L. esculentum var.
+cerasiforme (Saliba-Colombani et al., 2001), on bins 2-F, 3-F, and 11-E.   Colocalizations between QTLs and candidate genes  To evaluate the whole genome association of candidate genes with QTLs related to fruit weight and sugar or   1682 Causse et al.   Fig.
+3.
+Distribution of the number of QTLs detected per trait (in black), and of the number of loci among stage-specific loci (in grey) or carbon metabolism loci (in white) which were located in the same bin as a QTL for the corresponding trait.
+The stars indicate the traits for which the candidate locus number was significantly different from that expected by chance.
+acid-related traits, the co-occurrence of the two groups were estimated.
+Figure 3 shows the number of QTLs detected for each trait, and the number of candidate genes in each group of genes.
+These numbers were compared with those expected if the genes and QTLs were randomly distributed (according to the calculations of Liu et al., 2003).
+The numbers of colocalizations between carbon metabolism  genes and QTLs for brix and citric acid content were significantly different from those expected by chance (Chisquare of 5.28 and 5.31, with 1 df, respectively).
+Another significant relationship was detected between the cell cycle genes and fruit weight QTLs (chi-square 4.25).
+Although the number of stage-specific genes was higher than carbon metabolism genes cosegregating with fruit weight QTLs in contrast to the other traits, it was not significantly different from the number expected by chance.
+However, such a statistical approach is hardly relevant, as the physiological interest resides more in specific putative colocalizations than in such an overall approach.
+Several colocalizations could be underlined.
+For instance, three cyclin genes were colocated with fruit weight QTLs (on bin 2-K CycD3;1, on bin 5-CE CycA2;1, and on bin 11-A CycA1;1).
+It has been shown that the expression of cyclin genes, the so-called G1 cyclin (CycD3;1) or mitotic cyclins (such as CycA1 and CycA2), is linked to the mitotic activity of cells during the early tomato fruit development (Joube`s et al., 2000).
+These cell cycle regulators exert a control on the cell cycle phase length, the number of cell cycles, or the cell size.
+Therefore, their expression level may affect the number of cells and, consequently, the final fruit size (Bohner and Bangerth, 1988).
+The observed colocalization of cyclin genes with fruit weight QTLs is thus consistent with the role of such cell cycle genes in fruit organogenesis.
+For sugar content, a few putative colocalizations could be underlined.
+The involvement of Lin5 as a QTL for sugar content, shown by Fridman et al. (2000) was recovered.
+On bin 1-J, QTLs for brix and reducing sugars colocated with the large subunit of ADP-glucose pyrophosphorylase (AGPase LS1), located by Schaffer et al. (2000), who also found in this region a QTL for brix associated with a difference in early starch accumulation in a progeny derived from L. hirsutum.
+Similarly, on bin 7-F, the small subunit of ADP-glucose pyrophosphorylase (AGPase SS) was colocalized with QTLs for reducing sugars and fructose content.
+On bin 3-CD, a QTL for brix was located in the same region as a vacuolar invertase, which has been shown to be involved in the sucrose uptake in L. chmielewskii (Chetelat et al., 1995).
+The QTLs located on bins 1J and 3-D in the progeny of L. pennellii, could correspond in other species to major genes exhibiting Mendelian segregation.
+On bin 4-I, a fructokinase locus was colocalized with QTLs for sugar content.
+Fructokinase may control photoassimilate metabolism and partitioning in stems and starch accumulation in fruit, although this latter role was recently ruled out for the major fruit isoform LeFRK2 (German et al., 2003).
+The colocalization on bin 12-D of QTLs for sugars and malic acid with LePPC2, a locus coding for the phosphoenolpyruvate carboxylase could be relevant as this gene, shown to be differentially and strongly expressed in expanding cells of the fruit (Guillet et al., 2002), is involved in pathways controlling malic and citric acid synthesis.
+The sucrose synthase locus and the G6P isomerase isoform, which mapped in the same region, could also be good candidates since sucrose synthase participates in the control of sucrose import capacity of young tomato fruit, as shown by D’Aoust et al. (1999), and G6P isomerase plays a central role in glycolysis.
+The colocalization between a NADP-malic enzyme locus and a QTL for acid content, shown on bin 5-E, may fit with the hypothesis of Ruffner et al. (1984) who proposed that the decrease in acidity in ripening fruit occurs through the activity of the NADP-malic enzyme followed by metabolism in the Krebs cycle.
+However, the QTLs colocalizing with the malic enzyme locus affected pH and citrate, and not malate, making this enzyme a poor candidate.
+PEP carboxykinase is another enzyme possibly involved in malate assimilation, and in the concomitant formation of sugars through gluconeogenesis during tomato fruit ripening (Bahrami et al., 2001).
+This role is consistent with the localization of its gene on bin 8-E with two QTLs controlling both fruit acidity and reducing sugars, and hence makes PEP carboxykinase a likely candidate.
+Several colocalizations also concerned QTLs for acid content and transporter loci (on bins 7-B with a vacuolar pyrophosphatase, 9-F with an unknown transporter protein, 10-B with a vacuolar ATPase, and 11-E with a Mip4 gene).
+Vacuolar ATPase and vacuolar pyrophosphatase are proton pumps responsible for acidifying the vacuole, thus allowing active transport in the large fruit cell vacuole of sugars and organic acids.
+Both have been proposed as candidates for the control of acidity in fruit (Mu¨ller et al., 1996; Terrier et al.,   2001; Etienne et al., 2002a), although their implication in this process has not yet been confirmed at the physiological level.
+The membrane intrinsic proteins (MIP) are aquaporins involved in the transport of water and small solutes through membranes.
+Their involvement in the modulation of fruit acidity cannot be ruled out since recent misexpression by antisense experiments carried out in tomato with TRAMP, a fruit-specific aquaporin, indicated a strong effect of this protein on the sugar to organic acid ratio in fruit (G-P Chen et al., 2001).
+Among the cDNAs isolated by differential screening, eight clones were preferentially expressed during the division phase (‘div’ clones in Table 2: Led26, Led41, Led50, Led62, Subt, 14-3-3, Exp, and cP450) and seven clones were preferentially expressed during the expansion phase (‘exp’ clones in Table 2: Vic, Mcm2, aPept, T6p, Agrt, LeeH9-1, and Transp) were colocalized with QTLs for fruit weight or composition.
+These genes belong to a large variety of functional categories reflecting the complexity of fruit cell activity and it is difficult to conclude about the significance of these colocalizations.
+Nevertheless, the colocalization of a 14-3-3 locus with a QTL for pH (bin 4-G) and the colocalization of an ABC transporter with a QTL of titratable acidity, pH, and citric acid (bin 9-F) are of particular interest.
+The 14-3-3 proteins belong to a multigene family, involved in a broad variety of functions, regulating the activity of a large number of target proteins.
+One function attributed to 14-3-3 proteins is the regulation of the plasma membrane ATPase (Roberts, 2003), which is consistent with the results obtained herein.
+The ATPbinding cassette (ABC) transporter family play a central role in plant growth and developmental processes (Martinoia et al., 2002).
+Indeed, ABC transporters have been shown to be involved in a large variety of cellular processes, and in particular in ion fluxes, which are of particular interest for the control of organic acid accumulation.
+Most of the carbon metabolism genes mapped here on the tomato genome correspond to genes mainly expressed in early developing fruit and selected as ESTs from ovary tissues or isolated by RT-PCR from young growing fruit (10 DPA).
+The recent positional cloning of Lin5, which controls sugar content in tomato and encodes a cell wall invertase expressed in tomato ovary (Fridman et al., 2000), emphasizes the importance of early fruit development stages (cell division and cell expansion) for the control of fruit composition as well as for the control of fruit size.
+Since the completion of this work, that was based on the early screening of the TIGR Tomato Gene Index (TGI), the number of tomato ESTs publicly available has considerably increased to more than 150 000 ESTs and libraries now include immature green and ripening fruit stages.
+A rapid survey of the TGI (April 2003 release) indicated over 300 Tentative Consensus (TC) corresponding to the pathways analysed in this paper (data not shown).
+Some of them,    Candidate genes and QTLs of tomato fruit 1683   particularly those expressed during fruit development, may play an important role in the control of sugar and organic acid content of the fruit.
+In addition, other candidate genes could be selected by screening tomato EST databases for new functions associated with the traits of interest or by transcriptome analyses of genotypes showing contratsed fruit size or composition (Wang et al., 1999; Aharoni et al., 2000).
+Conclusion   This report presented the map location of 138 loci putatively involved in pathways related to fruit size and composition (organic acids and sugars), and of 81 QTLs controlling the variation of the corresponding traits.
+A few introgression lines with fruit composition significantly different from M82 have been identified.
+The individual values of the ILs and relationships among several trials can [be viewed on the Realtime QTL WEBsite: http://www.](http://www.sgn.cornell.edu/mutation_images/Qtl/ Html/home.htm)
+[sgn.cornell.edu/mutation_images/Qtl/ Html/home.htm.](http://www.sgn.cornell.edu/mutation_images/Qtl/ Html/home.htm)
+These lines constitute valuable plant material for studying the physiological processes involved in the variations in fruit composition, through transcriptome or proteome analysis of the different phenotypes.
+As stated above, a number of genes related to mechanisms controlling fruit composition are found in the tomato EST database.
+However, not all of them affect the genetic variation of a particular trait in wild germplasm (Liu et al., 2003).
+The colocalization of a candidate gene with a QTL may further narrow the studies to a particular gene, for example, a vacuolar proton pump for fruit acidity or a cyclin for fruit weight.
+Conversely, the absence of colocalization can exclude a former promising candidate gene from subsequent analysis.
+Indeed, the candidate gene approach has already been shown to be efficient in characterizing QTLs in plants (Byrne et al., 1996).
+However, this approach implies that very precise QTL and gene locations are combined with physiological analyses.
+It will be necessary to define the QTL and the gene locations precisely, by studying the F 2 progeny of M82 and the ILs of interest.
+If the colocalizations were confirmed, several experiments, such as expression or association studies, could be conducted to validate the role of a polymorphism in the candidate gene as responsible for the QTL (Pflieger et al., 2001).
+Finally, the gene map could also be useful in other populations, providing new markers as well as candidate genes, even though each marker will have to be precisely mapped in each specific progeny.
+Acknowledgements   Many thanks to L Gervais, M Lensel, and R Matthieu for their excellent technical assistance, to D Just for gene accession and function screening and to the SONITO for the tomato field experiment.
+This investigation was supported by AFIRST (France   1684 Causse et al.
+Israel Association for Scientific and Technical Research).
+The experiments comply with the current French laws.
+References   Aharoni A, Keizer LCP, Bouwmeester HJ, et al. 2000.
+Identification of the SAAT gene involved in strawberry flavor biogenesis by use of DNA microarrays.
+The Plant Cell 12, 647–661.
+Bahrami AR, Chen Z-H, Walker RP, Leegood RC, Gray EG. 2001.
+Ripening-related occurence of phosphoenolpyruvate carboxykinase in tomato fruit.
+Plant Molecular Biology 47, 499–506.
+Bohner J, Bangerth F. 1988.
+Cell number, cell size, and hormone levels in semi-isogenic mutants of Lycopersicon pimpinellifolium differing in fruit size.
+Physiologia Plantarum 72, 316–320.
+Byrne PF, McMullen MD, Snooks ME, Musket TA, Theuri JM, Widstrom NW, Wiseman BR, Coe EH. 1996.
+Quantitative trait loci and metabolic pathways: genetic control of the concentration of maysin, a corn earworm resistance factor, in maize silks.
+Proceedings of the National Academy of Sciences, USA 93, 8820–8825.
+Chen X, Salamini F, Gebhardt C. 2001.
+A potato molecularfunction for carbohydrate metabolism and transport.
+Theoretical and Applied Genetics 102, 284–295.
+Chen G-P, Wilson ID, Kim SH, Grierson D. 2001.
+Inhibiting expression of a tomato ripening-associated membrane protein increases organic acids and reduces sugar levels of fruit.
+Planta 212, 799–807.
+Chetelat RT, De Verna JW, Bennett AB. 1995.
+Introgression into tomato (Lycopersicon esculentum) of the L. chmielewskii sucrose accumulator gene (sucr) controlling fruit sugar composition.
+Theoretical and Applied Genetics 91, 327–333.
+Chevalier C, Joube`s J, Petit J, Raymond P. 1999.
+Isolation and characterization of a cDNA clone (Accession No. Y18346) for glutaredoxin from tomato (Lycopersicon esculentum Mill.) developing fruits (PGR99-001).
+Plant Physiology 119, 363–364.
+Coombe BG. 1976.
+The development of fleshy fruits.
+Annual Review of Plant Physiology 27, 507–528.
+D’Aoust MA, Yelle S, Nguyen-Quoc B. 1999 Antisense inhibition of tomato fruit sucrose synthase decreases fruit setting and the sucrose unloading capacity of young fruit.
+The Plant Cell 11, 2407–2418.
+Davies JN, Hobson GE. 1981.
+The constituents of tomato fruit—the influence of environment, nutrition and genotype.
+Critical Review of Food Science and Nutrition 15, 205–280.
+Delmas F, Petit J, Joube`s J, Se´veno M, Paccalet, Hernould M, Lerouge P, Mouras A, Chevalier C. 2003.
+The gene expression and enzyme activity of plant 3-deoxy- D -manno-2-octulosonic acid8-phosphate (Kdo-8-P) synthase are preferentially associated with cell division in a cell-cycle dependent manner.
+Plant Physiology 133, 348–360.
+Eshed Y, Gera G, Zamir D. 1996.
+A genome-wide search for wildspecies alleles that increase horticultural yield of processing tomato.
+Theoretical and Applied Genetics 93, 877–886.
+Eshed Y, Zamir D. 1995.
+An introgression line population of Lycopersicon pennellii in the cultivated tomato enables the identification and fine mapping of yield-associated QTLs.
+Genetics 141, 1147–1162.
+Etienne C, Mong A, Dirlewanger E, Raymond P, Monet R, Rothan C. 2002a.
+Isolation and characterization of six peach cDNAs encoding key proteins in organic acid metabolism and solute accumulation: involvement in regulating peach fruit acidity.
+Physiologia Plantarum 114, 259–270.
+Etienne C, Rothan C, Moing A, Plomion C, Bode´nes C, Svanella L, Cosson P, Pronier V, Monet R, Dirlewanger E. 2002b.
+Candidate genes and QTLs for sugar and organic acid content in    peach (Prunus persica L. Batsch).
+Theoretical and Applied Genetics 105, 145–159.
+Frary A, Nesbitt TC, Grandillo S, Knaap E, Cong B, Liu J, Meller J, Elber R, Alpert KB, Tanksley SD. 2000.
+fw2.2: a quantitative trait locus key to the evolution of tomato fruit size.
+Science 289, 85–88.
+Fridman E, Pleban T, Zamir D. 2000.
+A recombination hotspot delimits a wild-species quantitative trait locus for tomato sugar content to 484 bp within an invertase gene.
+Proceedings of the National Academy of Sciences, USA 97, 4718–4723.
+Fuglevand G, Phillips W, Mozzanega P, Corley S, Chengappa S, Shields R. 1998.
+Mapping of tomato genes associated with sugar metabolism, Tomato Genetics Cooperative Report 48, 22–23.
+Fulton TM, Bucheli P, Voirol E, Lopez J, Pe´tiard V, Tanksley SD. 2002.
+Quantitative trait loci (QTL) affecting sugars, organic acids, and other biochemical properties possibly contributing to flavor, identified in four advanced backcross populations of tomato.
+Euphytica 127, 163–177.
+German MA, Dai N, Matsewitz T, Hanael R, Petreikov M, Bernstein N, Ioffe M, Shahak Y, Schaffer AA, Granot D. 2003
+Suppression of fructokinase encoded by LeFRK2 in tomato stem inhibits growth and causes wilting of young leaves.
+The Plant Journal 34, 837–846.
+Gillaspy G, Ben-David H, Gruissem W. 1993.
+Fruits: a developmental perspective.
+The Plant Cell 5, 1439–1451.
+Giovannoni J. 2001.
+Molecular biology of fruit maturation and ripening.
+Annual Review of Plant Physiology and Plant Molecular Biology 52, 725–749.
+Guillet C, Just D, Be´nard N, Destrac-Irvine A, Baldet P, Hernould M, Causse M, Raymond P, Rothan C. 2002.
+A fruit-specific phosphoenolpyruvate carboxylase is related to rapid growth of tomato fruit.
+Planta 214, 717–726.
+Isaacson T, Ronen G, Zamir D, Hirschberg J. 2002.
+Cloning of tangerine from tomato reveals a carotenoid isomerase essential for the production of beta-carotene and xanthophylls in plants.
+The Plant Cell 14, 333–342.
+Joube`s J, Lemaire-Chamley M, Delmas F, Walter J, Hernould M, Mouras A, Raymond P, Chevalier C. 2001.
+A new C-type cyclin-dependent kinase from tomato expressed in dividing tissues does not interact with mitotic and G1 cyclins.
+Plant Physiology 126, 1403–1415.
+Joube`s J, Phan TH, Just D, Rothan C, Bergounioux C, Raymond P, Chevalier C. 1999.
+Molecular and biochemical characterization of the involvement of cyclin-dependent kinase A during the early development of tomato fruit.
+Plant Physiology 121, 1–13.
+Joube`s J, Walsh D, Raymond P, Chevalier C. 2000.
+Molecular characterization of the expression of distinct classes of cyclins during the early development of tomato fruit.
+Planta 211, 430–439.
+Lange BM, Ghassemian M. 2003.
+Genome organization in Arabidopsis thaliana: a survey for genes involved in isoprenoid and chlorophyll metabolism.
+Plant Molecular Biology 51, 925–948.
+Lemaire-Chamley M, Petit J, Causse M, Raymond P, Chevalier C. 2000.
+Identification of differentially expressed genes during early development of tomato fruit.
+Characterization of a novel cDNA coding for a RAD23 protein.
+Australian Journal of Plant Physiology 27, 911–920.
+Lemaire-Chamley M, Petit C, Raymond P, Chevalier C. 1999.
+Isolation and characterization of a fruit specific cDNA clone for vacuolar processing enzyme from tomato (Accession No. AJ243876) (PGR99-164).
+Plant Physiology 121, 1057.
+Lime BJ, Griffiths FP, O’Connor RT, Heinzelman DC, McCall ER. 1957.
+Spectrophotometric methods for determining pigmentation—beta-carotene and lycopene—in Ruby red grapefruit.
+Agricultural and Food Chemistry Journal 5, 941–944.
+Liu YS, Gur A, Ronen G, Causse M, Damidaux R, Buret M, Hirschberg J, Zamir D. 2003.
+There is more to fruit colour than candidate carotenoid genes.
+Plant Biotechnology Journal 1, 195–207.
+Martinoia E, Klein M, Geisler M, Bovet L, Forestier C, Kolukisaoglu U, Muller-Rober B, Schulz B. 2002.
+Multifunctionality of plant ABC transporters—more than just detoxifiers.
+Planta 214, 345–355.
+Menu T, Rothan C, Dai N, Petreikov M, Etienne C, DestracIrvine A, Schaffer A, Granot D, Ricard B. 2001.
+Cloning and characterization of a cDNA encoding hexokinase from tomato.
+Plant Science 160, 209–218.
+Moore S, Vrebalov J, Payton P, Giovannonni J. 2002.
+Use of genomic tools to isolate key ripening genes and analyse fruit maturation in tomato.
+Journal of Experimental Botany 53, 2023–2030. Mu¨ller ML, Irkens-Kiesecker U, Rubinstein B, Taiz L. 1996.
+On the mechanism of hyperacidification in lemon.
+Journal of Biological Chemistry 271, 1916–1924.
+Pan Q, Liu Y-S, Budai-Hadrian O, Sela M, Carmel-Goren L, Zamir D, Fluhr R. 2000.
+Comparative genetics of nucleotide binding site-leucine rich repeat resistance gene homologues in the genomes of two dicotyledons: tomato and Arabidopsis.
+Genetics 155, 309–322.
+Paulson KN, Stevens MA.
+1974.
+Relationships among titratable acidity, pH and buffer composition of tomato fruits.
+Journal of Food Science 39, 354–357.
+Pflieger S, Lefebvre V, Causse M. 2001.
+The candidate gene approach in plant genetics: a review.
+Molecular Breeding 7, 275–291.
+Pnueli L, Carmel-Goren L, Hareven D, Gutfinger T, Alvarez J, Ganal M, Zamir D, Lifschitz E. 1998.
+The SELF-PRUNING gene of tomato regulates vegetative to reproductive switching of sympodial meristems and is the ortholog of CEN and TFL1.
+Development 125, 1979–1989.
+Ronen G, Cohen M, Zamir D, Hirschberg J. 1999.
+Regulation of carotenoid biosynthesis during tomato fruit development: expression of the gene for lycopene epsilon-cyclase is down-regulated during ripening and is elevated in the mutant Delta.
+The Plant Journal 17, 341–351.
+Roberts MR. 2003.
+14-3-3 Proteins find new partners in plant cell signalling.
+Trends in Plant Science 8, 218–223.
+Candidate genes and QTLs of tomato fruit 1685   Ruffner HP, Possner D, Brem S, Rast DM.
+1984.
+The physiological role of malic enzyme in grape ripening.
+Planta 160, 444–448.
+Saliba-Colombani V, Causse M, Gervais L, Philouze J. 2000.
+Efficiency of AFLP, RAPD and RFLP markers for the construction of an intraspecific map of the tomato genome.
+Genome 43, 29–40.
+Saliba-Colombani V, Causse M, Langlois D, Philouze J, Buret M. 2001.
+Genetic analysis of organoleptic quality in fresh market tomato.
+1.
+Mapping QTLs for physical and chemical traits.
+Theoretical and Applied Genetics 102, 259–272.
+SAS Institute Inc. 1994.
+Statistics and graphics guide: Version 3.
+Cary, NC: SAS Institute Inc. SCAR Agro-Food Tomato Working Group.
+1991.
+Measurement of the quality of tomatoes.
+In: Eccher Zerbini P, Gorini F, Polesello A, eds.
+Recommendations of an EEC working group.
+Milano: IVTPA, 1–36.
+Schaffer AA, LevinI,Oguz I,Petreikov M,Cincarevsky F, Yeselson Y, Shen S, Gilboa N, Bar M. 2000.
+ADPglucose pyrophosphorylase activity and starch accumulation in immature tomato fruit: the effect of a Lycopersicon hirsutum-derived introgression encoding for the large subunit.
+Plant Science 152, 135–144.
+Stevens MA.
+1972.
+Relationships between components contributing to quality variation among tomato lines.
+Journal of the American Society for Horticulatural Science 97, 70–73.
+Stevens MA.
+1986.
+Inheritance of tomato fruit quality components.
+Plant Breeding Reviews 4, 273–311.
+Tanksley SD, Ganal MW, Prince JP, et al. 1992.
+High density molecular linkage maps of the tomato and potato genomes.
+Genetics 132, 1141–1160.
+Terrier N, Sauvage F-X, Ageorges A, Romieu C. 2001 Changes in acidity and in proton transport at the tonoplast of grape berries during development.
+Planta 213, 20–28.
+Van der Hoeven R, Ronning C, Giovannoni J, Martin G, Tanksley SD. 2002.
+Deductions about the number, organization and evolution of genes in the tomato genome based on analysis of a large expressed sequence tag collection and selective genomic sequencing.
+The Plant Cell 14, 1441–1456.
+Wang F, Sanz A, Brenner ML, Smith AG. 1993.
+Sucrose synthase, starch accumulation, and tomato fruit sink strength.
+Plant Physiology 101, 321–327.
+Wang K, Gan L, Jeffery E, et al. 1999.
+Monitoring gene expression profile changes in ovarian carcinomas using cDNA microarray.
+Gene 229, 101–108.

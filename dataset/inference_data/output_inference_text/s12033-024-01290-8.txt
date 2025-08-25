@@ -1,0 +1,1005 @@
+Molecular Biotechnology https://doi.org/10.1007/s12033-024-01290-8     # **CRISPR‑Cas9: Unraveling Genetic Secrets to Enhance Floral and Fruit** **Traits in Tomato**  **S. Bhoomika** **
+[1]** **[· Shubham Rajaram Salunkhe](http://orcid.org/0009-0007-5392-621X)
+** **[1]** **· A. R. Sakthi** **
+[1]** **· T. Saraswathi** **
+[2]** **· S. Manonmani** **
+[3]** **· M. Raveendran** **
+[1]** **
+·** **M. Sudha** **
+[1]**   Received: 2 August 2024 /
+Accepted: 17 September 2024 © The Author(s), under exclusive licence to Springer
+Science+Business Media, LLC, part of Springer Nature 2024, corrected publication 2024   **Abstract**  Tomato, a globally consumed vegetable, possesses vast genetic diversity, making it suitable for genetic manipulation using various genetic improvement techniques.
+Tomatoes are grown extensively for their market value and health benefits, primarily contributed by enhanced yield and nutritional value respectively, influenced by floral and fruit traits.
+Floral morphology is _SP_ maintained by genes involved in meristem size control, regulation of inflorescence transition, and pollen development.
+( _SELF-PRUNING_ ) and _SP5G_ ( _SELF-PRUNING 5G_ _
+RIN_ ( _RIPENING INHIBI-_ ) determine growth habit and flowering time.
+_
+TOR_ )
+and _PG_ ( _POLYGALACTURONASE_ ) are responsible for the shelf life of fruits.
+In addition to this, nutrition-enriched tomatoes have been developed in recent times.
+In this review, we comprehensively discuss the major genes influencing floral morphology, flowering time, fruit size, fruit shape, shelf life, and nutritional value, ultimately resulting in enhanced yield.
+Additionally, we address the advances in CRISPR/Cas9 applied for the genetic improvement of tomatoes along with prospects of areas in which research development in terms of tomato genetic improvement has to be advanced.
+**Keywords** Genome editing · Inflorescence · Architecture · Shelf life · Health   **Introduction**     - M. Sudha  sudhatamil@gmail.com   S. Bhoomika  bhoomika2921@gmail.com   Shubham Rajaram Salunkhe shubhamsalunkhe254@gmail.com   A. R. Sakthi  arsakthy@gmail.com   T. Saraswathi
+saravel_t@yahoo.co.in   S. Manonmani  manonmanitnau@gmail.com   M. Raveendran  raveendrantnau@gmail.com   1 Department of Plant Biotechnology, Centre of Plant Molecular Biology and Biotechnology, Tamil Nadu Agricultural University, Coimbatore 641003, India   2 Department of Medicinal and Aromatic Crops, Horticultural College and Research Institute, Tamil Nadu Agricultural University, Coimbatore 641003, India   3 Department of Rice, Centre of Plant Breeding and Genetics, Tamil Nadu Agricultural University, Coimbatore 641003, India    Tomato ( _Solanum lycopersicum_ L.,), is a major vegetable crop belonging to _Solanaceae_ grown worldwide.
+Although it originated in South America, tomatoes are now the second most cultivated vegetable with 189 million tonnes grown on a 5.16 Mha land area over the world
+[1].
+It is widely grown owing to its nutritional and economic benefits.
+The nutritional value of tomatoes is very high, because they accumulate several secondary metabolites which is very much necessary for a complete human diet [2].
+Tomatoes contain bioactive compounds like natural antioxidant named lycopene and alpha-tomatine which has antimicrobial, anticancer, and cholesterol-lowering properties [3].
+Besides lycopene and tomatine, tomato also provides antioxidants like ß-carotene, nutrients like iron, potassium, folate, vitamin C, and phenolic compounds, such as flavonoids, hydroxycinnamic acid, chlorogenic, homovanillic acid, and ferulic acid
+[4–6 ].
+Also, the beneficial effects on health including antioxidant, anti-inflammatory, and anti-atherogenic properties, reducing the risk of cardiovascular diseases, have been extensively studied in tomatoes
+[7, 8].
+Economically, tomatoes play a major role in agricultural production and the food   Vol.:(0123456789)   industry.
+It is a high-market-value crop that supports the livelihoods of millions of people.
+In addition, tomatoes play a predominant part in the processing industry that attracts consumers globally.
+Hence, new tomato cultivars need to be bred taking the current consumer demand and processing industry requirements into account and this requires a wide genetic resource comprising several valuable traits [9].
+The yield and fruit quality should be improved by genetic improvements to meet the current trend.
+Many diverse cultivars of tomato have been developed since the domestication.
+The genetic diversity of tomatoes is vast and they are spread throughout a wide variety of habitats
+[10].
+The Tomato Genome Consortium in 2012 sequenced the 900 Mb tomato genome creating a forward leap in genetic improvement studies, allowing a better understanding of its genetics.
+The Solanaceae genome network (SGN) and Tomato Genetic Resource Center (TGRC) contain extensive collections of genotypes and mutants of tomatoes, including genome sequences, gene annotations, and genetic maps which can be assessed by researchers
+[11–14].
+In addition to this, there are several databases like the Tomato Functional Genomics Database (TFGD), Tomato Mutant Database (Mutant DB), the World Vegetable Centre (AVRDC) Tomato Genetic Resources Database, European Variation Archive (EVA), and others that constitute to be useful research resource.
+Several improved cultivars are being developed by exploiting these resources with the help   **Fig.
+1** Depiction of genes involved in regulating floral and fruit traits    Molecular Biotechnology   of genetic advancements in technology.
+Plants with altered growth habits [15, 16], increased flowering [16], and Vitamin-D-enriched tomatoes [17] are a few among many examples.
+In this review, we provide a brief overview of the genes responsible for flowering and fruiting traits in tomatoes (Fig. 1) and genetic modifications made by genome editing.
+**Flowering and Fruiting Habit of Tomato
+**   Tomato being a self-pollinated crop, has its stigma positioned within the anther cone of the pendant flower.
+However, cross-pollinated is also facilitated to improve genetic variability.
+There are two recognized growth habits: determinate and indeterminate growth.
+The flowers are perfect and hypogynous growing on the short pedicle of the cyme inflorescence.
+After pollination, fruits develop from the ovules after progressing through several growth stages, including cell division, expansion, and ripening, which spans weeks to months.
+Berries have many light brown to golden yellow seeds with 2–4 locules and green fruits ripen to become orange, red, or yellow.
+Tomato plants are categorized based on their fruiting habit, fruit shape, and presence/absence of ridges on fruits [18].
+The size and shape of the fruits can vary significantly from small to large size and round to variable shapes
+[19].
+Several genes influence the flowering and fruiting habit in tomatoes.
+Molecular Biotechnology   **Approaches for Genetic Improvement** **in Tomatoes**   There are several approaches to crop improvement, of which breeding is considered as efficient tool.
+Conventional breeding has long been used to develop plants by crossing individual plants with desired targets [20].
+However, the genetic diversity of progeny is narrow.
+Additionally, the possibility of targeting multiple traits is not possible [21].
+As technology advances, several breeding methods like pedigree method, hybridization, mutation breeding, pure line selection, mass selection, heterosis breeding, and backcross method have been developed [19].
+Next is the introduction of novel genetic alleles by induced mutagenesis.
+But this resulted in random off-target mutations.
+Hence to increase the specificity of mutating target genes, genetic engineering approaches were introduced where specific genes responsible for desired traits can be modified [22].
+Breeding techniques were also used in combination with genetic engineering technologies, such as marker-assisted selection and molecular breeding [23].
+Gene editing tools like RNA interference, ZFN, TALEN, and CRISPR/Cas have been developed to facilitate precise modifications [24].
+Virus-induced gene silencing can be used to silence the expression of the target gene relating to stress response and disease resistance (Wang et al.,).
+Zinc-finger nucleases and Transcription activatorlike effector nucleases [25] are seldom used compared with CRISPR/Cas systems.
+CRISPR/Cas9 system is an adaptive immune system naturally within the bacteria and archaea [26].
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) technique uses a singleguide RNA to target the specific location in the desired gene to navigate the Cas9 (CRISPR-Associated Protein 9) which has a nuclease role and creates double-stranded breaks in the genomic sequence.
+Then, the natural repair   **Table 1** Manipulation of flowering genes using CRISPR/Cas9    mechanisms like NHEJ (Non-Homologous End Joining) or HR (Homologous Recombination) are activated to repair the DNA and create desired mutation
+[27].
+CRISPR/Cas9 is the most flexible, simpler to design and implement, has higher target efficiency, is less expensive, and is easier to handle [27, 28].
+**Genes Influencing Floral Morphology** **and Architecture and its Modification** **through CRISPR**
+Flowering time, rate, and pattern influence fruit yield.
+The flowering architecture in tomatoes is sympodial, where the main stem terminates with flowering as the shoot apical meristem on induction gives rise to an inflorescence meristem, which further evolves into floral branches known as sympodial branches, which also terminate with flowering and this pattern continues [29].
+These sympodial flowers mature at varied times, resulting in staggered production of fruits.
+The various floral trait-related genes modified by CRISPR is mentioned in Table 1.
+**Inflorescence Architecture and Floral Morphology**   Several genes upregulate or downregulate the flowering pattern in tomatoes.
+Shoot meristems in tomatoes are regulated by arabinosyltransferase genes.
+The peptides involved in gene signaling pathway of _CLV_ ( _CLAVATA​_ ) has to be arabinosylated and its proper interaction with _WUSCHEL_ is completely required to maintain the meristem size.
+However, mutations in this gene along with _FAB_ ( _FASCIATED AND BRANCHED_ )
+and _FIN_ ( _FASCI-_ _ATED INFLORESCENCE_ )
+involved in _CLV_ pathway result in enlarged meristems, which leads to excess branch30].
+Also, _SlCLV3_ was ing in shoot and inflorescence [ downregulated by over-expressing _SlLET6_ and _SlGIF1_    Cultivar Target gene Locus ID Effect caused References   _
+Solanum pimpinellifolium SP_ _Solyc06g074350_
+Results in determinate plant growth [101] M82 _SP5G_ _
+Solyc05g053850_ Induces early flowering [16] _Solanum pimpinellifolium SP and SP5G_ _
+Solyc06g074350_
+Results in determinate plant growth, increased compact-
+[101] _Solyc05g053850_ ness, early and uniform flowering, synchronous ripening of fruits, suitable for mechanical harvest    M82 _BOP1, BOP2, BOP3_ Over-expression leads to fusion of floral organs [39] _Solanum pimpinellifolium CLV3_ _
+Solyc11g071380_
+Enlargement of meristems, increased branching with [
+30] fasciated flowers    Ailsa Craig _FAF1, FAF2, FAF3, FAF4_
+Upregulation of _SlFAF1/2b_ results in early flowering Downregulation in _SlFAF1/2b_, _SlFAF3/4a_ and _SlFAF3/4b_ results in early flowering
+[40]    _SP_ self-pruning _, BOP_ blade-on-petiole _, CLV_ clavata, faf fantastic four   ( _GRF1-interacting factor 1_ )
+_,_ resulting in increased number  31 of carpels in flowers [ ] The compound inflorescences are formed as a result of mutation in _S_ ( _COMPOUND INFLO-_ _RESCENCE_ ), _AN_ ( _ANANTHA_ ), and _FA_ ( _FALSIFLORA_ ) genes
+[32].
+The loss-of-function mutation in _S_ ( _COM-_ _POUND INFLORESCENCE_ ) causes delayed meristem maturation.
+Deletion mutation in _S_, _AN,_ and _FA_ causes additional branching in inflorescence causing the flowers to be converted to secondary buds
+[31, 32].
+_UNIFLORA_ gene has an impact on the inflorescence meristem and its transition to flowers.
+Studies revealed that mutants of the _UNIFLORA_ gene produced a single flower instead of the inflorescence.
+However, this gene hasn’t been mapped and requires further exploration (Dielen et al.,).
+The knock-out of _SlCMT4_ ( _Solanum lycopersicum Chro-_ _momethylase_ ) (Solyc08g005400.2) through CRISPR/Cas9 resulted in the induction of two genes Sl _PMEI_ ( _Solanum_ _
+lycopersicum Pectin Methyl Esterase Inhibitor_ ) and _PRALF_
+( _Pollen-specific Rapid Alkanization Factor_ ), which causes pollen wall and pollen tube degeneration.
+The mutants were found to have defective floral morphology with irregular pollen grain and stamen morphology resulting in reduced fruit set, seed number per fruit, and germination rate [33].
+Hence, _SlCMT4_ positively regulates floral architecture.
+Similarly, _SlMYB33_ ( _GAMYB Like gene_ )
+(Solyc06g073640) is a gene that is crucial for pollen development.
+Studies show that _SlMYB33_ on silencing delays flowering and knocking down this gene results in degenerative pollen [34].
+_SlGLO1_ ( _Solanum lycopersicum GLOBOSA_ ) is a MADS-box protein gene that is expressed in petals and stamens.
+On silencing this gene, the plants produced are male sterile with stamen to carpel conversion and petal to sepal conversion [35]. _
+SlMYB72_, expressed in pollen and tapetum, on downregulation by RNA interference, activates the autophagy-related _SlATG7_ resulting in inhibition of seed formation as the pol36].
+len development is affected [ _STM3_ ( _SISTER OF TM3_ )
+positively regulates the _FUL1_ ( _FRUITFUL Like_ ) gene to enhance floral architecture.
+A mutation in _STM3_ downregulates _FUL1_, thereby affecting flowering time and inflorescence morphology
+[37].
+_SlMIR172_
+( _Solanum lycopersicum microRNA 172_ ) suppresses _APETALLA2 Like_ transcriptional factors posttranscriptionally and regulates flowering time and morphology.
+CRISPR/Cas9-mediated knock-out of _SlMIR172c_ and _SlMIR172d_ developed plants with abnormal graded flowers where stamen turned to sepals, thereby indicating its role in maintaining the identity of floral organs [38].
+Expression of _SlBOP_ ( _BLADE-ON-PETIOLE_ ) occurs during the maturation of meristem and CRISPR/Cas9-generated mutants of these genes had simplified inflorescences yielding single flowers similar to _tmf_ ( _TERMINATING INFLORESCENCE_ ) mutants due to its interaction with _TMF_ transcriptional factor genes [39].
+Molecular Biotechnology   **Early and Enhanced Flowering**   _FAF_ ( _FANTASTIC FOUR_ ) family of genes comprising _FAF1, FAF2, FAF3_, and _FAF4_ are expressed consecutively during the evolution of shoot apical meristem.
+It is concluded that it is related to the regulation of flowering time, as early flowering is induced if _SlFAF1/2a_ is over-expressed.
+Flowering is positively regulated by _SlFAF1/2c,_ whereas _SlFAF1/2b, SlFAF3/4a,_ and _SlFAF3/4b_ when negatively 40].
+regulated induces early flowering [ Six _FT_ ( _FLOWERING LOCUS T_ ) like genes were identified in tomatoes.
+On analyzing their role in flowering, _SlSP5G, SlSP5G2_, and _SlSP5G3_ repressed flowering, whereas _SlSP3D/SFT_ induced flowering.
+Under long-day conditions, _SlSP5G_ was expressed.
+Contrastingly, _SlSP5G2_ and _SlSP5G3_ were expressed in short-day conditions.
+Silencing of these genes led to early flowering under their respective conditions.
+Phytochrome gene _PHYB1_ plays a role in regulating flowering in tomatoes by controlling the expression of _SlSP5G, SlSP5G2_, and _SlSP5G3_
+[41].
+These genes are also controlled by _SlCDF3_, which plays a major role in controlling the flowering time.
+_
+SELF-PRUNING_ ( _SP_ ) gene belongs to the PEPB (Phosphatidyl ethanolamine-binding protein) family.
+_
+SP_ serves as a repressor gene for flowering and is responsible for the transition from vegetative to reproductive growth [42].
+In tomato, the main shoot terminates with a terminal inflorescence after 8–10 vegetative nodes.
+Then, it grows laterally from the axillary bud below the terminal inflorescence.
+This is called the sympodial shoot, which has three vegetative nodes and again ends with a terminal inflorescence.
+This pattern is repeated several times to form the complete structure.
+The growth in wild-type tomatoes is indeterminate, whereas a mutation in _SP_ produces determinate plants where sympodial units are terminated by two consecutive inflorescences.
+If _SP_ is over-expressed, it results in increased leaf number and extension in the vegetative phase, thereby  43 replacing flowers with leaves [ ].
+Another flowering repressor gene paralogue to _SFT_ ( _SINGLE FLOWER TRUSS_ ) is _SELF-PRUNING 5G_ ( _SP5G_ ) which suppresses flowering in primary and axillary shoots is a paralog of the _SP_ gene.
+When _SP5G_ is mutated, it enhances rapid flowering and compactness.
+This results in the determinate growth pattern, enabling a swift surge in flowering, promoting day neutrality, and in turn giving early yield [16].
+Also, all fruits from determinate cultivars usually ripen in a short period from simultaneous flowering, which is beneficial for facilitating mechanical harvest.
+_FUL2_ ( _FRUITFUL Like_ )
+Gene and _MBP20_ (MADSBOX Protein) contribute to flowering and suppressing the branching of inflorescence, owing to their role in the transition of shoot apical meristem to inflorescence meristem.
+These genes work in combination with genes like _J_   Molecular Biotechnology   _(JOINTLESS), J2 (SlMBP21), EJ2/MADS1 (ENHANCER_ _OF JOINTLESS)_, and _TM3_ ( _SOC1_ -homolog TOMATO MADS-box gene 3) to regulate flowering.
+The loss-offunction studies of _FUL2_ and _MBP20_ through CRISPR/ Cas9-generated mutants with delayed flowering, thereby elucidating their role in promoting inflorescence in both primary and sympodial shoots [44].
+Hence, several genes upregulate or downregulate the flowering and precise mutations using CRISPR/Cas9 or other genome editing tools in these suitable genes can be exploited to develop cultivars with early and enhanced flowering.
+**Table 2** Manipulation of fruiting genes using CRISPR    **Genes that Influence Fruiting in Tomato** **and its Modification Through CRISPR**
+The characteristics of fruits like weight, size, shape, nutritional content, and shelf life are important criteria that influence the yield and market value of fruiting crops like tomatoes.
+Several genes regulate the various components of fruits, many of their role being characterized.
+The major manipulations carried out in these genes are listed in Table 2.
+**Fruit Size**   There are almost 30 QTLs characterized to control the fruit size.
+These include a few loci like ( _fruit weight_ ) _
+fw1.1,_    Trait Cultivar Target gene Locus ID Effect on flower/fruit References   Number _Solanum pimpinellifolium MULT_ _Solyc02g077390_
+Increase in fruit number [76]
+Size _Solanum pimpinellifolium CLV3_ _Solyc11g071380_ Increased in number of locules and fruit [76] weight   M82 _CLV3_ _Solyc11g071380_ Increased in number of locules and fruit [102] weight   _Solanum pimpinellifolium WUS_ _Solyc02g083950_ Increased fruit size and locule number [101]  _Solanum pimpinellifolium FW3.2_
+Upregulated to increase fruit size
+[48]  Shape _Solanum pimpinellifolium OVATE_ _
+Solyc02g085500_ Downregulated to increase fruit size [51, 76]  _LC_ _Solyc02g083950_ Increased fruit size due to gain of function
+[51, 102]  _FAS_ _
+Solyc11g071810_
+Increased fruit size due to loss of function
+[53]  Color Ailsa Craig _PSY1_ Multiplexed mutation resulting in wide range [73] _MYB12_ of colored fruits  _SGR1_   Micro-Tom _ANT1*_ _Solyc10g086360_
+High anthocyanin content [74]  Shelf-life Micro-Tom _SlPG_ _Solyc10g080210_
+Enhanced shelf life
+[63]  M82 _SIXTH5_ _Solyc01g081060_ Delayed softening and increased shelf life
+[61]  Ailsa Craig _RIN_ Delayed Fruit ripening and delayed softening [56, 103, 104] Money Maker _FLS2_ _
+Solyc10g007570_ High firmness and increased shelf life
+[62] Micro-Tom _ORRM4_ Delayed Fruit ripening [58]  M82 _
+ALC_
+Enhanced shelf life
+[105]  _ETR 7_ Enhanced shelf life [59]  Parthenocarpy Micro-Tom, Ailsa Craig _IAA9_ _
+Solyc04g076850_
+Parthenocarpic seedless fruits
+[71, 106]  MP-1 _AGL6_
+Parthenocarpic seedless fruits [70]  Lycopene _Solanum pimpinellifolium CycB_ _
+Solyc04g040190_ Enhanced Lycopene accumulation
+[76]  GABA _SlGAD2, SlGAD3_ Knocked out to increase GABA content in [77] fruits   Ascorbic acid _
+SlAPX4_ Increased ascorbate accumulation in fruits [78]  Vitamin D _Sl7-DR2_ Increased provitamin-D3 (7-dehydro carboxy-
+[17] lase) accumulation—Vitamin D-enriched  tomatoes   ***** Indicates the use of TALEN for genome editing in addition to CRISPR  _MULT_ multiflora, _CLV3_ Clavata 3, _FW_ fruit weight, _LC_ locule number, _FAS_ fasciated, _PSY1_ phytoene synthase 1, _SGR1_ stay green 1, ant1 anthocyanin mutant 1, _
+SlPG_ solanum lycopersicum polygalacturonase, Sixth5, Rin ripening inhibitor, _FLS2_ firm skin 1, _ORRM4_ organelle
+RNA recognition motif, _ALC_ altered lycopene composition, _ETR7_ ethylene receptor, _IAA9_ auxin-induced 9, _AGL6_ agamous like 6, _cycB_ lycopene beta cyclase, _GAD_ glutamate decarboxylase, _APX4_ ascorbate peroxidase 4, _Sl7-DR2_ solanum lycopersicum 7-dehydrocholesterol reductase   _fw2.1, fw2.2, fw3.1, fw3.2_, and _fw11.3_
+[45].
+_
+fw2.2_ which is the QTL for fruit weight located on chromosome 2, number 2 negatively regulates the cell multiplication in fruits [46].
+Owing to its role in regulating the cell number _, fw2.2_ was named _CNR_ ( _CELL NUMBER REGULATOR_ )
+[47].
+Next to _fw2.2_, QTL _fw3.2_ encodes for fruit size and weight.
+_SlK-_ _
+LUH_ associated with this QTL, is responsible for increasing the cell number in the septum and pericarp, thereby producing enlarged fruits [48].
+QTL _fw11.3_ also controls fruit size.
+_fw11.3_ also works in conjunction with _fas (fasciated_ ) to influence the fruit shape [49].
+Recently, fw6.3 has been identified to be a major QTL playing a significant role in controlling fruit size [50].
+**Fruit Shape**   The fruit shape is determined by four major genes, namely _SUN, OVATE, LC_, and _FAS_ .
+_
+LC_ ( _LOCULE NUMBER_ ) is a major gene that has a significant role in increasing locule 51].
+_SUN_ results in elonnumber and results in flatter fruit [ gating fruit shape by encoding a protein [52].
+_OVATE_, a member of the gene family containing the IQ67 domain, acts as a down regulator for fruit length, resulting in ellipsoidal fruit [52].
+The negative regulation of _FAS_ ( _FASCIATED_ ) increases locule number, which in turn causes the fruits to become lengthy and elongated [53].
+Recently, _FS8.1_ was reported to harm the multiplication of cells in the ovary wall when mutated, resulting in fruits of elongated shape, and thus damage to the fruits was avoided during mechanical harvest [54].
+**Delayed Fruit Ripening and Enhanced Shelf Life**   _TAGL1_ (Tomato _AGAMOUS_ Like 1) gene, similar to _SHP_ ( _SHATTER PROOF_ )
+MADS-Box genes of Arabidopsis, plays a major role in regulating fruit ripening.
+Suppression of _TAGL1_ results in a defective carotenoid metabolism, resulting in orange or yellow fruits with thinner pericarp.
+This downregulation further affects the ethylene pathway, thereby postponing the fruit maturation.
+Also, studies show that on ectopically expressing _TAGL1,_ the sepals are expanded and lycopene is accumulated [55]. _
+RIN_ ( _RIPEN-_ _
+ING INHIBITOR_ ) gene plays a critical role in suppressing over ripening but does not initiate fruit ripening.
+Plants with _RIN_ knocked out by CRISPR produced half-ripened fruits with increased softening of flesh and decreased lycopene content _.
+RIN_ gene in combination with _MC_ ( _MACROCA-_ _LYX_ ) and other MADS-Box genes leads to abnormal ripening processes when over-expressed [56, 57].
+CRISPR/
+Cas9-mediated knock-out of _SlORRM4_ ( _Organelle
+RNA Rec-_ _ognition Motif_ ) caused impairment in production of ethylene and respiratory rate, which in turn delayed fruit ripening  [58].
+The role of _SlETR7_ ( _Ethylene Receptor_ ) in enhancing    Molecular Biotechnology   the shelf life of tomato was elucidated by CRISPR-mediated knock-out of _SlETR7_ , as it influences the role of ethylene which in turn delays fruit ripening [59].
+_
+SlPL_ ( _PECTATE LYASE_ ) on silencing resulted in prolonged shelf life due to the thicker fruits due to the presence of increased cellulose and hemicellulose, but lower levels of water-soluble pectin in fruit wall
+[60].
+Xyloglucan, a hemicellulose is an important component contributing to the firmness of the fruit.
+On over-expressing _SIXTH5_ ( _Xylo-_ _glucan endotransglucosylase/hydrolase_ ) depolymerizing effect on xyloglucan is repressed, thereby increasing the fruit _SIXTH5_ resulted firmness.
+CRISPR-mediated mutation in in thicker pericarp-containing fruits with delayed softening and increased shelf life [61].
+GA2 oxidase is an enzyme that deactivates gibberellin and is encoded by _FIS2_ ( _FIRM SKIN_ _1_ ).
+_FIS2_ was mutated by the CRISPR method to produce fruits with longer shelf life and increased firmness, owing to the gibberellin compound and biosynthesis of wax and cuticle [62].
+The polymer of galacturonic acid, pectin is a major component of fruit cell wall and is degraded by the enzyme polygalacturonase.
+This enzyme is encoded by _
+SlPG_ ( _Polygalacturonase_ ).
+Mutation of _
+SlPG_ results in delayed softening and enhanced shelf life of fruits [63].
+**Parthenocarpic Fruits**
+The regulation of auxin and gibberellin influences fruit development and can result in seedless fruits, formed without pollination and fertilization.
+_SlARF7_
+( _Auxin-Responsive_ _
+Factor 7_ ) of tomato is expressed highly in the unpollinated ovaries and represses the setting of fruits until fertilization happens and also regulates the auxin metabolism.
+This is proved by silencing _SlARF7_ which led to the development of parthenocarpic heart-shaped tomatoes with thicker pericarp [64].
+_
+SlPIN4_ ( _PIN FORMED_ ), highly expressed in the ovary plays a significant role in auxin transport, thereby influencing fruit development and inhibiting the precocious development of fruits, as silencing this gene results in impaired auxin metabolism and parthenocarpic fruits.
+[65].
+_
+SlTIR1_ ( _Transport Inhibitor Response 1_ ) similar to _TIR1_ of Arabidopsis is expressed in floral organs and plays a key role in auxin regulation.
+Overexpression of this gene results in parthenocarpic fruits [66].
+_DELLA_ protein encoded by _PROCERA_ was mutated by CRISPR/Cas9 leading to the development of dwarf mutants with increased responsiveness to gibberellin, producing parthenocarpic fruits [67, 68].
+The silencing of _SlIAA17_ ( _Auxin Induced 17_ ) by RNA interference led to the development of larger fruits with thick pericarp [69].
+CRISPR/Cas9-mediated knock-out mutation of _SlAGL6_ ( _AGAMOUS LIKE 6_ ) resulted in the production of fruits parthenocarpically [70].
+Parthenocarpic seedless fruits are also produced when _SlIAA9_ ( _Auxin Induced_ ) was   Molecular Biotechnology   mutated by CRISPR as a consequence of loss of function
+[71].
+**Fruit Color**   The fruit color greatly adds value to the marketability and consumer acceptance and several genes influence the color of the fruit.
+Few among them are _PSY1_, _MYB12,_ and _SGR1_ .
+The loss-of-function mutation in _PSY1_ ( _Phytoene Synthase_ _1_ ) results in yellow-colored fruits due to impaired carotenoid pathway [72].
+Pink- and brown-colored fruits were formed when _MYB12_ and _SGR1_ ( _Stay Green 1_ ) were mutated, respectively.
+A multiplexed construct was used in CRISPR to jointly mutate all three genes to produce a light greencolored fruit, which was further backcrossed and selfed in the next generation to produce a wide variety of colored fruits, namely pink, pink–brown, yellow, yellow–green, light yellow, and light green [73].
+The mutation in ANT1 (Anthocyanin Mutant 1) through TALEN and CRISPR/Cas9 resulted in purple-colored fruits with high anthocyanin accumulation
+[74, 75].
+**Nutritional Content of Fruit**
+The nutritional value of tomato is decided by components like lycopene, ß-carotene, and vitamins.
+The enzyme Lycopene beta cyclase is responsible for the conversion of lycopene to ß-carotene and this enzyme is regulated by the gene _CycB_ .
+The wild-type plant _Solanum pimpinellifolium_ was genetically engineered to produce tomato plants with enlarged fruit size and numbers having increased lycopene accumulation [76].
+GABA (Ɣ-Amino Butyric Acid) is a non-protein amino acid present in large quantities in tomatoes, having health benefits like reducing blood pressure.
+GAD (Glutamate Decarboxylase) is the crucial enzyme involved in the GABA metabolic pathway.
+This pathway is controlled by 5 GAD genes, namely, _SlGAD1, SlGAD2, SlGAD3, SlGAD4,_ and _SlGAD5_ .
+Out of which, the autoinhibitory domain of _SlGAD2_ and _SlGAD3_ was knocked out by CRISPR/Cas9 to produce tomatoes with increased GABA accumulation with 125 mg/100 g content which is 15 times higher than the wild type.
+Mutation in _SlGAD2_ showed impaired growth, _SlGAD3_ mutants were not flowering and fruiting, whereas 77].
+affected [ Vitamin D deficiency has a major impact on the nutritional security of the people.
+Though Vitamin D can be synthesized in the human body from its precursor 7-DHC (7-Dehydrocholesterol) named Provitamin-D3 on exposure to ultraviolet-B radiation, most of the vitamin D source is from diet consumption _.
+Sl7-DR2_ (7-dehydrocholesterol reductase) helps in the conversion of 7-DHC to cholesterol, which helps in the formation of tomatine.
+The CRISPR/    Cas9-mediated knock-out of the second exon of _Sl7-DR2_  leads to increased 7-DHC accumulation, thus developing 17].
+Provitamin-D3-enriched bio-fortified tomatoes [ Ascorbic acid is a major antioxidant present in lower levels in tomatoes that are in yellow stage and gradually decreases as the fruit ripens.
+_
+SlAPX4_ ( _ASCORBATE PER-_ _
+OXIDASE 4_ ) is involved in the degradation of ascorbate as the fruit ripens.
+Hence, CRISPR/Cas9-mediated mutation of _SlAPX4_ produced gene-edited tomatoes with higher levels of ascorbate accumulation in ripened fruits.
+However, the mutation had no negative impact on the plant growth or ascorbate content of the leaves [78].
+**Advancements in Multi‑Trait Improvements**   Several advanced biotechnological approaches can be used to improve multiple traits, including floral morphology and architecture, flowering habit, fruit size, shape and color, shelf life, and nutritional value.
+A modification in transcription factors and promoters of certain genes can result in the combined manipulation of two or more characters.
+Single or multiple genes can be targeted at the same time using multiple single-guide RNAs, thereby improving the efficacy of gene editing.
+[79] The golden gate CRISPR kit enables editing multiple genes simultaneously as it can support up to eight sgRNA cassettes.
+The kit was tested by targeting one site in the _SlEIN2_, _SlERFE1,_ and _SlARF2B_ genes, 2 sites in the _SlACS2_ and _SlACS4_ genes, and 3 sites in the _SlGRAS8_ gene for improving the shelf life.
+The mutation efficacy was analyzed and thereby multi-gene editing was validated [80].
+CRISPR/Cas9 was used to target six important loci ( _SELF-_ _PRUNING, OVATE, FASCIATED, FRUIT WEIGHT, MUL-_  _TIFLORA, LYCOPENE BETA CYCLASE_ ) in wild tomato ( _Solanum pimpinellifolium_ ) to improve its fruit size, number, and nutritional value [76].
+A pYLCRISPR/Cas9 vector system was constructed with six sgRNA cassettes targeting five genes involved in GABA shunt, namely _GABA-TP1_, _GABA-_ _
+TP2_, _GABA-TP3_, _CAT9_, and _SSADH._
+This multiplex genome editing resulted in mutant plants where GABA accumulation  in leaves and fruits were increased as a result of knock-out  [81].
+CRISPR/Cas9-based knock-out mutations in _MYB12_ led to the development of pink-colored fruits, which are quite preferred in Asian countries like Japan and China owing to their better taste
+[82].
+Apart from Cas9, CRISPR/Cas12a (Cpf1) is a similar system for trait modification in tomato.
+Cas12a was used to mutate an important transcription factor in flavonoid pathway, namely MYB12 leading to the development of pinkcolored fruits [83].
+This CRISPR/Cas12a system is used to produce various trait modifications apart from floral and fruit characteristics like salinity tolerance due to mutation in _HKT1_ ; _2_ ( _HIGH-AFFINITY K_
+[+] _TRANSPORTER 1;2_ ) and   herbicide chlorsulfuron resistance by mutation _ALS_ ( _ACE-_ _TOLACTATE SYNTHASE)_ gene
+[84].
+Cytosine base editors and adenosine base editors were successfully applied through PEG (Polyethylene glycol)-mediated Cas9 delivery into protoplasts to improve plant regeneration by targeting AGO7 in tomato cultivar Micro-Tom [85].
+PEG-mediated transfection of diploid and tetraploid protoplast of in vitro shoots using cas9 and RNPs (Ribonucleoproteins) targeting genes involved in small interfering RNAs biogenesis, _RNA-_ _DEPENDENT RNA POLYMERASE 6_ ( _SpRDR6_ ), and _SUP-_ _PRESSOR OF GENE SILENCING 3_ ( _SpSGS3_ ); pathogenrelated peptide precursors, _PATHOGENESIS-RELATED_ _
+PROTEIN-1_ ( _SpPR-1_ ), and _PROSYSTEMIN_ ( _SpProSys_ ); and fungal resistance ( _MILDEW RESISTANT LOCUS O,_ _SpMlo1_ ) was carried out in wild cultivar _S_ .
+_peruvianum_, resulting in mutant plants with increased TYLCV (Tomato Yellow Leaf Curl Virus) proliferation, sterility, and mildew attack.
+This indicates the influence of these genes as a knock-in effect in overall plant regeneration [86].
+Similarly, protoplast transfection using Cas9 and RNPs targeting selfpruning genes, _SP,_ and _SP5G_ resulted in altered determinate plant growth habit, early and synchronous flowering, and plant regeneration [87].
+Target-AID (Target-Activation Induced Cytidine Deaminase) represents a base editing technology that facilitates the accurate transformation of particular DNA bases while avoiding the induction of double-strand breaks (DSBs),   **Fig.
+2** Comprehensive figure depicting the overview of advanced CRISPR/Cas-based gene editing systems for genetic improvement.
+_
+HDR_ Homologous Recombination, _NHEJ_
+Non-Homologous End    Molecular Biotechnology   in contrast to conventional CRISPR methodologies.
+This technique encompasses the amalgamation of dCas9 (dead Cas9), characterized by the absence of nuclease activity yet retaining the ability to associate specific DNA sequences with a cytidine deaminase enzyme, predominantly PmCDA1.
+This innovative system enables the direct alteration of cytosine (C) to thymine (T) (or guanine (G) to adenine (A)) at designated target loci, thereby instigating precise point mutations without the necessity of cleaving the DNA [88].
+Mutant plants produced by knocking out _SlINVINH1_
+(Invertase inhibitor) gene by the TargetAID method produced fruits with higher sugar content, without loss in fruit weight and deterioration in plant growth [89].
+Similarly, three carotenoid-related genes, namely _SlDDB1_, _SlDET1,_ and _SlCYC-B,_ were targeted through the Target-AID method to validate the role of these genes in carotenoid accumulation [90].
+Advanced biotechnological gene editing approaches like CRISPR systems other than cas9 like Cas12a and Cas13, prime editing, and base editing are all on the verge of development and their efficacy has been tested so far on biotic (viral resistance) and abiotic stress tolerance.
+Its role in floral and fruit modification is yet to be explored in a wide aspect, to enhance yield and nutritional components.
+A detailed figure describing the advanced biotechnological approaches in genome editing used for improving several plant characters is given (Fig. 2).
+Joining, _pegRNA_ Prime Editing Guide RNA, _APOBEC_ Apolipoprotein B mRNA Editing Catalytic Polypeptide-like family of proteins, _RNP_ Ribonucleoprotein   Molecular Biotechnology   **Long‑Term Stability and Ecological Impacts** **of Gene Editing Systems**   Though the CRISPR gene editing technique is effectively used to target specific genes and produce modified plants, care has to be taken to make sure that the edited plants should be free from transgenes to maintain trait stability and also to be approved for commercial production following regulatory rules.
+Sexual reproduction of the edited plants can result in the removal of transgenes.
+Also, transgenes can be eliminated and identified through marker-assisted tracking.
+Further techniques involve sequentially activating CRISPR genes and suicide genes to undergo programmed self-elimination, resulting in transgene-free gene-edited plants.
+To be precise, nontransgenic approaches like RNP (Ribonucleoprotein) transfection, nano-biotechnology, and transient expression of transgenes without DNA integration can be used, especially for plants that cannot be propagated sexually
+[91].
+Though RNPs do not involve transgenes and can be transformed by particle bombardment or transformation, the real difficulty lies in the regeneration of the plant from a single protoplast, leading to its limited experimentation in laboratories [92].
+Chimerically edited plants can be produced by delivering gene editing particles into the meristematic cells using nanoparticles and transgene-free plants can be generated from these edited plants through tissue culture or propagation via cuttings
+[93].
+The Transgene Killer CRISPR technology is a self-eliminating system that has two units, namely a gene editing unit comprising the cas9 and gRNA to facilitate editing of target genes, followed by a suicide genes unit that triggers cell death.
+This will allow only the transgene-free plants to survive, enabling self-selection
+[94].
+The major concern in CRISPR is the presence of offtarget effects, which can be eliminated by efficient guide 95].
+StudRNA designing and high-fidelity cas9 variants [ ies have shown that CRISPR/Cas9-induced modifications can be stably inherited across multiple generations in tomatoes, indicating the potential for sustained genetic improvements.
+Long-term field trials are needed to rule out the effect of environmental factors and epigenetic changes and to ensure the stability of traits passing over to the further generations [96].
+Gene editing can be used to produce plants with improved ecological impacts.
+Plants may be modified genetically to improve their resilience to climate change and resistance to pests and diseases, thereby reducing the use of fertilizers, pesticides, and herbicides.
+The target traits could be identified and the genes can be modified to increase yield and nutrition, to face the increasing demands, which is the major concern in the current    global status.
+Yet, there are other negative impacts like 97, loss of bio-diversity and effects on non-target species [ 98].
+Further, the enhancement of certain characteristics or morphology of the plant may result in the degradation of other characteristics.
+For example, mutation in _GABA_ _
+TP_ (pyruvate-dependent GABA-T) resulted in increased GABA accumulation, but the plants were dwarf in later stages and showed necrosis and abnormal leaf morphology
+[81].
+There are several regulatory frameworks worldwide that debate over the commercial production of gene-edited plants.
+In the USA, the USDA (United States Department of Agriculture), FDA (Food and Drug Administration), and EPA (Environmental Protection Agency) together have formed guidelines to permit gene-edited crops without any foreign DNA.
+Whereas, in the European Union, the ECJ (European Court of Justice) brought gene-edited crops under the same regulations as GMOs (Genetically Modified Organisms) and debates are ongoing to modify these frameworks.
+But, different regulatory frameworks are followed in different countries [99].
+In Japan, Sanatech Seed has produced the first ever CRISPR-edited food to enter into the market, naming it Sicilian Rouge, a GABA-enriched tomato
+[100].
+**Conclusion**   Concerning the changes in the climatic conditions across the globe, the ecological conditions necessary for the emergence of crops are being affected drastically.
+In addition to this, the rapid surge in the world population has contributed to the alarming decline in the nutritional security of countries all over the world.
+The available vast genetic resources for agricultural and horticultural crops have to be meticulously exploited by breeding or genetic engineering approaches to create plants that can meet the current demands of the people.
+With the advancement in genetic improvement technologies, new-age tools like CRISPR/Cas9 is found to be promising approach to creating specific mutations in the target traits and produce a highly desired plant.
+In the case of plants like tomatoes, genome editing is used to produce plants with increased yield producing fruits with enhanced shelf life, flavor, aroma, color pigments, antioxidants, and nutrients which need to be further improved.
+These characteristics, both morphological and physiological, are controlled by several genes.
+The mechanism by which the genes regulate novel, specific, and complex traits like biotic and abiotic stress tolerance needs to be exhaustively studied.
+Thorough studies on the role of protein-coding genes in functional mechanisms along with the action of micro-RNAs and long non-coding RNAs on the regulatory mechanism of genes  are needed to understand the intricate mechanisms that lie under complex traits.
+Also, the epigenetic effect on genes   controlling the traits is a broader area yet to be completely exploited.
+CRISPR can be used to target multiple traits simultaneously by multiplexing and also the production of gene-edited plants takes short period compared to other technologies, but efficiency of transformation, regeneration potential of the plants and success rate are major concerning factors that need to be standardized.
+Many cultivars have not yet been used for genome editing and protocols have to be standardized for them.
+Further investigations on the use of other cas variants can also be explored in the near future.
+CRISPR/CAS9 Ribonucleoproteins can be delivered to plant protoplast to allow DNA-free genome editing methods.
+Apart from CRISPR, the coming-age gene editing tools like base editing and prime editing, where specific mutations can be created without causing double-stranded breaks must be executed to generate plants of high value.
+However, proper concern has to be given to the development and release of gene-edited plants as they come under Genetically Modified Organisms and their regulatory framework varies from country to country.
+This review provides a thorough insight into the major genes involved in the flowering and fruiting habits of tomatoes.
+The genes _SP, SP5G, CLV,_ and  _FAF_ play an important role in early flowering and altering plant growth and flowering habits.
+The shelf life of tomatoes is majorly governed by _SlPG, RIN_, _ALC_, and _ETR7_ .
+_
+MYB12_ and _ANT1_ are involved in fruit pigmentation, contributing to anthocyanin accumulation.
+The nutritional value of tomatoes can be increased by modifying genes like _CycB_, _
+GAD, APX,_ and Sl7-DR2.
+The genes discussed in the above review can be used by researchers and breeders to improve floral and fruit traits.
+Though tomato genes are being widely studied, in-depth insights need to be given to understand the genes involved and develop plants resistant to fungal and viral diseases, tolerant to biotic and abiotic stresses, modified architecture without the pre-mature dropping of flowers, early yielding, and nutritionally enriched fruits.
+**Data availability** There is no data availability statement for this review.
+**References**   [1. FAO.
+Tomato land and water 2023 https://​www.​fao.​org/​land-​](https://www.fao.org/land-water/databases-and-software/crop-information/tomato)
+[water/​datab​ases-​and-​softw​are/​crop-​infor​mation/​tomato](https://www.fao.org/land-water/databases-and-software/crop-information/tomato) 2. Ali, M. Y., Sina, A. A. I., Khandker, S. S., Neesa, L., Tanvir, E., Kabir, A., Khalil, M. I., & Gan, S. H. (2020).
+Nutritional composition and bioactive compounds in tomatoes and their impact on human health and disease: A review.
+_
+Foods.,_ _10_
+[(1), 45.
+https://​](https://doi.org/10.3390/foods10010045)
+[doi.​org/​10.​3390/​foods​10010​045](https://doi.org/10.3390/foods10010045) 3.
+Friedman, M. (2013).
+Anticarcinogenic, cardioprotective, and other health benefits of tomato compounds lycopene, α-tomatine, and tomatidine in pure form and in fresh and processed tomatoes.
+_
+Journal of Agricultural and Food Chemistry,_ _61_ (40), 9534–9550.
+[https://​doi.​org/​10.​1021/​jf402​654e](https://doi.org/10.1021/jf402654e)    Molecular Biotechnology   4. Borguini, R. G., da Silva, F., & Torres, E. A. (2009).
+Tomatoes and tomato products as dietary sources of antioxidants.
+_
+Food_ _
+Review International,_ _25_
+[(4), 313–325. https://​doi.​org/​10.​1080/​](https://doi.org/10.1080/87559120903155859)
+[87559​12090​31558​59](https://doi.org/10.1080/87559120903155859)  5.
+Kumar, K. S., Paswan, S., & Srivastava, S. (2012).
+Tomato-a natural medicine and its health benefits.
+_
+Journal of Pharmacog-_ _nosy Phytochemistry.,_ _1_ (1), 33–43. 6.
+Toor, R. K., & Savage, G. P. (2005).
+Antioxidant activity in different fractions of tomatoes.
+_Food Research International,_ _38_ (5),
+[487–494.
+https://​doi.​org/​10.​1016/j.​foodr​es.​2004.​10.​016](https://doi.org/10.1016/j.foodres.2004.10.016) 7.
+Chaudhary, P., Sharma, A., Singh, B., & Nagpal, A. K. (2018).
+Bioactivities of phytochemicals present in tomato. _
+Journal of_ _
+Food Science and Technology,_ _55_
+[, 2833–2849. https://​doi.​org/​](https://doi.org/10.1007/s13197-018-3221-z) [10.​1007/​s13197-​018-​3221-z](https://doi.org/10.1007/s13197-018-3221-z)  8.
+Fiedor, J., & Burda, K. (2014).
+Potential role of carotenoids as antioxidants in human health and disease.
+_
+Nutrients,_ _6_ (2), 466– [488.
+https://​doi.​org/​10.​3390/​nu602​0466](https://doi.org/10.3390/nu6020466) 9. Tiwari, J. K., Rai, N., Singh, M. K., Mishra, L. K., Mishra, G., & Behera, T. (2023).
+Characterization of tomato lines for yield components, processing traits and disease resistance based on phenotype and molecular markers.
+_
+Vegetable Science,_ _50_ (2),
+[302–309.
+https://​doi.​org/​10.​61180/​vegsci.​2023.​v50.​i2.​06](https://doi.org/10.61180/vegsci.2023.v50.i2.06) 10.
+Razifard, H., Ramos, A., Della Valle, A. L., Bodary, C., Goetz, E., Manser, E. J., Li, X., Zhang, L., Visa, S., Tieman, D., van der Knaap, E., & Caicedo, A. L. (2020).
+Genomic evidence for complex domestication history of the cultivated tomato in Latin America.
+_
+Molecular Biology and Evolution,_ _37_ (4), 1118–1132.
+[https://​doi.​org/​10.​1093/​molbev/​msz297](https://doi.org/10.1093/molbev/msz297)
+11.
+Bauchet, G., & Causse, M. (2012).
+Genetic diversity in tomato ( _Solanum lycopersicum_ ) and its wild relatives.
+_
+Genetic diversity_ _in plants,_ _8_
+[, 134–162. https://​doi.​org/​10.​5772/​33073](https://doi.org/10.5772/33073) 12.
+Di Matteo, A., Rigano, M. M., Sacco, A., Frusciante, L., & Barone, A. (2011).
+Genetic transformation in tomato: Novel tools to improve fruit quality and pharmaceutical production.
+_
+Genetic_ _transformation_
+[. https://​doi.​org/​10.​5772/​24521](https://doi.org/10.5772/24521) 13.
+Sacco, A., Greco, B., Di Matteo, A., De Stefano, R., & Barone, A. (2013).
+Evaluation of tomato genetic resources for response to water deficit.
+_
+American Journal of Plant Sciences_
+[.
+https://​doi.​](https://doi.org/10.4236/ajps.2013.4.12A3016)
+[org/​10.​4236/​ajps.​2013.4.​12A30​16](https://doi.org/10.4236/ajps.2013.4.12A3016) 14
+Saito, T., Ariizumi, T., Okabe, Y., Asamizu, E., Hiwasa-Tanase, K., Fukuda, N., et al. (2011).
+TOMATOMA: A novel tomato mutant database distributing Micro-Tom mutant collections.
+_
+Plant and Cell Physiology.,_ _52_
+[(2), 283–296.
+https://​doi.​org/​10.​](https://doi.org/10.1093/pcp/pcr004)
+[1093/​pcp/​pcr004](https://doi.org/10.1093/pcp/pcr004) 15.
+Pnueli, L., Gutfinger, T., Hareven, D., Ben-Naim, O., Ron, N., Adir, N., et al. (2001).
+Tomato SP-interacting proteins define a conserved signaling system that regulates shoot architecture and flowering.
+_
+The Plant Cell,_ _13_
+[(12), 2687–2702.
+https://​doi.​org/​10.​](https://doi.org/10.1105/tpc.010293)
+[1105/​tpc.​010293](https://doi.org/10.1105/tpc.010293) 16.
+Soyk, S., Müller, N. A., Park, S. J., Schmalenbach, I., Jiang, K., _SELF_
+Hayama, R., et al. (2017).
+Variation in the flowering gene _PRUNING 5G_ promotes day-neutrality and early yield in tomato. _
+Nature Genetics,_ _49_
+[(1), 162–168.
+https://​doi.​org/​10.​1038/​ng.​](https://doi.org/10.1038/ng.3733)
+[3733](https://doi.org/10.1038/ng.3733)  17.
+Li, J., Scarano, A., Gonzalez, N. M., D’Orso, F., Yue, Y., Nemeth, K., et al. (2022).
+Biofortified tomatoes provide a new route to vitamin D sufficiency.
+_
+Nature Plants,_ _8_
+[(6), 611–616.
+https://​](https://doi.org/10.1038/s41477-022-01154-6)
+[doi.​org/​10.​1038/​s41477-​022-​01154-6](https://doi.org/10.1038/s41477-022-01154-6) 18.
+Lawal, O., Ayodele, A., & Chukwuka, K. (2007).
+Morphological studies in Lycopersicon esculentum Mill lines in Southwestern Nigeria.
+_
+Journal of Biological Sciences,_ _7_
+[(5), 737–744. https://​](https://doi.org/10.3923/jbs.2007.737.744)
+[doi.​org/​10.​3923/​jbs.​2007.​737.​744](https://doi.org/10.3923/jbs.2007.737.744) 19.
+Sharma, P., Thakur, S., & Negi, R. (2019).
+Recent advances in breeding of tomato–a review.
+_International Journal of Current_ _
+Microbiology and Applied Sciences,_ _8_
+[(3), 1275–1283.
+https://​](https://doi.org/10.20546/ijcmas.2019.803.151)
+[doi.​org/​10.​20546/​ijcmas.​2019.​803.​151](https://doi.org/10.20546/ijcmas.2019.803.151)   Molecular Biotechnology   20.
+Begna, T. (2021).
+Conventional breeding methods widely used to improve self-pollinated crops.
+_International Journal of Research_ _
+Studies in Agricultural Sciences,_ _7_
+[(1), 1–16.
+https://​doi.​org/​10.​](https://doi.org/10.20431/2454-6224.0701001)
+[20431/​2454-​6224.​07010​01](https://doi.org/10.20431/2454-6224.0701001)  21.
+Lamichhane, S., & Thapa, S. (2022).
+Advances from conventional to modern plant breeding methodologies.
+_
+Plant Breed._ _
+Biotech.,_ _10_
+[(1), 1–14. https://​doi.​org/​10.​9787/​PBB.​2022.​10.1.1](https://doi.org/10.9787/PBB.2022.10.1.1) 22.
+Shahwar, D., Ahn, N., Kim, D., Ahn, W., & Park, Y. (2023).
+Mutagenesis-based Plant Breeding Approaches and Genome Engineering: A Review Focused on Tomato. _
+Mutation Research/_ _
+Reviews in Mutation Research_
+[. https://​doi.​org/​10.​1016/j.​mrrev.​](https://doi.org/10.1016/j.mrrev.2023.108473)
+[2023.​108473](https://doi.org/10.1016/j.mrrev.2023.108473)  23.
+Hasan, N., Choudhary, S., Naaz, N., Sharma, N., & Laskar, R. A. (2021).
+Recent advancements in molecular marker-assisted selection and applications in plant breeding programmes.
+_
+Journal_ _of Genetic Engineering and Biotechnology,_ _19_
+[(1), 1–26.
+https://​](https://doi.org/10.1186/s43141-021-00231-1)
+[doi.​org/​10.​1186/​s43141-​021-​00231-1](https://doi.org/10.1186/s43141-021-00231-1) 24.
+Zhang, Y., Massel, K., Godwin, I. D., & Gao, C. (2018).
+Applications and potential of genome editing in crop improvement.
+_
+Genome Biology,_ _19_, 1–11.
+[https://​doi.​org/​10.​1186/​](https://doi.org/10.1186/s13059-018-1586-y)
+[s13059-​018-​1586-y](https://doi.org/10.1186/s13059-018-1586-y) 25 Shamshirgaran, Y., Liu, J., Sumer, H., Verma, P. J., & TaheriGhahfarokhi, A. (2022).
+Tools for efficient genome editing; ZFN, TALEN, and CRISPR.
+_Applications of genome modulation and_ _editing_
+[.
+https://​doi.​org/​10.​1007/​978-1-​0716-​2301-5_2](https://doi.org/10.1007/978-1-0716-2301-5_2) 26.
+Nussenzweig, P. M., & Marraffini, L. A. (2020).
+Molecular mechanisms of CRISPR-Cas immunity in bacteria.
+_
+Annual_ _
+Review of Genetics,_ _54_
+[, 93–120. https://​doi.​org/​10.​1146/​annur​](https://doi.org/10.1146/annurev-genet-022120-112523)
+[ev-​genet-​022120-​112523](https://doi.org/10.1146/annurev-genet-022120-112523) 27.
+Rehman, F., Gong, H., Bao, Y., Zeng, S., Huang, H., & Wang, Y. (2022).
+CRISPR gene editing of major domestication traits accelerating breeding for _Solanaceae_ crops improvement.
+_
+Plant_ _
+Molecular Biology,_ _108_
+[(3), 157–173. https://​doi.​org/​10.​1007/​](https://doi.org/10.1007/s11103-021-01229-6)
+[s11103-​021-​01229-6](https://doi.org/10.1007/s11103-021-01229-6)  28.
+Tyumentseva, M., Tyumentsev, A., & Akimkin, V. (2023).
+CRISPR/Cas9 landscape: Current state and future perspectives.
+_
+International Journal of Molecular Sciences,_ _24_ (22), 16077.
+[https://​doi.​org/​10.​3390/​ijms2​42216​077](https://doi.org/10.3390/ijms242216077) 29.
+Park, S. J., Jiang, K., Schatz, M. C., & Lippman, Z. B. (2012).
+Rate of meristem maturation determines inflorescence architecture in tomato. _
+Proceedings of the National Academy of Sciences,_ _109_
+[(2), 639–644.
+https://​doi.​org/​10.​1073/​pnas.​11149​63109](https://doi.org/10.1073/pnas.1114963109) 30.
+Xu, C., Liberatore, K. L., MacAlister, C. A., Huang, Z., Chu, Y.-H., Jiang, K., Brooks, C., Ogawa-Ohnishi, M., Xiong, G., Pauly, M., Van Eck, J., Matsubayashi, Y., van der Knaap, E., & Lippman, Z. B. (2015).
+A cascade of arabinosyltransferases controls shoot meristem size in tomato.
+_
+Nature Genetics,_ _47_ (7),
+[784–792. https://​doi.​org/​10.​1038/​ng.​3309](https://doi.org/10.1038/ng.3309) 31.
+Zhang, Y., Sun, H., Tian, L., Miao, Y., Hou, L., Sun, M., Qi, M., & Li, T. (2023).
+Transcriptome Analysis Identifies Downstream Genes of _CLAVATA3_ in Tomato. _
+Horticulturae,_ _10_
+[(1), 11.
+https://​](https://doi.org/10.3390/horticulturae10010011)
+[doi.​org/​10.​3390/​horti​cultu​rae10​010011](https://doi.org/10.3390/horticulturae10010011) 32.
+Yang, Y., Yang, H., Tan, Y., Zhao, T., Xu, X., Li, J., & Jiang, J. (2021).
+Comparative Genome Analysis of Genes Regulating Compound Inflorescences in Tomato.
+_International Journal of_ _
+Molecular Sciences,_ _22_
+[(22), 12548. https://​doi.​org/​10.​3390/​ijms2​](https://doi.org/10.3390/ijms222212548)
+[22212​548](https://doi.org/10.3390/ijms222212548)  33.
+Guo, X., Zhao, J., Chen, Z., Qiao, J., Zhang, Y., Shen, H., & Hu, Z. (2022).
+CRISPR/Cas9-targeted mutagenesis of _SlCMT4_ causes changes in plant architecture and reproductive organs in tomato.
+_
+Horticulture Research_
+[. https://​doi.​org/​10.​1093/​hr/​uhac0​](https://doi.org/10.1093/hr/uhac081)
+[81](https://doi.org/10.1093/hr/uhac081)  34.
+Zhang, Y., Zhang, B., Yang, T., Zhang, J., Liu, B., Zhan, X., & Liang, Y. (2020).
+The _GAMYB_ -like gene _SlMYB33_ mediates flowering and pollen development in tomato.
+_
+Horticulture_ _
+Research_
+[. https://​doi.​org/​10.​1038/​s41438-​020-​00366-1](https://doi.org/10.1038/s41438-020-00366-1)    35.
+Guo, X., Hu, Z., Yin, W., Yu, X., Zhu, Z., Zhang, J., & Chen, G. (2016).
+The tomato floral homeotic protein FBP1-like gene, _SlGLO1_, plays key roles in petal and stamen development.
+_
+Sci-_ _ence and Reports,_ _6_
+[(1), 20454. https://​doi.​org/​10.​1038/​srep2​](https://doi.org/10.1038/srep20454) [0454](https://doi.org/10.1038/srep20454)  36.
+Wu, M., Zhang, Q., Wu, G., Zhang, L., Xu, X., Hu, X., Gong, Z., Chen, Y., Li, Z., Li, H., & Deng, W. (2023).
+_
+SlMYB72_ affects pollen development by regulating autophagy in tomato.
+_Horticul-_ _ture.
+Research.,_ _10_
+[(3), p286. https://​doi.​org/​10.​1093/​hr/​uhac2​86](https://doi.org/10.1093/hr/uhac286) 37.
+Wang, X., Liu, Z., Sun, S., Wu, J., Li, R., Wang, H., & Cui, X. (2021).
+SISTER OF TM3 activates _FRUITFULL1_ to regulate inflorescence branching in tomato.
+_
+Horticulture Research_ .
+[https://​doi.​org/​10.​1038/​s41438-​021-​00677-x](https://doi.org/10.1038/s41438-021-00677-x) 38.
+Lin, W., Gupta, S. K., Arazi, T., & Spitzer-Rimon, B. (2021).
+_MIR172d_ is required for floral organ identity and number in tomato.
+_
+International Journal of Molecular Sciences,_ _22_ (9), [4659.
+https://​doi.​org/​10.​3390/​ijms2​20946​59](https://doi.org/10.3390/ijms22094659) 39 Xu, C., Park, S. J., Van Eck, J., & Lippman, Z. B. (2016).
+Control of inflorescence architecture in tomato by _BTB_ / _POZ_ transcriptional regulators.
+_
+Genes & Development,_ _30_ (18), 2048–2061.
+[https://​doi.​org/​10.​1101/​gad.​288415.​116](https://doi.org/10.1101/gad.288415.116) 40.
+Shang, L., Tao, J., Song, J., Wang, Y., Zhang, X., Ge, P., Li, F., Dong, H., Gai, W., Grierson, D., Ye, Z., & Zhang, Y. (2023).
+CRISPR/Cas9-mediated mutations of _FANTASTIC FOUR_ gene family for creating early flowering mutants in tomato.
+_
+Plant Bio-_ _technology Journal_
+[. https://​doi.​org/​10.​1111/​pbi.​14223](https://doi.org/10.1111/pbi.14223) 41.
+Cao, K., Cui, L., Zhou, X., Ye, L., Zou, Z., & Deng, S. (2016).
+Four tomato _FLOWERING LOCUS_ T-like proteins act antagonistically to regulate floral initiation.
+_
+Frontiers in Plant Science,_ _6_
+[, 1213.
+https://​doi.​org/​10.​3389/​fpls.​2015.​01213](https://doi.org/10.3389/fpls.2015.01213) 42.
+Carmel-Goren, L., Liu, Y. S., Lifschitz, E., & Zamir, D. (2003).
+The _SELF-PRUNING_ gene family in tomato.
+_
+Plant Molecular_ _
+Biology,_ _52_
+[, 1215–1222. https://​doi.​org/​10.​1023/B:​PLAN.​00000​](https://doi.org/10.1023/B:PLAN.0000004333.96451.11)
+[04333.​96451.​11](https://doi.org/10.1023/B:PLAN.0000004333.96451.11) 43.
+Pnueli, L., Carmel-Goren, L., Hareven, D., Gutfinger, T., Alvarez, J., Ganal, M., Zamir, D., & Lifschitz, E. (1998).
+The _SELF-_ _PRUNING_ gene of tomato regulates vegetative to reproductive switching of sympodial meristems and is the ortholog of _CEN_ and _TFL1_ .
+_
+Development,_ _125_
+[(11), 1979–1989.
+https://​doi.​org/​](https://doi.org/10.1242/dev.125.11.1979)
+[10.​1242/​dev.​125.​11.​1979](https://doi.org/10.1242/dev.125.11.1979)  44.
+Jiang, X., Lubini, G., Hernandes-Lopes, J., Rijnsburger, K., Veltkamp, V., de Maagd, R. A., Angenent, G. C., & Bemer, M. (2022).
+_
+FRUITFULL_ -like genes regulate flowering time and inflorescence architecture in tomato.
+_
+The Plant Cell,_ _34_ (3), [1002–1019.
+https://​doi.​org/​10.​1093/​plcell/​koab2​98](https://doi.org/10.1093/plcell/koab298)
+45.
+Grandillo, S., Ku, H., & Tanksley, S. (1999).
+Identifying the loci responsible for natural variation in fruit size and shape in tomato. _
+TAG.
+Theoretical and Applied Genetics.,_ _99_
+[, 978–987.
+https://​](https://doi.org/10.1007/s001220051405)
+[doi.​org/​10.​1007/​s0012​20051​405](https://doi.org/10.1007/s001220051405) 46.
+Van der Knaap, E., Chakrabarti, M., Chu, Y. H., Clevenger, J. P., Illa-Berenguer, E., Huang, Z., Keyhaninejad, N., Mu, Q., Sun, L., Wang, Y., & Wu, S. (2014).
+What lies beyond the eye: The molecular mechanisms regulating tomato fruit weight and shape.
+_
+Frontiers in Plant Science,_ _5_
+[, 227. https://​doi.​org/​10.​3389/​fpls.​](https://doi.org/10.3389/fpls.2014.00227)
+[2014.​00227](https://doi.org/10.3389/fpls.2014.00227)  47.
+Guo, M., Rupe, M. A., Dieter, J. A., Zou, J., Spielbauer, D., Duncan, K. E., Howard, R. J., Hou, Z., & Simmons, C. R. (2010).
+Cell Number Regulator1 affects plant and organ size in maize:
+Implications for crop yield enhancement and heterosis.
+_
+The Plant_ _
+Cell,_ _22_
+[(4), 1057–1073.
+https://​doi.​org/​10.​1105/​tpc.​109.​073676](https://doi.org/10.1105/tpc.109.073676) 48.
+Chakrabarti, M., Zhang, N., Sauvage, C., Muños, S., Blanca, J., Cañizares, J., Diez, M. J., Schneider, R., Mazourek, M., McClead, M. C., & van der Knaap, E. (2013).
+A cytochrome P450 regulates a domestication trait in cultivated tomato.
+_Pro-_ _
+ceedings of the National Academy of Sciences,_ _110_ (42), 17125–
+[17130.
+https://​doi.​org/​10.​1073/​pnas.​13073​13110](https://doi.org/10.1073/pnas.1307313110)   49.
+Huang, Z., & van der Knaap, E. (2011).
+Tomato fruit weight 11.3 maps close to fasciated on the bottom of chromosome 11. _
+Theoretical and Applied Genetics,_ _123_
+[, 465–474. https://​doi.​org/​](https://doi.org/10.1007/s00122-011-1599-3)
+[10.​1007/​s00122-​011-​1599-3](https://doi.org/10.1007/s00122-011-1599-3)  50.
+Ning, Y., Wei, K., Li, S., Zhang, L., Chen, Z., Lu, F., Yang, P., Yang, M., Liu, X., Liu, X., Wang, X., Cao, X., Wang, X., Guo, Y., Liu, L., Li, X., Du, Y., Li, J., & Huang, Z. (2023).
+Fine mapping of fw6. 3, a major-effect quantitative trait locus that controls fruit weight in tomato.
+_
+Plants,_ _12_
+[(11), 2065.
+https://​doi.​org/​10.​](https://doi.org/10.3390/plants12112065)
+[3390/​plant​s1211​2065](https://doi.org/10.3390/plants12112065) 51.
+Rodríguez, G. R., Muños, S., Anderson, C., Sim, S.-C., Michel, A., Causse, M., McSpadden Gardener, B. B., Francis, D., & van der Knaap, E. (2011).
+Distribution of _SUN, OVATE, LC_, and _FAS_ in the tomato germplasm and the relationship to fruit shape diversity.
+_
+Plant Physiology,_ _156_
+[(1), 275–285. https://​doi.​org/​10.​](https://doi.org/10.1104/pp.110.167577)
+[1104/​pp.​110.​167577](https://doi.org/10.1104/pp.110.167577) 52.
+Xiao, H., Jiang, N., Schaffner, E., Stockinger, E. J., & van der Knaap, E. (2008).
+A retrotransposon-mediated gene duplication underlies morphological variation of tomato fruit.
+_
+Science,_ _319_
+[(5869), 1527–1530.
+https://​doi.​org/​10.​1126/​scien​ce.​115304](https://doi.org/10.1126/science.115304) 53.
+Cong, B., Barrero, L. S., & Tanksley, S. D. (2008).
+Regulatory change in _YABBY_ -like transcription factor led to evolution of extreme fruit size during tomato domestication.
+_
+Nature Genetics,_ _40_
+[(6), 800–804. https://​doi.​org/​10.​1038/​ng.​144](https://doi.org/10.1038/ng.144) 54.
+Zhu, Q., Deng, L., Chen, J., Rodríguez, G. R., Sun, C., Chang, Z., Yang, T., Zhai, H., Jiang, H., Topcu, Y., Francis, D., Hutton, S., Sun, L., Li, C. B., van der Knaap, E., & Li, C. (2023).
+Redesigning the tomato fruit shape for mechanized production.
+_
+Nature Plants,_ _9_
+[(10), 1659–1674. https://​doi.​org/​10.​1038/​](https://doi.org/10.1038/s41477-023-01522-w) [s41477-​023-​01522-w](https://doi.org/10.1038/s41477-023-01522-w)  55.
+Vrebalov, J., Pan, I. L., Arroyo, A. J. M., McQuinn, R., Chung, M., Poole, M., Rose, J., Seyour, G., Grandillo, S., Giovannoni, J., & Irish, V. F. (2009).
+Fleshy fruit expansion and ripening are regulated by the tomato _SHATTERPROOF_ gene _TAGL1_ .
+_
+The_ _
+Plant Cell,_ _21_
+[(10), 3041–3062.
+https://​doi.​org/​10.​1105/​tpc.​109.​](https://doi.org/10.1105/tpc.109.066936)
+[066936](https://doi.org/10.1105/tpc.109.066936)  56.
+Ito, Y., Sekiyama, Y., Nakayama, H., Nishizawa-Yokoi, A., Endo, M., Shima, Y., Nakamura, N., Kotake-Nara, E., Kawasaki, S., Hirose, S., & Toki, S. (2020).
+Allelic mutations in the ripeninginhibitor locus generate extensive variation in tomato ripening.
+_
+Plant Physiology,_ _183_
+[(1), 80–95.
+https://​doi.​org/​10.​1104/​pp.​20.​](https://doi.org/10.1104/pp.20.00020)
+[00020](https://doi.org/10.1104/pp.20.00020)  57.
+Li, S., Xu, H., Ju, Z., Cao, D., Zhu, H., Fu, D., Grierson, D., Qin, G., Luo, Y., & Zhu, B. (2018).
+The _RIN-MC_ fusion of _MADS_ -box transcription factors has transcriptional activity and modulates expression of many ripening genes.
+_
+Plant Physiology,_ _176_ (1),
+[891–909.
+https://​doi.​org/​10.​1104/​pp.​17.​01449](https://doi.org/10.1104/pp.17.01449) 58.
+Yang, Y., Zhu, G., Li, R., Yan, S., Fu, D., Zhu, B., Tian, H., Luo, Y., & Zhu, H. (2017).
+The RNA editing factor _SlORRM4_ is required for normal fruit ripening in tomato.
+_
+Plant Physiology,_ _175_
+[(4), 1690–1702.
+https://​doi.​org/​10.​1104/​pp.​17.​01265](https://doi.org/10.1104/pp.17.01265) 59 Chen, Y., Hu, G., Rodriguez, C., Liu, M., Binder, B. M., & Chervin, C. (2020).
+Roles of _SlETR7_, a newly discovered ethylene receptor, in tomato plant and fruit development.
+_
+Journal Hor-_ _ticulture Research_
+[. https://​doi.​org/​10.​1038/​s41438-​020-​0239-y](https://doi.org/10.1038/s41438-020-0239-y) 60.
+Yang, L., Huang, W., Xiong, F., Xian, Z., Su, D., Ren, M., & Li, Z. (2017).
+Silencing of _SlPL_, which encodes a pectate lyase in tomato, confers enhanced fruit firmness, prolonged shelf-life and reduced susceptibility to grey mould.
+_
+Plant Biotechnology_ _
+Journal,_ _15_
+[(12), 1544–1555.
+https://​doi.​org/​10.​1111/​pbi.​12737](https://doi.org/10.1111/pbi.12737) 61.
+Wang, D., Lu, Q., Wang, X., Ling, H., & Huang, N. (2023).
+Elucidating the role of _SlXTH5_ in tomato fruit softening.
+_Horti-_ _culture Plant Journal,_ _9_
+[(4), 777–788.
+https://​doi.​org/​10.​1016/j.​](https://doi.org/10.1016/j.hpj.2022.12.005)
+[hpj.​2022.​12.​005](https://doi.org/10.1016/j.hpj.2022.12.005) 62.
+Li, R., Sun, S., Wang, H., Wang, K., Yu, H., Zhou, Z., Xin, P., Chu, J., Zhao, T., Wang, H., Li, J., & Cui, X. (2020).
+_
+FIS1_    Molecular Biotechnology   encodes a GA2-oxidase that regulates fruit firmness in tomato.
+_
+Nature Communications,_ _11_
+[(1), 5844.
+https://​doi.​org/​10.​1038/​](https://doi.org/10.1038/s41467-020-19705-w) [s41467-​020-​19705-w](https://doi.org/10.1038/s41467-020-19705-w)  63.
+Nie, H., Shi, Y., Geng, X., & Xing, G. (2022).
+CRISRP/Cas9mediated targeted mutagenesis of tomato polygalacturonase gene ( _SlPG_ ) delays fruit softening.
+_
+Frontiers in Plant Science,_ _13_, [729128.
+https://​doi.​org/​10.​3389/​fpls.​2022.​729128](https://doi.org/10.3389/fpls.2022.729128) 64.
+De Jong, M., Wolters-Arts, M., Feron, R., Mariani, C., & Vriezen, W. H. (2009).
+The _Solanum lycopersicum_ auxin response factor 7 ( _SlARF7_ ) regulates auxin signaling during tomato fruit set and development.
+_
+The Plant Journal,_ _57_
+[(1), 160–170.
+https://​doi.​org/​](https://doi.org/10.1111/j.1365-313X.2008.03671.x)
+[10.​1111/j.​1365-​313X.​2008.​03671.x](https://doi.org/10.1111/j.1365-313X.2008.03671.x) 65.
+Mounet, F., Moing, A., Kowalczyk, M., Rohrmann, J., Petit, J., Garcia, V., Maucourt, M., Yano, K., Deborde, C., Aoki, K., Berges, H., Granell, A., Fernie, A. R., Bellini, C., Rothan, C., & Lemaire-Chamley, M. (2012).
+Down-regulation of a single auxin efflux transport protein in tomato induces precocious fruit development.
+_
+Journal of Experimental Botany,_ _63_ (13), 4901–4917.
+[https://​doi.​org/​10.​1093/​jxb/​ers167](https://doi.org/10.1093/jxb/ers167) 66.
+Ren, Z., Li, Z., Miao, Q., Yang, Y., Deng, W., & Hao, Y. (2011).
+The auxin receptor homologue in _Solanum lycopersicum_ stimulates tomato fruit set and leaf morphogenesis.
+_
+Journal of Experi-_ _mental Botany,_ _62_
+[(8), 2815–2826.
+https://​doi.​org/​10.​1093/​jxb/​](https://doi.org/10.1093/jxb/erq455)
+[erq455](https://doi.org/10.1093/jxb/erq455) 67.
+Martí, C., Orzáez, D., Ellul, P., Moreno, V., Carbonell, J., & Granell, A. (2007).
+Silencing of _DELLA_ induces facultative parthenocarpy in tomato fruits.
+_
+The Plant Journal,_ _52_ (5), 865–876.
+[https://​doi.​org/​10.​1111/j.​1365-​313X.​2007.​03282.x](https://doi.org/10.1111/j.1365-313X.2007.03282.x) 68.
+Tomlinson, L., Yang, Y., Emenecker, R., Smoker, M., Taylor, J., Perkins, S., Smith, J., MacLean, D., Olszewski, N. E., & Jones, J. D. G. (2019).
+Using CRISPR/Cas9 genome editing in tomato to create a gibberellin-responsive dominant dwarf _DELLA_ allele.
+_
+Plant Biotechnology Journal,_ _17_
+[(1), 132–140.
+https://​doi.​org/​10.​](https://doi.org/10.1111/pbi.12952)
+[1111/​pbi.​12952](https://doi.org/10.1111/pbi.12952) 69.
+Su, L., Bassa, C., Audran, C., Mila, I., Cheniclet, C., Chevalier, C., Bouzayen, M., Roustan, J. P., & Chervin, C. (2014).
+The auxin Sl- _IAA17_ transcriptional repressor controls fruit size via the regulation of endoreduplication-related cell expansion.
+_
+Plant_ _and Cell Physiology,_ _55_
+[(11), 1969–1976.
+https://​doi.​org/​10.​1093/​](https://doi.org/10.1093/pcp/pcu124)
+[pcp/​pcu124](https://doi.org/10.1093/pcp/pcu124) 70
+Klap, C., Yeshayahou, E., Bolger, A. M., Arazi, T., Gupta, S. K., Shabtai, S., Usadel, B., Salts, Y., & Barg, R. (2017).
+Tomato facultative parthenocarpy results from Sl AGAMOUS-LIKE 6 loss of function.
+_
+Plant Biotechnology Journal.,_ _15_ (5), 634–647.
+[https://​doi.​org/​10.​1111/​pbi.​12662](https://doi.org/10.1111/pbi.12662) 71.
+Ueta, R., Abe, C., Watanabe, T., Sugano, S. S., Ishihara, R., Ezura, H., Osakabe, Y., & Osakabe, K. (2017).
+Rapid breeding of parthenocarpic tomato plants using CRISPR/Cas9.
+_
+Scientific_ _
+Reports,_ _7_
+[(1), 507.
+https://​doi.​org/​10.​1038/​s41598-​017-​00501-4](https://doi.org/10.1038/s41598-017-00501-4) 72 Filler Hayut, S., MelamedBessudo, C., & Levy, A. A. (2017).
+Targeted recombination between homologous chromosomes for precise breeding in tomato.
+_
+Nature Communications,_ _8_ (1), [15605.
+https://​doi.​org/​10.​1038/​ncomm​s15605](https://doi.org/10.1038/ncomms15605) 73.
+Yang, T., Ali, M., Lin, L., Li, P., He, H., Zhu, Q., et al. (2023).
+Recoloring tomato fruit by CRISPR/Cas9-mediated multiplex gene editing.
+_
+Horticulture Research,_ _10_
+[(1), 214.
+https://​doi.​org/​](https://doi.org/10.1093/hr/uhac214)
+[10.​1093/​hr/​uhac2​14](https://doi.org/10.1093/hr/uhac214) 74
+Čermák, T., Baltes, N. J., Čegan, R., Zhang, Y., & Voytas, D. F. (2015).
+High-frequency, precise modification of the tomato genome.
+_
+Genome Biology.,_ _16_
+[, 1–15.
+https://​doi.​org/​10.​1186/​](https://doi.org/10.1186/s13059-015-0796-9)
+[s13059-​015-​0796-9](https://doi.org/10.1186/s13059-015-0796-9)  75.
+Menconi, J., Perata, P., & Gonzali, S. (2024).
+In pursuit of purple: Anthocyanin biosynthesis in fruits of the tomato clade.
+_
+Trends in_ _
+Plant Science_
+[. https://​doi.​org/​10.​1016/j.​tplan​ts.​2023.​12.​010](https://doi.org/10.1016/j.tplants.2023.12.010) 76.
+Zsögön, A., Čermák, T., Naves, E. R., Notini, M. M., Edel, K. H., Weinl, S., Freschi, l, Voytas, D. F., Kudla, J., & Pereira, L.   Molecular Biotechnology   E. (2018).
+De novo domestication of wild tomato using genome editing.
+_
+Nature Biotechnology,_ _36_
+[(12), 1211–1216.
+https://​doi.​](https://doi.org/10.1038/nbt.4272)
+[org/​10.​1038/​nbt.​4272](https://doi.org/10.1038/nbt.4272) 77.
+Nonaka, S., Arai, C., Takayama, M., Matsukura, C., & Ezura, H. (2017).
+Efficient increase of ɣ -aminobutyric acid (GABA) content in tomato fruits by targeted mutagenesis.
+_
+Scientific Reports,_ _7_
+[(1), 7057. https://​doi.​org/​10.​1038/​](https://doi.org/10.1038/s41598-017-06400-y)
+[s41598-​017-​06400-y](https://doi.org/10.1038/s41598-017-06400-y) 78.
+Do, J. H., Park, S. Y., Park, S. H., Kim, H. M., Ma, S. H., Mai, T. D., Shim, J. S., & Joung, Y. H. (2022).
+Development of a genome-edited tomato with high ascorbate content during later stage of fruit ripening through mutation of _SlAPX4_ .
+_
+Frontiers_ _in Plant Science,_ _13_
+[, 836916.
+https://​doi.​org/​10.​3389/​fpls.​2022.​](https://doi.org/10.3389/fpls.2022.836916)
+[836916](https://doi.org/10.3389/fpls.2022.836916) 79 Chaudhuri, A., Halder, K., & Datta, A. (2022).
+Classification of CRISPR/Cas system and its application in tomato breeding.
+_
+Theoretical and Applied Genetics,_ _135_
+[(2), 367–387.
+https://​doi.​](https://doi.org/10.1007/s00122-021-03984-y)
+[org/​10.​1007/​s00122-​021-​03984-y](https://doi.org/10.1007/s00122-021-03984-y) 80.
+Hu, N., Xian, Z., Li, N., Liu, Y., Huang, W., Yan, F., Su, D., Chen, J., & Li, Z. (2019).
+Rapid and user-friendly open-source CRISPR/Cas9 system for single- or multi-site editing of tomato genome.
+_
+Horticulture Research_ .
+[https://​doi.​org/​10.​1038/​](https://doi.org/10.1038/s41438-018-0082-6) [s41438-​018-​0082-6](https://doi.org/10.1038/s41438-018-0082-6)  81.
+Li, R., Li, R., Li, X., Fu, D., Zhu, B., Tian, H., Luo, Y., & Zhu, H. (2018).
+Multiplexed CRISPR/Cas9-mediated metabolic engineering of γ-aminobutyric acid levels in _Solanum lycopersicum_ .
+_
+Plant Biotechnology Journal,_ _16_
+[(2), 415–427.
+https://​doi.​org/​10.​](https://doi.org/10.1111/pbi.12781)
+[1111/​pbi.​12781](https://doi.org/10.1111/pbi.12781) 82.
+Yang, T.-x, Deng, L., Zhao, W., Zhang, R., Jiang, H.-l, Ye, Z., Li, C. B., & Li, C. (2019).
+Rapid breeding of pink-fruited tomato hybrids using the CRISPR/Cas9 system.
+_
+Journal of Genetics and_ _
+Genomics,_ _46_
+[(10), 505–508.
+https://​doi.​org/​10.​1016/j.​jgg.​2019.​](https://doi.org/10.1016/j.jgg.2019.10.002)
+[10.​002](https://doi.org/10.1016/j.jgg.2019.10.002)  83.
+Fernandez-Moreno, J.-P., Tzfadia, O., Forment, J., Presa, S., Rogachev, I., Meir, S., Orzaez, D., Aharoni, A., & Granell, A. (2016).
+Characterization of a new pink-fruited tomato mutant results in the identification of a null allele of the _SlMYB12_ transcription factor.
+_
+Plant Physiology,_ _171_
+[(3), 1821–1836.
+https://​](https://doi.org/10.1104/pp.16.00282)
+[doi.​org/​10.​1104/​pp.​16.​00282](https://doi.org/10.1104/pp.16.00282) 84 Larriba, E., Yaroshko, O., & Pérez-Pérez, J. M. (2024).
+Recent advances in tomato gene editing.
+_
+International Journal of Molec-_ _ular Sciences,_ _25_
+[(5), 2606.
+https://​doi.​org/​10.​3390/​ijms2​50526​](https://doi.org/10.3390/ijms25052606)
+[06](https://doi.org/10.3390/ijms25052606)  85.
+Sretenovic, S., Liu, S., Li, G., Cheng, Y., Fan, T., Xu, Y., Zhou, J., Zheng, X., Coleman, G., Zhang, Y., & Qi, Y. (2021).
+Exploring C-To-G base editing in rice, tomato, and poplar.
+_
+Frontiers in_ _
+Genome Editing,_ _3_
+[, 756766.
+https://​doi.​org/​10.​3389/​fgeed.​2021.​](https://doi.org/10.3389/fgeed.2021.756766)
+[756766](https://doi.org/10.3389/fgeed.2021.756766)  86.
+Lin, C.-S., Hsu, C.-T., Yuan, Y.-H., Zheng, P.-X., Wu, F.-H., Cheng, Q.-W., Wu, Y.-L., Wu, T.-L., Lin, S., Yue, J.-J., Cheng, Y.-H., Lin, S.-I., Shih, M.-C., Sheen, J., & Lin, Y.-C. (2022).
+DNA-free CRISPR-Cas9 gene editing of wild tetraploid tomato _
+Solanum peruvianum_ using protoplast regeneration.
+_
+Plant Physi-_ _ology,_ _188_
+[(4), 1917–1930.
+https://​doi.​org/​10.​1093/​plphys/​kiac0​](https://doi.org/10.1093/plphys/kiac022)
+[22](https://doi.org/10.1093/plphys/kiac022)  87.
+Liu, Y., Andersson, M., Granell, A., Cardi, T., Hofvander, P., & Nicolia, A. (2022).
+Establishment of a DNA-free genome editing and protoplast regeneration method in cultivated tomato ( _Solanum lycopersicum_ ).
+_Plant Cell Reports,_ _41_ (9), 1843–1852.
+[https://​doi.​org/​10.​1007/​s00299-​022-​02893-8](https://doi.org/10.1007/s00299-022-02893-8) 88.
+Shimatani, Z., Kashojiya, S., Takayama, M., Terada, R., Arazoe, T., Ishii, H., Teramura, H., Yamamoto, T., Komatsu, H., Miura, K., Ezura, H., Nishida, K., Ariizumi, T., & Kondo, A. (2017).
+Targeted base editing in rice and tomato using a CRISPR-Cas9 cytidine deaminase fusion.
+_
+Nature Biotechnology,_ _35_ (5), 441– [443. https://​doi.​org/​10.​1038/​nbt.​3833](https://doi.org/10.1038/nbt.3833)    89.
+Kawaguchi, K., Takei-Hoshi, R., Yoshikawa, I., Nishida, K., Kobayashi, M., Kusano, M., Lu, Y., Ariizumi, T., Ezura, H., Otagaki, S., Matsumoto, S., & Shiratake, K. (2021).
+Functional disruption of cell wall invertase inhibitor by genome editing increases sugar content of tomato fruit without decrease fruit weight.
+_
+Science and Reports,_ _11_
+[(1), 21534.
+https://​doi.​org/​10.​](https://doi.org/10.1038/s41598-021-00966-4)
+[1038/​s41598-​021-​00966-4](https://doi.org/10.1038/s41598-021-00966-4)  90 Hunziker, J., Nishida, K., Kondo, A., Ariizumi, T., & Ezura, H. (2022).
+Phenotypic characterization of high carotenoid tomato mutants generated by the target-AID base-editing technology.
+_
+Frontiers in Plant Science.,_ _13_
+[, 848560.
+https://​doi.​org/​10.​3389/​](https://doi.org/10.3389/fpls.2022.848560)
+[fpls.​2022.​848560](https://doi.org/10.3389/fpls.2022.848560) 91.
+He, Y., & Zhao, Y. (2020).
+Technological breakthroughs in generating transgene-free and genetically stable CRISPR-edited plants.
+_
+Abiotechnology,_ _1_
+[(1), 88–96.
+https://​doi.​org/​10.​1007/​](https://doi.org/10.1007/s42994-019-00013-x)
+[s42994-​019-​00013-x](https://doi.org/10.1007/s42994-019-00013-x)  92.
+Lin, C. S., Hsu, C. T., Yang, L. H., Lee, L. Y., Fu, J. Y., Cheng, Q. W., Wu, F. H., Hsiao, H. C. W., Zhang, Y., Zhang, R., Chang, W. J., Yu, C. T., Wang, W., Liao, L. J., Gelvin, S. B., & Shih, M. C. (2018).
+Application of protoplast technology to CRISPR/Cas9 mutagenesis: From single-cell mutation detection to mutant plant regeneration.
+_
+Plant Biotechnology Journal,_ _16_ (7), 1295–1310.
+[https://​doi.​org/​10.​1111/​pbi.​12870](https://doi.org/10.1111/pbi.12870) 93.
+Wang, P., Zhao, F.-J., & Kopittke, P. M. (2019).
+Engineering crops without genome integration using nanotechnology.
+_
+Trends_ _in Plant Science,_ _24_
+[(7), 574–577.
+https://​doi.​org/​10.​1016/j.​tplan​](https://doi.org/10.1016/j.tplants.2019.05.004)
+[ts.​2019.​05.​004](https://doi.org/10.1016/j.tplants.2019.05.004)  94.
+Yubing, H., Min, Z., Lihao, W., Junhua, W., Qiaoyan, W., Rongchen, W., & Yunde, Z. (2019).
+Improvements of TKC technology accelerate isolation of transgene-free CRISPR/Cas9-edited rice plants.
+_
+Rice Science,_ _26_
+[(2), 109–117.
+https://​doi.​org/​10.​](https://doi.org/10.1016/j.rsci.2018.11.001)
+[1016/j.​rsci.​2018.​11.​001](https://doi.org/10.1016/j.rsci.2018.11.001) 95.
+Pan, C., Ye, L., Qin, L., Liu, X., He, Y., Wang, J., Chen, L., & Lu, G. (2016).
+CRISPR/Cas9-mediated efficient and heritable targeted mutagenesis in tomato plants in the first and later generations.
+_
+Scientific Reports,_ _6_
+[(1), 24765. https://​doi.​org/​10.​1038/​](https://doi.org/10.1038/srep24765)
+[srep2​4765](https://doi.org/10.1038/srep24765) 96.
+Xia, X., Cheng, X., Li, R., Yao, J., Li, Z., & Cheng, Y. (2021).
+Advances in application of genome editing in tomato and recent development of genome editing technology.
+_
+Theoretical and_ _Applied Genetics,_ _134_
+[(9), 2727–2747. https://​doi.​org/​10.​1007/​](https://doi.org/10.1007/s00122-021-03874-3) [s00122-​021-​03874-3](https://doi.org/10.1007/s00122-021-03874-3)  97.
+Noack, F., Engist, D., Gantois, J., Gaur, V., Hyjazie, B. F., Larsen, A., Mgonigle, L. K., Missirian, A., Qaim, M., Sargent, R. D., Souza-Rodrigues, E., & Kremen, C. (2024).
+Environmental impacts of genetically modified crops.
+_
+Science,_ _385_ (6712),
+[9340.
+https://​doi.​org/​10.​1126/​scien​ce.​ado93​40](https://doi.org/10.1126/science.ado9340) 98.
+Rissler, J., & Mellon, M. G. (1996).
+_
+The ecological risks of engi-_ _neered crops_ .
+MIT Press.
+99.
+Chandrasekaran, M., Boopathi, T., & Paramasivan, M. (2021).
+A status-quo review on CRISPR-Cas9 gene editing applications in tomato.
+_
+International Journal of Biological Macromolecules,_ _190_
+[, 120–129.
+https://​doi.​org/​10.​1016/j.​ijbio​mac.​2021.​08.​169](https://doi.org/10.1016/j.ijbiomac.2021.08.169) 100 Waltz, E. (2022).
+GABA-enriched tomato is first CRISPR-edited food to enter market.
+_
+Nature Biotechnology,_ _40_
+[(1), 9–11.
+https://​](https://doi.org/10.1038/d41587-021-00026-2)
+[doi.​org/​10.​1038/​d41587-​021-​00026-2](https://doi.org/10.1038/d41587-021-00026-2) 101.
+Li, T., Yang, X., Yu, Y., Si, X., Zhai, X., Zhang, H., Dong, H., Dong, W., Gao, C., & Xu, C. (2018).
+Domestication of wild tomato is accelerated by genome editing.
+_
+Nature Biotechnology,_ _36_
+[(12), 1160–1163.
+https://​doi.​org/​10.​1038/​nbt.​4273](https://doi.org/10.1038/nbt.4273) 102 Rodríguez-Leal, D., Lemmon, Z. H., Man, J., Bartlett, M. E., & Lippman, Z. B. (2017).
+Engineering quantitative trait variation for crop improvement by genome editing.
+_
+Cell,_ _171_ (2), 470–480.
+[https://​doi.​org/​10.​1016/j.​cell.​2017.​08.​030](https://doi.org/10.1016/j.cell.2017.08.030) 103.
+Ito, Y., Nishizawa-Yokoi, A., Endo, M., Mikami, M., Shima, Y., Nakamura, N., Kotake-Nara, E., Kawasaki, S., & Toki, S.   (2017).
+Re-evaluation of the rin mutation and the role of _RIN_ in the induction of tomato ripening.
+_
+Nature Plants,_ _3_ (11), 866–874.
+[https://​doi.​org/​10.​1038/​s41477-​017-​0041-5](https://doi.org/10.1038/s41477-017-0041-5) 104.
+Ito, Y., Nishizawa-Yokoi, A., Endo, M., Mikami, M., & Toki, S. (2015).
+CRISPR/Cas9-mediated mutagenesis of the _RIN_ locus that regulates tomato fruit ripening.
+_
+Biochemical and Biophysi-_ _cal Research Communications,_ _467_
+[(1), 76–82.
+https://​doi.​org/​10.​](https://doi.org/10.1016/j.bbrc.2015.09.117)
+[1016/j.​bbrc.​2015.​09.​117](https://doi.org/10.1016/j.bbrc.2015.09.117) 105.
+Yu, Q.-h, Wang, B., Li, N., Tang, Y., Yang, S., Yang, T., Xu, J., Guo, C., Yan, P., Wang, Q., & Asmutola, P. (2017).
+CRISPR/
+Cas9-induced targeted mutagenesis and gene replacement to generate long-shelf life tomato lines.
+_
+Scientific Reports,_ _7_ (1), 11874.
+[https://​doi.​org/​10.​1038/​s41598-​017-​12262-1](https://doi.org/10.1038/s41598-017-12262-1) 106.
+Nguyen, C. C., Van Vu, T., Shelake, R. M., Nguyen, N. T., Khanh, T. D., Kim, W.-Y., & Kim, J.-Y. (2024).
+Generation of    Molecular Biotechnology   parthenocarpic tomato plants in multiple elite cultivars using the CRISPR/Cas9 system.
+_
+Molecular Breeding,_ _44_
+[(2), 13.
+https://​](https://doi.org/10.1007/s11032-024-01452-1)
+[doi.​org/​10.​1007/​s11032-​024-​01452-1](https://doi.org/10.1007/s11032-024-01452-1)   **Publisher's Note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.

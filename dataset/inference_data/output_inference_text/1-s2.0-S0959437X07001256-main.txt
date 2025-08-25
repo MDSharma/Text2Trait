@@ -1,0 +1,312 @@
+#
+An integrated view of quantitative trait variation using tomato interspecific introgression lines ## Zachary B Lippman, Yaniv Semel and Dani Zamir    Resolving natural phenotypic variation into genetic and molecular components is a major objective in biology.
+Over the past decade, tomato interspecific introgression lines (ILs), each carrying a single ‘exotic’ chromosome segment from a wild species, have exposed thousands of quantitative trait loci (QTL) affecting plant adaptation, morphology, yield, metabolism, and gene expression.
+QTL for fruit size and sugar composition were isolated by map-based cloning, while others were successfully implemented in marker-assisted breeding programs.
+More recently, integrating the multitude of IL-QTL into a single database has unraveled some unifying principles about the architecture of complex traits in plants.
+Addresses  The Hebrew University of Jerusalem, Faculty of Agriculture, Institute of Plant Sciences, P.O. Box 12, Rehovot 76100, Israel
+[Corresponding authors: Lippman, Zachary B (lippman@agri.huji.ac.il),](mailto:lippman@agri.huji.ac.il)
+[Semel, Yaniv (semel@agri.huji.ac.il) and Zamir, Dani](mailto:semel@agri.huji.ac.il)
+[(zamir@agri.huji.ac.il)](mailto:zamir@agri.huji.ac.il)   Current Opinion in Genetics & Development 2007, 17:545–552   This review comes from a themed issue on  Genomes and evolution  Edited by Susan Wessler, Kelly Dawe and Jim Leebens-Mack   Available online 27th August 2007   0959-437X/$ – see front matter # 2007
+Elsevier Ltd.
+All rights reserved.
+[DOI 10.1016/j.gde.2007.07.007](http://dx.doi.org/10.1016/j.gde.2007.07.007)   Introduction The beauty of nature is founded in the networks of developmental programs that give rise to the variable shapes, forms, colors, and aromas of organs observed within and between species.
+Such complex variation is often manifested in a quantitative phenotypic range, as opposed to qualitative traits that fall into discrete ‘Mendelian’ categories [1,2].
+The genetic variation underlying quantitative traits is notoriously difficult to dissect due to the segregation of numerous genes, or quantitative trait loci (QTL), each explaining a portion of the total variation, and whose expression is modified by interactions with other genes (epistasis) and the environment [3].
+With the advent of DNA markers, it became possible to construct saturated genetic maps and to locate in linkage groups QTL for numerous phenotypes in plants, animals, and humans.
+More recently, the availability of whole genome sequences has assisted in enriching the marker repertoire and in developing new statistical methods for identifying QTL  [4,5 [��] ].
+Yet, still, a major bottleneck in the functional    annotation of natural variation of both fundamental and applied importance is the availability of segregating genetic resources representing wide-diversity, and the sensitivity and scale of phenotyping platforms.
+Plants are the founding models for quantitative trait genetics because they are particularly amenable to controlled population development and phenotyping, thereby permitting the use of DNA markers to map loci defining many aspects of multicellular growth and development.
+Among all model systems, the wild and domesticated species of the tomato clade in the family Solanaceae have pioneered novel population development that partition quantitative variation into Mendelian components [6].
+This has facilitated the robust assessment of mean phenotypic values of QTL-containing chromosome segments — a challenging prerequisite for isolating complex trait genes [7,8].
+Here, we review 15 years of research on the tomato introgression lines and how the integration of heterogeneous experiments into a unified database has provided a wider view of complex traits.
+The tomato introgression lines Traditionally, quantitative trait mapping studies in plants and animals involve whole genome segregating populations, but epistatic interactions in F2 or recombinant inbred lines (RILs), make it difficult to fully define and characterize individual loci.
+Introgression lines (ILs) are a set of nearly isogenic lines developed through a succession of backcrosses, where each line carries a single genetically defined chromosome segment from a divergent genome  [9].
+The term ILs, often used in plant biology, is synonymous with chromosome substitution strains (CSS) or ‘congenics’, which have been constructed for mice  [10 [��],11,12].
+A complete IL population reconstitutes the donor parent genome in overlapping chromosomal segments and is immortal since it can be maintained by selfpollination.
+Consequently, these populations are very effective in identifying and stabilizing QTL, because any phenotypic difference between an IL and the recurrent parent is attributed solely to one or more donor parent genes within the introgressed chromosomal segment.
+The principles of the IL approach were first demonstrated in tomato.
+Solanum lycopersicum (domesticated tomato) is one of the 17 core species in the tomato clade, and is the most intensively studied of 3000 Solanaceae species, which include potato, pepper, and eggplant [13].
+The small green-fruited desert species Solanum pennellii is a distant relative of S. lycopersicum, having evolved unique adaptations in terms of morphology, mating system,    www.sciencedirect.com
+Current Opinion in Genetics & Development 2007, 17:545–552   546 Genomes and evolution   Figure 1   The Solanum pennellii IL population.
+(A) Genome introgressions on the 12 tomato chromosomes of the 76 S. pennellii ILs, which are nearly is ogenic to each other and differ only for the marked introgressed chromosome segments.
+(B) Heterosis for plant biomass in the F1 hybrid of S. pennellii � S. lycopersicum (the middle plant) compared to the recurrent parent, M82 (far left and right plants).
+S. pennellii, while self-compatible in its native arid environment, does not set fruit in agricultural field conditions; however, it contributes QTL that significantly improve yield and other traits.
+The homozygous ILs show primarily lower yield than both parents owing to sterility, whereas certain IL hybrids show heterosis and increased yield.
+Interestingly, in many instances of crossing two ILs with similar QTL effects, double IL heterozygotes show lower magnitude than the sum of the effects of single heterozygotes, reflecting nonadditivity of canalized phenotypes [17].
+chemistry (especially secondary compounds) and responses to biotic/abiotic stress.
+Despite these drastic ecological differences, S. pennellii is sexually compatible and produces fertile hybrids with S. lycopersicum, making it the founding donor parent of the first IL population used for interspecific QTL identification, cloning, and plant breeding.
+The ILs, representing whole-genome coverage of S. pennellii in overlapping segments in the    genetic background of S. lycopersicum (cv. M82) presently consists of 76 genotypes (Figure 1).
+The S. pennellii ILs have been publicly available and have been phenotyped for hundreds of traits including repeated measurements of the same traits, thus allowing for the identification of 2795 QTL (Table 1).
+In the framework of a currently running EU project (EU-SOL), 500 sub-ILs are being produced to markedly improve mapping resolution.
+Current Opinion in Genetics & Development 2007, 17:545–552 www.sciencedirect.com   An integrated view of quantitative trait variation using tomato interspecific introgression lines Lippman, Semel and Zamir 547    Given the high phenotypic variability and the accumulation of years of communal data, the S. pennellii ILs have been ideally suited for exploring the genetic and molecular bases of environmental adaptation, reproductive biology, and many other topics [14,15 [�] ].
+From QTL to gene An important aspect of IL biology is the exposure of phenotypes not observed in the parents.
+This is referred to as transgressive segregation, which results from novel interactions between S. pennellii alleles and the independently evolved molecular networks of S. lycopersicum [16].
+Although perhaps more common in F2 and RI populations, transgressive QTL in the S. pennellii ILs have been detected for both qualitative and quantitative traits including fruit shape, weight, yield, and color
+[17,18 [��] ].
+For instance, mature fruits of S. pennellii are green, whereas most cultivated tomato varieties have red fruits.
+Interestingly, some ILs show novel fruit color variation, such as the dark orange fruits of IL6-3 (Introgression Line chromosome 6, segment 3) and IL12-2.
+The map-based cloning of the dominant orange gene of IL6-3 (designated Beta), which encoded a lycopene b-cyclase active in the carotenoid biosynthetic pathway [19], revealed that S. pennelli Beta is identical in coding sequence but carries six additional upstream sequence elements compared to the M82 allele.
+Consequently, lycopene b-cyclase is highly expressed from breaker to full fruit ripening in maturing fruits of IL6-3, giving rise to a higher content of b-carotene.
+In IL12-2 a single dominant gene, Delta, coding for lycopene epsilon-cyclase (CrtL-e), was shown to accumulate deltacarotene at the expense of lycopene, and, similar to Beta, RNA levels increased 30-fold over wild-type during fruit ripening [20].
+These examples illustrate that the primary mechanism driving aberrant carotenoid accumulation, and perhaps other transgressive phenotypes, is novel epistatic transcriptional regulation of S. pennellii genes.
+The aforementioned examples involve qualitative phenotypes, but early IL studies revealed that reproducible measurements and mapping could be achieved for quantitative traits, such as fruit weight and sugar content.
+Numerous loci with large and small effects on these two traits have been mapped in the ILs.
+IL2-5 carries at least three fruit weight QTL, the most significant of which is fruit weight 2.2 ( fw2.2)
+[21].
+The generation of higher resolution near-isogenic lines showed that all large-fruited domesticated tomato varieties carry ‘large-fruited’ alleles of fw2.2,whereas‘small-fruited’wildallelesreliably reduce size by as much as 30% [7,22].
+This germplasm enabled the cloning of fw2.2, coding for a protein with no known biological function.
+In developing fruits, fw2.2 represses cell division, and different alleles exhibit heterochronic changesingeneexpressionaccountingfor theirphenotypic effects.
+Consistent with this finding was that no changes in coding sequence could distinguish allelic functions, thereby pointing to cis-regulatory variation as the likely    cause [23].
+In this respect, the genetic basis of fw2.2 resembles selection for promoter-based transcriptional variationat the tb1 locusin maize — another domestication QTL
+[24 [��] ].
+Concomitant with fw2.2 was the cloning of a tomato sugar yield, or brix, QTL.
+Brix9-2-5 increases sugars by as much as 25%, and using ultra-high resolution mapping, the molecular basis of this QTL was localized to a cell-wall invertase gene, LIN5 [25].
+The availability of IL populations for additional tomato species enabled a comparative association study between the nucleotide polymorphism and activity of LIN5, which pinpointed the effect of Brix92-5 to a change in a conserved amino acid localized near the invertase activesite responsible forsucrose recognitionand binding [25].
+Along with fw2.2, these examples of QTL gene isolation illustrated that continuous variation for quantitative phenotypes could be effectively partitioned into discrete molecular components through IL-based Mendelian segregation.
+Importantly, these QTL were the first among many showing that quantitative variation shares the same molecular features as laboratory-induced mutations, though an important distinction is that functional polymorphisms more often influence transcriptional regulation ( fw2.2) as opposed to protein function (Brix9-25)
+[1].
+Dissecting heterosis with the S. pennellii ILs
+The immortality of the ILs has allowed multiple years of phenotyping over different environments, which has led to the reproducible identification of QTL for more integrated traits, such as yield and biomass.
+Perhaps not surprisingly, the vast majority of theILs reduceyieldin the homozygous state, which is a reflection of the evolution of interspecific reproductive barriers.
+However, when the ILs are hybridized to the recurrent M82 parent, a large number of yieldpromoting heterotic QTL are revealed [18].
+Heterosis, or hybrid vigor, occurs when hybrid offspring out-perform both parents for traits such as growth rate and yield, but its genetic and molecular bases remain obscure [26].
+The S. pennellii ILsareprovingtobeapowerfultooltodiscoverthe loci that govern heterosis.
+In a large phenomic oriented field study, all ILs were hybridized with the recurrent parent M82 to test the effect of heterozygosity on 35 diverse phenotypes with the eventual identification of chromosomal segments that contribute to heterosis [18].
+This phenomic analysis enabled the dissection of whole genome heterosis by localizing some of its building blocks into small overdominant genomic regions.
+Phenotypes that were correlated to the ultimate reproductive trait, seed number per plant, were considered components of reproductive fitness and showed a higher number and effect of overdominant QTL compared to nonreproductive pheno types.
+Many over-dominant effects were reproducible over several years and environments.
+For example, the mean fruit    www.sciencedirect.com Current Opinion in Genetics & Development 2007, 17:545–552   548 Genomes and evolution   Figure 2   Solanum pennellii IL heterosis.
+IL8-3 and IL2-5 were crossed to M82 (M) and the hybrids (H) and parents were evaluated for total fruit yield per plant (per M
+[2] )
+in three growing seasons.
+In 2001 the plants were grown in a normally irrigated field (wet) and in dry conditions that received 10% of the water [28 [�] ].
+The pyramiding of the two introgressions was achieved by crossing the ILs to generate a hybrid that is heterozygous for both genomic segments (Pyr).
+yield of plants heterozygous for IL2-5 and IL8-3 was significantly higher than both parents in three years of testing in irrigated and drought conditions (Figure 2).
+The pyramiding of these heterotic introgressions further increased yield beyond the individual components, though in a less-than-additive manner
+[17,27].
+The increased confidence in the stability of overdominant effects resulting from multiyear analyses has led to a major effort in detailed component phenotyping of smaller genomic intervals of the heterotic segment.
+Importantly, IL heterosis has already progressed beyond scientific publications into practical use in agriculture.
+A QTL pyramiding study with three independent yieldpromoting introgressions resulted in a hybrid with yields 50% higher than leading commercial varieties in multiple environments and irrigation regimes [28 [�] ].
+Moreover, introgressions originating from S. pennellii were introduced into lines of processing tomato, and the resulting hybrid, AB2, is presently a leading variety in California
+[(http://www.ptab.org/ranking9.htm), which is the largest](http://www.ptab.org/ranking9.htm) world producer of industrial processing tomatoes.
+These real-world applications illustrate how ‘exotic’ alleles from interspecific diversity can enrich the genetic basis of cultivated plants to improve productivity.
+IL resolution of integrated developmental networks The S. pennellii ILs have recently gone beyond standard QTL identification studies, and ventured into a multifaceted systems-level analysis to address a classical biological question relating to plant architecture and physiology.
+A large-scale association study linking plant structure and biochemistry was carried out by phenotyping the ILs for a wide range of plant morphology and fruit metabolic profiles [29 [��] ].
+An integrated cartographical network of these diverse phenotypes revealed morphology-dependent and morphology-independent links among a large number of fruit metabolism and yield associated QTL.
+One novel aspect of the analysis showed that Harvest Index (HI; Figure 3), which is a measure of the source– sink relationship between the vegetative and reproductive tissues, is the central hub in fruit metabolism.
+A similar negative correlation between biomass and certain seedling metabolites was shown recently in an Arabidopsis RI population, indicating a common resource availability bottleneck in plant development
+[30 [��] ].
+The major pleiotropic IL affecting metabolic QTL was IL6-3.
+This IL carries a functional SELF PRUNING (SP) gene (orthologous to Arabidopsis TERMINAL FLOWER1)    Current Opinion in Genetics & Development 2007, 17:545–552 www.sciencedirect.com   An integrated view of quantitative trait variation using tomato interspecific introgression lines Lippman, Semel and Zamir 549
+Figure 3   A system view of IL-born morphology and metabolism interplay.
+Cartographic representation of the combined metabolic and morphological network of the tomato ILs
+[29].
+Each trait (node) is represented by a shape (metabolites by circles and the phenotypes by triangles).
+The metabolites are color-coded according to type: brown, amino acids; pink, sugars; green, organic acids; and yellow, phosphates; grey, miscellaneous, and module names are defined according to the most prevalent trait type.
+A line connecting two traits represents a significant correlation between them.
+Correlation of all trait pairs was calculated using IL means (total of 76 lines); gray lines represent positive correlations, blue lines represent negative correlations (significance threshold of P < 0.0001).
+Harvest index (HI), the ratio of fruit yield to total plant mass (plant weight + fruit yield), is the central pleiotropic hub of the network.
+that qualitatively reverts sp ‘determinate’ processing tomato varieties back to the ‘indeterminate’ vine-like sympodial growth that defines wild species.
+SP mutants exhibit compact growth by successively decreasing flowering time between sympodial units, making SP the most important developmental and agronomical switch to enable processing tomato production.
+As all S. pennellii ILs are in the background of the determinate line M82, the indeterminacy of IL6-3 immediately provided an    isogenic perennial that facilitated the identification of SP by map-based cloning [31].
+It is important to note that IL6-3 is the most QTL laden in the entire IL population, and it is believed that SP, having vast pleiotropic effects by modifying source–sink relationships, is the central link between plant morphology and fruit metabolite distribution.
+Interestingly, IL9-2-5 carries a second sugar QTL tightly linked to Brix9-2-5, which appears only in SP determinate mutant plants due to the semi-indeterminate    www.sciencedirect.com Current Opinion in Genetics & Development 2007, 17:545–552   550 Genomes and evolution   effects of another SP homologue, SP9D [32].
+Together, these examples illustrate that with the continued development of Solanaceae genome resources, more detailed systems-level analyses will be possible, opening the door to new discoveries through extending the phenomic network.
+Linking genomes, QTL and plant breeding A bioinformatic challenge now facing quantitative genetics is to display detailed information about the components of the genetic and phenotypic variation in a form of statistical and graphical outputs in a unified ontology-based genomic framework
+[33 [�],34–36].
+A firstgeneration S. pennellii IL-based working model that enables mapping QTL, viewing basic trends, associations between traits, and finding specific combinations of phenotypes is called ‘Real Time QTL’
+[37]
+[(http://](http://zamir.sgn.cornell.edu/Qtl/Html/home.htm)
+[zamir.sgn.cornell.edu/Qtl/Html/home.htm).](http://zamir.sgn.cornell.edu/Qtl/Html/home.htm)
+Another database that exhibits S. pennellii IL data is the Tomato
+[Metabolite Database (TOMET (http://ted.bti.cornel-](http://ted.bti.cornell.edu/) [l.edu/), which includes the expression profile data of more](http://ted.bti.cornell.edu/) than 10 000 unique genes and composition data of approximately 60 metabolites that contribute to fruit flavor and human nutrition.
+The integration of such data, as is being achieved in mice [38], will allow for a wider view of plant biology as it relates to crop improvement.
+Plant geneticists, realizing the value of wild species diversity to the genetic improvement of plants, have generated over the past decade numerous populations that segregate for genetically mapped complex phenotypic variation.
+IL populationsarenow available formany wild tomatospecies
+[39–43].
+Similarly, the power of the IL approach is now being realized in other model systems, including major food and biofuel crops such as pepper [44], rice
+[45], barley  [46], wheat
+[47], maize [48 [�] ], soybean [49] and Arabidopsis  [50 [��] ].
+These populations are being phenotyped widely, but only a small fraction of the raw data finds its way to existing databases.
+The same is true for an already large body of QTL mapping data on F2 and RIL populations where epistasis is measured more effectively.
+Achieving multilayered phenotypic integration in all model systems will be necessary in the future to realize the full discovery potential of genomics-assisted comparative QTL studies.
+A proof of concept for an extended Solanaceae complex trait view has been the identification of an orthologous yield associated QTL common to potato and tomato: the invertase gene invGE colocalizes with cold-sweetening and starch content QTL from potato [51 [��] ].
+The potato invertase is orthologous to the tomato LIN5 that is responsible for the QTL Brix9-2-5 [25], indicating that natural variation of sugar yield in tomato fruits and potato tubers is controlled by functional variants of the same gene.
+This example illustrates the potential of horizontally linking QTL biology with genomic resources across a wide phylogenic basis.
+Acknowledgements
+The research was supported by the EC projects EU-SOL and by the Israel Science Foundation (ISF).
+ZBL is supported by a Long Term Fellowship from the International Human Frontier Science Program Organization.
+We thank Jim Giovannoni for providing his unpublished data.
+We would also like to thank members of the SOL community for providing comments on earlier versions of this manuscript.
+References and recommended reading Papers of particular interest, published within the annual period of review, have been highlighted as:   � of special interest �� of outstanding interest   1.
+Koornneef M, Alonso-Blanco C, Vreugdenhil D: Naturally occurring genetic variation in Arabidopsis thaliana.
+Annu Rev Plant Biol 2004, 55:141-172.   2.
+Mackay TF: The genetic architecture of quantitative traits.
+Annu Rev Genet 2001, 35:303-339.   3. Salvi S, Tuberosa R:
+To clone or not to clone plant QTLs: present and future challenges.
+Trends Plant Sci 2005, 10:297-304.   4.
+Kroymann J, Mitchell-Olds T: Epistasis and balanced polymorphism influencing complex trait variation.
+Nature 2005, 435:95-98.   5.
+Wu F, Mueller LA, Crouzillat D, Petiard V, Tanksley SD: Combining �� bioinformatics and phylogenetics to identify large sets of single-copy orthologous genes (COSII) for comparative, evolutionary and systematic studies: a test case in the Euasterid plant clade.
+Genetics 2006, 174:1407-1420.
+Report of a set of algorithms that identified a large number of single copy orthologs that are shared among many Eusterid plant species.
+These ortholog sequences enable the design of universal PCR primers that amplify homologous loci in diverse plant species allowing for comparative mapping.
+6.
+Powers L: Inheritance of quantitative characters in crosses involving two species of Lycopersicon.
+J Agric Res 1941, 63:149-175.   7.
+Frary A, Nesbitt TC, Grandillo S, Knaap E, Cong B, Liu J, Meller J, Elber R, Alpert KB, Tanksley SD: fw2.2: a quantitative trait locus key to the evolution of tomato fruit size.
+Science 2000, 289:85-88.
+8.
+Fridman E, Pleban T, Zamir D: A recombination hotspot delimits a wild-species quantitative trait locus for tomato sugar content to 484 bp within an invertase gene.
+Proc Natl Acad Sci USA 2000, 97:4718-4723.
+9. Zamir D: Improving plant breeding with exotic genetic libraries.
+Nat Rev Genet 2001, 2:983-989.
+10.
+Lhote D, Serres C, Laissue P, Oulmouden A, Rogel-Gaillard C, �� Montagutelli X, Vaiman D: Centimorgan-range one-step mapping of fertility traits using interspecific recombinant congenic mice.
+Genetics 2007.
+QTL mapping of recombinant congenic mice revealing loci for one of the most complex traits in mammals — male fertility.
+Some QTL are located in small genomic regions such that candidate genes could be proposed, thus revealing the power of the IL/congenic approach for animal research.
+11.
+Shockley KR, Churchill GA: Gene expression analysis of mouse chromosome substitution strains.
+Mamm Genome 2006, 17:598-614.   12.
+Singer JB, Hill AE, Burrage LC, Olszens KR, Song J, Justice M, O’Brien WE, Conti DV, Witte JS, Lander ES et al.: Genetic dissection of complex traits with chromosome substitution strains of mice.
+Science 2004, 304:445-448.
+13.
+Knaap E, Bohs L, Nee M: Spooner DM: solanaceae — a model for linking genomics with biodiversity.
+Comp Funct Genom 2004, 5:285-291.
+14.
+Rick CM: Hybridization between lycopersicon esculentum and solanum pennellii: phylogenetic and cytogenetic significance.
+Proc Natl Acad Sci USA 1960, 46:78-82.
+Current Opinion in Genetics & Development 2007, 17:545–552 www.sciencedirect.com   An integrated view of quantitative trait variation using tomato interspecific introgression lines Lippman, Semel and Zamir 551    15.
+Rick CM: Controlled introgression of chromosomes of � Solanum pennellii into Lycopersicum esculentum: segregation and recombination.
+Genetics 1969, 62:753-768.
+The first report on the generation of tomato introgression lines using three chromosome segments from the wild species S. pennellii.
+The lack of molecular markers required the use of recessive mutant chromosome stocks from S. lycopersicum, where the author used successive backcrossing and selection for wild-type plants.
+16.
+deVicente MC, Tanksley SD: QTL analysis of transgressive segregation in an interspecific tomato cross.
+Genetics 1993, 134:585-596.   17.
+Eshed Y, Zamir D: Less-than-additive epistatic interactions of quantitative trait loci in tomato.
+Genetics 1996, 143:1807-1817.
+18.
+Semel Y, Nissenbaum J, Menda N, Zinder M, Krieger U, Issman N, �� Pleban T, Lippman Z, Gur A, Zamir D: Overdominant quantitative trait loci for yield and fitness in tomato.
+Proc Natl Acad Sci USA 2006, 103:12981-12986.
+Phenomic analysis of the tomato ILs enabled the dissection of whole genome heterosis by localizing some of its component effects into small overdominant genomic regions.
+Strikingly, overdominance was almost exclusively associated with traits that increased reproductive fitness.
+19.
+Ronen G, Carmel-Goren L, Zamir D, Hirschberg J: An alternative pathway to beta-carotene formation in plant chromoplasts discovered by map-based cloning of beta and old-gold color mutations in tomato.
+Proc Natl Acad Sci USA 2000, 97:11102-11107.   20.
+Ronen G, Cohen M, Zamir D, Hirschberg J: Regulation of carotenoid biosynthesis during tomato fruit development: expression of the gene for lycopene epsilon-cyclase is downregulated during ripening and is elevated in the mutant Delta.
+Plant J 1999, 17:341-351.   21.
+Eshed Y, Zamir D: An introgression line population of Lycopersicon pennellii in the cultivated tomato enables the identification and fine mapping of yield-associated QTL.
+Genetics 1995, 141:1147-1162.
+22.
+Alpert KB, Tanksley SD: High-resolution mapping and isolation of a yeast artificial chromosome contig containing fw2.2: a major fruit weight quantitative trait locus in tomato.
+Proc Natl Acad Sci USA 1996, 93:15503-15507.   23.
+Tanksley SD: The genetic, developmental, and molecular bases of fruit size and shape variation in tomato.
+Plant Cell 2004, 16(Suppl):S181-S189.   24.
+Doebley JF, Gaut BS, Smith BD: The molecular genetics of crop �� domestication.
+Cell 2006, 127:1309-1321.
+A thorough review of human domestication of diverse crop plants and some of the genes and molecular mechanisms involved.   25.
+Fridman E, Carrari F, Liu YS, Fernie AR, Zamir D: Zooming in on a quantitative trait for tomato yield using interspecific introgressions.
+Science 2004, 305:1786-1789.   26.
+Birchler JA, Auger DL, Riddle NC:
+In search of the molecular basis of heterosis.
+Plant Cell 2003, 15:2236-2239.   27.
+Causse M, Chaib J, Lecomte L, Buret M, Hospital F: Both additivity and epistasis control the genetic variation for fruit quality traits in tomato.
+Theor Appl Genet 2007.
+28.
+Gur A, Zamir D: Unused natural variation can lift yield barriers in � plant breeding.
+PLoS
+Biol 2004, 2:e245.
+Three separate yield-promoting tomato introgression lines were combined in a pyramiding experiment to produce a hybrid that outperforms the commercial leading processing tomato variety.
+29.
+Schauer N, Semel Y, Roessner U, Gur A, Balbo I, Carrari F, �� Pleban T, Perez-Melis A, Bruedigam C, Kopka J et al.:
+Comprehensive metabolic profiling and phenotyping of interspecific introgression lines for tomato improvement.
+Nat Biotechnol 2006, 24:447-454.
+An integration of metabolic profiles and morphological phenotypes in the tomato ILs revealing a strong association between plant morphology and fruit metabolic composition.   30.
+Meyer RC, Steinfath M, Lisec J, Becher M, Witucka-Wall H, �� Torjek O, Fiehn O, Eckardt A, Willmitzer L, Selbig J et al.:
+The    metabolic signature related to high plant growth rate in Arabidopsis thaliana.
+Proc Natl Acad Sci USA 2007, 104:4759-4764.
+Metabolic profiling of Arabidopsis recombinant inbred lines revealing a negative correlation between biomass and a specific combination of metabolites.   31.
+Pnueli L, Carmel-Goren L, Hareven D, Gutfinger T, Alvarez J, Ganal M, Zamir D, Lifschitz E: The SELF-PRUNING gene of tomato regulates vegetative to reproductive switching of sympodial meristems and is the ortholog of CEN and TFL1.
+Development 1998, 125:1979-1989.
+32.
+Fridman E, Liu YS, Carmel-Goren L, Gur A, Shoresh M, Pleban T, Eshed Y, Zamir D: Two tightly linked QTLs modify tomato sugar content via different physiological pathways.
+Mol Genet Genomics 2002, 266:821-826.
+33.
+Ilic K, Kellogg EA, Jaiswal P, Zapata F, Stevens PF, Vincent LP, � Avraham S, Reiser L, Pujar A, Sachs MM et al.:
+The plant structure ontology, a unified vocabulary of anatomy and morphology of a flowering plant.
+Plant Physiol 2007, 143:587-599.
+Establishes a much-needed formal vocabulary of plant anatomy and morphology terms for several model plant species to be integrated with gene expression and protein profiles.
+Such an ontology-based characterization of QTL would be necessary to unify phenotypic data from diverse species.
+34.
+Swertz MA, Jansen RC: Beyond standardization: dynamic software infrastructures for systems biology.
+Nat Rev Genet 2007, 8:235-243.   35.
+Urbanczyk-Wochniak E, Usadel B, Thimm O, Nunes-Nesi A, Carrari F, Davy M, Blasing O, Kowalczyk M, Weicht D, Polinceusz A et al.:
+Conversion of MapMan to allow the analysis of transcript data from Solanaceous species: effects of genetic and environmental alterations in energy metabolism in the leaf.
+Plant Mol Biol 2006, 60:773-792.   36.
+Wu R, Lin M: Functional mapping — how to map and study the genetic architecture of dynamic complex traits.
+Nat Rev Genet 2006, 7:229-237.   37.
+Gur A, Semel Y, Cahaner A, Zamit D: Real Time QTL of complex phenotypes in tomato interspecific introgression lines.
+Trends Plant Sci 2004, 9:107-109.   38.
+Hu ZL, Fritz ER, Reecy JM: AnimalQTLdb: a livestock QTL database tool set for positional QTL information mining and beyond.
+Nucleic Acids Res 2007, 35:D604-D609.
+39.
+Brouwer DJ, St Clair DA:
+Fine mapping of three quantitative trait loci for late blight resistance in tomato using near isogenic lines (NILs) and sub-NILs.
+Theor Appl Genet 2004, 108:628-638.   40.
+Finkers R, van Heusden AW, Meijer-Dekens F, van Kan JA, Maris P, Lindhout P: The construction of a Solanum habrochaites LYC4 introgression line population and the identification of QTLs for resistance to Botrytis cinerea.
+Theor Appl Genet 2007, 114(6):1071-1080.
+41.
+Frary A, Fulton TM, Zamir D, Tanksley SD: Advanced backcross QTL analysis of a Lycopersicon esculentum � L. pennellii cross and identification of possible orthologs in the Solanaceae.
+Theor Appl Genet 2004, 108:485-496.
+42.
+Monforte AJ, Tanksley SD: Development of a set of near isogenic and backcross recombinant inbred lines containing most of the Lycopersicon hirsutum genome in a L. esculentum genetic background: a tool for gene mapping and gene discovery.
+Genome 2000, 43:803-813.   43.
+Peleman JD, van der Voort JR: Breeding by design.
+Trends Plant Sci 2003, 8:330-334.   44.
+Ben Chaim A, Borovsky Y, Rao GU, Tanyolac B, Paran I: fs3.1: a major fruit shape QTL conserved in Capsicum.
+Genome 2003, 46:1-9.   45.
+Ashikari M, Matsuoka M: Identification, isolation and pyramiding of quantitative trait loci for rice breeding.
+Trends Plant Sci 2006, 11:344-350.   46.
+von Korff M, Wang H, Leon J, Pillen K: Development of candidate introgression lines using an exotic barley accession (Hordeum    www.sciencedirect.com Current Opinion in Genetics & Development 2007, 17:545–552   552 Genomes and evolution   vulgare ssp.
+spontaneum) as donor.
+Theor Appl Genet 2004, 109:1736-1745.   47.
+Liu S, Zhou R, Dong Y, Li P, Jia J: Development, utilization of introgression lines using a synthetic wheat as donor.
+Theor Appl Genet 2006, 112:1360-1373.
+48.
+Szalma SJ, Hostert BM, Ledeaux JR, Stuber CW, Holland JB: QTL � mapping with near-isogenic lines in maize.
+Theor Appl Genet 2007, 114(7):1211-1228.
+Construction of IL population and QTL mapping in maize showing that QTL in inbreds and hybrids are different, highlighting the complexity of flowering time.
+49.
+Concibido VC, La Vallee B, McLaird P, Pineda N, Meyer J, Hummel L, Yang J, Wu K, Delannay X: Introgression of a quantitative trait locus for yield from Glycine soja into commercial soybean cultivars.
+Theor Appl Genet 2003, 106:575-582.   50.
+Keurentjes JJ, Bentsink L, Alonso-Blanco C, Hanhart CJ, �� Blankestijn-De Vries H, Effgen S, Vreugdenhil D, Koornneef M: Development of a near-isogenic line population of Arabidopsis thaliana and comparison of mapping power with a recombinant inbred line population.
+Genetics 2007, 175:891905.
+Comparison of QTL mapping accuracy and resolution in Arabidopsis between IL and RIL populations that originated from the same parents and measured for the same phenotypes.
+The authors conclude that ILs provide greater sensitivity for QTL detection compared to RILs, resulting in the discovery of a larger number of QTL.
+51.
+Li L, Strahwald J, Hofferbert HR, Lubeck J, Tacke E, Junghans H, �� Wunder J, Gebhardt C: DNA variation at the invertase locus invGE/GF is associated with tuber quality traits in populations of potato breeding clones.
+Genetics 2005, 170:813-821.
+Alleles of the invertase gene (invGE) in potato are associated with tuber quality traits.
+The invGE ortoholog in tomato, Lin5 [25], affects sugar    content in the fruits, thereby establishing that natural variation of sugar yield in both species is controlled by functional variants of orthologous genes.
+52.
+Tieman DM, Zeigler M, Schmelz EA, Taylor MG, Bliss P, Kirst M, Klee HJ:
+Identification of loci affecting flavour volatile emissions in tomato fruits.
+J Exp Bot 2006, 57:887-896.
+53.
+Rousseaux MC, Jones CM, Adams D, Chetelat R, Bennett A, Powell A: QTL analysis of fruit antioxidants in tomato using Lycopersicon pennellii introgression lines.
+Theor Appl Genet 2005, 111:1396-1408.   54.
+Baxter CJ, Carrari F, Bauke A, Overy S, Hill SA, Quick PW, Fernie AR, Sweetlove LJ: Fruit carbohydrate metabolism in an introgression line of tomato with increased fruit soluble solids.
+Plant Cell Physiol 2005, 46:425-437.   55.
+Stevens R, Buret M, Duffe P, Garchery C, Baldet P, Rothan C, � Causse M: Candidate genes and QTLs affecting fruit ascorbic acid content in three tomato populations.
+Plant Physiol 2007, 143(4):1943-1953.
+Mapping QTL and candidate genes for the antioxidant ascorbic acid in three distinct populations revealing common genomic regions affecting the traits.
+56.
+Causse M, Duffe P, Gomez MC, Buret M, Damidaux R, Zamir D, Gur A, Chevalier C, Lemaire-Chamley M, Rothan C: A genetic map of candidate genes and QTLs involved in tomato fruit size and composition.
+J Exp Bot 2004, 55:1671-1685.   57.
+Holtan HE, Hake S: Quantitative trait locus analysis of leaf dissection in tomato using Lycopersicon pennellii segmental introgression lines.
+Genetics 2003, 165:1541-1550.   58.
+Liu YS, Gur A, Ronen G, Causse M, Damidaux R, Buret M, Hirschberg J, Zamir D: There is more to tomato fruit colour than candidate carotenoid genes.
+Plant Biotechnol J 2003, 1:195-207.
+Current Opinion in Genetics & Development 2007, 17:545–552 www.sciencedirect.com

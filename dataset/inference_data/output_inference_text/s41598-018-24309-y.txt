@@ -1,0 +1,680 @@
+## **OPEN**  Received:
+16 May 2017   Accepted: 27 March 2018   Published: xx xx xxxx    www.nature.com/scientificreports  # **Tomato UV-B receptor SlUVR8** **mediates plant acclimation to** **UV-B radiation and enhances** **fruit chloroplast development via** **regulating SlGLK2**   **Huirong Li** **[1,2]** **, Yuxiang Li** **[1]** **, Heng Deng** **[1]** **, Xiaochun Sun** **[1,5]** **, Anquan Wang** **[3]** **, Xiaofeng Tang** **[3]** **,** **Yongfeng Gao** **[1,4]** **, Ning Zhang** **[1]** **, Lihuan Wang** **[1]** **, Shuzhang Yang** **[1]** **, Yongsheng Liu** **[1,3]** **&** **Songhu Wang** **[2]**   **Plants utilize energy from sunlight to perform photosynthesis in chloroplast, an organelle that could** **be damaged by solar UV radiation.
+The ultraviolet-B (UV-B) photoreceptor UVR8 is required for UV-B** **perception and signal transduction.
+However, little is known about how** _**UVR8**_ **influence chloroplast** **development under UV-B radiation.
+Here, we characterized tomato** _**UVR8**_ **gene (** _**SlUVR8**_ **) and our results** **indicated that** _**SlUVR8**_ **facilitate plant acclimation to UV-B stress by orchestrating expression of the** **UVB-responsive genes (** _**HY5**_ **and** _**CHS**_ **) and accumulating UV-absorptive compounds.
+In addition, we** **also discovered that** _**SlUVR8**_ **promotes fruit chloroplast development through enhancing accumulation** **of transcription factor GOLDEN2-LIKE2 (SlGLK2) which determines chloroplast and chlorophyll levels.
+** **Furthermore, UV-B radiation could increase expression of** _**SlGLK2**_ **and its target genes in fruits and** **leaves.
+** _**SlUVR8**_ **is required for UVB-induced** _**SlGLK2**_ **expression.
+Together, our work not only identified** **the conserved functions of** _**SlUVR8**_ **gene in response to UV-B stress, but also uncovered a novel role that** _**SlUVR8**_ **could boost chloroplast development by accumulating SlGLK2 proteins.
+**   Sunlight provides the energy of photosynthesis in sessile plants and also plays an essential role in regulation of their entire life cycle.
+However, ultraviolet-B (UV-B) light, as an indispensible component of sunlight, can retard plant growth by causing DNA damage, generating reactive oxygen species, and inhibiting photosynthesis [1] .
+To survive in sunlight, plants have to evolve the specific mechanisms perceiving and responding to the UV-B radiation
+[2][,][3] .
+Recent studies revealed that UV RESISTANCE LOCUS8 (UVR8) protein was responsible for UV-B perception and signal transduction in _Arabidopsis_
+[1][,][4][–][6] .
+The UVR8 gene was first identified in a mutation screen for UV-sensitive plants and the _uvr8_ mutant was hypersensitive to UV-B radiation
+[7] .
+The abolished UV acclimation of _uvr8_ mutant is caused by failure of UV-induced expression of defense genes involved in UV damage repairment and UV protection, such as chalcone synthase (CHS) gene which is the committing enzyme for UV-absorptive flavonoid and anthocyanin biosynthesis
+[7][,][8] .
+Further investigations revealed that the transcription factor ELONGATED HYPOCOTYL5 (HY5) was a fundamental factor of UV signal pathway [9][–][11] and UVR8 regulated _HY5_ expression through physical association with chromatin in its promoter region [8] .
+Besides, UVR8-mediated   1 Ministry of Education Key Laboratory for Bio-resource and Eco-environment, College of Life Science, State Key Laboratory of Hydraulics and Mountain River Engineering, Sichuan University, Chengdu, 610064, China.
+[2] CAS Center for Excellence in Molecular Plant Sciences, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041, China.
+[3] School of Biotechnology and Food Engineering, Hefei University of Technology, Hefei, 230009, China.
+[4] School of Life Science and Engineering, Southwest University of Science and Technology, Mianyang, Sichuan, 621010, China.
+[5] Shaanxi University of Chinese Medicine/Shaanxi Collaborative Innovation Center of Chinese Medicinal Resources Industrialization, Shaanxi Sheng, China.
+Correspondence and requests for materials should be [addressed to Y.L. (email: liu_ys@scu.edu.cn) or S.W. (email: wangsh1@cib.ac.cn)](mailto:liu_ys@scu.edu.cn)    SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 1   www.nature.com/scientificreports/   signal facilitates HY5 and its homolog HYH binding to a T/G-box cis-acting element in the promoters of the UV-responsive genes [12] .
+UVR8 forms homodimers in cytoplasm and their instant monomerization, which requires two tryptophan residues serving as the UV-B chromophore, can be activated by UV-B radiation [2][,][4][,][6][,][13] .
+The monomerized UVR8  .
+proteins are translocated from cytoplasm to the nucleus for fulfilling its function and signal transduction
+[14][,][15] UVR8 protein interacts with multifunctional E3 ligase CONSTITUTIVELY PHOTOMORPHOGENIC 1 (COP1) protein, a key regulator of light signaling, which is also involved in response to UV-B
+[14][,][16][–][19] .
+In the dark, COP1 interacts with DAMAGED DNA BINDING PROTEIN 1 (DDB1) and CULLIN4 (CUL4) to form the super complex of CUL4-DDB1-COP1-SPA E3 ligase which inhibits the photomorphogenesis by targeting HY5 for degradation.
+Under UV-B radiation, COP1-SPA complex disassociates from CUL4-DDB1 and interacts with monomerized UVR8 [20] to form UVR8-COP1-SPA complex which plays a positive role in stabilizing HY5 protein and its activity [21] .
+It appears that UVR8 modulates plant response to UV-B through regulating key transcription factor HY5 at both transcriptional and posttranslational level.
+DDB1 was first demonstrated to be involved in damaged DNA repair, since it binds to the UV-induced DNA lesions and mediates nucleotide excision repair processes [22] .
+In Arabidopsis, DDB1 is associated with CUL4 and additional substrate receptor proteins including COP1 to form CUL4-RING ubiquitin ligase (CRL4) which is required for many cellular processes [23][–][25] .
+In tomato ( _Solanum lycopersicum_ ), CUL4-DDB1 complex was proved to participate in plastid development and secondary metabolism [26][–][28], epigenetic regulation [29], and stress response [30][–][32] .
+The mutant _high pigment -1_ ( _hp1_ ), which is caused by a point mutation in tomato _DDB1_ ( _SlDDB1_ ) gene, displays the enhanced fruit nutrient contents resulting from the increased plastid (chloroplast) numbers and sizes in fruit cells
+[26] .
+Genetic suppression of tomato _CUL4_ ( _SlCUL4_ ) and _SlDDB1_ genes resulted in the phenocopy of the _hp1_ mutant [27] .
+These studies suggested that CUL-DDB1 complex plays a crucial role in plastid development in tomato.
+A transcription factor GOLD2-LIKE (SlGLK2), which determines plastid and chlorophyll levels by enhancing photosynthesis gene expression and chloroplast development
+[33][–][35], is a target of CRL4 ubiquitin E3 ligase
+[36] .
+The degradation of SlGLK2 protein is impaired in the _hp1_ mutant and _SlCUL4_ silencing plants [28] .
+Although the homologous genes of Arabidopsis _UVR8_ were cloned in several plant species including Arabidopsis, _Populus euphratica_
+[37], apple
+[38], grape berry [39], grapevine [40], radish sprouts [41], and _Chlamydomonas rein-_ _hardtii_
+[42], little is known about characterization of tomato _UVR8_ ( _SlUVR8_ ) gene.
+In this study, we cloned _SlUVR8_ gene and confirmed its conserved role in response to UV-B radiation.
+In addition, our results also revealed that SlUVR8 could mediate fruit plastid development under UV-B radiation, possibly through regulating the accumulation of transcription factor SlGLK2.
+**Results** **Cloning of tomato UVR8 gene.
+**
+We BLAST in tomato ( _Solanum lycopersicum_ ) genome sequence database
+[(https://sgn.cornell.edu/organism/Solanum_lycopersicum/genome) with Arabidopsis UVR8 protein sequence](https://sgn.cornell.edu/organism/Solanum_lycopersicum/genome) and got only one positive hit (Solyc05g018620), termed as _SlUVR8_, which suggested that the tomato genome contained only one homologous gene of _UVR8_ .
+We cloned the gene by RT-PCR and the encoding protein shared 79% identities with Arabidopsis UVR8 (Supplemental Fig. 1).
+SlUVR8 also contains multiple repeated RCC1 domains, similar to UVR8 protein in Arabidopsis.
+The phylogenetic analysis indicated that SlUVR8 shared the best amino acid identity with _
+Solanum tuberosum_ UVR8 (StUVR8) (Supplemental Fig. 2).
+The _SlUVR8_ gene was expressed constitutively in all the organs of tomato plants we tested.
+The expression levels in the leaves and flowers were apparently higher than that in other tissues, as indicated by quantitative RT-PCR (qRT-PCR) analysis (Fig. 1A).
+To check the sub-cellular localization of SlUVR8 protein, the gene of Green Fluorescent Protein (GFP) was fused with _SlUVR8_ gene and GFP-SlUVR8 construct was transformed in protoplasts of tobacco leaves.
+The transformed protoplasts were observed by confocal microscope.
+As shown in Fig.
+1B, GFP-SlUVR8 proteins were localized in the nucleus and cytoplasm simultaneously, similar to the sub-cellular localization of Arabidopsis UVR8 [14][,][15] .
+Western-blot analysis indicated the both GFP and GFP-SlUVR8 were really expressed in the transformed protoplasts (Fig. 1C).
+**SlUVR8 is required for tomato acclimation to UV-B radiation.
+**
+To study the function of _SlUVR8_ -encoded protein and to explore its physiological role in UV-B response, two different kinds of transgenic tomato lines were generated by _Agrobacterium tumefaciens_ -mediated transformation.
+One was the repression lines by using RNA interference (SlUVR8Ri), expressing _SlUVR8_ -derived inverted-repeat sequences under the direction of the CaMV 35S promoter.
+The other was over-expression lines of _SlUVR8_ (SlUVR8OE), also driven by 35S promoter.
+After screening the T0 generation plants with the quantitative RT-PCR (qRT-PCR) assays of _SlUVR8_ expression, three independent lines were chosen for SlUVR8Ri (-1, -2, and -3) and SlUVR8OE (-1, -2, and -3), respectively.
+The homolozygous plants for each line were obtained in T2 generation.
+As validated by qRT-PCR, _SlUVR8_ expression were significantly decreased in SlUVR8Ri lines (Fig.
+2A) and remarkably increased in SlUVR8OE lines (Fig.
+2B) compared to wild type (WT) plants.
+The growth and development of transgenic plants were indistinguishable from WT plants in absence of UV-B light (Fig. 2C).
+After additional treatment with UV-B radiation for 1 week, however, SlUVR8Ri plants showed hypersensitive phenotypes including retarded growth, curly and bleached leaves, and even premature cell death (Fig.
+2C) while SlUVR8OE plants displayed much less bleached leaves than WT plants (Fig.
+2C and D).
+In addition, anthocyanin and chlorophyll accumulation were significiantly reduced in the leaves of SlUVR8Ri plants after UV-B treatment (Fig.
+3A and B).
+However, SlUVR8OE plants enhanced accumulation of anthocyanin and chlorophyll in leaves (Fig.
+3A and B).
+Moreover, qRT-PCR assays indicated that expression of tomato _HY5_ ( _SlHY5_ ), as well as _CHS_ ( _SlCHS_ ) gene, was down-regulated in SlUVR8Ri plants and up-regulated SlUVR8OE plants (Fig. 3C) compared with WT.
+Together, these results demonstrated that _
+SlUVR8_ was required for tomato   SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 2   www.nature.com/scientificreports/   **Figure 1.**
+The expression pattern and sub-cellular localization of SlUVR8.
+( **A** )
+Constitutive expression of tomato _UVR8_ in various tissues.
+The mRNA levels for tomato _UVR8_ was analyzed by quantitative RT-PCR.
+Total RNAs were extracted from roots, stems, leaves, flowers and fruit pericarps at various developmental stages (10, and 20 days post-anthesis, breaker and ripe, respectively).
+The roots were harvested from plant grown indoor (22–28 °C, 16 h light and 8 h dark) and the rest tissues were harvested from plant grown in the outdoor field.
+Each bar represents mean value from three biological replicates from each type of tissues (n = 3).
+Error bars representing standard deviations (SD) are shown in each case.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+( **B** )
+Localization of GFP-UVR8 fusion protein transiently expressed in tobacco protoplasts.
+Upper panels, GFP-UVR8; middle panels, GFP; bottom panels, an untransformed protoplast as a negative control.
+Left to right: red, chlorophyll autofluorescence; green, GFP fluorescence; blue, nucleus stained with DAPI; merged, combined fluorescence from GFP, chlorophyll and DAPI.
+Scale bars = 25 μm.
+( **C** )
+Westernblot analysis of transient expression samples from ( **B** ) by using anti-GFP antibody.
+The positions of protein ladders were marked on the left side of the gel figure.
+SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 3   www.nature.com/scientificreports/   **Figure 2.** _SlUVR8_ is required for tomato acclimation to UV radiation.
+( **A** ) Quantitative RT-PCR analysis of _SlUVR8_ mRNA levels in young leaves from wild-type Ailsa Craig ( _WT_ ) and three independent _35S::SlUVR8Ri_ transgenic lines.
+Each bar represents mean value from three biological replicates from each line (n = 3).
+Error bars representing SD are shown in each case.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+( **B** )
+Quantitative RT-PCR analysis of _SlUVR8_ mRNA levels in young leaves from wild-type Ailsa Craig ( _WT_ ) and three independent _35S::SlUVR8_ transgenic lines.
+Each bar represents mean value from three biological replicates from each line (n = 3).
+Error bars representing SD are shown in each case.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+( **C** )
+Upper panels, phenotypes of 4-week-old _35S::SlUVR8Ri_ -2, Ailsa Craig ( _WT_ ), and _35S::SlUVR8OE_ -1 seedlings grown under white light without UV-B. Bottom panels, phenotypes of the seedlings after UV-B radiation for a week.
+( **D** )
+Percentage of bleached leaves of the seedlings after UV-B radiation in (C).
+For each line, total 50 leaves from 10 different plants were counted (n = 50).
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+acclimation to UV-B radiation.
+Over-expression of SlUVR8 could increase plant tolerance to UV-B stress by up-regulating _SlHY5_ expression and enhancing anthocyanin accumulation.
+**SlUVR8 affects chloroplast development and nutrient quality of tomato fruits.
+**
+We grew the transgenic lines and WT plants in the outdoor fields, as described in “Materials and Methods”, with exposure to the natural sunlight.
+The SlUVR8Ri plants displayed normal growth without any phenotypes of hypersensitivity to UV radiation (data not shown).
+However, the SlUVR8Ri plants had pale green immature fruits (Fig. 4A).
+In contrast, SlUVR8OE plants had darker green fruits compared to WT plants (Fig. 4A).
+Accordingly, ripe fruits expressing _SlUVR8_ had a 20% increase in chlorophyll content (Fig. 4B) and a 25% increase in carotenoids (Lycopene and β-Carotene) contents (Fig. 4D), as compared with WT fruits.
+In addition, starch accumulation were boosted in fruits of SlUVR8OE plants but reduced in SlUVR8Ri plants (Fig. 4E).
+However, the anthocyanin contents in fruits were very low and indistinguishable between WT and transgenic fruits (Fig. 4C).
+The previous studies revealed that low accumulation of flavonoids (including anthocyanins) in tomato fruits was caused by low expression of _chalcone isomerase_ ( _CHI_ ) gene
+[43] and other genes [44] required for anthocyanin biosynthesis.
+Our results indicated that overexpression of _SlUVR8_ had no apparent effect on anthocyanin accumulation in tomato fruits, although _SlHY5_ expression was also up-regulated in fruits of SlUVR8OE plants (Supplemental Fig. 3).
+Meanwhile, we investigated chloroplast compartment sizes in pericarp cells of mature green fruits from WT and transgenic plants.
+The results indicated that plastid number per cell showed no substantial difference between WT and transgenic plants (Table 1), but plastid size (plastid plan area) was altered significantly (Table 1 and Fig.
+5A).
+Larger chloroplasts were developed in fruit pericarp cells of SlUVR8OE plants while smaller chloroplast were displayed in SlUVR8Ri plants, as observed by optical microscope (Fig.
+5A) and transmission electron microscope (Fig. 5B).
+The quantitative measurements confirmed our observations (Table 1).
+These results revealed that SlUVR8 could influence chloroplast size but not chloroplast number in tomato fruits.
+In addition,   SCIEnTIFIC **ReporTS** | _(2018) 8:6097_
+| DOI:10.1038/s41598-018-24309-y 4   www.nature.com/scientificreports/   **Figure 3.** _SlUVR8_ mediates UV-induced gene expression and anthocyanin accumulation.
+( **A** )
+Leaves detached from 30-d-old _35S::SlUVR8Ri_, Ailsa Craig ( _WT_ ), and _35S::SlUVR8OE_ seedlings grown under white light (photoperiod: 16 h light and 8 h dark) with or without 3-days UV-B radiation (12 h/day).
+( **B** ) Quantitative measurement of anthocyanin and chlorophyll content in the fully expanded leaves in (A).
+Values were shown as “means ± SD”; Error bars represent SD of ten biological replicates.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+( **C** )
+The quantitative RT-PCR analysis of UVB-induced genes _SlHY5_ and _SlCHS_ of the seedlings in (A).
+Values were shown as “means ± SD”; Each bar represents mean value from three biological replicates from each line (n = 3).
+“**” means P < 0.001 (Student’s _t_ test).
+bigger starch grains were observed in chloroplasts from SlUVR8OE fruits while SlUVR8Ri fruits showed on obvious starch grains, as indicated by note “S” in Fig.
+5B, in chloroplasts.
+This observation was consistent with our previous quantitative measurements of total starch content (Fig. 4D).
+It was noteworthy that we observed much less thylakoid stacks (grana) in the chloroplasts of SlUVR8Ri plants than in WT and SlUVR8OE plants (Fig. 5B), which implied that thylakoid membrane or photosynthesis apparatus in SlUVR8Ri plants might be damaged by solar UV radiation.
+**SlUVR8 enhances the accumulation of transcriptional factor SlGLK2 under UV-B radiation.
+** Tomato _GOLDEN2-LIKE_ ( _GLK_ ) transcription factor _SlGLK2_ determines chlorophyll accumulation and chloroplast development in fruits through enhancing photosynthesis gene expression [28][,][33][,][34] .
+Therefore, we checked the SlGLK2 protein abundance in the fruits of transgenic plants grown under sunlight in open fields by using a SlGLK2-specific antibody which doesn’t recognize SlGLK1 [28] .
+As shown in Fig.
+6A, SlGLK2 proteins were over-accumulated in SlUVR8OE plants but less accumulated in SlUVR8Ri plants grown under sunlight.
+In addition, UV-B radiation could enhance the accumulation of SlGLK2 in fruits of WT plants grown in chamber with white light (Fig. 6B).
+These results indicated that _SlUVR8_ might affect chloroplast development through targeting transcription factor SlGLK2.
+Next, the qRT-PCR assays indicated that UV-B could increase the mRNA levels of _SlGLK2_ gene in WT fruits (Fig. 6C).
+It was noteworthy that UV-B radiation could increase SlGLK2 protein abundance by almost 7 times while mRNA level of SlGLK2 gene was increased by only 3 times (Fig.
+6B and C).
+These results suggested that there possibly was a post-translational regulation in UV-B enhanced SlGLK2 accumulation.
+Also, _SlGLK2_ expression was increased in fruits of SlUVR8OE plants but decreased in fruits of SlUVR8Ri plants (Fig.
+6D).
+We also randomly selected two SlGLK2-targeted genes ( _SlPsaL_ and _SlPsbQ_ ), which encode photosystem I subunit L and photosystem II subunit Q respectively, and checked their expression in fruits of transgenic plants (Fig. 6D).
+The results indicated that over-expression of _SlUVR8_ could increase the expression of transcriptional factor _SlGLK2_ and its target genes, while silencing of _SlUVR8_ led to suppression of _SlGLK2_ and its target genes in fruits, when plants were exposed to the sunlight.
+Since _SlGLK2_ was also expressed in leaves [33][,][34], we also checked its expression in leaves of transgenic plants with or without UV-B treatment.
+The qRT-PCR assays indicated that, when plants were cultured in indoor   SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 5   www.nature.com/scientificreports/   **Figure 4.** _SlUVR8_ affects tomato fruit pigment and nutrient quality.
+( **A** )
+Phenotypes of immature fruits (25 DPA) and red ripe fruits from field-grown plants of wild-type Ailsa Craig ( _WT_ ), _35S::SlUVR8Ri_ lines and _35S::SlUVR8OE_ lines.
+( **B** )
+Total chlorophyll levels from immature green fruit in (A).
+Values were shown as “means ± SD”; Error bars represent SD of 10 biological replicates.
+“**” means P < 0.001 (Student’s _t_ test).
+( **C** ) Lycopene, β-carotene, and starch levels in Ailsa Craig ( _WT_ ), _35S::SlUVR8Ri_ and _35S::SlUVR8OE_ fruit.
+Lycopene and β-carotene levels were measured in red ripe fruits.
+Starch was measured in immature green fruits.
+Values were shown as “means ± SD”; Error bars represent SD of 10 biological replicates.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+|Col1|Cell plan area<br>(μm2, n = 30)|Plastid number<br>per cell (n = 30)|Total plastid<br>area per cell|Plastid density<br>(per μm2 cell plan area, n = 30)|Plastid plan area<br>(μm2, n > 1000)|Cell<br>index| |---|---|---|---|---|---|---| |_WT_|57579± 3707|817± 58|10348± 811|0.014|12.7± 0.8|0.180| |_UVR8-OE1_|56494± 5344|859± 65|13590± 799|0.015|15.8± 1.1|0.241| |_UVR8-OE2_|58665± 4740|928± 67|13668± 785|0.016|14.8± 1.3|0.234| |_UVR8-OE3_|55966± 4265|846± 50|12390± 829|0.015|14.7± 0.8|0.222| |_UVR8-Ri1_|54370± 4505|942± 75|8368± 690|0.017|8.9± 0.6|0.154| |_UVR8-Ri2_|56956± 5406|885± 83|7459± 789|0.016|8.4± 0.9|0.131| |_UVR8-Ri3_|59592± 4893|872± 68|8782± 671|0.015|10.1± 0.9|0.148|    **Table 1.
+** Cell and plastid characteristics of fruit pericarp cells from tomato cv.
+Ailsa Craig (WT), SlUVR8OE and SlUVR8Ri transgenic plants.
+Values are means ± SE.
+Cell index is calculated as total plastid area per cell plan area.
+Immature green fruit were studied at 25d post-anthesis.
+chamber with white light, _SlUVR8_ had no apparent effect on expression of _SlGLK2_ and its target genes (Fig. 7A).
+However, after UV-B treatment, _SlGLK2_ expression was significantly increased in WT and SlUVR8OE leaves but not in SlUVR8Ri leaves.
+In addition, the expression of the target gene _SlPsaL_ and _SlPsbQ_ showed no obvious difference under white light but was suppressed severely after UV-B treatment in the leaves of SlUVR8Ri plants compared with WT and SlUVR8OE plants (Fig. 7A).
+These results confirmed that _
+SlUVR8_ was required for UVB-enhanced expression of _SlGLK2_ and its target genes.
+We also checked the expression of _SlGLK1_ gene which was expressed only in leaves but not in fruits [33][,][34] .
+The qRT-PCR analysis indicated that UV-B radiation, as well as _SlUVR8_ expression, had no significant effect _SlGLK1_ expression in leaves (Fig. 7B).
+**Discussion**
+As UV-B photoreceptor, _UVR8_ gene has been characterized in several plant species including Arabidopsis, _Populus euphratica_
+[37], apple
+[38], grape berry [39], grapevine [40] and radish sprouts [41], and in _Chlamydomonas reinhardtii_
+[42] .
+SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 6   www.nature.com/scientificreports/   **Figure 5.** _SlUVR8_ affects chloroplast development in fruit cells.
+( **A** )
+Isolated pericarp cells from immature green tomato fruits (25 DPA) of _SlUVR8OE_, wild-type ( _WT_ ) and _SlUVR8Ri_ plants grown in the outdoor field.
+Bars = 50 μm.
+( **B** )
+Transmission electron microscopy images of immature green fruit (25 DPA) chloroplasts from _SlUVR8OE_, wild-type ( _WT_ ) and _SlUVR8Ri_ plants grown in the outdoor field.
+Bars = 1 μm.
+Red “C” indicated Chloroplasts, Red “S” indicated Starch in chloroplast.
+Here, we isolated tomato _SlUVR8_ gene and identified its functions in plant’s adaptation to UV-B radiation.
+Transgenic evidences suggested overexpression of _SlUVR8_ increased plant tolerance whereas silencing _SlUVR8_ gene led to the hypersensitivity to UV-B stress (Fig. 2).
+In accordance with the previous studies in Arabidopsis, UV-B-induced _HY5_ and _CHS_ expression, as well as anthocyanin accumulation, were impaired in SlUVR8Ri plants but were enhanced in SlUVR8OE plants compared to WT (Fig. 3).
+These results demonstrated that SlUVR8 played an essential role of orchestrating expression of key UV-responsive genes (such as _SlHY5_ and _SlCHS_ ) and accumulating UV-absorptive compounds with sunscreen functions of protecting plants from UV damage.
+Sunlight provides energy for photosynthesis of chloroplast.
+However, solar UV radiation could damage photosynthesis and chloroplasts as well [45] .
+Numerous studies revealed that photosynthetic apparatus was susceptible to damage caused by UV-B
+[46][–][50] .
+The adverse effects from enhanced UV-B radiation on chloroplasts include but not limited to loss in integrity of the thylakoid membranes [51], impaired activity of photosystem II (PSII)
+[52][,][53], enhanced protein degradation
+[50], inhibited carbon fixation [54] and reduced content of starch and chlorophyll
+[53][,][55]
+.
+Therefore, plants must employ some strategies or mechanisms, some of which remain to be elucidated yet, to respond to these problems and to maintain photosynthesis and chloroplast functions.
+A few studies suggested that UVR8 is required for maintaining the photosynthesis efficiency under enhanced UV-B radiation in Arabidopsis [49][,][50] .
+The underlying mechanism, however, has not been revealed yet.
+In our work, we proved that _SlUVR8_ promote chloroplast development in tomato fruits when plants were grown in outdoor fields and exposed to natural sunlight (Fig. 4).
+Silencing _SlUVR8_ caused some developmental issues in fruits including reduced size of chloroplasts and decreased contents of chlorophyll and starch, while overexpresssion of _SlUVR8_ led to larger chloroplasts and increased contents of chlorophyll and starch (Fig. 5).
+The previous studies revealed that low accumulation of flavonoids (including anthocyanins) in tomato fruits resulted from low expression of _chalcone isomerase_ ( _CHI_ ) gene
+[43] and other genes [44] required for anthocyanin biosynthesis.
+Our results also showed that the anthocyanin contents in fruits were very low and indistinguishable between WT and transgenic fruits (Fig. 4C).
+It is conceivable that deficiency of anthocyanins was not responsible for chloroplast abnormality in fruit cells from SlUVR8Ri plants.
+In our case, SlUVR8 might play another role in affecting chloroplast development of tomato fruits rather than its role in accumulating UV-absorbing compounds.
+Therefore, we speculated that SlUVR8 could enhance chloroplast development, facilitate the recycling of damaged chloroplasts, and thereby contribute to maintain photosynthesis under UV-B stress.
+In tomato, silencing _SlHY5_ also caused abnormalities in both organization and abundance of thylakoids [26] .
+However, no reports yet showed that overexpression of _SlHY5_ could lead to larger chloroplasts and high pigment of fruits in tomato.
+Therefore, we surmise that other genes are also involved in the UVR8-mediated chloroplast development.
+Our results disclosed that UV-B could enhance accumulation of SlGLK2, which was a key regulator of fruit chloroplast development
+[33][,][34], and the UVB-enhanced SlGLK2 accumulation was dependent on _SlUVR8_ gene.
+Several studies demonstrated that _SlGLK2_ influenced chloroplast development and chlorophyll level by increasing fruit photosynthesis and chloroplast gene expression [33][,][34] .
+The accumulation of carbohydrates   SCIEnTIFIC **ReporTS** | _(2018) 8:6097_
+| DOI:10.1038/s41598-018-24309-y 7   www.nature.com/scientificreports/   **Figure 6.** _SlUVR8_ enhances SlGLK2 accumulation under UV radiation.
+( **A** )
+Immunoblot analysis of SlGLK2 levels among Ailsa Craig ( _WT_ ), _35S::SlUVR8Ri_ and _35S::SlUVR8OE_ transgenic lines.
+The proteins extracted from immature fruits (25 DPA) from field-grown plants was resolved by SDS-PAGE, then probed with antiSlGLK2 antibody and anti-β-actin antibodies.
+( **B** )
+Immunoblot analysis of SlGLK2 levels between Micro Tom ( _WT_ ) plant grown in white light and plant grown in white light with added 3 days of UV-B irradiation.
+The proteins extracted from immature fruits (15 DPA) was resolved by SDS-PAGE, then probed with anti-SlGLK2 antibody and anti-β-actin antibodies.
+Blots were quantitatively analyzed by software ImageJ 1.46r.
+Values were shown as “means ± SD” from results of three independent experiments.
+( **C** ) Quantitative RT-PCR analysis of _SlGLK2_ mRNA levels in immature fruits (15 DPA) from Micro Tom ( _WT_ ) with different UV-B irradiation time (0 d, 1 d and 3 d respectively).
+Values were shown as “means ± SD”; Error bars represent SD of 3 biological replicates.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+( **D** )
+Quantitative RTPCR analysis of chloroplast development related genes _SlGLK2_, _SlPsa_ L and _SlPsbQ_ in Ailsa Craig ( _WT_ ), 35S::SlUVR8Ri and 35S::SlUVR8OE transgenic lines.
+Total RNAs were extracted from fruit pericarps of immature fruits (25 DPA) from field-grown plants.
+Values were shown as “means ± SD”; Error bars represent SD of 3 biological replicates.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+and carotenoids were elevated in fruits of _SlGLK2_ overexpression plants.
+Our results showed that more chlorophyll, starch, and carotenoids were accumulated in fruits of SlUVR8OE plants (Fig. 4), similar to the phenotypes of fruits expressing _SlGLK2_ .
+In addition, our results indicated that SlGLK2 proteins were over-accumulated in SlUVR8OE fruits but less-accumulated in SlUVR8Ri fruits under sunlight (Fig. 6).
+Further studies revealed that expression of _SlGLK2_ and its randomly-selected target genes were elevated in SlUVR8OE plants under UV-B radiation (Figs 6 and 7).
+Silencing _SlUVR8_ abolish UVB-induced expression of _SlGLK2_ and its target gene (Figs 6 and 7).
+These results suggested that _SlUVR8_ gene is required for UVB-enhanced _SlGLK2_ expression.
+Therefore, we proposed an unknown pathway that photoreceptor _UVR8_ promote chloroplast development in tomato under UV-B stress by enhancing accumulation of SlGLK2.
+Of course, we can’t exclude the role of _SlHY5_ in UV-mediated chloroplast development
+[26] .
+A study about the root greening in Arabidopsis [56] showed that _GLK2_ could induce the accumulation of HY5 and combination of _GLK2_ and _HY5_ mediated the coordinated expression of many key genes of chloroplast biogenesis.
+This study might shed some light on the mechanism that both _SlHY5_ and _SlGLK2_ are possibly required for UVB-mediated chloroplast development.
+The previous study showed that expression of _GLK2_ was also responsive to photooxidative chloroplast damage and retrograde signals from plastid in Arabidopsis
+[57], indicating that _GLK2_ might play an additional role in adjusting photosynthetic capacity in changing environmental conditions.
+It will be interesting to check whether silencing _SlGLK2_ alone could affect UVB-mediated chloroplast development and plant response to UV-B stress in further investigations.
+SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 8   www.nature.com/scientificreports/   **Figure 7.** _SlUVR8_ is required for UV-induced _SlGLK2_ expression.
+( **A** ) Quantitative RT-PCR analysis of chloroplast development related genes _SlGLK2_ and its target genes ( _SlPsa_ L and _SlPsbQ_ ) in Ailsa Craig ( _WT_ ), 35S::SlUVR8OE and 35S::SlUVR8Ri transgenic lines with or without 3-d UV-B irradiation.
+Total RNAs were extracted from totally expanded leaves of 30-d old seedlings grown in white light.
+Values were shown as “means ± SD”; Error bars represent SD of 3 biological replicates.
+“*” and “**” means P < 0.05 and P < 0.001 respectively (Student’s _t_ test).
+( **B** )
+Quantitative RT-PCR analysis of _SlGLK1_ gene in the same samples as described in (A).
+“**” means P < 0.001 (Student’s _t_ test).
+In Arabidopsis, transcription factor _HY5_ is regulated by _UVR8_ at both transcriptional and post-translational levels [8][,][17][,][21] .
+Here, our immunoblot analysis showed that UV-B radiation could increase SlGLK2 protein abundance by about 7 times while mRNA level of _SlGLK2_ gene was increased by only 3 times, as compared with untreated condition (Fig.
+6B and C).
+These results suggested that a post-translational modification, which requires further studies, might exist in this case.
+In Arabidopsis, UVR8 were associated with chromatin in the region of the _HY5_ promoter and regulate _HY5_ transcription [8][,][58][,][59] .
+However, a recent study [60] indicated that UVR8 didn’t bind to chromatin _in vivo_ or _in vitro_ , possibly because of lacking critical histone- and DNA-interaction residues.
+Therefore, the exact mechanism of _UVR8_ regulating transcription remains controversial and elusive.
+In our study, there is   SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 9   www.nature.com/scientificreports/   no evidence yet that SlUVR8 interacts with the promoter of _SlGLK2_ gene directly.
+Therefore, we can’t exclude the possibility that SlUVR8 might regulate _SlGLK2_ gene expression through another transcription factor or proteins.
+Further investigations are needed to validate our speculations and figure out the mysteries.
+Together, we revealed that _
+SlUVR8_ played a conserved role in plant acclimate to UV-B stress.
+Besides, our results indicated that _SlUVR8_ mediated the fruit chloroplast development by enhancing accumulation of transcription factor SlGLK2.
+Moreover, manipulation of _SlUVR8_ level represents a new option to enhance both tolerance to UV-B stress and nutrient values of tomato fruits, especially when plants were grown in outdoor fields with intense sunlight.
+**Materials and Methods** **Plant Materials and Growth Conditions.
+** Tomato ( _Solanum lycopersicum_ )
+cv Ailsa Craig (LA2838A) were acquired from the Tomato Genetics Resource Center (UC Davis, USA).
+Tomato plants were grown under artificial conditions (22–28 °C, 16 h light and 8 h dark) for several weeks and then transplanted into the outdoor field (located at the suburbs of Chengdu, China) for 4 months (from May to August).
+During this time, the maximum value of UV-B irradiance at noon (1 p.m.) is 9.5 μmol/m [2] /s and the minimum value is 4.3 μmol/m
+[2] /s, as measured by TBQ-ZW-2 UV-B (280–320 nm) light meter (Shanghai Minyin Electrics co., Ltd, China).
+For photomorphogenic UV-B treatment, seedlings were grown under white light (photoperiod: 16 h light and 8 h dark) supplemented with Philips TL20W/01RS narrowband UV-B tubes (23 μmol/m [2] /s) for 12 hours per day.
+**Generation of transgenic tomato.
+**
+The _Agrobacterium_ EHA105 strains containing vectors pBI121- _SlUVR8_ or pBI121- _SlUVR8_               - _RNAi_ were used to transform tomato cv Ailsa Craig by using _Agrobacterium_ _tumefaciens_ -mediated transformation
+[61] .
+Primary transformants (T0) and their offspring were cultivated under the artificial conditions for 4 weeks and then transplanted into the outdoor field (located at the suburbs of Chengdu, China).
+The T-DNA insertions of transgenic plants were identified by PCR using _NPTII_ -specific primers and the expression of _SlUVR8_ gene was validated by real-time RT-PCR using _SlUVR8_ -specific primers.
+Three independent transgenic lines were used for phenotypic and molecular analysis.
+**Quantitative RT-PCR analysis.
+** Total RNAs were isolated using Trizol reagent (Invitrogen).
+The genomic DNAs in total RNAs were erased and first-strand cDNAs were synthesized with oligo-dT(18T) primers by using cDNA Synthesis kit, according to the manufacturer’s protocol (TransGen, Beijing, China).
+Quantitative PCR was conducted on the ABI StepOnePlus PCR System by using the TransStart Green qPCR SuperMix (TransGen).
+Gene expression was normalized by the expression of _UBI3_ gene.
+All the primers used are listed in Table S1.
+**Subcellular localization analysis.
+**
+The coding sequence of the _SlUVR8_ gene was cloned into the expression vector pART27-mcs:GFP and generated the pART27- GFP-SlUVR8 construct.
+Plasmid vectors pART27-GFP-SlUVR8 and pART27-GFP were introduced into protoplasts of tobacco ( _Nicotiana benthami-_ _ana_ ) according to the methods described previously [62][,][63] .
+After incubation at 25 °C for 12–16 h, protoplasts were observed under a Leica TCS SPII confocal microscope using 488 and 633 nm excitation wavelengths and three-channel measurement of emission: 435 nm (blue/DAPI), 522 nm (green/GFP) and 680 nm (red/ chlorophyll).
+**Protein extraction and immunoblot analysis.
+**
+Tissue was ground in liquid N 2 and was treated in boil water for 5 min with SDS-PAGE loading buffer to extract total proteins.
+Immunoblot analysis was performed as described previously [64] .
+The SlGLK2-specific antibodies recognized the SlGLK2 N-terminal unique sequence (synthetic peptide SSSLSYKNERENYD, 5–18), but not SlGLK1 protein, as described in the previous study
+[28] .
+The secondary antibody Goat-anti-rabbit IgG conjugated to horseradish peroxidase (HRP) were purchased from Hangzhou HuaAn Biotechnology Co., Ltd.   **Plastid Analysis and Transmission Electron Microscopy.
+**
+The fruit tissues used for plastid analysis were harvested from plants grown in outside open fields and processed as previously reported [65] .
+In brief, the fruit pericarp tissues were immersed in 3.5% glutaraldehyde for 1 hour at least, then incubated in 0.1 M Na 2 -EDTA for 30 min at 60 °C.
+The sliced and smashed samples were imaged with a Leica DM2500 microscope, and cell plan area was measured by Image-Pro Plus.
+For transmission electron microscopy, outer pericarp tissues were prefixed in 3% glutaraldehyde in 0.1 M phosphate buffer at 4 °C.
+Tissues were post fixed in 1% osmium tetroxide, dehydrated in series acetone, infiltrated in Epox 812 for a longer, and embedded.
+The semithin sections were stained with methylene blue and ultrathin sections were cut with diamond knife, stained with uranyl acetate and lead citrate.
+Sections were examined with a Transmission Electron Microscope (TEM; HITACHI, H-600IV, Japan).
+**Anthocyanin, chlorophyll and carotenoid assays.
+**
+Anthocyanin was assayed according to the procedures described previously [66] .
+chlorophyll and green fruits’ total carotenoid was extracted into 80% acetone, and their content was calculated by using Lichtenthaler’s formulas, in which chlorophyll a equals 12.21 _A_ 663 -2.81 _A_ 645, chlorophyll b equals 20.13 _A_ 645 -5.03 _A_ 663, total carotenoids equals (1000 _A_ 470 -3.27 _C_ a-104 _
+C_ b)/229.
+The red fruits’ carotenoid contents were measured by HPLC as previously described [27], with analytical reagent lycopene and β-carotene as standards.
+**Starch Analysis.
+** Starch quantification was determined using a starch assay kit (STA20; Sigma-Aldrich) following the manufacturer’s protocol [34] .   SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 10   www.nature.com/scientificreports/   **References** 1.
+Tilbrook, K. _et al_ .
+The UVR8 UV-B Photoreceptor: Perception, Signaling and Response.
+_
+The Arabidopsis book_ **11**, e0164 (2013).
+2. Jenkins, G. I. Structure and function of the UV-B photoreceptor UVR8. _
+Current opinion in structural biology_ **29**, 52–57 (2014).
+3. Jenkins, G. I.
+The UV-B photoreceptor UVR8: from structure to physiology.
+_
+The Plant cell_ **26**, 21–37 (2014).
+4. Rizzini, L. _et al_ .
+Perception of UV-B by the Arabidopsis UVR8 protein.
+_
+Science_ **332**, 103–106 (2011).
+5. Heijde, M. & Ulm, R. UV-B photoreceptor-mediated signalling in plants.
+_
+Trends in plant science_ **17**, 230–237 (2012).
+6.
+Christie, J. M. _et al_ .
+Plant UVR8 photoreceptor senses UV-B by tryptophan-mediated disruption of cross-dimer salt bridges.
+_
+Science_ **335**, 1492–1496 (2012).
+7.
+Kliebenstein, D. J., Lim, J. E., Landry, L. G. & Last, R. L. Arabidopsis UVR8 regulates ultraviolet-B signal transduction and tolerance and contains sequence similarity to human regulator of chromatin condensation 1. _
+Plant physiology_ **130**, 234–243 (2002).
+8.
+Brown, B. A. _et al_ .
+A UV-B-specific signaling component orchestrates plant UV protection.
+_
+Proceedings of the National Academy of_ _Sciences of the United States of America_ **102**, 18225–18230 (2005).
+9.
+Ulm, R. _et al_ .
+Genome-wide analysis of gene expression reveals function of the bZIP transcription factor HY5 in the UV-B response of Arabidopsis.
+_
+Proceedings of the National Academy of Sciences of the United States of America_ **101**, 1397–1402 (2004).
+10.
+Binkert, M. _et al_ .
+UV-B-responsive association of the Arabidopsis bZIP transcription factor ELONGATED HYPOCOTYL5 with target genes, including its own promoter.
+_
+The Plant cell_ **26**, 4200–4213 (2014).
+11.
+Stracke, R. _et al_ .
+The Arabidopsis bZIP transcription factor HY5 regulates expression of the PFG1/MYB12 gene in response to light and ultraviolet-B radiation.
+_
+Plant, cell & environment_ **33**, 88–103 (2010).
+12.
+Binkert, M. _et al_ .
+UV-B-Responsive Association of the Arabidopsis bZIP Transcription Factor ELONGATED HYPOCOTYL5 with Target Genes, Including Its Own Promoter.
+_
+The Plant cell_ **26**, 4200–4213 (2014).
+13.
+Wu, D. _et al_ .
+Structural basis of ultraviolet-B perception by UVR8. _
+Nature_ **484**, 214–219 (2012).
+14.
+Yin, R., Skvortsova, M. Y., Loubery, S. & Ulm, R. COP1 is required for UV-B-induced nuclear accumulation of the UVR8 photoreceptor.
+_
+Proceedings of the National Academy of Sciences of the United States of America_ **113**, E4415–4422 (2016).
+15.
+Kaiserli, E. & Jenkins, G. I. U. V.-B. promotes rapid nuclear translocation of the Arabidopsis UV-B specific signaling component UVR8 and activates its function in the nucleus.
+_
+The Plant cell_ **19**, 2662–2673 (2007).
+16.
+Oravecz, A. _et al_ .
+Constitutively Photomorphogenic1 is required for the UV-B response in Arabidopsis.
+_
+The Plant cell_ **18**, 1975–1990 (2006).
+17.
+Favory, J. J. _et al_ .
+Interaction of COP1 and UVR8 regulates UV-B-induced photomorphogenesis and stress acclimation in Arabidopsis.
+_
+The EMBO journal_ **28**, 591–601 (2009).
+18.
+Safrany, J. _et al_ .
+Identification of a novel cis-regulatory element for UV-B-induced transcription in Arabidopsis.
+_
+The Plant journal:_ _for cell and molecular biology_ **54**, 402–414 (2008).
+19.
+Gruber, H. _et al_ .
+Negative feedback regulation of UV-B-induced photomorphogenesis and stress acclimation in Arabidopsis.
+_
+Proceedings of the National Academy of Sciences of the United States of America_ **107**, 20132–20137 (2010).
+20.
+Yin, R., Arongaus, A. B., Binkert, M. & Ulm, R. Two distinct domains of the UVR8 photoreceptor interact with COP1 to initiate UV-B signaling in Arabidopsis.
+_
+The Plant cell_ **27**, 202–213 (2015).
+21.
+Huang, X. _et al_ .
+Conversion from CUL4-based COP1-SPA E3 apparatus to UVR8-COP1-SPA complexes underlies a distinct biochemical function of COP1 under UV-B. _Proceedings of the National Academy of Sciences of the United States of America_ **110**, 16669–16674 (2013).
+22.
+Chu, G. & Chang, E. Xeroderma Pigmentosum Group-E Cells Lack a Nuclear Factor That Binds to Damaged DNA. _
+Science_ **242**, 564–567 (1988).
+23.
+Seo, K. I. _et al_ .
+ABD1 is an Arabidopsis DCAF substrate receptor for CUL4-DDB1-based E3 ligases that acts as a negative regulator of abscisic acid signaling.
+_
+The Plant cell_ **26**, 695–711 (2014).
+24.
+Zhang, Y. _et al_ .
+Arabidopsis DDB1-CUL4 ASSOCIATED FACTOR1 forms a nuclear E3 ubiquitin ligase with DDB1 and CUL4 that is involved in multiple plant developmental processes.
+_
+The Plant cell_ **20**, 1437–1455 (2008).
+25.
+Bernhardt, A. _et al_ .
+CUL4 associates with DDB1 and DET1 and its downregulation affects diverse aspects of development in Arabidopsis thaliana.
+_
+The Plant journal: for cell and molecular biology_ **47**, 591–603 (2006).
+26.
+Liu, Y. S. _et al_ .
+Manipulation of light signal transduction as a means of modifying fruit nutritional quality in tomato.
+_
+Proceedings of_ _the National Academy of Sciences of the United States of America_ **101**, 9897–9902 (2004).
+27.
+Wang, S. _et al_ .
+Altered plastid levels and potential for improved fruit nutrient content by downregulation of the tomato DDB1interacting protein CUL4.
+_
+The Plant journal: for cell and molecular biology_ **55**, 89–103 (2008).
+28.
+Tang, X. _et al_ .
+Ubiquitin-conjugated degradation of golden 2-like transcription factor is mediated by CUL4-DDB1-based E3 ligase complex in tomato. _
+The New phytologist_ **209**, 1028–1039 (2016).
+29.
+Liu, J. _et al_ .
+A role of tomato UV-damaged DNA binding protein 1 (DDB1) in organ size control via an epigenetic manner.
+_
+PloS one_ **7**, e42621 (2012).
+30.
+Gao, L. _et al_ .
+The tomato DDI2, a PCNA ortholog, associating with DDB1-CUL4 complex is required for UV-damaged DNA repair and plant tolerance to UV stress.
+_
+Plant science: an international journal of experimental plant biology_ **235**, 101–110 (2015).
+31.
+Miao, M. _et al_ .
+The tomato DWD motif-containing protein DDI1 interacts with the CUL4-DDB1-based ubiquitin ligase and plays a pivotal role in abiotic stress responses.
+_Biochemical and biophysical research communications_ **450**, 1439–1445 (2014).
+32.
+Liu, J. _et al_ .
+The tomato UV-damaged DNA-binding protein-1 (DDB1) is implicated in pathogenesis-related (PR) gene expression and resistance to Agrobacterium tumefaciens.
+_
+Molecular plant pathology_ **13**, 123–134 (2012).
+33.
+Powell, A. L. _et al_ .
+Uniform ripening encodes a Golden 2-like transcription factor regulating tomato fruit chloroplast development.
+_
+Science_ **336**, 1711–1715 (2012).
+34.
+Nguyen, C. V. _et al_ .
+Tomato GOLDEN2-LIKE transcription factors reveal molecular gradients that function during fruit development and ripening.
+_
+The Plant cell_ **26**, 585–601 (2014).
+35.
+Fitter, D. W., Martin, D. J., Copley, M. J., Scotland, R. W. & Langdale, J. A. GLK gene pairs regulate chloroplast development in diverse plant species.
+_
+The Plant journal: for cell and molecular biology_ **31**, 713–727 (2002).
+36.
+Tang, X. _et al_ .
+Ubiquitin-conjugated degradation of golden 2-like transcription factor is mediated by CUL4-DDB1-based E3 ligase complex in tomato. _
+The New phytologist_ **209**, 1028–1039 (2015).
+37.
+Mao, K., Wang, L., Li, Y. Y. & Wu, R. L. Molecular Cloning and Functional Analysis of UV RESISTANCE LOCUS 8 (PeUVR8) from Populus euphratica.
+_PloS on_ e **10**
+[, https://doi.org/10.1371/journal.pone.0132390 (2015).](http://dx.doi.org/10.1371/journal.pone.0132390) 38.
+Zhao, C. _et al_ .
+Molecular cloning and functional analysis of a UV-B photoreceptor gene, MdUVR8 (UV Resistance Locus 8), from apple.
+_
+Plant science: an international journal of experimental plant biology_ **247**, 115–126 (2016).
+39.
+Liu, L. L., Gregan, S., Winefield, C. & Jordan, B. From UVR8 to flavonol synthase: UV-B-induced gene expression in Sauvignon blanc grape berry.
+_
+Plant Cell and Environment_ **38**, 905–919 (2015).
+40.
+Loyola, R. _et al_ .
+The photomorphogenic factors UV-B RECEPTOR 1, ELONGATED HYPOCOTYL 5, and HY5 HOMOLOGUE are part of the UV-B signalling pathway in grapevine and mediate flavonol accumulation in response to the environment. _
+Journal of_ _experimental botany_ **67**, 5429–5445 (2016).
+41.
+Wu, Q. _et al_ .
+Hydrogen peroxide, nitric oxide and UV RESISTANCE LOCUS8 interact to mediate UV-B-induced anthocyanin biosynthesis in radish sprouts.
+_
+Scientific reports_ **6**, 29164 (2016).
+42.
+Tilbrook, K. _et al_ .
+UV-B Perception and Acclimation in Chlamydomonas reinhardtii.
+_
+The Plant cell_ **28**, 966–983 (2016).
+43.
+Muir, S. R. _et al_ .
+Overexpression of petunia chalcone isomerase in tomato results in fruit containing increased levels of flavonols.
+_
+Nature biotechnology_ **19**, 470–474 (2001).
+SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 11   www.nature.com/scientificreports/   44.
+Butelli, E. _et al_ .
+Enrichment of tomato fruit with health-promoting anthocyanins by expression of select transcription factors.
+_
+Nature_ _
+biotechnology_ **26**, 1301–1308 (2008).
+45.
+Kataria, S., Jajoo, A. & Guruprasad, K. N. Impact of increasing Ultraviolet-B (UV-B) radiation on photosynthetic processes.
+_
+Journal_ _of photochemistry and photobiology.
+B, Biology_ **137**, 55–66 (2014).
+46.
+Waring, J., Underwood, G. J. & Baker, N. R. Impact of elevated UV-B radiation on photosynthetic electron transport, primary productivity and carbon allocation in estuarine epipelic diatoms.
+_
+Plant, cell & environment_ **29**, 521–534 (2006).
+47.
+Joshi, P., Gartia, S., Pradhan, M. K. & Biswal, B. Photosynthetic response of clusterbean chloroplasts to UV-B radiation: energy imbalance and loss in redox homeostasis between Q(A) and Q(B) of photosystem II. _
+Plant science: an international journal of_ _experimental plant biology_ **181**, 90–95 (2011).
+48.
+Lidon, F. C. & Ramalho, J. C. Impact of UV-B irradiation on photosynthetic performance and chloroplast membrane components in Oryza sativa L. _Journal of photochemistry and photobiology.
+B, Biology_ **104**, 457–466 (2011).
+49.
+Singh, S., Agrawal, S. B. & Agrawal, M. UVR8 mediated plant protective responses under low UV-B radiation leading to photosynthetic acclimation.
+_
+Journal of photochemistry and photobiology.
+B, Biology_ **137**, 67–76 (2014).
+50.
+Davey, M. P. _et al_ .
+The UV-B photoreceptor UVR8 promotes photosynthetic efficiency in Arabidopsis thaliana exposed to elevated levels of UV-B. _Photosynthesis research_ **114**, 121–131 (2012).
+51.
+Gupta, R., Bhadauriya, P., Chauhan, V. S. & Bisen, P. S. Impact of UV-B radiation on thylakoid membrane and fatty acid profile of Spirulina platensis.
+_
+Current microbiology_ **56**, 156–161 (2008).
+52.
+Dobrikova, A. G., Krasteva, V. & Apostolova, E. L. Damage and protection of the photosynthetic apparatus from UV-B radiation.
+I. Effect of ascorbate.
+_
+Journal of plant physiology_ **170**, 251–257 (2013).
+53.
+van Rensen, J. J., Vredenberg, W. J. & Rodrigues, G. C. Time sequence of the damage to the acceptor and donor sides of photosystem II by UV-B radiation as evaluated by chlorophyll a fluorescence.
+_
+Photosynthesis research_ **94**, 291–297 (2007).
+54.
+Martinez-Luscher, J. _et al_ .
+Climate change conditions (elevated CO2 and temperature) and UV-B radiation affect grapevine (Vitis vinifera cv.
+Tempranillo) leaf carbon assimilation, altering fruit ripening rates.
+_
+Plant science: an international journal of experimental_ _plant biology_ **236**, 168–176 (2015).
+55.
+Fagerberg, W. R. Below-ambient levels of UV induce chloroplast structural change and alter starch metabolism.
+_
+Protoplasma_ **230**, 51–59 (2007).
+56.
+Kobayashi, K. _et al_ .
+Regulation of root greening by light and auxin/cytokinin signaling in Arabidopsis.
+_
+The Plant cell_ **24**, 1081–1095 (2012).
+57.
+Waters, M. T. _et al_ .
+GLK transcription factors coordinate expression of the Photosynthetic Apparatus in Arabidopsis.
+_
+The Plant cell_ **21**, 1109–1128 (2009).
+58.
+Velanis, C. N., Herzyk, P. & Jenkins, G. I. Regulation of transcription by the Arabidopsis UVR8 photoreceptor involves a specific histone modification.
+_
+Plant molecular biology_ **92**, 425–443 (2016).
+59.
+Cloix, C. & Jenkins, G. I. Interaction of the Arabidopsis UV-B-specific signaling component UVR8 with chromatin.
+_
+Molecular plant_ **1**, 118–128 (2008).
+60.
+Binkert, M. _et al_ .
+Revisiting chromatin binding of the Arabidopsis UV-B photoreceptor UVR8.
+_BMC plant biology_ **16**, 42 (2016).
+61.
+Fillatti, J. J., Kiser, J., Rose, R. & Comai, L. Efficient Transfer of a Glyphosate Tolerance Gene into Tomato Using a Binary Agrobacterium-Tumefaciens Vector.
+_
+Bio-Technol_ **5**, 726–730 (1987).
+62.
+Nguyen, H. P. _et al_ .
+Methods to Study PAMP-Triggered Immunity Using Tomato and Nicotiana benthamiana.
+_
+Mol Plant Microbe In_ **23**, 991–999 (2010).
+63.
+Yoo, S. D., Cho, Y. H. & Sheen, J. Arabidopsis mesophyll protoplasts: a versatile cell system for transient gene expression analysis.
+_
+Nat_ _
+Protoc_ **2**, 1565–1572 (2007).
+64.
+Li, Y. X. _et al_ .
+Tomato MBD5, a methyl CpG binding domain protein, physically interacting with UV-damaged DNA binding protein-1, functions in multiple processes.
+_
+New Phytologist_ **210**, 208–226 (2016).
+65.
+Cookson, P. J. _et al_ .
+Increases in cell elongation, plastid compartment size and phytoene synthase activity underlie the phenotype of the high pigment-1 mutant of tomato.
+_
+Planta_ **217**, 896–903 (2003).
+66.
+Mustilli, A. C., Fenzi, F., Ciliento, R., Alfano, F. & Bowler, C. Phenotype of the tomato high pigment-2 mutant is caused by a mutation in the tomato homolog of DEETIOLATED1. _
+The Plant cell_ **11**, 145–157 (1999).
+**Acknowledgements**
+This work was supported by National Natural Science Foundation of China (Grant No. 31400265), the Hundred Talents Program (Chinese Academy of Sciences), the National Natural Science Foundation of China (Grant Nos.
+31701922, 31671259, 31171179 and 90717110), National Science Fund for Distinguished Young Scholars (Grant No. 30825030), the 973 Program of China (Grant No. 2011CB100401), and Advanced Program of Doctoral Fund of Ministry of Education of China (20110181130009).
+**Author Contributions** H.L., S.W. and Y.L. designed the experiments.
+H.L., Y.L., H.D., X.S., A.W., X.T., Y.G., N.Z., L.W. and S.Y. conducted the experiments.
+H.L. and S.W. analyzed the data.
+S.W., Y.L. and H.L. wrote the manuscript.
+**Additional Information** **Supplementary information**
+[accompanies this paper at https://doi.org/10.1038/s41598-018-24309-y.](http://dx.doi.org/10.1038/s41598-018-24309-y)
+**Competing Interests:**
+The authors declare no competing interests.
+**Publisher's note:** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+**Open Access**
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material.
+If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the [copyright holder.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+© The Author(s) 2018   SCIEnTIFIC
+**ReporTS** | _(2018)
+8:6097_
+| DOI:10.1038/s41598-018-24309-y 12

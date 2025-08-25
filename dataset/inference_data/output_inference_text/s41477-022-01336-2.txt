@@ -1,0 +1,1438 @@
+#### **nature plants**  **Article**
+[https://doi.org/10.1038/s41477-022-01336-2](https://doi.org/10.1038/s41477-022-01336-2) # **The F-box protein UFO controls flower** **development by redirecting the master** **transcription factor LEAFY to new** **cis -elements**    Received: 18 August 2022   Accepted: 20 December 2022   Published online: 2 February 2023   Check for updates    **Philippe Rieu** **[1]** **, Laura Turchi** **[1,2]** **, Emmanuel Thévenon** **[1]** **, Eleftherios Zarkadas** **[3,4]** **,** **Max Nanao** **[5]** **, Hicham Chahtane** **[1,6]** **, Gabrielle Tichtinsky** **[1]** **, Jérémy Lucas** **[1]** **,** **Romain Blanc-Mathieu** **[1]** **, Chloe Zubieta** **[1]** **, Guy Schoehn** **[3]** **&** **François Parcy** **[1]**   In angiosperms, flower development requires the combined action of the transcription factor LEAFY (LFY) and the ubiquitin ligase adaptor F-box protein, UNUSUAL FLORAL ORGANS (UFO), but the molecular mechanism underlying this synergy has remained unknown.
+Here we show in transient assays and stable transgenic plants that the connection to ubiquitination pathways suggested by the UFO F-box domain is mostly dispensable.
+On the basis of biochemical and genome-wide studies, we establish that UFO instead acts by forming an active transcriptional complex with LFY at newly discovered regulatory elements.
+Structural characterization of the LFY–UFO–DNA complex by cryo-electron microscopy further demonstrates that UFO performs this function by directly interacting with both LFY and DNA.
+Finally, we propose that this complex might have a deep evolutionary origin, largely predating flowering plants.
+This work reveals a unique mechanism of an F-box protein directly modulating the DNA binding specificity of a master transcription factor.
+The formation of flowers is key to the reproductive success of angiosperms.
+Flowers are made of four types of organs (sepals, petals, stamens and carpels) arranged in concentric whorls.
+The patterning of flower meristems requires the localized induction of the ABCE floral homeotic genes that determine specific floral organ identities.
+In _Arabidopsis thaliana_, this developmental step is largely controlled by the master transcription factor (TF) LEAFY (LFY) that activates the ABCE genes [1][,][2] .
+LFY directly activates the A class gene _APETALA1_ ( _AP1_ )
+uniformly in the early flower meristem [3][,][4], while activations of B and C    genes are local and require the activity of cofactors.
+For instance, LFY regulates the C class gene _
+AGAMOUS_ ( _AG_ )
+in conjunction with the TF WUSCHEL to specify third whorl (stamen) and fourth whorl (carpel) identities [5] .
+The activation of the B class gene _APETALA3_ ( _AP3_ ), necessary to specify the identity of the second (petal) and third whorls of the flower, requires the combined activity of LFY and the spatially delineated cofactor UNUSUAL FLORAL ORGANS (UFO)
+[6][–][8] .
+In _Arabidopsis_, the main function of LFY and UFO is to activate _AP3_ (ref.
+[9] ), but in numerous species (such as rice, wheat, tomato and petunia), their joint role    1 Laboratoire Physiologie Cellulaire et Végétale, IRIG-DBSCI-LPCV, Université Grenoble Alpes, CEA, CNRS, INRAE, Grenoble, France.
+2 Translational Innovation in Medicine and Complexity, Université Grenoble Alpes, CNRS, Grenoble, France.
+[3] IBS, Université Grenoble Alpes, CNRS, CEA, Grenoble, France.
+[4] EMBL, ISBG, Université Grenoble Alpes, CNRS, CEA, Grenoble, France.
+[5] Structural Biology Group, European Synchrotron Radiation Facility, Grenoble, France.
+[6] Present address: Green Mission Pierre Fabre, Conservatoire Botanique Pierre Fabre, Institut de Recherche Pierre Fabre, Soual, France.
+[e-mail: francois.parcy@cea.fr](mailto:francois.parcy@cea.fr)   [Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **315**   **Article** https://doi.org/10.1038/s41477-022-01336-2    goes well beyond B gene activation and is key to floral meristem and inflorescence development
+[10][–][13] .
+At the molecular level, little is known on the nature of LFY–UFO synergy.
+Unlike most floral regulators, _UFO_ encodes not for a TF but for an F-box protein, one of the first to be described in plants [14][–][16] .
+UFO is part of a SKP1–Cullin1–F-box (SCF) E3 ubiquitin ligase complex through the interaction of its F-box domain with ARABIDOPSIS SKP1-LIKE (ASK) proteins
+[15][,][17] .
+In addition, its predicted carboxy-terminal Kelch-type β-propeller domain physically interacts with LFY DNA Binding Domain (DBD)
+[18] .
+As the control of TF activity through proteolytic and non-proteolytic ubiquitination is a well-described mechanism [19], it has been suggested that LFY is targeted for ubiquitination and possibly degradation by the SCF [UFO] complex.
+Other data have shown that adding a repression or activation domain to UFO changes its activity and that UFO is recruited at the _AP3_ promoter in a LFY-dependent manner, suggesting a more direct role of UFO in gene regulation [18][,][20] .
+However, direct evidence explaining how UFO regulates a specific subset of LFY targets was still missing, and the molecular mechanism underlying LFY–UFO synergistic action remained elusive.
+Here we show that the connection of UFO to the SCF complex is largely dispensable for this protein’s activity and that an important role of UFO is to form a transcriptional complex with LFY at genomic sites devoid of canonical high-affinity LFY binding sites (LFYBS).
+Our study presents a unique mechanism by which an F-box protein acts as an integral part of a transcriptional complex.
+**The UFO F-box domain is partially dispensable for** **its floral role**  A dual luciferase reporter assay (DLRA) in _Arabidopsis_ protoplasts was used to study floral promoter activation by LFY and UFO.
+We used promoter versions known to allow full complementation of mutants or to be able to recapitulate a wild-type (WT) expression pattern (Methods).
+We found that the _AP3_ promoter ( _pAP3_ ) was more strongly activated when LFY (or LFY–VP16, a fusion of LFY with the VP16 activation domain) was co-expressed with UFO (or UFO–VP16) than by either effector alone (Fig.
+1a,e).
+Similar results were obtained with the promoter of _RABBIT EARS_ ( _RBE_ ), another UFO target (Fig. 1b)
+[21] .
+We also analysed the promoters of _AP1_ ( _pAP1_ ) and _AG_ ( _pAG_ ), two LFY targets regulated independently of UFO [3][,][4][,][22] that are required for organ identity of the first and second ( _AP1_ ) or third and fourth ( _AG_ ) floral whorls.
+We found that their activation by LFY and LFY–VP16 was insensitive to UFO (Fig.
+1c,d).
+Thus, the protoplast assay accurately reproduced several floral promoter activation patterns.
+We next investigated the involvement of an SCF [UFO] -dependent ubiquitination pathway in _pAP3_ activation by LFY–UFO.
+We found that, when co-expressed with LFY, amino-terminally truncated UFO versions lacking the F-box domain (UFOΔFbox and UFOΔFbox–VP16) activated _pAP3_ similarly to the full-length (FL) UFO (Fig. 1e).
+The connection of UFO to an SCF complex thus appears dispensable for _pAP3_ activation in transient protoplast assays.
+The previously reported inactivity of UFO with an internal deletion of its F-box probably reflects the poor folding of this protein variant rather than the functional importance of the F-box domain (Extended Data Fig.
+1a–c)
+[20] .
+We also constitutively expressed tagged versions of UFO and UFOΔFbox in _Arabidopsis_ .
+Irrespective of the presence of the F-box, plants displaying a detectable UFO or UFOΔFbox expression (Extended Data Fig. 1d) showed a typical UFO gain-of-function phenotype (Fig.
+1f,g).
+In addition, both UFO versions complemented the strong _ufo-1_ mutant and induced gain-of-function phenotypes (Fig.
+1h and Extended Data Fig.
+1e,f)
+[8] .
+Still, minor defects (such as some missing or misshapen petals and disorganized flowers) were specifically observed in the absence of the F-box, suggesting that this conserved domain might be important for a subset of UFO functions (Fig.
+1h and Extended Data Fig.
+1g).
+Overall, UFO and UFOΔFbox have very similar activities, showing that the role of the F-box domain is largely dispensable    and that a ubiquitination-independent mechanism determines the LFY–UFO synergy.
+**LFY and UFO form a transcriptional complex on a** **new DNA motif**
+Protoplast assays established that the _AP3_ and _
+RBE_ promoter sequences contain the information that dictates their specific activation by LFY–UFO.
+Several regulatory regions driving _AP3_ regulation in early floral meristem have been identified, including the distal and proximal early elements (DEE and PEE; Fig.
+2a)
+[23][,][24] .
+The DEE contains a predicted canonical LFYBS, but in protoplasts, like in plants [24], this site is not sufficient to explain _pAP3_ activation (Extended Data Fig. 2).
+By systematically testing _AP3_ promoter variants in the transient assay, we identified a 20-base-pair (bp) DNA element around the PEE important for LFY–UFO-dependent activation but devoid of canonical LFYBS (Fig.
+2b and Extended Data Fig.
+3a–c).
+We investigated the possibility that LFY and UFO form a complex on this DNA element using electrophoretic mobility shift assays (EMSAs).
+For this, we mixed either recombinant LFY-DBD (the LFY domain interacting with UFO)
+[18] or in-vitro-produced FL LFY with a reconstituted ASK1–UFO complex.
+None of the proteins bound the DNA probe alone, but a shift was observed when LFY–DBD or FL LFY was mixed with ASK1–UFO  (Fig. 2c).
+Thus, a presumptive ASK1–UFO–LFY complex was formed on a _pAP3_ DNA element (hereafter named LFY–UFO Binding Site 0 (LUBS0)) that each partner did not bind on its own.
+We did note that UFO had a weak affinity for DNA, as ASK1–UFO shifted the DNA probe when we performed EMSAs with low competitor DNA concentrations (Extended Data Fig.
+3d).
+EMSAs performed with LUBS0 mutated at various bases provided evidence that the formation of the complex is sequence-specific and suggests a bipartite DNA motif (Extended Data Fig.
+3f).
+To identify all genome regions possibly targeted by the ASK1– UFO–LFY complex, we performed amplified DNA affinity purification sequencing (ampDAP-seq) with a reconstituted ASK1–UFO–LFY complex (Extended Data Fig.
+4a,b).
+We identified numerous genomic regions where LFY binding was strongly enhanced by the presence of ASK1–UFO.
+For each bound region, we computed the ratio (the coverage fold change (CFC)) between the coverage of peaks in the presence or absence of ASK1–UFO (Fig. 2d).
+Searches for enriched DNA motifs in the 600 regions with the highest CFC (>4.7) identified two bipartite motifs made of a 6-bp RRNRCA (N indicates A/C/G/T; R indicates A/G) sequence, four bases of variable sequence and either a monomeric or a dimeric site resembling canonical LFYBS but with more variability (Fig. 2e).
+Consistent with the presence of a sequence resembling LFYBS, we found that _pAP3_ activation in protoplasts required the LFY amino acid residues involved in binding to canonical LFYBS (Extended Data Fig.
+4c,d).
+We named the identified motifs mLUBS and dLUBS for monomeric  and dimeric LFY–UFO Binding Sites, respectively (Fig. 2e).
+Since it is observed specifically with ASK1–UFO, the RRNRCA element was named the UFO Recruiting Motif (URM).
+Position weight matrices (PWMs) for dLUBS and to a lesser extent mLUBS outperformed the canonical PWM for LFY, showing that they reliably predicted the binding of ASK1–UFO–LFY (Extended Data Fig. 4e).
+The LFYBS present within the LUBS of high-CFC regions tended to have a lower predicted affinity than those present in regions bound by LFY alone (Extended Data Fig. 4f), explaining why LFY binding to those sequences occurs only with UFO and the URM.
+Remarkably, we also identified the URM de novo from published LFY chromatin immunoprecipitation sequencing (ChIP-seq) data (Extended Data Fig.
+4g)
+[25] .
+Moreover, we found that the LFY ChIP-seq performed in inflorescences [25] correlates better with the ASK1–UFO–LFY ampDAP-seq than with the LFY ampDAP-seq (Spearman rank correlation of 0.481 versus 0.338 for the first 1,000 ChIP-seq peaks), strongly suggesting that many regions are bound in vivo by UFO (see examples of such regions in Extended Data Fig.
+7b,c).
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **316**   **Article** https://doi.org/10.1038/s41477-022-01336-2    **c**    **a**   **e**   **h**    **b**    **d**    4   3   2   1   0      GFP   UFO–3xFLAG + EV   3xHA–LFY + EV   3xHA–LFY + UFO–3xFLAG   3xHA–LFY–VP16 + EV   3xHA–LFY–VP16 + UFO–3xFLAG    1.0   0.5   0      1.5   1.0   0.5   0   4   3   2   1   0    NS   _pAP3_            1.5   1.0   0.5   0      _pAP3_ _pRBE_ _pAG_ _pAP1_    3xHA–LFY + EV   UFO–VP16–3xFLAG + EV   UFO∆Fbox–VP16–3xFLAG + EV   3xHA–LFY + UFO–VP16–3xFLAG   3xHA–LFY + UFO∆Fbox–VP16–3xFLAG    **f**   Gain-of-function phenotype   **g**   _35S_ :: _UFO_ – _3xFLAG_ ( _n_ = 38)   _35S_ :: _UFO∆Fbox_ – _3xFLAG_ ( _n_ = 84)   _35S_ :: _UFO_ – _5xmyc_ ( _n_ = 96)   _35S_ :: _UFO∆Fbox_ – _5xmyc_ ( _n_ = 102)    WT-like phenotype Loss-of-function phenotype    Loss-of-function phenotype   WT-like phenotype   Gain-of-function phenotype    0 25 50    NS   NS   75 100      Percentage of plants (%)    _ufo-1_ _35S_ :: _UFO∆Fbox-5xmyc ufo_ – _1 (line 313-#2)_ _35S_ :: _UFO∆Fbox_ – _3xFLAG ufo-1 (line 312-#2)_    **Fig.
+1 | UFO action is largely independent of its F-box domain.
+** **a** – **e**, Promoter activation in _Arabidopsis_ protoplasts, with the indicated effectors (right) and promoters (below each graph).
+EV, empty vector.
+The data are mean ± s.d.
+( _n_ = 4 biological replicates).
+We used one-way analysis of variance (ANOVA) with Tukey’s multiple comparisons test ( **a**, **c** – **e** ) or Welch’s ANOVA with Games–Howell post hoc tests ( **b** ).
+For **a** and **b**, the ANOVAs were performed on log-transformed data (Methods).
+The asterisks represent a significant statistical difference compared with GFP ( **a** – **d** ) or 3xHA–LFY + EV ( **e** ), non-significant (NS) otherwise.
+Other comparisons are indicated with brackets.
+NS, _P_ - 0.05; * _P_ < 0.05; *** _P_ < 0.001;   The ampDAP-seq findings were validated by EMSAs with DNA probes corresponding to optimal mLUBS and dLUBS motifs (Fig.
+2f and Extended Data Fig. 4h).
+We observed a complex of slower mobility with dLUBS than with mLUBS, consistent with the presence of two LFY molecules on dLUBS.
+ASK1–UFO also supershifted LFY bound to canonical LFYBS from _pAP1_ and _pAP3_ DEE (Extended Data Fig. 4i), sometimes (but not systematically) increasing apparent LFY binding.
+**LUBS are functional regulatory elements** Examination of the _pAP3_ genomic region in ASK1–UFO–LFY ampDAP-seq revealed a peak that is absent in the experiment performed with LFY alone (Fig. 3a).
+This peak is roughly located on the PEE and is    **** _P_ < 0.0001.
+**f**, Representative pictures of the different phenotypic classes obtained in the T 1 population of the indicated transgenic plants (scale bars, 1 mm for flowers and 1 cm for rosettes).
+**g**, Distribution of T 1 plants in phenotypic  classes as described in **f** .
+The distribution of _35S_ :: _UFO_ and _35S_ :: _UFO∆Fbox_ lines  within phenotypic classes is not significantly different ( _χ_
+[2] tests; NS, _P_ - 0.05).
+_n_, number of independent lines.
+**h**, _ufo-1_
+complementation assay by the _35S_ :: _UFO_ and _35S_ :: _UFOΔFbox_ transgenes.
+Rosettes (scale bars, 1 cm), inflorescences (scale bars, 1 mm) and flowers (scale bars, 0.5 mm) are shown.
+Source data are  available in Supplementary Data 4.   consistent with LFY ChIP-seq peaks [25][,][26] .
+We searched for LUBS under this peak, and, to our surprise, we identified several sites predicted to be better than LUBS0 (Fig. 3a).
+In EMSAs, the two highest-scoring sites, LUBS1 and LUBS2, were specifically bound by LFY in the presence of ASK1–UFO (Fig.
+3b and Extended Data Fig. 5a).
+EMSAs performed with a LFY mutant version affected in its ability to dimerize further confirmed the stoichiometry of LFY–UFO complexes on LUBS1 and LUBS2 (Extended Data Fig. 5b).
+A similar binding was also observed when combining LFY and UFO∆Fbox (Extended Data Fig.
+5c,d), consistent with the F-box being facultative for LFY–UFO transcriptional activity (Fig. 1).
+In the protoplast assay, altering LUBS1 or LUBS2 (or both) significantly reduced _pAP3_ activation (Fig. 3c); the LUBS1 alteration had a stronger    [Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023
+| 315–329 **317**   **Article** https://doi.org/10.1038/s41477-022-01336-2    **c**    **a**   **d**    **b**      –975 –763 –651 –368 –260 –119 –36 ATG        WT _pAP3_      _pAP3_ LUBS0 m  –323 –316  _pAP3_ ∆LUBS0    1.25   1.00   0.75   0.50   0.25       |Col1|Col2|Col3| |---|---|---| ||||    _pAP3_ LUBS0    10,000   1,000   100   10        0   **e** **f**   2   mLUBS   1   0        2   1   0    LFY  canonical    2   1   0      10 100 1,000    10,000    LFY–UFO (log 10 RPKM)   **Fig. 2 | LFY and UFO together bind a new DNA motif.
+** **a**, WT _pAP3_ with regulatory regions and _cis_ -elements (top line).
+The coordinates are relative to the _AP3_ start codon.
+TSS, transcription start site.
+The orange triangles represent canonical LFYBS.
+The orange rectangle represents the 107-bp region and the black square represents the mutation introduced in _pAP3_ LUBS0 (LUBS0 m ).
+The detailed functional dissection of the 107-bp region and the LUBS0 mutation (LUBS0 m ) are described in Extended Data Fig.
+3.
+The other rows show the promoter versions used in **b** .
+**b**, _pAP3_ activation in _Arabidopsis_ protoplasts.
+The data are mean ± s.d.
+( _n_ = 4 biological replicates).
+We used one-way ANOVA with data from the same effector and Tukey’s multiple comparisons tests.
+The asterisks represent a significant statistical difference compared with WT _pAP3_ (* _P_ < 0.05; ** _P_ < 0.01).
+**c**, EMSA with LUBS0 DNA probe and the indicated proteins.
+Size exclusion chromatography (SEC) coupled to multi-angle laser light scattering    effect.
+Specifically altering the URM of _pAP3_ LUBS1 and LUBS2, which abolished LFY–UFO binding on individual sites in EMSAs (Extended Data Fig. 5e), also reduced _pAP3_ activation, albeit less effectively than altering the whole LUBS (Extended Data Fig.
+5f).
+Finally, the previously described _pAP3_ :: _GUS_ staining pattern in the second and third whorls of early floral meristems in _Arabidopsis_ was severely reduced when LUBS1 and LUBS2 were altered, demonstrating the importance of these sites in vivo (Fig.
+3d and Extended Data Fig.
+5g).
+Similarly, the _RBE_ promoter contains an ASK1–UFO–LFY ampDAP-seq peak that is absent with LFY alone (Extended Data Fig. 6a), and the functional importance of the single LUBS identified under this peak was confirmed using EMSAs, transient assays in protoplasts and stable reporter constructs in plants (Extended Data Fig.
+6b–e).
+In addition to _AP3_ and _RBE_, LFY and UFO together probably regulate many other genes in _Arabidopsis_ .
+To identify such potential LFY–UFO targets, we established a list of genes bound (in ampDAP and ChIP) and regulated by LFY–UFO (Extended Data Fig. 7a).
+This procedure identified the other B gene _PISTILLATA_ ( _PI_ ), previously proposed as a LFY–UFO target but through an unknown regulatory element that the LUBS model precisely localized (Extended Data Fig. 7b).
+We also found floral regulators such as _SQUAMOSA PROMOTER BINDING PROTEIN-_    MEME {no SSC} 08.02.22 11:41   dLUBS   MEME {no SSC} 09.02.22 15:00   mLUBS dLUBS   MEME {no SSC} 25.05.22 08:41   (MALLS) established a mass of 102 ± 3.3 kDa for the ASK1–UFO–LFY–DBD–LUBS0  complex, consistent with a 1:1:1:1 stoichiometry (Extended Data Fig.
+3e).
+The drawings represent the different complexes with FL LFY (blue), LFY–DBD (pale blue) and ASK1–UFO (red) on DNA.
+**d**, Comparison of peak coverage in LFY and LFY–UFO ampDAP-seq experiments, coloured by CFC.
+The LFY–UFO-specific peaks used to build the mLUBS and dLUBS motifs in **e** are triangle-shaped.
+RPKM, reads per kilobase per million.
+**e**, Logos for mLUBS, dLUBS and LFYBS.
+The LFY logo was generated using the 600 peaks with the strongest LFY ampDAP-seq signal.
+**f**, EMSAs with the mLUBS and dLUBS DNA probes that had the highest-scoring sequences.
+The drawings represent the different complexes with LFY (blue) and ASK1–UFO (red) on DNA.
+Source data are available in Supplementary Data 4.   _LIKE 5_ and _FD_ as well as additional candidates probably regulated by LFY and UFO (Extended Data Fig.
+7a,c).
+**The LFY K249R substitution specifically affects** **UFO-dependent LFY functions**
+In _Arabidopsis_, LFY performs UFO-dependent and independent functions
+[3], and we wondered whether they could be uncoupled by introducing specific alterations in LFY.
+As we were initially looking for LFY ubiquitination mutants, we substituted exposed lysines of LFY–DBD with arginines and tested the effect of such alterations on LFY–UFO-dependent _pAP3_ activation in protoplasts.
+We found one substitution (LFY K249R; Extended Data Fig.
+8a) that strongly reduced _pAP3_ activation by LFY–UFO (Fig. 4a) or LFY–VP16–UFO (Extended Data Fig.
+8b)
+without affecting the UFO-independent _pAG_ activation (Extended Data Fig.
+8c) or the LFY–UFO interaction (Extended Data Fig. 8d).
+AmpDAP-seq experiments showed that the LFY K249R substitution specifically impaired the binding of LFY–UFO but not that of LFY alone (Fig. 4b,c and Extended Data Fig.
+8e–i), revealing that Lys249 plays a key role in LFY–UFO interaction with the LUBS DNA.
+The importance of LFY Lys249 for UFO-dependent LFY functions was also confirmed using complementation assays of the _Arabidopsis_
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **318**   **Article** https://doi.org/10.1038/s41477-022-01336-2   **a** **c**    _pAP3_    2.0    5.0      LFY ChIP-seq   LFY ChIP-seq    1.2  5 1.5 LUBS1 : `GA` **`CA`** `CTGTTTAAA` **`TC`** `AAC` **`GG`** `AC`    5    1.5    0  100   LFY–UFO  ampDAP-seq   0  100   LFY  ampDAP-seq   0   –7   dLUBS   –13   –4   mLUBS   –9  –12   LFY   –21   **b**                  1 000 20 121 200 20 121 400 20 121 600 20 121 800 20 122   ATG LUBS1 LUBS2 –975   |Col1|3xHA–LFY–VP16 +
+UFO–3xFLAG<br>3xHA–LFY + UFO–3xFLAG<br>LUBS1 : GACACTGTTTAAATCAACGGAC<br>LUBS1 : GATGCTGTTTAAAGGAACTCAC<br>m<br>LUBS2 : GACACTGCTTAAATCAATTGTC<br>LUBS2 : GATGCTGCTTAAATGAATTTGC<br>m<br>**** **** ****<br>**** **** ****|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10| |---|---|---|---|---|---|---|---|---|---| ||LUBS1 :`GA`**`CA`**`CTGTTTAAA`**`TC`**`AAC`**`GG`**`AC`<br>LUBS1m :`GA`**`TG`**`CTGTTTAAA`**`GG`**`AAC`**`TC`**`AC`<br>LUBS2 :`GA`**`CA`**`CTGCTTAAA`**`TC`**`AAT`**`TG`**`TC`<br>LUBS2m :`GA`**`TG`**`CTGCTTAAAT`**`G`**`AATT`**`TG`**`C`<br>****<br>****<br>****<br>****<br>****<br>****<br>3xHA–LFY + UFO–3xFLAG<br>3xHA–LFY–VP16 + UFO–3xFLAG||||||||| ||||||||||| ||||||||||| ||||||||||| ||||||||||| ||||||||||| ||||||||||| |||||||||||    No staining Faint _AP3_ pattern _
+AP3_ pattern   _pAP3_ :: _GUS_ ( _n_ = 11)   _pAP3_ _LUBS1-2_ _m_ :: _GUS_ ( _n_ = 16)    1.0   0.5   0    **d**    ****    0 25 50    75 100    _pAP3_ LUBS1    _pAP3_ LUBS2    **Fig.
+3 | Functional validation of LUBS.
+** **a**, Top, Integrated Genome Browser view of _pAP3_ showing LFY ChIP-seq in inflorescences (light blue)
+[25] and seedlings (dark blue)
+[26], LFY–UFO ampDAP-seq (yellow), and LFY ampDAP-seq (pink)
+[48] .
+The _y_ axis indicates the read number range.
+Bottom, identification of LUBS in _pAP3_ .
+The predicted binding sites using dLUBS and mLUBS models and the LFY PWM are shown; the _y_ axis represents score values.
+LUBS1 and LUBS2 are indicated with purple diamonds, and canonical LFYBS is shown as an orange triangle.
+LUBS0 (light purple diamond) is not visible because of its low score.
+**b**, EMSAs with _pAP3_ LUBS probes.
+The drawings represent the different complexes involving LFY (blue) and ASK1–UFO (red) on DNA.
+**c**, _pAP3_ activation in _Arabidopsis_ protoplasts.
+The effects of alterations (underlined) in URM (red) and LFYBS (blue) bases of  _pAP3_ LUBS were assayed.
+The data are mean ± s.d.
+( _n_ = 4 biological replicates).
+_lfy-12_ null mutant [27] .
+_lfy-12_ plants expressing LFY [K249R] or LFY [K249S] under the control of the _LFY_ promoter developed flowers with normal sepals and carpels but with defective third-whorl and, more importantly, second-whorl organs, resulting in flowers similar to those observed in weak _ufo_ mutants (Fig. 4d).
+When expressed under the constitutive _35S_ promoter, LFY [K249R] triggered ectopic flower formation and early flowering like WT LFY (Extended Data Fig. 8j), consistent with these    Percentage of lines (%)   ( _AP3pAP3_ pattern class):: _GUS_ (Faint _pAP3AP3_ _LUBS1-2_ pattern class) _m_ :: _GUS_   One-way ANOVAs were performed with data from the same effector (one-way ANOVA with Tukey’s multiple comparisons tests for 3xHA–LFY + UFO–3xFLAG data and Welch’s ANOVA with Games–Howell post hoc tests for 3xHA–LFY– VP16 + UFO–3xFLAG data).
+The asterisks represent a statistical difference compared with the WT promoter (**** _P_ < 0.0001).
+**d**,
+In vivo analysis of _pAP3_ :: _GUS_ fusions.
+The percentage of transgenic lines with an _AP3_ pattern, a faint _AP3_ pattern or absence of staining is shown (top).
+The pattern distributions differ between the two constructs ( _χ_
+[2] test; **** _P_ < 0.0001).
+_n_, number of independent lines.
+Representative pictures of plants with an _AP3_ pattern (bottom left) and a faint _AP3_ pattern (bottom right) are also shown.
+Scale bars, 50 µm.
+Note the staining in the ring corresponding to the second and third whorl primordia in the left picture.
+Source data are available in Supplementary Data 4.   LFY functions being independent of UFO and thus not affected by the K249R substitution [28] .
+**Structural characterization of the ASK1–UFO–** **LFY–DNA complex**
+To understand how the LFY–UFO complex recognizes its cognate DNA binding site and how the Lys249 alteration impedes this interaction,    [Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **319**   **Article** https://doi.org/10.1038/s41477-022-01336-2    **c**    **a**   **d**    LFY [K249R] –UFO (log 10 RPKM)
+WT _lfy-12_ Strong rescue Medium rescue Weak rescue   _lfy-12_ mutant complementation assay    **b**    10 100 1,000 10,000      1.00   0.75      10.0   3.0   1.0   0.3      0.50   0.25   0    3xHA–LFY + EV  3xHA–LFY + UFO–3xFLAG  3xHA–LFY [K249,277,375R] + UFO–3xFLAG  3xHA–LFY [K249R] + UFO–3xFLAG 3xHA–LFY [K277R] + UFO–3xFLAG 3xHA–LFY [K375R] +
+UFO–3xFLAG   _pAP3_    10,000   1,000   100   10    ****   LFY [K249R] –UFO   LFY [K249R]   Strong rescue   Medium rescue   Weak rescue    LFY–UFO   LFY   ~~****~~  ~~****~~    100   75   50   25   0    **Fig. 4 | The LFY K249R substitution disrupts the LFY–UFO synergy.
+** **a**, _pAP3_ activation in _Arabidopsis_ protoplasts.
+The data are mean ± s.d.
+( _n_ = 4 biological replicates).
+We used Welch’s ANOVA with Games–Howell post hoc tests.
+The asterisks indicate a statistical difference compared with 3xHA–LFY + UFO– 3xFLAG (* _P_ < 0.05).
+**b**, Comparison of peak coverage in LFY [K249R] –UFO ( _x_ axis) and LFY
+[K249R] ( _y_ axis)
+ampDAP-seq experiments, coloured by peak CFC as in Fig.
+2d.
+Note that, in contrast to Fig.
+2d, the LFY–UFO-specific regions are mostly absent.
+**c**, Distribution of coverage ratios for LFY and LFY [K249R] for LFY–UFO-specific regions (20% highest CFC, _n_ = 3,843 genomic regions).
+We used a Wilcoxon rank sum test (**** _P_ < 0.0001).
+The median (solid line), interquartile range   we purified the ASK1–UFO–LFY–DBD–LUBS1 complex and structurally characterized it using cryo-electron microscopy (cryo-EM) (Fig.
+5a and Extended Data Fig.
+9a–d).
+A structure at a 4.27 Å resolution was obtained (Extended Data Fig.
+9g–i) into which were fit the AlphaFold2 predicted structures for UFO and ASK1, and the LFY–DBD dimer/DNA crystallographic structure
+[29]
+[(PDB, 2VY1; Fig.
+5b and Extended Data](https://doi.org/10.2210/pdb2VY1/pdb) Fig.
+9e,f).
+Due to the modest resolution, specific interacting amino acids could not be unambiguously identified.
+However, the major protein– protein and protein–DNA interaction surfaces were clearly identifiable.
+The structure revealed that UFO directly contacts the DNA in the major groove around the URM (Fig. 5c).
+This binding probably involves basic residues present on loops projecting from the UFO Kelch-type β-propeller and results in a bend of roughly 30 degrees in the DNA double helix (Extended Data Fig. 9f).
+The structure also shows an interface between UFO and one LFY–DBD monomer (Fig. 5c).
+The LFY–DBD loop containing the Lys249 residue lies in this interface and probably interacts with one of the DNA-binding loops of UFO, consistent with the key role of LFY Lys249 in the ternary complex formation.
+As expected,    (box edges), ±1.5× the interquartile range (whiskers) and outliers (dots) are shown.
+**d**, _lfy-12_ mutant complementation assay.
+The WT, the _lfy-12_ mutant and representative plants of the different phenotypic complementation classes are shown on the left.
+Scale bars, 1 mm for the top row and 1 cm for the bottom row.
+The distribution of the different lines within the phenotypic complementation classes is shown on the right.
+Plants complemented with LFY [K249R] and LFY [K249S] show different complementation patterns than plants complemented with LFY ( _χ_ [2] tests; **** _P_ < 0.0001).
+_n_, number of independent lines.
+Source data are available in Supplementary Data 4.
+ASK1 interacts with the UFO F-box domain
+[15] (Fig.
+5d).
+These data show how a β-propeller protein is able to modify the specificity of a TF, and they offer a structural explanation of how LFY and UFO synergistically recognize a specific DNA element via direct interactions by both proteins with the DNA.
+**The LFY–UFO complex might have a deep** **evolutionary origin**
+As genetic and physical LFY–UFO interactions have been described in diverse angiosperms, we wondered whether the mechanism unravelled for _Arabidopsis_ proteins could also apply to LFY from other species, including non-angiosperm ones.
+We selected LFY orthologous proteins from several species and with different DNA binding specificities (Fig. 6a).
+LFY specificity has evolved with three major DNA binding specificities [30] .
+Type I specificity is the one described in _Arabidopsis_ and is valid for other angiosperms, gymnosperms, ferns and the moss _Marchantia polymorpha_, with two half-sites separated by a 3-bp spacer (Fig. 2e).
+LFY from the moss _
+Physcomitrium patens_ has a type II
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **320**   **Article** https://doi.org/10.1038/s41477-022-01336-2   **a**                |c d<br>180°|Col2|Col3|Col4|Col5|Col6|Col7| |---|---|---|---|---|---|---| |**c**|**c**||||**d**|**d**| ||||||||   LFY Lys249    C/G A/T    **Fig.
+5 | Structural characterization of the ASK1–UFO–LFY–DNA complex.
+** **a**, Cryo-EM density map of the ASK1–UFO–LFY–DBD–LUBS1 complex under two angles, coloured with regard to the underlying macromolecule (green for LUBS1 DNA, pale and dark blue for LFY–DBD, red for UFO, and purple for ASK1).
+**b**, The same views of the cryo-EM density map in transparent grey with fitted structures of the LFY–DBD dimer, UFO, ASK1 and LUBS1 DNA.
+The colours are the same as  in **a** .
+The frames roughly indicate the regions shown in **c** and **d** .
+**c**, Zoom on the   specificity with specific half-sites (different from type I half-sites) also separated by a 3-bp spacer.
+Finally, type III specificity is found for LFY from algae and corresponds to a type II motif without the spacer.
+Because functional UFO homologues have not been identified outside angiosperms, we used _Arabidopsis_ UFO (AtUFO) in all the following experiments.
+We tested the interactions of various LFY orthologues with AtUFO in yeast two-hybrid (Y2H) (Fig. 6b), in DLRAs in protoplasts with _Arabidopsis_ _
+pAP3_ (Fig. 6c) and in EMSAs (Fig. 6d).
+In Y2H, all LFYs except LFY from _P. patens_ (type II) interacted with AtUFO (Fig. 6b).
+However, only type I LFYs from angiosperms, gymnosperms and ferns formed a complex on _pAP3_ LUBS and activated _pAP3_ in the protoplast assay (Fig.
+6c,d).
+These results suggest that the ability of LFY and UFO to act together by forming a complex is ancient, largely predating the origin of angiosperms.
+We obtained no evidence that type II and III LFYs (from moss and algae) could form a complex with AtUFO on LUBS1 and LUBS2.
+A detailed and more trustworthy history of the LFY–UFO interaction will await further analyses, notably with the identification of UFO orthologues from non-angiosperm genomes.
+**Discussion**  LFY has long been known to interact with UFO to control flower and inflorescence development in numerous angiosperm species.
+However, the molecular nature of their synergistic action remained unknown.
+As UFO encodes an F-box protein taking part in an SCF complex [17][,][31][,][32], it was thought to target proteins for SCF [UFO] -dependent ubiquitination    UFO–DNA contact region (left) and on the LFY–UFO interface (right).
+Only the high-information CA of the URM and its complement are highlighted by filled colouring the rings for each base (red for A, blue for T, pale green for G and purple for C).
+The LFY–DBD loop containing the Lys249 residue is highlighted in dark blue.
+**d**, Zoom on the ASK1–UFO interface, with the UFO F-box highlighted in gold.
+Source data are available in Supplementary Data 4.   and possible degradation.
+LFY was an obvious target candidate, but clear evidence of LFY ubiquitination was missing [12][,][18] .
+The results we present here suggest that the F-box domain, required for ubiquitination, is dispensable for most UFO-dependent LFY activity.
+Nevertheless, the high conservation level of the UFO F-box sequence in angiosperms, together with slight differences in UFO activity when the F-box is deleted, suggests that this domain might still be needed for some elusive facets of UFO function.
+UFO may work redundantly with other F-box proteins in ubiquitination pathways, such as the F-box protein HAWAIIAN SKIRT identified in a genetic screen as an enhancer of the _ufo_ mutant phenotype
+[33] .
+It is thus possible that UFO acts as a moonlighting protein
+[34] with functions in both transcription and ubiquitination, and these two activities could be related or independent.
+The molecular mechanism we discovered here is consistent with most published data on _AP3_ and _PI_ regulation [18][,][23][,][35][,][36] .
+However, a detailed understanding of the expression patterns of _AP3_ and _RBE_ will require further work on other _cis_ - and _trans_ - elements.
+Why _AP3_ is not transcribed in floral stage 0–1 despite the expression of LFY and UFO is unclear [20] .
+It could be because SUPPRESSOR OF OVEREXPRESSION  OF CO 1 (SOC1), AGAMOUS-LIKE 24 (AGL24) and SHORT VEGETATIVE PHASE (SVP) act as early _AP3_ repressors, as _AP3_ mRNA is detected in the floral anlage in a _soc1_ _svp_ _
+agl24_ mutant
+[37][,][38] .
+Another explanation could be that _AP3_ expression requires the _SEPALLATA3_ activator
+[39] .
+Why _pAP3_ is not activated by LFY (or LFY–VP16) alone through the canonical LFYBS is also an open question.
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **321**   **Article** https://doi.org/10.1038/s41477-022-01336-2    **a**    α1 α2 α3 α4    Angiosperms   Gymnosperms   Ferns  Mosses Hornworts   Algae   Angiosperms   Gymnosperms   Ferns  Mosses Hornworts   Algae    LFY ( _Arabidopsis thaliana_ )
+ALF ( _Petunia hybrida_ ) FLO ( _Antirrhinum majus_ )
+WelLFY ( _Welwitschia mirabilis_ )
+GbLFY ( _Gingko biloba_ )
+PrLFY ( _Pinus radiata_ ) CrLFY ( _Ceratopteris richardii_ )
+PpLFY1 ( _Physcomitrium patens_ )
+NaLFY ( _Nothoceros aenigmaticus_ ) CsLFY ( _Coleochaete scutata_ ) KsLFY ( _Klebsormidium subtile_ )   LFY ( _Arabidopsis thaliana_ )
+ALF ( _Petunia hybrida_ ) FLO ( _Antirrhinum majus_ )
+WelLFY ( _Welwitschia mirabilis_ )
+GbLFY ( _Gingko biloba_ )
+PrLFY ( _Pinus radiata_ ) CrLFY ( _Ceratopteris richardii_ )
+PpLFY1 ( _Physcomitrium patens_ )
+NaLFY ( _Nothoceros aenigmaticus_ ) CsLFY ( _Coleochaete scutata_ ) KsLFY ( _Klebsormidium subtile_ )    **b** **c**    EV UFO∆Fbox pGBK    EV UFO∆Fbox EV UFO∆Fbox   0.7 0.07 7 0.7 0.07 7 0.7 0.07 7 0.7 0.07 pGAD      7 0.7 0.07 7 0.7 0.07 7 0.7 0.07 7 0.7 0.07    0  |Col1|Col2|Col3|Col4| |---|---|---|---| |||||    Motif I + URM _pAP3_ LUBS1 _pAP3_ LUBS2    3   2   1    SD −L−W SD −L−W−A−H    EV   LFY-40   FLO   PrLFY   GbLFY   WelLFY   CrLFY   PpLFY1   CyLFY   CsLFY   KsLFY   AmboLFY   FA   AtLFY   ALF   FLO    **d**    GbLFY   PrLFY   WelLFY    _pAP3_   Motif III + URM _pAP3_ LUBS1 _pAP3_ LUBS2    CrLFY   PpLFY1   KsLFY    Motif I + URM _pAP3_ LUBS1 _pAP3_ LUBS2   _pAP3_ LUBS2 `ACAAGA` **`CA`** `CTGCTTAAA` **`TC`** `AAT` **`TG`** `TCACTTGGTAAAA` _pAP3_ LUBS1 `ACAAGA` **`CA`** `CTGTTTAAA` **`TC`** `AAC` **`GG`** `ACATCGATGGTT`    Motif I + URM  Motif II + URM  Motif III + URM   ``` ACAAGA CA CTGTAAGGA CC AGT GG TCCGTGATGGTT  ACAAGA CA CTGTGGCGA CC AGC GG ACGGTGATGGTT
+ACAAGA CA CTGTACCTA CCGG TCGTAGCGGATGGTT  ```   **Fig.
+6 | LFY–UFO interaction is conserved beyond angiosperm species.
+** **a**, Alignment of LFY DBDs.
+The amino acid numbering and secondary structure annotation are based on LFY from _A. thaliana_ .
+The LFY Lys249 residue is indicated with a blue triangle.
+DNA binding specificities are colour-coded: types I (blue), II (green) and III (orange).
+FLO, FLORICAULA; ALF, ABERRANT LEAF AND FLOWER.
+**b**, Interaction between LFY orthologues and AtUFOΔFbox in Y2H. The LFY orthologues are described in **a** except CyLFY ( _Cylindrocystis_ sp.), AmboLFY ( _Amborella trichopoda_ )
+and FA (FALSIFLORA; _Solanum lycopersicum_ ).
+SD, synthetic defined.
+See Extended Data Fig.
+4d for the legends.
+**c**, _pAP3_ activation measured by DLRAs in _Arabidopsis_ protoplasts.
+3xHA–LFY* refers to the different LFY orthologues indicated under the _x_ axis.
+The data represent averages of independent biological replicates and are presented as mean ± s.d., with each dot   Our work unravelled an unsuspected function unrelated to ubiquitination for UFO: it forms a transcriptional complex with LFY at regulatory sites that are different from the canonical sites bound by a LFY homodimer.
+UFO was previously proposed to act in transcription,    representing one biological replicate ( _n_ = 4).
+One-way ANOVAs were performed with data from the same effector (one-way ANOVA with Tukey’s multiple comparisons tests for 3xHA–LFY* + EV data and Welch’s ANOVA with Games– Howell post hoc tests for 3xHA–LFY* + UFO–VP16–3xFLAG data).
+The asterisks represent a statistical difference compared with AtLFY (* _P_ < 0.05; *** _P_ < 0.001; **** _P_ < 0.0001).
+**d**, EMSAs with the indicated DNA probes (bottom).
+URM and LFYBS bases are depicted in red and blue, respectively.
+The _pAP3_ LUBS1 sequence was modified to insert the perfect sequence of motif I, II or III
+[30] (depicted in green); these DNA probes were used as positive controls for the binding of LFYs alone and for LFY–UFO complex formation.
+5xmyc–LFY* refers to the different LFY orthologues indicated next to each EMSA and described in **a** .
+Source data are available in Supplementary Data 4.
+but in the absence of direct evidence that a LFY–UFO complex forms on new binding sites, it was difficult to understand how UFO controls only a subset of LFY targets.
+These new regulatory sites (mLUBS and dLUBS) are made of a low-affinity or half LFYBS (poorly or not bound    [Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023
+| 315–329 **322**   **Article** https://doi.org/10.1038/s41477-022-01336-2    by LFY alone) and a motif located at a fixed distance from it and responsible for UFO recruitment.
+The formation of such a sequence-specific complex is explained at the structural level by the capacity of UFO to interact with both LFY and DNA.
+The poor ability of UFO to bind DNA alone explains its complete dependence on LFY to perform its transcriptional functions in planta [6][,][20] .
+Thus, depending on the _cis_ -elements present in regulatory regions, LFY either binds DNA as a homodimer or requires UFO to form a ternary complex.
+The alteration of the LFY Lys249 residue allows these two types of binding to be uncoupled by specifically disrupting the formation of the LFY–UFO–DNA complex.
+The position of this residue in the three-dimensional structure at the interface among LFY, UFO and DNA is consistent with the key role of this residue in the complex formation.
+It is possible that replacing Lys249 with a bulkier Arg residue displaces the UFO loops involved in DNA binding without affecting the LFY–UFO interaction.
+Obtaining a higher-resolution structure will help us precisely understand the interactions occurring in this complex.
+Although it might be a common regulatory mechanism, only a few cases where non-TF proteins modify TF DNA binding specificity have been described so far (for example, Met4 and Met28 modifying the bind                                                   ing of TF Cbf1 in yeast [40], or the herpes simplex virus transcriptional acti vator VP16 changing the specificity of the Oct-1/HCF-1 complex [41] ).
+None of these examples involves an F-box protein or a Kelch-type β-propeller protein, and none has been characterized at the structural level.
+The modification of TF DNA binding specificity by non-TF proteins offers additional possibilities for the combinatorial control of gene expression and explains how a master regulator such as LFY accesses specific _cis_ -elements to perform different functions in distinct territories.
+Since LFY and UFO play key roles together in numerous plant species (including ornamental, crop and model plants), our findings expand the molecular understanding of flower and inflorescence development in a large variety of angiosperms.
+Because the LFY–UFO synergy is observed with LFY orthologues from gymnosperms and ferns as well, we speculate that this complex largely predated the origin of flowers and could have been co-opted for flower development from a yet-unknown ancestral role.
+**Methods** _**Arabidopsis**_ **growth** All mutants and transgenic lines are in the _A. thaliana_ Columbia-0 (Col-0) accession.
+Seeds were sown on soil, stratified for three days at 4 °C and then grown at 22 °C under long-day conditions (16 h light).
+Transgenic plants were obtained with _Agrobacterium tumefaciens_ C58C1
+pMP90 using the floral dip method.
+Transformants were identified using GFP or Basta selection.
+_**Arabidopsis**_ **cell suspension culture** _
+Arabidopsis thaliana_ (ecotype Col-0) cells in suspension cultures were grown under continuous light (90 μmol of photons per m [2] per s) at 21 °C with shaking in Murashige and Skoog medium supplemented with 30 g l
+[−1] sucrose and 2 mg l
+[−1] 2,4-dichlorophenoxyacetic acid, pH 5.5.
+The suspension cells were subcultured every week with a fivefold dilution.
+Suspension cells at four or five days following subculture were used for protoplast preparation.
+**Cloning** DNA fragments were amplified by PCR with Phusion high-fidelity polymerase (NEB).
+Plasmids were all obtained by Gibson Assembly with either PCR-amplified or restriction-enzyme-digested backbone vectors.
+We used the 420-amino-acid LFY version.
+For site-directed  mutagenesis, primers containing the desired mutations were used for Gibson Assembly mutagenesis.
+Plasmids were obtained using DH5α bacteria and were all verified by Sanger sequencing.
+A list of plasmids and cloning procedures is provided in Supplementary Data 1.
+The oligonucleotide sequences are listed in Supplementary Data 2.
+**Y2H**
+The coding sequences were cloned in pGADT7-AD or pGBKT7 vectors (Clontech) by Gibson Assembly.
+Y187 and AH109 yeast strains (Clontech) were transformed with pGADT7-AD or pGBKT7 vectors and selected on plates lacking leucine (SD −L) or tryptophan (SD −W), respectively (MP Biomedicals).
+After mating, the yeasts were restreaked on plates lacking leucine and tryptophan (SD −L−W) for two days.
+The yeasts were then resuspended in sterile water, and OD 600nm was adjusted to the indicated values for all constructions; two tenfold dilutions were performed, and 6 μl drops were done on SD −L−W or SD
+−L−W−A−H
+(lacking leucine, tryptophan, histidine and adenine) plates.
+The yeasts were grown at 28 °C, and pictures were taken at the indicated times.
+**DLRAs in** _**Arabidopsis**_ **protoplasts** Effector plasmids with a 3xHA tag were obtained by cloning the indicated genes in the modified pRT104 vector containing a 3xHA N-terminal tag (pRT104–3xHA)
+[42] .
+The pRT104 empty plasmid was reengineered to insert a 3xFLAG C-terminal tag.
+For reporter plasmids, the indicated promoter fragments were cloned upstream of a firefly luciferase gene in pBB174 (ref.
+[43] ).
+We used a 975-bp _pAP3_ fragment and a 2-kilobase (kb) _pRBE_ promoter fragment upstream of the ATG, known to induce a WT pattern in planta [23][,][44] .
+_pAG_ corresponds to the _AG_ second intron fused to a minimal _35S_ promoter, known to induce a WT pattern in planta [22] .
+For _pAP1_, we used a 600-bp fragment upstream of the ATG.
+This version is sufficient to give a WT pattern in planta [45], and the use of longer promoter versions induced a very high background noise in protoplasts.
+The pRLC reference plasmid contains a _Renilla_ luciferase sequence under the control of the _35S_ promoter.
+Plasmids were obtained in large amounts using a NucleoBond Xtra Maxi Plus kit (Macherey-Nagel).
+Protoplasts were prepared from _Arabidopsis_ Col-0 cell suspension and transformed following the procedure described by Iwata et al.
+[46] .
+The cell walls were digested using Onuzuka R-10 cellulase and macerozyme R-10 (Yakult Pharmaceutical).
+The digested cells were passed through two layers of Miracloth to remove debris, and the protoplast concentration was adjusted to 2–5 × 10
+[5] cells per ml.
+The protoplasts were then PEG-mediated transformed using 10 μg of the indicated effector and reporter plasmids and 2 μg of the reference plasmid.
+After 17 h of incubation at room temperature, the protoplasts were lysed.
+Firefly (F-LUC) and _Renilla_ luciferase (R-LUC) activities were measured using a Dual Luciferase Reporter Assay System (Promega) and a TECAN Spark 10 M 96-well plate reader.
+F-LUC/R-LUC luminescence ratios were calculated with background-corrected values.
+Four biological replicates were done for each plasmid combination.
+**EMSAs**
+The DNA probes used in EMSAs are listed in Supplementary Data 2.
+Complementary oligonucleotides were annealed overnight in annealing buffer (10 mM Tris (pH 7.5), 150 mM NaCl and 1 mM EDTA).
+Then, 4 pmol of double-stranded DNA was fluorescently labelled with 1 unit of Klenow fragment polymerase (NEB) and 8 pmol of Cy5-dCTP (Cytiva) in Klenow buffer for 1 h at 37 °C.
+The enzymatic reaction was stopped with a 10 min incubation at 65 °C.
+The proteins used in EMSAs were obtained by different methods (bacteria, insect cells or quick coupled transcription/translation (TnT)).
+The concentrations of recombinant proteins (6xHis–LFY–DBD and UFOΔFbox–3xFLAG) and recombinant complexes (ASK1–UFO and ASK1–UFO–3xFLAG) were adjusted to 500 nM for all reactions.
+All the 5xmyc-tagged proteins were obtained in vitro by TnT.
+We did 50 µl TnT reactions by mixing 5 µg of pTNT–5xmyc plasmid containing the gene of interest with TnT SP6 High-Yield Wheat Germ Protein Expression System (Promega) for 2 h at 25 °C.
+For EMSAs with TnT-produced proteins, 5 µl of TnT reaction was used.
+Recombinant protein buffer or TnT mix was used as a control when comparing reactions with multiple proteins.
+All binding reactions were performed in 20 µl of binding buffer (20 mM Tris (pH 7.5), 150 mM NaCl, 1% glycerol, 0.25 mM EDTA, 2 mM
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **323**   **Article** https://doi.org/10.1038/s41477-022-01336-2    MgCl2, 0.01% Tween-20 and 3 mM TCEP) with 10 nM labelled probe.
+The reactions were supplemented with 140 ng µl
+[−1] fish sperm DNA (Sigma-Aldrich) for EMSAs performed with in-vitro-produced LFY and 200 ng µl
+[−1] for EMSAs performed with recombinant 6xHis–LFY–DBD.
+The binding reactions were incubated for 20 min on ice and then loaded on a 6% native polyacrylamide gel.
+The gels were electrophoresed at 90 V for 75 min at 4 °C and revealed with an Amersham ImageQuant 800 imager (Cytiva).
+The uncropped gels are shown in the Source data.
+**Recombinant protein production and purification from** **bacteria**
+We produced 6xHis–LFY–DBD in _E. coli_ Rosetta2 (DE3) cells (Novagen) and purified it as previously described [29] .
+ASK1 was cloned into the pETM-11 expression vector [47], and the resulting plasmid was transformed into _
+E. coli_ BL21 cells (Novagen).
+The bacteria were grown in LB medium supplemented with kanamycin and chloramphenicol at 37 °C up to an OD 600nm of 0.6.
+The cells were then shifted to 18 °C, and 0.4 mM isopropyl β-d-1-thiogalactopyranoside was added.
+After an overnight incubation, the cells were sonicated in UFO buffer (25 mM Tris (pH 8), 150 mM NaCl and 1 mM TCEP) supplemented with one EDTA-free Pierce Protease Inhibitor Tablet (Thermo Fisher).
+The lysed cells were then centrifuged for 30 min at 27,000 _g_ .
+The supernatant was mixed with Ni Sepharose High Performance resin (Cytiva) previously equilibrated with UFO buffer (25 mM Tris (pH 8), 150 mM NaCl and 1 mM TCEP).
+The resin was then washed with UFO buffer containing 20 and 40 mM imidazole.
+Bound proteins were eluted with UFO buffer containing 300 mM imidazole and dialysed overnight at 4 °C against UFO buffer without imidazole.
+**Recombinant protein production and purification from** **insect cells**
+The different tagged versions of ASK1, LFY and UFO were cloned in acceptor and donor plasmids (pACEBac1, pIDK and pIDS, respectively; Geneva Biotech).
+The final acceptor plasmids containing the desired combination of coding sequences were obtained with Cre recombinase (NEB).
+DH10EmBacY-competent cells containing the baculovirus genomic DNA (bacmid) were transformed with the final acceptor plasmids.
+Blue-white selection was used to identify colonies with a recombinant bacmid with the acceptor plasmid inserted.
+Bacmid was then isolated from bacteria and mixed with X-tremeGENE HP DNA  Transfection Reagent (Roche) to transfect Sf21 insect cells.
+At 96 h after transfection, supernatant containing the recombinant baculovirus (V0) was collected and used to infect fresh Sf21 cells.
+When the infected cells reached the day post arrest, V1 virus was collected.
+For large expression, Sf21 cells were infected with either V1 virus or frozen baculovirus-infected cells.
+The pellet of a 0.75 l culture was sonicated in 50 ml of UFO buffer supplemented with one EDTA-free Pierce Protease Inhibitor Tablet (Thermo Fisher).
+The sonicated cells were centrifuged for 1.5 h at 120,000 _g_ at 4 °C.
+The supernatant was then incubated for 1 h at 4 °C with Ni Sepharose High Performance resin (Cytiva) previously equilibrated with UFO buffer.
+The beads were transferred into a column and washed with 20 column volumes of UFO buffer, then UFO buffer + 50 mM imidazole.
+Proteins were eluted with UFO buffer con taining 300 mM imidazole.
+The elution was dialysed overnight at 4 °C against UFO buffer.
+TEV protease was added to cleave tags (0.01% w/w).
+When ASK1 was limiting compared with UFO, recombinant 6xHis–ASK1 from bacteria was added.
+The following day, the elution was repassed on Dextrin Sepharose High Performance (Cytiva) and Ni Sepharose High Performance resins (Cytiva) to remove tags and contaminants.
+For ASK1–UFO, ASK1–UFO–3xFLAG or UFOΔFbox–3xFLAG, the proteins were concentrated with a 30 kDa Amicon Ultra Centrifugal filter (Millipore) and further purified by SEC.
+For ASK1–UFO–LFY–DBD complex purification, contaminant DNA was removed by passing proteins on Q Sepharose High Performance resin (Cytiva) pre-equilibrated with UFO buffer.
+Increasing salt concentrations allowed us to obtain    DNA-free proteins.
+The indicated annealed HPLC-purified oligonucleotides (Supplementary Data 2) were then added and incubated with proteins on ice for 20 min.
+The proteins were concentrated with a 30 kDa Amicon Ultra Centrifugal filter (Millipore) and further purified by SEC.
+**SEC and SEC–MALLS**  SEC was performed with a Superdex 200 Increase 10/300 GL column (Cytiva) equilibrated with UFO buffer.
+Unaggregated proteins of interest were frozen in liquid nitrogen and stored at −80 °C.
+SEC–MALLS was performed with a Superdex 200 Increase 10/300 GL column (Cytiva) equilibrated with UFO buffer.
+For each run, 50 µl containing 1 mg ml
+[−1] of complex was injected.
+Separations were performed at room temperature with a flow rate of 0.5 ml min [−1] .
+The elutions were monitored by using a Dawn Heleos II for MALLS measurement (Wyatt Technology) and an Optilab T-rEX refractometer for refractive index measurements (Wyatt Technology).
+Molecular mass calculations were performed using ASTRA software with a refractive index increment (dn/dc) of 0.185 ml g
+[−1] .
+**ampDAP-seq**
+We used pTnT–5xmyc–LFY [48] to produce 5xmyc–LFY in vitro using a TnT SP6 High-Yield Wheat Germ Protein Expression System (Promega).
+We used the ampDAP-seq libraries described in Lai et al.
+[48] .
+The ampDAP-seq experiments were performed in triplicates (LFY–UFO) or in duplicates (LFY [K249R] and LFY [K249R] –UFO).
+A 50 µl TnT reaction producing 5xmyc–LFY was mixed with an excess of recombinant ASK1–UFO–3xFLAG (2 µg) and 20 µl of Pierce Anti-c-Myc Magnetic Beads (ThermoScientific).
+DAP buffer (20 mM Tris (pH 8), 150 mM NaCl, 1 mM TCEP and 0.005% NP40) was added to reach 200 µl.
+The mix was incubated for 1 h at 4 °C on a rotating wheel.
+The beads were then immobilized and washed three times with  100 µl of DAP buffer, moved to a new tube and washed once again.
+The ampDAP-seq input libraries (50 ng) were then added, and protein–DNA mixes were incubated for 1.5 h at 4 °C on a rotating wheel.
+The beads were immobilized and washed five times with 100 µl of DAP buffer, moved to a new tube and washed two more times.
+Finally, the beads were mixed with 30 µl of elution buffer (10 mM Tris (pH 8.5)) and heated for 10 min at 90 °C.
+Immunoprecipitated DNA fragments contained in the elution were amplified by PCR according to the published protocol [49] with Illumina TruSeq primers.
+The remaining beads were mixed with 20 µl of 1× SDS–PAGE Protein Sample Buffer, and western blots were performed to check the presence of tagged proteins.
+The PCR products were purified using AMPure XP magnetic beads (Beckman Coulter) following the manufacturer’s instructions.
+Library molar concentrations were determined by quantitative PCR using a NEBNext Library Quant Kit for Illumina (NEB).
+The libraries were then pooled with equal molarity.
+Sequencing was done on Illumina HiSeq (Genewiz) with the specification of paired-end sequencing of 150 cycles.
+**GUS staining**
+The different promoter versions were cloned upstream of the _GUS_ gene in the pRB14 backbone vector [45] .
+Transformants were selected with GFP seed fluorescence.
+The number of independent lines analysed for each construct is indicated in each figure.
+GUS staining was performed on the apex of primary inflorescences of T 2 plants.
+Tissues were placed in ice-cold 90% acetone for 20 min at room temperature and then rinsed in GUS buffer without X-Gluc (0.2% Triton X-100, 50 mM NaPO 4 (pH 7.2), 2 mM potassium ferrocyanide and 2 mM potassium ferricyanide).
+The tissues were transferred to GUS buffer containing 2 mM X-Gluc substrate (X-Gluc DIRECT) and placed under vacuum for 5 min.
+The samples were then incubated overnight at 37 °C unless otherwise specified in the legend.
+Finally, the tissues were washed with different ethanol solutions (35%, 50% and 70%), and pictures were taken with a Keyence VHX-5000 microscope with a VH-Z100R objective.
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **324**   **Article** https://doi.org/10.1038/s41477-022-01336-2    **In planta overexpression and mutant complementation assays** Tagged versions of UFO and UFOΔFbox were cloned under the control of the _35S_ promoter in pEGAD
+[50] .
+Transformants were selected with Basta treatment.
+Overexpressing lines with a strong gain-of-function phenotype were crossed with the strong _ufo-1_ mutant.
+Basta-resistant F 2 plants were individually genotyped to select _ufo-1_ −/− homozygous plants.
+For this, a fragment was amplified by PCR with the oligonucleotides oGT1085 and oPR578 (Supplementary Data 2) and digested with DpnII enzyme (NEB).
+On the basis of the digestion profile, _ufo-1_ −/− plants were kept and analysed once they reached flowering.
+Altered versions of LFY were cloned in pETH29 (ref.
+[29] ) or pCA26 (ref.
+[51] ) to express LFY complementary DNA under the control of its endogenous promoter or the _35S_ promoter, respectively.
+For the                                                     _lfy-12_ complementation assay, heterozygous _lfy-12/+_ plants were trans formed.
+The transformants were selected with GFP fluorescence and genotyped with a previously described protocol [45] to select _lfy-12_ −/− plants.
+The complementation assay was performed with T 2 plants and was based on the analysis of the first ten flowers from the primary inflorescence.
+Pictures were taken with a Keyence VHX-5000 microscope with a VH-Z20R objective.
+**Western blots**  For western blots on plant total protein extracts, the indicated tissues were crushed in 2× SDS–PAGE Protein Sample Buffer (100 mM Tris (pH 6.8), 20% glycerol, 2% SDS, 0.005% Bromophenol blue and 0.8% w/v dithiothreitol) at a 1:2 w/v ratio and boiled for 5 min.
+The samples were then loaded on a 12% acrylamide SDS–PAGE gel.
+For all western blots, transfer was performed with an iBlot2 Dry Blotting System (Invitrogen) using the default parameters.
+Membranes were blocked for 1 h at room temperature with 5% milk TBST and then incubated overnight at 4 °C with 5% milk TBST solution containing HRP-conjugated antibody (1:1,000 for anti-FLAG (Sigma-Aldrich; Cat.
+No. A8592)
+and 1:5,000 for anti-myc (Invitrogen; Cat.
+No. R951-25)).
+Revelation was performed with Clarity Western ECL substrate (Bio-Rad).
+Pictures were taken with a ChemiDoc MP Imaging System (BioRad).
+The uncropped gels are shown in the Source data.
+**Cryo-EM sample preparation, data collection and data** **processing**
+An aliquot of the SEC-purified ASK1–UFO–LFY–LUBS1 complex was thawed on ice (see Supplementary Data 2 for the LUBS1 DNA sequence).
+Subsequently, 3.5 μl of the complex at 1 mg ml
+[−1] was deposited onto glow-discharged (25 mA, 30 s) C-flat Au grid R 1.2/1.3 300 mesh (Electron Microscopy Sciences), blotted for 5.5 s with force 0 at 20 °C and 100% humidity using a Mark IV Vitrobot (FEI, Thermo Fisher Scientific), and plunge-frozen in liquid ethane for specimen vitrification.
+A dataset of about 1,000 videos of 40 frames was acquired on a 200 kV Glacios (Thermo Fisher Scientific) electron microscope (Supplementary Data 3) at a nominal magnification of 36,000 with a physical pixel size of 1.145 Å.  The raw videos, acquired with SerialEM on a Gatan K2 Summit camera (Supplementary Data 3), were imported to Cryosparc live [52] for motion correction and CTF estimation.
+The dose-weighted micrographs were used for particle picking with crYOLO v.1.7.6 and the general model for low-pass filtered images [53] .
+Particle coordinates were imported to Cryosparc, where all subsequent steps were performed.
+After manual inspection, a subset of 761 micrographs was selected on the basis of CTF fit resolution, total and per-frame motion, average defocus and relative ice thickness.
+A raw particle stack of 282,567 images was extracted at a box size of 256 × 256 pixels [2], binned twice and subjected to two-dimensional classification to remove false positive picks.
+A total of 207,392 particles from the selected class averages were re-extracted, re-centred at full size and submitted for a second round of two-dimensional classification.
+All class averages showing clear protein features were selected, and the resulting 147,849 particles were used    for ab initio reconstruction with three classes and subsequent heterogeneous refinement of the resulting volumes.
+Of those three classes, two looked like a protein–DNA complex, with the most apparent difference being the presence or absence of an extra electron density at one edge of the DNA helix.
+The last class had no recognizable features and was used as a decoy to remove ‘junk’ particles.
+Each subset and volume of the two first classes was refined separately with non-uniform refinement
+[54], resulting in two distinct reconstructions of about 4.2 Å resolution, where the DNA model, the crystal structure of LFY–DBD and the AlphaFold2 models of UFO and ASK1 could be unambiguously fitted into the electron density.
+The second of these classes could fit a LFY–DBD dimer, while in the first class there was density only for the LFY–DBD molecule that directly interacts with UFO (Extended Data Fig. 9d).
+The unsharpened maps of each reconstruction were used for post-processing with DeepEMhancer [55] .
+The figures were prepared with Chimera [56] or ChimeraX [57] .
+**Cryo-EM model building** Ideal B-form DNA was generated in Coot
+[58] and then manually built into the electron density.
+The resulting model was further refined using phenix.real_space_refine [59] .
+A single monomer of LFY–DBD was manually placed in the electron density, followed by fitting in ChimeraX
+[57] .
+The biological LFY–DBD dimer was then downloaded from the RCSB
+[PDB (2VY1)](https://doi.org/10.2210/pdb2VY1/pdb)
+[29] and used as a guide to place the second LFY monomer, followed by fitting to density in ChimeraX.
+Alphafold models
+[60] of ASK1 [(uniprot ID: Q39255) and UFO (uniprot ID: Q39090) were both down-](https://www.uniprot.org/uniprot/Q39255) loaded from the EBI, preprocessed to remove low-confidence regions in phenix.process_predicted_model [61], and then placed manually and fit to density in ChimeraX.   **Bioinformatic analyses** **Read mapping and peak calling.
+**
+Read processing and peak calling of LFY, LFY–UFO, LFY [K249R] and LFY [K249R] –UFO ampDAP-seq data were performed as previously published [62] .
+Briefly, the quality of sequencing data was analysed with fastQC v.0.11.7, and adapters were removed with NGmerge v.0.2_dev [63] .
+Bowtie2 v.2.3.4.1 was used for mapping to the TAIR10 _A. thaliana_ reference genome [64] .
+Reads mapped to a single location and with a maximum of two mismatches were retained.
+Duplicates were removed with the samtools dedup program v.1.8.
+Bound regions (that is, peaks) were identified with MACS2 v.2.2.7.1, using input DNA from Lai et al. as a control [48] .
+Consensus peaks were selected with MSPC v.4.0.0 (ref.
+[65] ) by retaining peaks called in all replicates and resizing them by ±200 bp around the peak maximum for further analysis.
+**Analyses of ampDAP-seq experiments.
+**
+To compare binding in different experiments, peaks were merged according to a previously published procedure [62] .
+Bound peaks were considered as common if they overlapped by at least 80%, while the remaining non-overlapping portion of either peak was <50%.
+Peaks that did not overlap by at least 50% were considered as new peaks.
+The same procedure was used to assess experimental reproducibility (comparisons between replicates of the same experiment), where peaks were normalized by the number of reads mapped in the library (RPKM).
+As the fraction of reads mapped in peaks is much lower for LFY than LFY–UFO ampDAP-seq (~25% versus ~40%, respectively), normalizing the read count by all reads mapped along the genome would introduce a bias and estimate the LFY relative coverage (RPKM) towards lower values compared with LFY–UFO.
+In addition to this consideration, experimental proof from EMSAs suggests that UFO does not strongly affect the binding intensity of the complex at canonical LFYBS (which represent most peaks).
+Hence, the read count at each peak was normalized by the total number of reads mapped within all LFY and LFY–UFO merged peaks.
+Then, the mean normalized coverage from each experiment, divided by the peak size, was computed for each peak.
+The same strategy was applied when comparing LFY [K249R]
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **325**   **Article** https://doi.org/10.1038/s41477-022-01336-2    and LFY [K249R] –UFO (Fig. 4b), LFY [K249R] and LFY (Extended Data Fig.
+8h), and LFY, LFY–UFO, LFY [K249R] and LFY [K249R] –UFO (Fig. 4c).
+The CFC was computed on merged peaks as the ratio between the mean normalized peak coverage in LFY–UFO and LFY (Fig. 2d) or the mean normalized coverage in LFY [K249R] –UFO and LFY [K249R] (Fig. 4b).
+**Motif search in bound regions.
+** Merged peaks of the LFY and LFY–UFO datasets were sorted on the basis of decreasing CFC value.
+The top 600 peaks (that is, the highest CFC values) were used for a motif search using MEME-ChIP v.4.12.0 using the options nmeme, 600; meme-maxsize, 600*1000; meme-nmotifs, 1; dreme-m, 0; and noecho and the JASPAR 2018 core plants non-redundant database [66] .
+For dLUBS, we used the options meme-minw, 20; meme-maxw, 30; while for mLUBS, we used meme-minw, 16; meme-maxw, 19.
+To retrieve the LFY motif in Fig. 2e, the 600 LFY ampDAP-seq peaks with the strongest coverage were fed to MEME-ChIP with the options nmeme, 600; meme-nmotifs, 1; meme-minw, 19; meme-maxw, 19; pal.
+**Receiver operating characteristics analysis.
+**
+From the dataset of merged peak sets (peaks found in LFY or in LFY–UFO experiments or in both), the peaks were sorted on the basis of decreased CFC value, the top 20% peaks were selected, and among these, the first 600 used for motif determination were excluded to avoid overfitting, for a total of 3,243 final peaks.
+A negative set of the same size was created using a previously published method, which allows searching for sequences from the _A. thaliana_ genome (TAIR10 reference) with the same GC content and genomic origin as the positive set [67] .
+Both sets were scanned with dLUBS and mLUBS PWMs as well as with the LFY PWM with dependencies as published previously [68] using an in-house script available on our GitHub page.
+The receiver operating characteristics plot was then created with the R package plotROC v.2.2.1 (ref.
+[69] ).
+**LFY in dLUBS within LFY–UFO-specific regions versus LFY in** **LFY-specific regions.
+**
+To assess whether the scores of LFYBS within dLUBS were comparable to the scores of canonical LFYBS, we used the peaks from the comparison of LFY versus LFY–UFO ampDAP-seq and resized them (±50 bp around the peak maximum).
+We used the dLUBS matrix to scan the resized sequences and retained the best site per sequence.
+We then retrieved sequences corresponding to the dLUBS site and computed the score of the LFYBS present in dLUBS using the LFY PWM
+[68] .
+The values obtained in the 20% most LFY–UFO-specific sequences (20% highest CFC) are shown in the box plot.
+The 20% lowest CFC peaks were scanned with the LFY PWM to generate the box plot in Extended Data Fig.
+4f.
+**Microarray data analysis.
+** Microarray data were retrieved from AtGenExpress
+[70] for inflorescence tissue in the _ufo_ background (ATGE_52A-C) versus the Col-0 background (ATGE_29A-C).
+The R package gcrma [71] was used to adjust probe intensities and convert them to expression measures, and then the limma package [72] was used to fit the model and smooth standard errors.
+A Benjamini–Hochberg correction was applied to the _P_ values, and fold change (FC) was computed as the ratio between expression in the WT and that in the _ufo_ mutant.
+Only genes with |log 2 (FC)| > 0.5 and adjusted _P_ < 0.05 were considered as significantly differentially expressed.
+**ChIP-seq datasets and analysis of ChIP-seq versus ampDAP-seq.
+**
+We collected the raw data of all available LFY ChIP-seq datasets: GSE141704 (ref.
+[73] ), GSE96806 (ref.
+[25] ), GSE64245 (ref.
+[26] ) and GSE24568 (ref.
+[68] ).
+Mapping and peak-calling analysis were performed with the same procedure as for ampDAP-seq, except that the peaks were resized to 600 bp around the peak maximum, and the q option of MACS2 was set to 0.1.
+Coverage of the resulting peaks was calculated as the average of the normalized read coverage for each replicate.
+Peaks from the four datasets were merged through a four-way comparison following the    same procedure used for ampDAP-seq.
+Bedtools intersect (v.2.30.0)
+[74] was used with the options wa; f, 0.8; F, 0.8; and e to find the peaks common to the merged ChIP-seq peaks and the 20% most LFY–UFO-specific genomic regions (the highest CFC value from ampDAP-seq).
+The peaks were assigned to genes by extending gene regions 3 kb upstream of the transcription start site and 1 kb downstream of the transcription termination site and using bedtools intersect (options f, 0.8; F, 0.8; e).
+The bound genes obtained were crossed with the list of differentially expressed genes in _ufo_ inflorescences.
+**Identification of the URM from published LFY ChIP-seq data.
+**
+To test whether the URM could be identified de novo (Extended Data Fig.
+4g), we collected the 298 regions bound by LFY ChIP-seq data from inflorescence tissue
+[25] for which the binding intensity was twice greater in vivo relative to in vitro (LFY ampDAP-seq).
+We resized these regions to ±55 bp around the ChIP-seq peak maximum.
+The corresponding sequences were searched with the LFY PWM
+[68] to identify all LFYBS with a PWM score greater than −23.
+Assuming that a recruiting motif should be at a fixed distance from the LFYBS, we created 140 batches, corresponding to sequences with sizes ranging from 4 to 10 bp, distant from 1 to 20 bp at both sides of the canonical LFYBS.
+Each of the 140 batches of sequences was used as input with MEME-ChIP for motif discovery with the motif size constrained to the length of the sequences in a given batch.
+**Statistics and reproducibility**
+All DLRA data were analysed using RStudio software [75] and are presented as mean ± s.d.
+All statistical methods are indicated in the figure legends.
+One-way ANOVA was used to analyse experimental data with more than two experimental groups (with two-sided Tukey’s multiple comparisons tests).
+Welch’s ANOVA was performed when the homogeneity-of-variance assumption was not met (with two-sided Games–Howell post hoc tests).
+For Fig.
+1a,b, the strong promoter activation by 3xHA–LFY–VP16 + UFO–3xFLAG skewed the model and did not allow us to analyse other differences; a log-transformation was applied to the data before performing ANOVA.
+Two-tailed unpaired Student’s _t_ -tests were used for the other data analyses.
+For the GUS experiments and plant complementation assays, two-sided _χ_
+[2] tests were used to test for independency between constructs and measured phenotypes.
+The raw data and exact _P_ values are provided in the Source data files as well as the number of independent repetitions for each experiment.
+**Reporting summary**
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+**Data availability**
+The ampDAP-seq data have been deposited at GEO and are publicly [available as of the date of publication (GSE204793).
+The cryo-EM struc-](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE204793) ture determined in this study is deposited in the EM data bank under the [reference number EMD-15145.
+The .pdb file of the model is available in](http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-15145) the Supplementary Information.
+Any additional information required to reanalyse the data reported in this paper is available from the corresponding author upon request.
+The biological materials generated in this study are available from the corresponding author without restriction.
+Source data are provided with this paper.
+**Code availability**
+[All original code has been deposited at GitHub (https://github.com/](https://github.com/Bioinfo-LPCV-RDF/LFYUFO_project)
+[Bioinfo-LPCV-RDF/LFYUFO_project) and is publicly available as of the](https://github.com/Bioinfo-LPCV-RDF/LFYUFO_project) date of publication.
+**References**  1.
+Moyroud, E., Kusters, E., Monniaux, M., Koes, R. & Parcy, F. LEAFY blossoms.
+_Trends Plant Sci._
+**15**, 346–352 (2010).
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **326**   **Article** https://doi.org/10.1038/s41477-022-01336-2    2.
+Irish, V. F.
+The flowering of _Arabidopsis_ flower development.
+_
+Plant_ _J._ **61**, 1014–1028 (2010).
+3. Parcy, F., Nilsson, O., Busch, M. A., Lee, I. & Weigel, D. A genetic framework for floral patterning.
+_
+Nature_ **395**, 561–566 (1998).
+4. Wagner, D., Sablowski, R. W. M. & Meyerowitz, E. M. Transcriptional activation of APETALA1 by LEAFY.
+_
+Science_ **285**, 582–584 (1999).
+5.
+Lohmann, J. U. et al.
+A molecular link between stem cell regulation and floral patterning in _Arabidopsis_ .
+_
+Cell_ **105**, 793–803 (2001).
+6. Lee, I., Wolfe, D. S., Nilsson, O. & Weigel, D. A LEAFY co-regulator encoded by UNUSUAL FLORAL ORGANS.
+_
+Curr.
+Biol.
+_
+**7**, 95–104 (1997).
+7.
+Levin, J. Z. & Meyerowitz, E. M. UFO: an _Arabidopsis_ gene involved in both floral meristem and floral organ development.
+_
+Plant Cell_ **7**, 529–548 (1995).
+8.
+Wilkinson & Haughn UNUSUAL FLORAL ORGANS controls meristem identity and organ primordia fate in _Arabidopsis_ .
+_
+Plant_ _
+Cell_ **7**, 1485–1499 (1995).
+9.
+Krizek, B. A. & Meyerowitz, E. M.
+The _Arabidopsis_ homeotic genes APETALA3 and PISTILLATA are sufficient to provide the B class organ identity function.
+_
+Development_ **122**, 11–22 (1996).
+10.
+Ikeda-Kawakatsu, K., Maekawa, M., Izawa, T., Itoh, J.-I. & Nagato, Y. ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of _Arabidopsis_ LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1.
+_
+Plant_ _J._ **69**, 168–180 (2012).
+11.
+Lippman, Z. B. et al.
+The making of a compound inflorescence in tomato and related nightshades.
+_PLoS Biol._
+**6**, e288 (2008).
+12.
+Souer, E. et al.
+Patterning of inflorescences and flowers by the F-box protein DOUBLE TOP and the LEAFY homolog ABERRANT LEAF AND FLOWER of petunia.
+_
+Plant Cell Online_ **20**, 2033–2048 (2008).
+13.
+Kuzay, S. et al.
+WAPO-A1 is the causal gene of the 7AL QTL for spikelet number per spike in wheat.
+_PLoS Genet.
+_
+**18**, e1009747 (2022).
+14.
+Ingram, G. C. et al.
+Dual role for fimbriata in regulating floral homeotic genes and cell division in _Antirrhinum_ .
+_
+EMBO J._ **16**, 6521–6534 (1997).
+15.
+Samach, A. et al.
+The UNUSUAL FLORAL ORGANS gene of _Arabidopsis thaliana_ is an F-box protein required for normal patterning and growth in the floral meristem.
+_
+Plant J._ **20**, 433–445 (1999).
+16.
+Simon, R., Carpenter, R., Doyle, S. & Coen, E. Fimbriata controls flower development by mediating between meristem and organ identity genes.
+_
+Cell_ **78**, 99–107 (1994).
+17.
+Wang, X. et al.
+The COP9 signalosome interacts with SCF UFO and participates in _Arabidopsis_ flower development.
+_
+Plant Cell_ **15**, 1071–1082 (2003).
+18.
+Chae, E., Tan, Q. K.-G., Hill, T. A. & Irish, V. F.
+An _Arabidopsis_
+F-box protein acts as a transcriptional co-factor to regulate floral development.
+_
+Development_ **135**, 1235–1245 (2008).
+19.
+Geng, F., Wenzel, S. & Tansey, W. P. Ubiquitin and proteasomes in transcription.
+_
+Annu.
+Rev. Biochem.
+_
+**81**, 177–201 (2012).
+20.
+Risseeuw, E. et al.
+An activated form of UFO alters leaf development and produces ectopic floral and inflorescence meristems.
+_PLoS
+ONE_ **8**, e83807 (2013).
+21.
+Krizek, B. A., Lewis, M. W. & Fletcher, J. C. _RABBIT EARS_ is a second-whorl repressor of _AGAMOUS_ that maintains spatial boundaries in _Arabidopsis_ flowers.
+_
+Plant J._ **45**, 369–383 (2006).
+22.
+Busch, M. A., Bomblies, K. & Weigel, D. Activation of a floral homeotic gene in _Arabidopsis_ .
+_
+Science_ **285**, 585–587 (1999).
+23.
+Hill, T. A., Day, C. D., Zondlo, S. C., Thackeray, A. G. & Irish, V. F. Discrete spatial and temporal _cis_ -acting elements regulate    transcription of the _Arabidopsis_ floral homeotic gene APETALA3. _
+Development_ **125**, 1711–1721 (1998).
+24.
+Lamb, R. S., Hill, Ta., Tan, Q. K.-G. & Irish, V. F. Regulation of APETALA3 floral homeotic gene expression by meristem identity genes.
+_
+Development_ **129**, 2079–2086 (2002).
+25.
+Goslin, K. et al.
+Transcription factor interplay between LEAFY and APETALA1/CAULIFLOWER during floral initiation.
+_
+Plant Physiol.
+_
+**174**, 1097–1109 (2017).
+26.
+Sayou, C. et al.
+A SAM oligomerization domain shapes the genomic binding landscape of the LEAFY transcription factor.
+_
+Nat.
+Commun.
+_
+**7**, 11222 (2016).
+27.
+Weigel, D., Alvarez, J., Smyth, D. R., Yanofsky, M. F. & Meyerowitz, E. M. _LEAFY_ controls floral meristem identity in _Arabidopsis_ .
+_
+Cell_ **69**, 843–859 (1992).
+28.
+Weigel, D. & Nilsson, O. A developmental switch sufficient for flower initiation in diverse plants.
+_
+Nature_ **377**, 495–500 (1995).
+29.
+Hamès, C. et al.
+Structural basis for LEAFY floral switch function and similarity with helix-turn-helix proteins.
+_
+EMBO J._ **27**, 2628–2637 (2008).
+30.
+Sayou, C. et al.
+A promiscuous intermediate underlies the evolution of LEAFY DNA binding specificity.
+_
+Science_ **343**, 645–648 (2014).
+31.
+Zhao, D., Yu, Q., Chen, M. & Ma, H. The ASK1 gene regulates B function gene expression in cooperation with UFO and LEAFY in _Arabidopsis_ .
+_
+Development_ **128**, 2735–2746 (2001).
+32.
+Ni, W. et al.
+Regulation of flower development in _Arabidopsis_ by SCF complexes.
+_
+Plant Physiol.
+_
+**134**, 1574–1585 (2004).
+33.
+Levin, J. Z., Fletcher, J. C., Chen, X. & Meyerowitz, E. M. A genetic screen for modifiers of UFO meristem activity identifies three novel FUSED FLORAL ORGANS genes required for early flower development in _Arabidopsis_ .
+_
+Genetics_ **149**, 579–595 (1998).
+34.
+Singh, N. & Bhalla, N. Moonlighting Proteins.
+_
+Annu.
+Rev. Genet.
+_
+**54**, 265–285 (2020).
+35.
+Honma, T. & Goto, K. The _Arabidopsis_ floral homeotic gene _PISTILLATA_ is regulated by discrete cis-elements responsive to induction and maintenance signals.
+_
+Development_ **127**, 2021–2030 (2000) 36.
+Tilly, J. J., Allen, D. W. & Jack, T. The CArG boxes in the promoter of the _Arabidopsis_ floral organ identity gene APETALA3 mediate diverse regulatory effects.
+_
+Development_ **125**, 1647–1657 (1998).
+37.
+Liu, C., Xi, W., Shen, L., Tan, C. & Yu, H. Regulation of floral patterning by flowering time genes.
+_
+Dev.
+Cell_ **16**, 711–722 (2009).
+38.
+Gregis, V., Sessa, A., Colombo, L. & Kater, M. M. AGL24, SHORT VEGETATIVE PHASE, and APETALA1 redundantly control AGAMOUS during early stages of flower development in _Arabidopsis_ .
+_
+Plant Cell_ **18**, 1373–1382 (2006).
+39.
+Castillejo, C., Romera-Branchat, M. & Pelaz, S. A new role of the _Arabidopsis_ SEPALLATA3 gene revealed by its constitutive expression.
+_
+Plant J._ **43**, 586–596 (2005).
+40.
+Siggers, T., Duyzend, M. H., Reddy, J., Khan, S. & Bulyk, M. L. Non-DNA-binding cofactors enhance DNA-binding specificity of a transcriptional regulatory complex.
+_
+Mol.
+Syst.
+Biol.
+_
+**7**, 555 (2011).
+41.
+Babb, R., Huang, C., Aufiero, D. J. & Herr, W. DNA recognition by the herpes simplex virus transactivator VP16: a novel DNA-binding structure.
+_
+Mol.
+Cell.
+Biol.
+_
+**21**, 4700–4712 (2001).
+42.
+Chahtane, H. et al.
+LEAFY activity is post-transcriptionally regulated by BLADE ON PETIOLE2 and CULLIN3 in _Arabidopsis_ .
+_
+N._ _Phytol.
+_
+**220**, 579–592 (2018).
+43.
+Blanvillain, R. et al.
+The _Arabidopsis_ peptide kiss of death is an inducer of programmed cell death.
+_
+EMBO J._ **30**, 1173–1183 (2011).
+44.
+Takeda, S., Matsumoto, N. & Okada, K. RABBIT EARS, encoding a SUPERMAN-like zinc finger protein, regulates petal development in _Arabidopsis thaliana_ .
+_
+Development_ **131**, 425–434 (2004).
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **327**   **Article** https://doi.org/10.1038/s41477-022-01336-2    45.
+Benlloch, R. et al.
+Integrating long-day flowering signals: a LEAFY binding site is essential for proper photoperiodic activation of APETALA1.
+_
+Plant J._ **67**, 1094–1102 (2011).
+46.
+Iwata, Y., Lee, M. H. & Koizumi, N. Analysis of a transcription factor using transient assay in _Arabidopsis_ protoplasts.
+_
+Methods Mol._ _
+Biol.
+_
+**754**, 107–117 (2011).
+47.
+Dümmler, A., Lawrence, A. M. & de Marco, A. Simplified screening for the detection of soluble fusion constructs expressed in _E. coli_ using a modular set of vectors.
+_
+Microb.
+Cell Fact.
+_
+**4**, 34 (2005).
+48.
+Lai, X. et al.
+The LEAFY floral regulator displays pioneer transcription factor properties.
+_
+Mol.
+Plant_ **14**, 829–837 (2021).
+49.
+Bartlett, A. et al.
+Mapping genome-wide transcription-factor binding sites using DAP-seq.
+_
+Nat.
+Protoc._
+**12**, 1659–1672 (2017).
+50.
+Cutler, S. R., Ehrhardt, D. W., Griffitts, J. S. & Somerville, C. R. Random GFP∷cDNA fusions enable visualization of subcellular  structures in cells of _Arabidopsis_ at a high frequency.
+_
+Proc.
+Natl_ _
+Acad.
+Sci.
+USA_ **97**, 3718–3723 (2000).
+51.
+Chahtane, H. et al.
+A variant of LEAFY reveals its capacity to stimulate meristem development by inducing RAX1.
+_
+Plant J._ **74**, 678–689 (2013).
+52.
+Punjani, A., Rubinstein, J. L., Fleet, D. J. & Brubaker, M. A. cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination.
+_
+Nat.
+Methods_ **14**, 290–296 (2017).
+53.
+Wagner, T. et al. SPHIRE-crYOLO is a fast and accurate fully automated particle picker for cryo-EM. _Commun.
+Biol.
+_
+**2**, 218 (2019).
+54.
+Punjani, A., Zhang, H. & Fleet, D. J. Non-uniform refinement: adaptive regularization improves single-particle cryo-EM reconstruction.
+_
+Nat.
+Methods_ **17**, 1214–1221 (2020).
+55.
+Sanchez-Garcia, R. et al.
+DeepEMhancer: a deep learning solution for cryo-EM volume post-processing.
+_
+Commun.
+Biol.
+_
+**4**, 874 (2021).
+56.
+Pettersen, E. F. et al.
+UCSF Chimera—a visualization system for exploratory research and analysis.
+_
+J. Comput.
+Chem.
+_
+**25**, 1605–1612 (2004).
+57.
+Pettersen, E. F. et al.
+UCSF ChimeraX: structure visualization for researchers, educators, and developers.
+_
+Protein Sci._
+**30**, 70–82 (2021).
+58.
+Emsley, P., Lohkamp, B., Scott, W. G. & Cowtan, K. Features and development of Coot.
+_
+Acta Crystallogr.
+D Biol.
+Crystallogr._
+**66**, 486–501 (2010).
+59.
+Afonine, P. V. et al.
+Real-space refinement in PHENIX for cryo-EM and crystallography.
+_
+Acta Crystallogr.
+D Struct.
+Biol.
+_
+**74**, 531–544 (2018).
+60.
+Jumper, J. et al.
+Highly accurate protein structure prediction with AlphaFold.
+_
+Nature_ **596**, 583–589 (2021).
+61.
+Terwilliger, T. C. et al.
+Improved AlphaFold modeling with implicit experimental information.
+_
+Nat.
+Methods_ **19**, 1376–1382 (2022).
+62.
+Lai, X. et al.
+Genome-wide binding of SEPALLATA3 and AGAMOUS complexes determined by sequential DNA-affinity purification sequencing.
+_
+Nucleic Acids Res._
+**48**, 9637–9648 (2020).
+63.
+Gaspar, J. M. NGmerge: merging paired-end reads via novel empirically-derived models of sequencing errors.
+_
+BMC Bioinform.
+_
+**19**, 536 (2018).
+64.
+Berardini, T. Z. et al.
+The Arabidopsis Information Resource: making and mining the ‘gold standard’ annotated reference plant genome.
+_
+Genesis_ **53**, 474–485 (2015).
+65.
+Jalili, V., Matteucci, M., Masseroli, M. & Morelli, M. J. Using combined evidence from replicates to evaluate ChIP-seq peaks.
+_
+Bioinformatics_ **31**, 2761–2769 (2015).
+66.
+Machanick, P. & Bailey, T. L. MEME-ChIP: motif analysis of large DNA datasets.
+_
+Bioinformatics_ **27**, 1696–1697 (2011).
+67.
+Stigliani, A. et al.
+Capturing auxin response factors syntax using DNA binding models.
+_
+Mol.
+Plant_ **12**, 822–832 (2019).
+68.
+Moyroud, E. et al. Prediction of regulatory interactions from genome sequences using a biophysical model for the _Arabidopsis_ LEAFY transcription factor.
+_
+Plant Cell_ **23**, 1293–1306 (2011).
+69.
+Sachs, M. C. plotROC: A Tool for Plotting ROC Curves.
+_J. Stat._ _
+Softw.
+_ 79, 1–19 (2017).. 70.
+Schmid, M. et al.
+A gene expression map of _Arabidopsis thaliana_ development.
+_
+Nat.
+Genet.
+_
+**37**, 501–506 (2005).
+71.
+Wu J. et al. gcrma:
+Background Adjustment Using Sequence Information.
+R package version 2.70.0.
+(2022).
+[https://bioconductor.org/packages/release/bioc/manuals/](https://bioconductor.org/packages/release/bioc/manuals/gcrma/man/gcrma.pdf)
+[gcrma/man/gcrma.pdf](https://bioconductor.org/packages/release/bioc/manuals/gcrma/man/gcrma.pdf) 72.
+Ritchie, M. E. et al. limma powers differential expression analyses for RNA-sequencing and microarray studies.
+_
+Nucleic Acids Res._
+**43**, e47 (2015).
+73.
+Jin, R. et al.
+LEAFY is a pioneer transcription factor and licenses cell reprogramming to floral fate.
+_
+Nat.
+Commun.
+_
+**12**, 626 (2021).
+74.
+Quinlan, A.R. & Hall, I. M. BEDTools: a flexible suite of utilities for comparing genomic features.
+_
+Bioinformatics_ **26**, 841–842 (2010).
+75.
+RStudio Team RStudio: Integrated Development for R. (RStudio, [PBC, Boston, MA, 2020).
+http://www.rstudio.com/](http://www.rstudio.com/)
+76.
+Gagne, J. M., Downes, B. P., Shiu, S. H., Durski, A. M. & Vierstra, R. D. The F-box subunit of the SCF E3 complex is encoded by a diverse superfamily of genes in _Arabidopsis_ .
+_
+Proc._ _
+Natl Acad.
+Sci.
+USA_ **99**, 11519–11524 (2002).
+77.
+Zhang, S. et al.
+Proliferating floral organs (pfo), a _Lotus japonicus_ gene required for specifying floral meristem determinacy and organ identity, encodes an F-box protein.
+_
+Plant J._ **33**, 607–619 (2003).
+78.
+Zhao, Y. et al.
+Evolutionary co-option of floral meristem identity genes for patterning of the flower-like Asteraceae inflorescence.
+_
+Plant Physiol.
+_
+**172**, 284–296 (2016).
+79.
+Chen, Y. et al. CsUFO is involved in the formation of flowers and tendrils in cucumber.
+_
+Theor.
+Appl.
+Genet.
+_
+**3**, 2141–2150 (2021).
+80.
+Ikeda, K., Ito, M., Nagasawa, N., Kyozuka, J. & Nagato, Y. Rice ABERRANT PANICLE ORGANIZATION 1, encoding an F-box protein, regulates meristem fate.
+_
+Plant J._ **51**, 1030–1040 (2007).
+81.
+Li, F. et al.
+Reduced expression of CbUFO is associated with the phenotype of a flower-defective _Cosmos bipinnatus_ .
+_
+Int.
+J. Mol._ _
+Sci._
+**20**, 2503 (2019).
+82.
+Sasaki, K. et al. Mutation in _Torenia fournieri_ Lind.
+UFO homolog confers loss of TfLFY interaction and results in a petal to sepal transformation.
+_
+Plant J._ **71**, 1002–1014 (2012).
+83.
+Sharma, B. et al.
+Homologs of LEAFY and UNUSUAL FLORAL ORGANS promote the transition from inflorescence to floral meristem identity in the cymose _Aquilegia coerulea_ .
+_
+Front.
+Plant_ _
+Sci._
+**10**, 1218 (2019).
+84.
+Taylor, S., Hofer, J. & Murfet, I. Stamina pistilloida, the pea ortholog of Fim and UFO, is required for normal development of flowers, inflorescences, and leaves.
+_
+Plant Cell_ **13**, 31–46 (2001).
+85.
+Ashkenazy, H. et al.
+ConSurf 2016: an improved methodology to estimate and visualize evolutionary conservation in macromolecules.
+_
+Nucleic Acids Res._
+**44**, W344–W350 (2016).
+**Acknowledgements**
+We thank A. M. Boisson for preparing the suspension cells, X. Lai for the ampDAP-seq libraries and technical assistance and R. Koes for sharing data and materials.
+We acknowledge C. Marondedze, G. Vachon, M. Le Masson, C. Berthollet, B. Orlando Marchesano and J. Bourenane-Vieira for help with the experiments.
+We thank G. Vert, U. Dolde and R. Dumas for discussion.
+The electron microscopy facility is supported by the Rhône-Alpes Region, the FRM, the FEDER and the GIS-IBISA.
+This work used the platforms of the Grenoble Instruct-ERIC
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **328**   **Article** https://doi.org/10.1038/s41477-022-01336-2    centre (ISBG; UAR 3518 CNRS-CEA-UGA-EMBL) within the Grenoble Partnership for Structural Biology, supported by FRISBI (ANR-10-INBS-0005-02).
+We thank C. Mas for assistance and access to the biophysical platform.
+This work was supported by the GRAL Labex financed within the University Grenoble Alpes graduate school (Ecoles Universitaires de Recherche) CBH-EUR-GS (ANR-17-EURE-0003), the CEA (PhD fellowship to P.R.) and the ANR-17-CE20-0014-01 Ubiflor project to F.P.   **Author contributions**  F.P. and P.R. designed the project.
+P.R. performed the plant experiments with assistance from G.T. P.R. and E.T. performed the biochemical experiments with assistance from H.C. on the evolutionary analyses.
+L.T. performed the bioinformatics analyses with assistance from J.L. and R.B.-M. E.Z. and G.S. performed the cryo-EM experiments, and M.N., E.Z., C.Z. and G.S. analysed the data.
+P.R. and L.T. assembled the figures.
+P.R. and F.P. wrote the paper with contributions from L.T. and C.Z.   **Competing interests**
+The authors declare no competing interests.
+**Additional information**  **Extended data** is available for this paper at [https://doi.org/10.1038/s41477-022-01336-2.](https://doi.org/10.1038/s41477-022-01336-2)    **Supplementary information**
+The online version contains supplementary material available at [https://doi.org/10.1038/s41477-022-01336-2.](https://doi.org/10.1038/s41477-022-01336-2)   **Correspondence and requests for materials** should be addressed to François Parcy.
+**Peer review information** _
+Nature Plants_ thanks Nobutoshi Yamaguchi, Aiwu Dong and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+**Reprints and permissions information** is available at [www.nature.com/reprints.](http://www.nature.com/reprints)   **Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+© The Author(s), under exclusive licence to Springer Nature Limited  2023
+[Nature Plants | Volume 9 | February](http://www.nature.com/natureplants) 2023 | 315–329 **329**   **Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+1 | UFO has SCF-dependent and independent functions.
+** **a-c**, _pAP3_ activation measured by DLRA in Arabidopsis protoplasts.
+EV = Empty Vector (pRT104-3xHA).
+UFOΔFbox corresponds to a deletion of the whole N-terminal part comprising the F-box domain (aa. 1-90), while UFOdelF corresponds to a previously-described internal deletion in the F-box domain (aa. 50-62)
+[20] .
+Data represent averages of independent biological replicates and are presented as mean ± SD, each dot representing one biological replicate (n = 4).
+One-way ANOVA with Tukey’s multiple comparisons tests.
+Stars above bars represent a significant statistical difference compared to 3xHA-LFY + EV or 3xHA-LFY-VP16 + EV negative controls (NS: p > 0.05,*: p < 0.05, **: p < 0.01, ***: p < 0.001 and ****: p < 0.0001).
+**d**, Western Blot on protein extracts from independent T1 plants from different phenotypic classes described in Fig.
+1g (one independent line per lane).
+_
+35S::UFO-5xmyc_ (line 178-#19) and _35S::UFO-3xFLAG_ (line 177-#6) plants were used as positive controls.
+Total proteins were extracted from rosette leaves.
+Note the difference of molecular weight between UFO and
+[Nature Plants](http://www.nature.com/natureplants)    UFOΔFbox.
+Loss-of-function defects are likely due to silencing of both transgeneencoded UFOΔFbox and endogenous UFO.
+**e**, Western Blot on protein extracts from F2 plants described in Fig.
+1h.
+Total proteins were extracted from rosette leaves.
+**f**, _ufo-1_ complementation assay with other _35S::UFO_ and _35S::UFO∆Fbox_ lines.
+Rosette leaves (right, scale bar, 1 cm), inflorescence (middle, scale bar 1 mm) and flower (right, scale bar, 0.5 mm) phenotypes are shown.
+Primary inflorescences were removed to observe rosette phenotype.
+For each construct, at least 5 plants were analyzed per line.
+As in Risseeuw et al, our _35S::UFO_ lines displayed relatively milder phenotypes than the _35S::UFO_ phenotypes reported by Lee et al.
+[6][,][20] .
+Note that the _35S::UFO-5xmyc_ 178-#2 line did not display the serrated leaves phenotype.
+**g**, Sequence alignment of UFO N-terminal region.
+The F-box domain is represented [76] .
+In selected species, presented proteins were identified as UFO homologs and their role was confirmed genetically [7][,][11][,][12][,][16][,][77][–][84] .
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+2 |** _**pAP3**_ **DEE LFYBS is not required for LFY-UFO-** **dependent** _**pAP3**_ **activation.
+** **a**, Schematic representation of _pAP3_ .
+Top row represents WT _pAP3_ with regulatory regions and _cis_ -elements.
+Orange triangle represents LFYBS.
+The second row represents the scores for the best LFYBS obtained by scanning WT _pAP3_ sequence with LFY PWM
+[68] (the best binding sites correspond to the less negative score values).
+Other rows represent the different _pAP3_ versions used in ( **b** ) and ( **c** ).
+LFYBS mutation corresponds to the previously   [Nature Plants](http://www.nature.com/natureplants)    described _site1m-site2m_ mutation
+[24] .
+**b,c**, _pAP3_ activation with promoter versions described in ( **a** ) and indicated effectors.
+For bar charts, data represent averages of independent biological replicates and are presented as mean ± SD, each dot representing one biological replicate (n = 4).
+Unpaired t-tests ( **b,c** ).
+(NS: p > 0.05,*: p < 0.05, **: p < 0.01, ***: p < 0.001).
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+3 | Analysis of** _**pAP3**_ **activation by LFY-UFO.
+** **a**, Description of _pAP3_ .
+Top line represents WT _pAP3_ with regulatory regions and _cis_ -elements.
+Coordinates are relative to _AP3_ start codon.
+TSS: Transcription Start Site.
+Orange triangle represents LFYBS.
+Other rows show the promoter versions used in ( **b** ) and ( **c** ).
+Green rectangles in swapped versions correspond to the same random sequence.
+**b,c**, _pAP3_ LFY-UFO response element mapping with _pAP3_ versions described in ( **a** ) by DLRA in Arabidopsis protoplasts.
+Data represent averages of independent biological replicates and are presented as mean ± SD, each dot representing one biological replicate (n = 4).
+One-way ANOVA with Tukey’s multiple comparisons test ( **c** ).
+One-way ANOVA was performed with data from the same effector, and stars represent a statistical difference compared to WT _pAP3_ .
+Unpaired t-tests ( **b** ).
+(NS: p > 0.05,*: p < 0.05, **: p < 0.01; ***: p < 0.001).
+**d**, EMSA with ASK1-UFO, LFY-DBD and LUBS0 DNA probe.
+Different competitor DNA concentrations were tested as indicated.
+**e**, Molecular mass determination  for ASK1-UFO-LFY-DBD in complex with LUBS0 DNA by SEC-MALLS (top).
+Elution
+[Nature Plants](http://www.nature.com/natureplants)
+profiles correspond to absorbance at 280 nm and 260 nm (left ordinate axis, A.U: Arbitrary Unit).
+The black line shows the molecular mass distribution (right ordinate axis).
+A mass of 102 ± 3.3 kDa was found for this ASK1-UFOLFY-DBD-LUBS0 complex, consistent with one copy of each protein per DNA molecule (theoretical mass of 108 kDa).
+Coomassie-stained SDS-PAGE gel of the different SEC-MALLS fractions (bottom).
+Each lane corresponds to a 0.5 mL fraction.
+Molecular weights of the protein standards are indicated (BioRad Precision Plus).
+Faint bands above UFO likely correspond to contaminants.
+**f**, EMSA with ASK1-UFO, LFY-DBD and indicated DNA probes.
+Sequences with coordinates relative to _AP3_ start codon (left).
+Red letters indicate mutated bases.
+Bars under sequences represent the regions required for ASK1-UFO-LFY-DBD binding.
+EMSA with described DNA probes (right).
+Each DNA probe was mixed with the same ASK1-UFO-LFY-DBD protein mix.
+Note that the LUBS0 mutation also reduced _pAP3_ activation in protoplasts (Fig. 2b).
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2   **Extended Data Fig.
+4 | See next page for caption.
+**
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+4 | Genome-wide analysis of LFY-UFO binding.
+** **a**, Western Blot after DNA elution during ampDAP-seq experiment.
+After DNA elution, 20 µL of 1X SDS-PAGE Protein Sample Buffer was added to the remaining beads to run WB.
+Each lane represents one replicate.
+**b**, Assessment of experimental reproducibility of ampDAP-seq experiment through the comparison of replicates datasets 2 by 2.
+**c**, Effect of the LFY KARA mutation (K303A-R233A)
+[51] on _pAP3_ activation in Arabidopsis protoplasts.
+Data represent averages of independent biological replicates and are presented as mean ± SD, each dot representing one biological replicate (n = 4).
+Unpaired t-tests (**: p < 0.01; ****: p < 0.0001).
+**d**, The LFY KARA mutation (K303A-R233A) does not disrupt LFY-UFO interaction in Yeast-Two-Hybrid (Y2H).
+EV = Empty Vector.
+LFY-40 is a LFY version lacking the first 40 aa and better tolerated by yeast cells.
+Values correspond to the different dilutions (OD = 7, 0.7 and 0.07).
+Top picture corresponds to the non-selective plate lacking Leucine and Tryptophan (SD -L-W), and bottom picture to the selective plate lacking Leucine, Tryptophan, Histidine and Adenine (SD -L-WA-H).
+Pictures were taken at day + 4. **e**, Receiver operating characteristics (ROC) curves for mLUBS, dLUBS and LFY using the top 20% high-CFC LFY-UFO-specific peaks.
+Area under the curve (AUC) values are shown.
+TPR: True Positive Rate, FPR: False Positive Rate.
+**f**, Score distribution of LFY PWM with dependencies
+[68] within dLUBS (best site on 20% most LFY-UFO-specific genomic regions, high   [Nature Plants](http://www.nature.com/natureplants)    CFC, n = 3843 genomic regions) and in canonical LFYBS (best site on 20% most LFY-specific genomic regions, low CFC, n = 3843 genomic regions).
+Best sites were selected within ±25 bp around the peak maximum.
+Wilcoxon rank sum test (****: p < 0.0001).
+Median (solid line), interquartile range (box edges), ±1.5 × interquartile range (whiskers) and outliers (black dot) are shown.
+**g**, _De novo_ identification of URM from LFY ChIP-seq data
+[25] .
+Motifs identified at a fixed distance from LFY canonical binding sites in 298 regions harboring high LFY ChIP-seq to LFY ampDAP-seq coverage ratio.
+The text above each motif gives the motif’s start position relative to the canonical LFYBS, its length and the number of sites used to build the motif.
+**h**, EMSA with mLUBS and  dLUBS highest score sequences.
+6xHis-LFY-DBD is recombinant.
+UFO* refers to either recombinant ASK1-UFO-3xFLAG complex (top gel) or _in vitro_ produced UFO-3xFLAG (bottom gel).
+Drawings represent the different types of complexes involving LFY-DBD (pale blue) and ASK1-UFO (red) on DNA.
+LFY-DBD binds as a monomer as previously reported [29] .
+The fact that _in vitro_ produced UFO-3xFLAG shifts DNA in the presence of LFY indicates that ASK1 is not required for the UFO-LFY-DNA complex formation _in vitro_ .
+**i**, EMSA with DNA probes corresponding to _pAP1_ and _pAP3_
+DEE LFYBS and indicated proteins.
+Note that probes used here have the same length as those used to study LUBS.
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+5 |** _**pAP3**_ **LUBS are required for LFY-UFO-dependent** **activation.
+** **a**, EMSA with indicated probes and proteins.
+LUBS3 is the third highest-score _pAP3_ LUBS.
+Because LUBS0 is bound with a lower affinity by LFY-UFO compared to LUBS1 and LUBS2, we then focused on LUBS1 and LUBS2.
+**b**, EMSA with _pAP3_ LUBS1 and LUBS2 DNA probes and indicated proteins.
+LFY H383A-R386A (LFY HARA ) is a LFY mutated version affected in its ability to dimerize [29][,][51] .
+Note the absence of the complex with a slower mobility on LUBS1 with LFY HARA .
+**c**, EMSA with _pAP3_ LUBS1 and LUBS2 DNA probes and indicated proteins.
+LFY* refers to either _in vitro_ -produced 5xmyc-LFY (top) or recombinant 6xHis-LFY-DBD (bottom).
+Note the difference of complex size between UFO and UFOΔFbox.
+**d**, Same as in ( **c** ) except that UFO-3xFLAG and UFO∆Fbox3xFLAG were produced _in vitro_ .
+Note that _in vitro_ produced UFO-3xFLAG and UFO∆Fbox-3xFLAG behave similarly as recombinant UFO versions.
+**e**, EMSA with indicated proteins and DNA probes corresponding to _pAP3_ LUBS1 (left) and LUBS2 (right), WT or with URM mutated.
+**f**, Promoter activation measured by   [Nature Plants](http://www.nature.com/natureplants)    DLRA in Arabidopsis protoplasts with indicated effectors.
+Different promoter versions were tested as indicated under x-axis.
+Either 2 bp (high-informative CA) or 6 bp (whole URM) of _pAP3_ LUBS1 and LUBS2 URM were mutated.
+Data represent averages of independent biological replicates and are presented as mean ± SD, each dot representing one biological replicate (n = 4).
+Oneway ANOVA with Tukey’s multiple comparisons tests.
+One-way ANOVA were performed with data from the same effector and stars represent a statistical difference compared to WT _pAP3_ promoter.
+(NS: p > 0.05,*: p < 0.05, **: p < 0.01, ***: p < 0.001 and ****: p < 0.0001).
+**g**, _
+In vivo_ analysis of _pAP3_ _LUBS1-2m_ _::GUS_ fusions.
+Same as in Fig.
+3d, except that staining incubation time was increased to 17 h (4 h incubation in Fig.
+3d).
+Representative pictures are shown (top scale bar, 100 µm, bottom scale bar, 50 µm).
+The faint _AP3_ pattern suggests that other LUBS (such as LUBS0) may take over but less efficiently.
+Note that with this staining incubation time, all plants expressing _pAP3::GUS_ showed a highly saturated staining.
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+6 |** _**pRBE**_ **LUBS is required for LFY-UFO-dependent** **activation.
+** **a**, IGB view of _pRBE_ showing LFY ChIP-seq in inflorescences (light blue)
+[25] or seedlings (dark blue)
+[26], LFY-UFO ampDAP-seq (yellow), LFY ampDAP-seq (pink)
+[48], numbers indicate read number range (top).
+Identification of LUBS in _pRBE_ (bottom).
+Predicted binding sites using dLUBS and mLUBS models from Fig. 2e and LFY PWM with dependencies [68], y-axis represents score values (bottom).
+The best binding sites correspond to the less negative score values.
+Studied LUBS is indicated with a purple square.
+**b**, EMSA with probes corresponding to _pRBE_ LUBS, WT or with URM mutated.
+**c**, _pRBE_ activation in Arabidopsis protoplasts.
+Effect of mutations (underlined) in URM (red) and in LFYBS (blue) bases of _pRBE_ LUBS were assayed.
+Data represent averages of independent biological replicates and are presented as mean ± SD,
+[Nature Plants](http://www.nature.com/natureplants)    each dot representing one biological replicate (n = 4).
+One-way ANOVA with Tukey’s multiple comparisons test.
+One-way ANOVA were performed with data from the same effector, and stars represent a statistical difference compared to WT promoters (****: p < 0.0001).
+**d**, _
+In vivo_ analysis of _pRBE::GUS_ fusions.
+The percentage of transgenic lines with _RBE_ pattern, unusual pattern or absence of staining was scored (top; χ² test, **: p < 0.01).
+n
+= number of independent lines.
+Unusual pattern refers to staining in unexpected tissues, each pattern seen in a single line.
+Representative pictures of plants with no staining (bottom left) and a _RBE_ pattern (bottom right) are shown (scale bar, 50 µm).
+**e**, _
+In vivo_ analysis of _pRBE::GUS_ fusions.
+Same as in ( **d** ), with another view showing staining in the four petal primordia (scale bar, 50 µm).
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2   **Extended Data Fig.
+7 | See next page for caption.
+**
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+7 | LFY and UFO likely regulate other genes in Arabidopsis.
+** **a**, List of candidate LFY-UFO target genes selected as i) present in regions specifically bound by LFY-UFO in ampDAP-seq (high CFC) ii) bound _in vivo_ in LFY ChIP-seq experiments (A [25] ; B
+[26] ; C
+[68] ; D
+[73] ) and iii) deregulated in _ufo_ inflorescences [70] .
+**b**, IGB view of _PISTILLATA_ promoter region showing LFY ChIP-seq in inflorescences (light blue)
+[25] or seedlings (dark blue)
+[26], LFY-UFO ampDAP-seq (yellow), LFY ampDAP-seq (pink)
+[48], numbers indicate read number
+[Nature Plants](http://www.nature.com/natureplants)
+range (top).
+Predicted binding sites using the dLUBS, mLUBS models from Fig. 2e and LFY PWM with dependencies [68], y-axis represents score values (bottom).
+**c**, IGB view of selected genes showing LFY ChIP-seq in inflorescences (light blue)
+[25], LFY-UFO ampDAP-seq (yellow), LFY ampDAP-seq (pink)
+[48], numbers indicate read number range.
+Genes in red are deregulated in _ufo_ inflorescences [70] .
+ChIP-seq peaks better explained by LFY-UFO than by LFY alone are shaded in grey.
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2   **Extended Data Fig.
+8 | See next page for caption.
+**
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+8 | The LFY K249 is essential for LFY-UFO-LUBS complex** **formation.
+** **a**, Structure of LFY-DBD [29] .
+Residues were colored by conservation using Consurf with default parameters [85] .
+K249 residues on each LFY monomer are represented as sticks and indicated with arrows.
+Note that the K249containing loop is highly conserved.
+**b,c**, Promoter activation measured by DLRA in Arabidopsis protoplasts with indicated effectors (right).
+EV = Empty Vector (pRT104-3xHA).
+Tested promoters are indicated below each graph.
+Note that for 3xHA-LFY + UFO-3xFLAG on _pAG_ only n = 3 biological replicates are shown.
+Data represent averages of independent biological replicates and are presented as mean ± SD, each dot representing one biological replicate (n = 4 unless specified).
+One-way ANOVA with Tukey’s multiple comparisons tests ( **b** ) or Welch’s ANOVA with Games-Howell post-hoc test ( **c** ).
+In ( **c** ), stars above bars represent a statistical difference compared to GFP.
+Other comparisons are indicated with brackets.
+(NS: p > 0.05,*: p < 0.05, **: p < 0.01, ***: p < 0.001 and ****: p < 0.0001).
+**d**, Effect of the LFY K249R mutation on LFY-UFO interaction in Y2H. EV = Empty Vector.
+LFY-40 is a LFY version lacking the first 40 aa and better tolerated by yeast cells.
+Values correspond to the different dilutions (OD = 7, 0.7 and 0.07).
+Top picture corresponds to the non-selective plate lacking Leucine and Tryptophan (SD -L-W), and bottom picture corresponds to the selective plate
+[Nature Plants](http://www.nature.com/natureplants)
+lacking Leucine, Tryptophan, Histidine and Adenine (SD -L-W-A-H).
+Pictures were taken at day + 4. **e**, EMSA with DNA probes corresponding to _pAP3_ DEE LFYBS and _pAP3_ LUBS1 and indicated proteins.
+_pAP3_ DEE LFYBS DNA probe was used as a control for binding on canonical LFYBS.
+**f**, WB after DNA elution during ampDAP-seq experiment.
+After DNA elution, 20 µL of 1X SDS-PAGE Protein Sample Buffer was added to the remaining beads to run WB.
+Each lane represents one replicate.
+**g**, Reproducibility of ampDAP-seq experiments with LFY K249R (left) and LFY K249R
+-UFO (right) through the comparison of replicates datasets 2 by 2. **h**, Comparison of peak coverage in LFY K249R (y-axis, this study) and LFY (x-axis)
+[48] ampDAP-seq experiments.
+**i**, Integrated Genome Browser (IGB) view of _pAP3_ showing LFY ChIP-seq in inflorescences (light blue)
+[25] or seedlings (dark blue)
+[26], LFY-UFO ampDAP-seq (yellow; this study), LFY ampDAP-seq (pink)
+[48] and LFY K249R
+ampDAP-seq (purple; this study).
+Numbers indicate read number range.
+**j**, Pictures of WT and representative transgenic plants expressing _35S::LFY_ or _35S::LFY_ _K249R_ (scale bar, 1 cm).
+The white arrows indicate ectopic rosette flowers.
+_
+35S::LFY_ was obtained previously [26] .
+42 T1 plants expressing _35S::LFY_ _K249R_ were analyzed; the percentage of plants with a LFY overexpressing phenotype is comparable to the one obtained with _35S::LFY_
+[26] .
+Source data are available in Supplementary Data 4.
+**Article** https://doi.org/10.1038/s41477-022-01336-2   **Extended Data Fig.
+9 | See next page for caption.
+**
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-022-01336-2    **Extended Data Fig.
+9 | UFO binds DNA and LFY DBD.
+** **a**, A representative micrograph of the ASK1-UFO-LFY-DNA complex in vitreous ice (scale bar, 20 nm).
+**b**, Selected 2D class averages of the particles submitted to _ab initio_ reconstruction and heterogeneous refinement for 3D classification.
+**c**, Intermediate reconstructions of the 3D classes after heterogeneous refinement.
+**d**, Final reconstructions of ASK1-UFO-LFY-DNA complexes (involving either a LFY-DBD monomer (pink) or a LFY-DBD dimer (gray))
+after Non-Uniform refinement.
+**e**, Unprocessed AlphaFold2 model for ASK1 (top, [purple; uniprot ID, Q39255), UFO (middle, red; uniprot ID, Q39090) and the](https://www.uniprot.org/uniprot/Q39255) LFY-DBD dimer/DNA crystallographic structure (bottom, pale and dark blue for   [Nature Plants](http://www.nature.com/natureplants)
+[the LFY-DBD dimer and green for the DNA; PDB, 2VY1).](https://doi.org/10.2210/pdb2VY1/pdb) **f**, Cryo-EM density map color-coded by fitted molecule.
+Note the kink on DNA induced by the presence of UFO.
+**g**, Heat map of the angular distribution of particle projections contributing for the final reconstruction of the complete ASK1-UFO-LFY-DNA complex (with a LFY-DBD dimer).
+**h**, Gold-standard Fourier shell correlation (FSC) curves.
+The dotted line represents the 0.143 FSC threshold, which indicates a nominal resolution of 6.4 Å for the unmasked (red) and 4.3 Å for the masked  (blue) reconstruction.
+**i**, View of the post-processed map of the complete ASK1-UFO-LFY-DNA complex, colored according to the local resolution.
+Corresponding author(s): François Parcy   Last updated by author(s): Dec 13, 2022  ## Reporting Summary   Nature Portfolio wishes to improve the reproducibility of the work that we publish.
+This form provides structure for consistency and transparency in reporting.
+For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+##### Statistics   For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed   The exact sample size ( _n_ ) for each experimental group/condition, given as a discrete number and unit of measurement   A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly   The statistical test(s) used AND whether they are one- or two-sided _
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+_
+A description of all covariates tested   A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons   A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)   For null hypothesis testing, the test statistic (e.g. _F_, _t_, _r_ ) with confidence intervals, effect sizes, degrees of freedom and _P_ value noted  _Give P values as exact values whenever suitable._
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings   For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes   Estimates of effect sizes (e.g. Cohen's _d_, Pearson's _r_ ), indicating how they were calculated   _
+Our web collection on_ _statistics for biologists contains articles on many of the points above.
+_  |/a|Co| |---|---| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||   ##### Software and code   Policy information about availability of computer code   Data collection For DLRA:
+TECAN Spark 10M 96-well plate reader For EMSAs: Amersham ImageQuant 800 imager For Western Blots: ChemiDoc MP Imaging System For plant pictures: Keyence VHX-5000 microscope For SEC-MALLS: Dawn Heleos II for MALLS measurement (Wyatt Technology) and Optilab T-rEX refractometer for refractive index measurements (Wyatt Technology)
+For cryoEM: serialEM v3.8.17   Data analysis Data analysis procedures are described in the Methods section.
+For DLRA: R studio v1.3.959  For SEC-MALLS: ASTRA v6.1.7.17  For cryoEM data analysis: cryoSPARC v3.0, crYOLO v1.7.6, DeepEMhancer, UCSF Chimera v1.15, UCSF ChimeraX v1.3 For cryoEM model building: Coot v0.9.7, UCSF Chimera v1.15, UCSF ChimeraX v1.3, PHENIX v1.20.1 Tools and versions used for bioinformatic analyses: fastqc v0.11.7 bowtie2 v2.3.4.1  NGmerge v0.2_dev  MACS2 v2.2.7.1  bedtools v2.30.0  samtools v1.8  R 'plotROC' package v2.2.1    1   ~~mspc v4.0.0~~  R v3.5.0   For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and reviewers.
+We strongly encourage code deposition in a community repository (e.g. GitHub).
+See the Nature Portfolio guidelines for submitting code & software for further information.  ##### Data   Policy information about availability of data   All manuscripts must include a data availability statement.
+This statement should provide the following information, where applicable:      - Accession codes, unique identifiers, or web links for publicly available datasets     - A description of any restrictions on data availability     - For clinical datasets or third party data, please ensure that the statement adheres to our policy   Data used in this study: Microarray data: AtGenExpress (ATGE_52A-C and ATGE_29A-C) LFY ampDAP-seq data: GSE160013 LFY ChIP-seq data: GSE141704, GSE96806, GSE64245, GSE24568 Structures: LFY-DBD dimer structure (RCSB PDB, 2VY1), Alphafold models of ASK1 (uniprot ID: Q39255) and UFO (uniprot ID: Q39090).
+ampDAP-seq data have been deposited and are publicly available (GSE204796).
+The cryo-EM structure determined in this study is deposited in the EM databank under the reference number EMD-15145.
+Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
+##### Human research participants   Policy information about studies involving human research participants and Sex and Gender in Research.
+Reporting on sex and gender N/A   Population characteristics N/A   Recruitment N/A   Ethics oversight N/A   Note that full information on the approval of the study protocol must also be provided in the manuscript.
+### - Field specific reporting   Please select the one below that is the best fit for your research.
+If you are not sure, read the appropriate sections before making your selection.
+Life sciences Behavioural & social sciences Ecological, evolutionary & environmental sciences   For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf  ### Life sciences study design   All studies must disclose on these points even when the disclosure is negative.
+Sample size For DLRA, we followed standard practice for data replication and data analysis.
+Sample size was sufficient for statistical significance and reproducibility.
+For plant studies, we analyzed several independent lines as indicated in figure legends to minimize variability.
+Data exclusions No data excluded.
+Replication
+The number of replication for each experiment is indicated in Source data.
+GUS staining experiments were performed twice for all lines with similar results.
+ampDAP-seq was performed in triplicate or in duplicate as indicated in the Method section and was reproduced 3 times with similar results.
+Randomization For plant experiments, all T1 resistant plants were further analyzed without any selection criteria.
+Blinding Investigators performing the biochemical experiments also analyzed the data so blinding was not applied.
+For ampDAP-seq, libraries were analyzed without prior knowledge of the tested protein(s).
+2   ### Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies.
+Here, indicate whether each material, system or method listed is relevant to your study.
+If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+Materials & experimental systems  |n/a|Col2|Involved in the study<br>Antibodies<br>Eukaryotic cell lines<br>Palaeontology and archaeology<br>Animals and other organisms<br>Clinical data<br>Dual use research of concern| |---|---|---| |n/a|||   ##### Antibodies    Methods   |n/a|Col2|Involved in the study<br>ChIP-seq<br>Flow cytometry<br>MRI-based neuroimaging| |---|---|---| |n/a|||    Antibodies used HRP-conjugated anti-myc antibody (Invitrogen; Cat# R951-25; RRID:AB_2314045) and HRP-conjugated anti-FLAG antibody (SigmaAldrich; Cat# A8592; RRID:AB_439702).
+Validation Provided by the supplier.  ##### Eukaryotic cell lines   Policy information about cell lines and Sex and Gender in Research   Cell line source(s) Sf21 insect cells.
+Authentication None of the cell lines used were authenticated.
+Mycoplasma contamination N/A    Commonly misidentified lines (See ICLAC register)    N/A    3

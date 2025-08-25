@@ -1,0 +1,1078 @@
+## **Spatial control of potato tuberization by the TCP** **transcription factor BRANCHED1b**  **
+[Michael Nicolas](http://orcid.org/0000-0002-7311-5306)
+** **[1]** [ ✉] **[, Rafael Torres-Pérez](http://orcid.org/0000-0002-3696-4720)
+** **[2]** **[, Vanessa Wahl](http://orcid.org/0000-0001-7421-8801)
+** **
+[3]** **, Eduard Cruz-Oró** **
+[1]** **,**  **María Luisa Rodríguez-Buey** **
+[1]** **, Angel María Zamarreño
+** **[4]** **, Beatriz Martín-Jouve** **
+[5]** **,** *
+*José María García-Mina** **
+[4]** **, Juan Carlos Oliveros
+** **
+[2]** **, Salomé Prat** **
+[1,6]** **
+[and Pilar Cubas](http://orcid.org/0000-0003-4679-2173)** **
+[1]** [ ✉]   **The control of carbon allocation, storage and usage is critical for plant growth and development and is exploited for both crop** **food production and CO** **2** **capture.
+Potato tubers are natural carbon reserves in the form of starch that have evolved to allow** **propagation and survival over winter.
+They form from stolons, below ground, where they are protected from adverse environ-** **mental conditions and animal foraging.
+We show that** _**BRANCHED1b**_ **(** _**BRC1b**_ **) acts as a tuberization repressor in aerial axillary** **buds, which prevents buds from competing in sink strength with stolons.
+** _**BRC1b**_ **loss of function leads to ectopic production of** **aerial tubers and reduced underground tuberization.
+In aerial axillary buds,** _**BRC1b**_ **promotes dormancy, abscisic acid responses** **and a reduced number of plasmodesmata.
+This limits sucrose accumulation and access of the tuberigen protein SP6A. BRC1b** **also directly interacts with SP6A and blocks its tuber-inducing activity in aerial nodes.
+Altogether, these actions help promote** **tuberization underground.
+**    central question in plant biology is how carbon partitioning is regulated in response to changing environmental condi# A tions, and how this control is integrated with developmen tal programs.
+Plant meristems (groups of undifferentiated, actively dividing cells) are sink organs that use sucrose for respiration, growth and development.
+Under low sucrose availability, they remain quiescent or dormant.
+Shoot axillary meristems (meristems located in the leaf axils) can give rise to aerial branches with orthotropic growth that produce leaves, inflorescences and flowers.
+They can also generate stolons, specialized branches that grow horizontally on the soil surface or below ground and have the potential to generate new clonal plants.
+Notably, stolons differ from regular branches in their responses to external stimuli, such as day length (see below).
+_
+Solanum tuberosum_ (potato) is one of the best-studied stolon-forming species, as these specialized branches develop energy-rich, starch-accumulating tubers, which constitute a large fraction of the dietary intake for many people worldwide.
+In the potato landrace ssp. _andigena_, the stolons become strong sinks when winter approaches and form tubers at their sub-apical region.
+Tubers overwinter buried in soil, where they are protected from adverse environmental conditions and animal foraging, to generate entirely new plants in spring.
+Tuberization is controlled by the _FLOWERING_ _
+LOCUS T (FT)-like SELF-PRUNING 6A_ ( _SP6A_ ) gene
+[1] .
+In potato ssp. _andigena_, the activation of this gene is fully dependent on short days (SD).
+In long days (LD), the CONSTANS-like1 (COL1) transcription factor represses _SP6A_ expression through the activation of another _FT-like_ gene, _SP5G_
+[2][,][3] .
+In SD, the lack of _SP5G_ allows _SP6A_ activation in leaves, and the SP6A protein is then transported via phloem from leaves to stolons
+[1] .
+At the stolon apices, SP6A forms a tuberigen activation complex that promotes tuber formation
+[1][,][4] .
+Unlike stolons, aerial branches and branch primordia (that is, axillary buds) do not undergo tuberization in SD; instead, they remain dormant.
+The molecular mechanisms driving these distinct responses remain unclear.
+In most plant species, SD promote shoot bud dormancy, which involves the induction of abscisic acid (ABA) responses and a carbon-starvation syndrome [5][,][6] .
+In perennials, SD-induced ABA signalling leads to a blockage of symplasmic intercellular communication by the closure of plasmodesmata (PD), which prevents growth-promoting signals (such as FT-like proteins
+[7] ) from entering the shoot apex [8][,][9] .
+Bud dormancy is also controlled by the widely conserved TCP transcription factor BRANCHED1 (BRC1)
+[10] .
+_
+Arabidopsis_ _BRC1_, expressed in axillary buds, activates ABA signalling and downregulates genes associated with bud activation, including cell division and protein synthesis genes [11][–][13] .
+In poplar, SD-induced _BRC1_ -like factors inhibit shoot apical bud growth by binding the FT-like protein FT2 and antagonizing its growth-promoting activity [14] .
+Potato _BRC1a_, one of the two _BRC1_ paralogues, also promotes bud dormancy in both aerial and stolon axillary buds [15][,][16] .
+The role of the second _BRC1_ paralogue, _BRC1b_, remained to be studied.
+We have now found that _BRC1b_ acts as a multimodal tuberization repressor in aerial axillary buds: it promotes bud dormancy and ABA-related responses, and causes a reduction in PD number.
+This in turn limits sucrose accumulation and SP6A access to axillary buds.
+In addition, the BRC1b factor interacts directly with the tuber-promoting SP6A protein, thus inhibiting its activity in aerial nodes.
+These combined activities of _BRC1b_ prevent aerial axillary buds from becoming strong sugar sinks in conflict with stolons, which may facilitate sucrose allocation and SP6A accumulation in stolon tips.
+All these actions help restrict tuberization to stolons in    1 Plant Molecular Genetics Department, Centro Nacional de Biotecnología-CSIC, Campus Universidad Autónoma de Madrid, Madrid, Spain.
+2 Bioinformatics for Genomics and Proteomics Unit, Centro Nacional de Biotecnología-CSIC, Campus Universidad Autónoma de Madrid, Madrid, Spain.
+[3] Department of Metabolic Networks, Max Planck Institute of Molecular Plant Physiology, Potsdam, Germany.
+[4] Department of Environmental Biology, Faculty of Sciences-BIOMA Institute, University of Navarra, Pamplona, Spain.
+[5] Electron Microscopy Unit, Centro Nacional de Biotecnología-CSIC, Campus Universidad Autónoma de Madrid, Madrid, Spain.
+[6] Present address: Department of Plant Development and Signal Transduction, Centre for Research in Agricultural Genomics (CRAG-CSIC), Barcelona, Spain.
+[✉] [e-mail: michael.nicolas@wur.nl; pcubas@cnb.csic.es](mailto:michael.nicolas@wur.nl)   **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**281**   ##### Articles NATuRe PlAnTS              40   20          0  Stem Leaf   |Col1|Col2| |---|---| |||   |Col1|Col2| |---|---| |||      Aerial Stolon Young axillary bud axillary bud stolon    **Fig. 1 |** **Expression of** _**BRC1b**_ **during potato (ssp.
+** _**andigena**_ **) development.
+** **a**, _BRC1a_ and _BRC1b_ relative mRNA levels in different organs quantified by qPCR.
+_
+n_ = 3 biologically independent samples examined.
+The error bars indicate ±1 s.e.m.
+The letters above the bars indicate significant differences among means (one-way analysis of variance (ANOVA) plus Tukey’s honestly significant difference (HSD), _P_ = 0.0422).
+**b** – **
+h**, GUS histological activity in transgenic plants carrying a 1.7-kb _BRC1bpro_ – _GUS_ construct.
+The images show an aerial axillary bud ( **b** ), a stolon axillary bud ( **c** ), a stage-1 stolon ( **d** ), a close-up of a stage-1 stolon apex ( **e** ), a stage-3 developing tuber ( **f** ), a close-up of a tuber apical region ( **g** )
+(the apical (asterisk) and axillary buds (arrowheads) show GUS activity) and a tuber section showing GUS signal in the apical and axillary buds and vasculature ( **h** ).
+The tubers in **g** and **h** are from mature senescent potato plants.
+**i** – **l**, _BRC1b_
+RNA in situ hybridizations with a probe complementary to _BRC1b_ mRNA.
+The images show a longitudinal section of a stage-4 developing tuber ( **i** ), a shoot apical meristem close-up of the developing tuber shown in **i** ( **j** ), the axillary bud of a stage-1 stolon ( **k** ) and an aerial axillary bud ( **l** ).
+The arrowheads indicate axillary buds, and the asterisks indicate shoot apices; v, vascular tissue.
+Scale bars, 1 mm. _n_ = 3 biologically independent samples (from three different plants) were hybridized and examined, with similar results as shown in **b** – **l** .
+the SD of winter as a critical plant survival strategy.
+The aerial tuber phenotype reported in lines overexpressing the microRNA 156 ( _miR156_ ), an upstream regulator of _BRC1b_, can also be explained by a strong downregulation of _BRC1b_ mRNA levels.
+**Results** _**BRC1b**_ **is expressed in axillary buds and developing stolons.
+**
+To elucidate the role of potato _BRC1b_, we first studied its expression patterns.
+Quantitative real-time PCR (qPCR) analyses in different tissues (Fig. 1a) revealed that, like _BRC1a_, _BRC1b_ mRNA accumulated in aerial and stolon axillary buds.
+However, unlike _BRC1a_, it also accumulated, at high levels, in developing stolons.
+Potato ssp.
+_andigena_ and cv.
+Désirée transgenic lines carrying the _BRC1b_ promoter fused to the _β-GLUCURONIDASE_ ( _GUS_ )
+coding sequence ( _BRC1bpro_ – _GUS_ ) and RNA in situ hybridizations using an antisense _BRC1b_ -mRNA-specific probe confirmed that _BRC1b_    was active in aerial, stolon and tuber axillary buds (Fig.
+1b–i,k,l and Supplementary Fig.
+1a–e,l).
+_
+GUS_ activity and _BRC1b_ mRNA were also detectable at the shoot apex and in the vasculature of growing stolons and tubers (Fig.
+1d–j and Supplementary Fig.
+1d,e,k,m) and flower meristems (Supplementary Fig. 1n).
+In meristems, _BRC1b_ expression was restricted to the inner layers.
+In the leaves of ssp _._ _andigena_, _BRC1b_ expression was initially widely distributed but became progressively restricted to leaf margins and vasculature in more mature leaves (Supplementary Fig.
+1f–i), where it was also observed in Désirée (Supplementary Fig. 1j).
+These results support a potential role of _BRC1b_ in the development of aerial and underground buds and during stolon, flower and leaf development.
+**Potato** _**BRC1b**_ **prevents aerial bud tuberization.
+*
+*
+To further analyse _BRC1b_ function, we generated _BRC1b_ RNAi transgenic lines (RNAi) in the SD-dependent ssp.
+_andigena_ genotype (Supplementary    **282** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRe
+PlAnTS Articles  LD SD   Undergound tubers Aerial tubers  **a** **b** **c**    b  12.5 3    c    b        10.0    2   1   0      |b|c|a|a|a|b<br>10<br>number<br>tuber<br>5 Aerial<br>0|a|a|b|Col10|a|b| |---|---|---|---|---|---|---|---|---|---|---|---| |b|c<br>|a|a|a|10<br>5<br>0<br>Aerial tuber number<br>b|a||||||   5 10 19 WT EMPTY           |Col1|a|a|Col4|b|a|b| |---|---|---|---|---|---|---| |||||||| |||||||| |||||||| ||||||||    5 10 19    WT EMPTY    7.5   5.0   2.5   0   5 10 19 WT EMPTY    Controls _BRC1b_ RNAi    Controls _BRC1b_ RNAi    Controls _BRC1b_ RNAi    **Fig.
+2 |** **Aerial tuber phenotype of potato (ssp.
+** _**andigena**_ **)
+** _
+**BRC1b**_
+**RNAi lines.
+** **a** – **c**, Violin plots depicting the number of underground tubers ( **a**, **b** ) and aerial tubers ( **c** ) of plants grown in LD ( **a** ) or in LD followed by six weeks in SD ( **b**, **c** ).
+Results are shown for the WT, EMPTY (control plants carrying an empty RNAi vector) and three _BRC1b_ RNAi lines (5, 10 and 19).
+_n_ = 10 biologically independent samples examined.
+The error bars indicate the highest and lowest values, the box indicates the middle 50% and the centre line indicates the median.
+The letters designate significant differences among means (one-way ANOVA plus Tukey’s HSD, _P_ = 0.337
+( **a** ), 0.00000108 ( **b** ) and 0.000166 ( **c** )).
+**d**, **e**, Aerial tuber ( **d** ) and swollen node ( **e** ) of _BRC1b_ RNAi plants grown in LD.
+**f**, **g**, Aerial tubers of _BRC1b_ RNAi plants grown in LD followed by six weeks in SD.
+Scale bars, 1 cm.    Fig.
+2a), in which _BRC1b_ mRNA levels were strongly reduced relative to the wild type (WT) (Supplementary Fig.
+2b).
+We compared the phenotypes of RNAi lines with those of the WT and of plants bearing the empty vector, in non-inducing (LD, 16 h day/8 h night) and tuber-inducing (SD, 8 h day/16 h night) conditions.
+In LD, some lines developed a few more aerial branches than the controls (Supplementary Fig. 2c), and all had fewer, shorter and less branched stolons (Supplementary Fig.
+2d,e,f).
+After six weeks in SD, RNAi lines developed more aerial branches (Supplementary Fig. 2g), whereas their stolon numbers remained lower than in the controls (Supplementary Fig.
+2h,i).
+In addition, RNAi lines had simpler, more convex leaves than the controls (Supplementary Fig. 3).
+The most dramatic phenotypes were seen for tuber formation.
+Under non-inductive LD, some RNAi lines developed underground tubers, a phenotype rarely observed in the controls (Fig.
+2a and Supplementary Fig.
+4a,f), and line 10 also displayed aerial tubers (Fig.
+2d and Supplementary Figs. 4f and 5a).
+The aerial nodes of some    RNAi plants were enlarged compared with the controls and seemed to accumulate starch (Fig. 2e and Supplementary Fig.
+5d,g).
+Under inductive SD, all control plants developed underground tubers at the tips of stolons (Fig.
+2b and Supplementary Fig.
+4b,c,f).
+In contrast, some RNAi individuals failed to tuberize (Supplementary Fig. 4f), and the others produced fewer underground tubers (Fig. 2b) with lower yield than the controls (Supplementary Fig. 4d).
+Remarkably, all RNAi lines developed aerial tubers at axillary buds after four weeks in SD, a phenotype not observed in the controls (Fig.
+2c,f,g and Supplementary Figs. 4c,e,f and 5b,c).
+Some RNAi tubers developed secondary tubers from tuber eyes (Fig. 2g).
+Aerial tubers were observed in the uppermost and, less frequently, in the lowermost nodes (Supplementary Fig. 4e).
+Ssp. _andigena brc1b_ CRISPR mutants also developed aerial tubers (Supplementary Figs. 5e,f,h,i and 6).
+We also confirmed the aerial tuber phenotypes in _BRC1b_ RNAi lines generated in the day-length-independent cv.
+Désirée (Supplementary Fig. 7).
+These results indicate that potato    **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**283**   ##### Articles NATuRe PlAnTS    _BRC1b_ prevents aerial tuberization in SD.
+It also controls leaf development and (to a limited extent) shoot branching.   _**BRC1b**_ **RNAi aerial buds have high levels of sucrose in SD.
+**
+We next investigated potential alterations in the source/sink status of RNAi plants.
+For this, we quantified sucrose content in leaves and aerial buds in LD and after exposing plants to a week of SD (7SD), in the WT and RNAi.
+Leaves are the major source of sucrose, which is phloem-transported to sink tissues [17] .
+In the leaves of both genotypes, sucrose levels were ~2.5× higher in LD than in SD, indicating that leaves have a stronger photosynthetic activity and/or lower sucrose export in LD than in SD conditions (Fig. 3a).
+WT and RNAi leaves displayed similar sucrose contents, indicating that _BRC1b_ does not control photoassimilate biosynthesis.
+Conversely, axillary buds (sink organs) of both genotypes accumulated greater amounts of sucrose in SD than in LD (Fig.
+3b,c), which may reflect a movement of sucrose from leaves to buds in SD.
+However, sucrose levels were significantly higher in RNAi than in the WT in SD, which suggests that RNAi buds have an increased ability to import sucrose in SD.   _**BRC1b**_ **RNAi aerial buds display reduced dormancy.
+**
+To understand in more detail the molecular mechanisms leading to the formation of aerial tubers in the RNAi lines, we studied the global transcriptional responses underlying this process.
+For this, we compared the transcriptomes of upper buds in RNAi and WT plants grown in LD, and after 2SD, 7SD and 14SD, using RNA sequencing (RNA-seq; Fig.
+4a and Supplementary Data 1).
+Next, to investigate the responses of the gene sets of interest, we performed a gene set enrichment analysis (GSEA [18] ).
+From 2SD onwards, WT buds displayed responses typical of buds entering dormancy: a significant upregulation of gene sets of bud dormancy markers of _Arabidopsis_
+[5] and potato
+[19] ; the activation of gene sets of sugar-repressed genes, typical of a carbon starvation syndrome [5][,][20][,][21] ; and the downregulation of gene sets related to protein synthesis, cell division and bud activation (Fig. 4b, columns 5–7).
+These results were in agreement with the observation that SD promote bud dormancy in perennials
+[22] .
+In contrast, the buds of RNAi plants displayed significantly reduced dormancy-related responses relative to the WT, even in LD, which suggests that RNAi buds were partially active (Fig. 4b, columns 1–4).
+ABA signalling has been associated with bud dormancy, reported to be induced in SD
+[14][,][23][,][24] and controlled by _BRC1_ genes in other species [13][,][25][,][26] .
+We therefore analysed a gene set of ABA-response markers in the WT and RNAi [5][,][27] .
+ABA responses were reduced in RNAi relative to the WT from 2SD onwards (Fig. 4b and Supplementary Fig. 8, columns 2–4).
+Consistently, direct quantifications of ABA revealed significantly lower hormone concentrations in RNAi than in WT buds (Fig. 4c).   _**BRC1b**_ **RNAi aerial buds express tuberization markers in SD.
+**
+We next investigated the expression of early tuberization marker genes during the time course.
+_
+SP6A_, a gene essential for tuber formation [1], was induced in RNAi from 7SD (Fig.
+4d, columns 9 and 10).
+_SWEET11_, which encodes a sucrose channel whose expression is increased in response to SP6A during tuberization
+[28], was also upregulated in RNAi at 7SD (Fig.
+4d, column 9).
+_GIBBERELLIN_ _2-OXIDASE1_ ( _Ga2OX1_ ), involved in gibberellin catabolism and upregulated in stolons before swelling [1][,][29], was induced in RNAi buds from 2SD (Fig.
+4d, columns 8–10).
+In contrast, the tuberization marker _BEL5_ (ref.
+[30] ) was not differentially expressed in RNAi buds (Fig. 4d), in agreement with evidence suggesting that _BEL5_ is an upstream transcriptional regulator of the _BRC1_ -like genes [31][,][32] .
+In summary, aerial axillary buds lacking _BRC1b_ display an ectopic induction of tuberization pathway genes in aerial axillary buds as early as at 2SD.    _**BRC1b**_ **RNAi aerial buds accumulate** _**SP6A**_ **mRNA in SD.
+**
+In the WT, the central tuberization regulator _SP6A_ is expressed in leaves in SD, and the SP6A protein is then phloem-transported from leaves to stolons, where it triggers tuberization [1] .
+A positive feedback loop by the SP6A protein enhances _SP6A_ expression in stolons
+[1] .
+We studied in more detail the expression patterns of _SP6A_ in WT and RNAi leaves and aerial buds, under LD and SD.
+In WT leaves, _SP6A_ was induced at 2SD, and its expression continued to increase at 7SD, 14SD and 21SD (Fig. 4e).
+_SP6A_
+mRNA levels were similar in RNAi, which suggests that _BRC1b_ was not involved in the transcriptional regulation of _SP6A_ in leaves.
+In WT aerial buds, _SP6A_ mRNA was almost undetectable in LD and at 2SD, 7SD and 14SD.
+In contrast, RNAi buds displayed significant amounts of _SP6A_ transcripts from 7SD onwards.
+At 21SD, _SP6A_ mRNA levels were around four times higher than in the WT (Fig. 4f).
+The induction of _SP6A_ in RNAi buds from 7SD (subsequent to that in leaves at 2SD) could be due to movement of the SP6A protein from leaves to buds, and to positive regulation of the _SP6A_ gene by its own protein.
+_**BRC1b RNAi**_ **buds have more PD than WT buds in SD.
+**
+The abnor mal accumulation of sucrose and SP6A in RNAi buds in SD could  reflect an increased movement of both molecules into the buds.
+To test whether this was due to increased symplasmic trafficking across PD, we quantified PD and studied PD-related gene expression in WT and RNAi buds.
+To determine PD number, we analysed ultrathin (70 nm) plastic sections of WT and RNAi aerial buds at 7SD, using transmission electron microscopy (Fig. 5).
+Cells of RNAi buds (Fig.
+5b,d–f) had a significantly higher number of PD than the WT (Fig.
+5a,c,f).
+They often displayed twinned PD (Fig. 5b) and showed more clear connections with the endoplasmic reticulum (Fig. 5d).
+We then studied, in our RNA-seq dataset (Supplementary Data 1), whether PD-related genes were differentially expressed between the WT and RNAi.
+In particular, we studied the expression levels of the potato orthologues of 115 _Arabidopsis_ genes encoding PD-associated proteins identified by refined semi-quantitative proteomic analysis [33] .
+Several members of the gene family multiple C2 domains and transmembrane region proteins (MCTPs) were differentially induced in RNAi (Supplementary Fig. 8, columns 2–4, and Supplementary Data 2).
+Interestingly, a member of this family (MCTP1 or FT INTERACTING PROTEIN 1) mediates the intercellular transport of FT and of RICE FLOWERING LOCUS T1 in _Arabidopsis_ and rice, respectively [34][,][35] .
+RNAi buds also displayed relative downregulation of _CALLOSE SYNTHASE3_, a key gene involved in callose biosynthesis and deposition, and upregulation of genes encoding _β-1,3-GLUCANASES_, enzymes involved in callose degradation (Supplementary Fig.
+8, column 2, and Supplementary Data 2).
+This could result in reduced callose deposition in PD and thus increased PD pore size and permeability.
+Altogether, these results suggest that trafficking through PD may be more intense in RNAi buds.
+**Symplasmic movement is enhanced in RNAi aerial buds.
+**
+To evaluate the symplasmic movement of molecules across cells in RNAi buds, we performed dye-loading studies using the mobile  ‐ compound 5,6
+carboxyfluorescein diacetate (CFDA).
+CFDA is a membrane-permeable molecule that, upon entering cells, is converted into the fluorescent, membrane-impermeable carboxyfluorescein (CF) tracer, whose movement is exclusively symplasmic [36][,][37] .
+WT and RNAi plants were grown for 14SD, and stems of those plants, bearing the upper axillary buds, were fed with a CFDA solution.
+CF fluorescence was traced for several hours and quantified in axillary buds.
+RNAi buds contained significantly more fluorescence signal than WT buds (Fig.
+3d–h), suggesting that movement was enhanced in the RNAi lines.
+**284** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRe PlAnTS Articles    **a** **b**   4   3   2   1    3   2   1    **c** Upper axillary buds Lower axillary buds   1.5    |c|Col2|c| |---|---|---| |bc<br>ab<br>a|bc<br>ab<br>a|| |bc<br>ab<br>a||| ||||   WT RNAi    1.0   0.5   0   WT RNAi WT RNAi    0  WT RNAi    0   WT RNAi WT RNAi   |Col1|Leaves| |---|---| ||b<br>b<br>a<br>a| ||| ||| ||| ||| |||   |Col1|Upper axillary buds c| |---|---| ||a<br>a<br>b<br>c| ||| ||| ||| |||   |Col1|Lower axillary buds| |---|---| ||c<br>bc<br>ab<br>a| ||| ||| ||| |||    LD 7SD    LD 7SD    LD 7SD      0.75   0.50   0.25  |***|Col2|Col3| |---|---|---| ||||    WT _BRC1b_ RNAi   **Fig. 3 |** **Sucrose content and symplasmic transport in** _**BRC1b**_ **RNAi lines.
+** **a** – **c**, Sucrose content in WT and _BRC1b_ RNAi leaves ( **a** ), axillary buds of the uppermost nodes ( **b** ) and axillary buds of the lowermost nodes ( **c** ) of plants grown for six weeks in LD or five weeks in LD followed by 7SD. _n_ = 3 biologically independent samples examined.
+The error bars indicate ±1 s.e.m.
+The letters above the bars indicate significant differences among means (one-way ANOVA plus Tukey’s HSD; the _P_ values for leaves, upper and lower axillary buds are 0.00172, 0.00000149 and 0.000593, respectively).
+**d**, **e**, Bright field microscopy images of WT ( **d** ) and RNAi ( **e** ) aerial axillary buds.
+**f**, **g**, Fluorescence microscopy images of the same WT ( **f** ) and RNAi ( **g** ) axillary buds, in which the loading of CFDA into the buds can be visualized.
+**h**, Quantification of CFDA loading in buds, expressed as the average relative fluorescence intensity in the axillary bud compared with that in the subtending stem per plant (two-sided _t_ -test, *** _P_ < 0.01 ( _P_ = 0.0088), _n_ = 10 plants, 4–6 buds per plant).
+The error bars indicate the highest and lowest values, the box indicates the middle 50% and the centre line indicates the median.
+The experiment was done three times independently, with similar results.
+Scale bars in **d** – **g**, 1 mm.
+**BRC1b interacts with the tuberigen protein SP6A.**
+In Arabidopsis and hybrid aspen, the BRC1/BRC1-2 proteins interact directly with FT/FT2 to prevent their flowering-/apical-growth-promoting activities, respectively [14][,][38] .
+We hypothesized that BRC1b could    similarly bind and antagonize SP6A in potato aerial buds.
+To test this, we conducted yeast two-hybrid (Y2H) assays between the proteins BRC1b, SP6A and its paralogue SP5G. BRC1b interacted with both SP6A and SP5G, and the TCP domain was necessary for this    **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**285**   ##### Articles NATuRe PlAnTS  **a** **b**    WT versus RNAi    WT RNAi WT RNAi          –3.2 +3.2   FDR < 0.25   _BRC1_ dependent up            Bud dormancy Bud  Dormant eyesSugar-repressed dormancy Sucrose-repressed        _BRC1_ dependent down Bud activation Sprouting eyes  Cyclin Cell cycle Kinesin S phase M phase Histone Ribosome   ABA    Bud  activation   Cell proliferation   ABA          1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16    **c**    **d**    WT versus RNAi    WT RNAi WT RNAi      2.0   1.5   1.0   0.5        –2.0 0 2.0   PGSC0003DMG400023365
+SP6A   PGSC0003DMG401031741 SWEET10b/c    SWEET11b   SWEET12a  SUC2  SUC3   GA2OX1   POTH1   BEL5          WT RNAi WT RNAi WT RNAi   LD 2SD 7SD    PGSC0003DMG400033693   PGSC0003DMG400031738  PGSC0003DMG400009213  PGSC0003DMG400025610   PGSC0003DMG400027631   PGSC0003DMG400013493   PGSC0003DMG400005930     |2SD 7SD 14SD LD versus LD versus LD versus LD versus LD versus LD versus|Col2|Col3|LD versus 2SD versu 7SD versu LD versus 2SD versu|Col5| |---|---|---|---|---| |2<br>3<br>4|5<br>6<br>7|8<
+br>9<br>10|11<br>12<br>13|14<br>1|    **e** **f**    2,000   1,500   1,000   500   0    |c<br>c c<br>bc<br>bc<br>ab<br>a<br>a a a|Col2|Col3| |---|---|---| |a<br>a<br>a<br>a<br>bc<br>bc<br>c<br>c<br>c<br>ab||| ||||   WT RNAi WT RNAi WT RNAi   LD 2SD 7SD      90   60   30   0    WT RNAi WT RNAi WT RNAi   LD 2SD 7SD    WT RNAi   14SD    WT RNAi   14SD        WT RNAi   21SD    WT RNAi   21SD    **Fig.
+4 |** **Transcriptomic changes in** _**BRC1b**_ **RNAi buds.
+** **a**, Experimental design of the RNA-seq time course.
+The comparisons performed are numbered.
+Notice that 5 = 11 and 8 = 14.
+**b**, GSEA results for all samples and gene sets based on their normalized enrichment score (NES) for each sample.
+Positive NES values (yellow) indicate gene sets overrepresented among induced genes.
+Negative NES values (blue) indicate gene sets overrepresented among repressed genes.
+Null values indicate gene sets not significantly overrepresented among either induced or repressed genes.
+The column numbers correspond to the comparisons shown in **a** .
+FDR, false discovery rate.
+**c**, ABA quantifications in upper axillary buds of WT and RNAi plants grown for six weeks in LD or five weeks in LD followed by 2SD or 7SD.
+_
+n_ = 3 biologically independent samples examined.
+The error bars indicate the highest and lowest values, the box indicates the middle 50% and the centre line indicates the median.
+The letters above the plots indicate significant differences among means (one-way ANOVA plus Tukey’s HSD, _
+P_ = 0.0000193).
+**d**, Heat map representing the relative expression levels of genes described as early markers for tuberization.
+The colours indicate the log 2 fold-change values of the significantly differentially expressed genes ( _P_ adjust < 0.05).
+The column numbers correspond to the comparisons performed as indicated in **a** .
+Positive values (yellow) indicate relative upregulation, and negative values (blue) indicate relative downregulation.
+**e**, **
+f**, _SP6A_ relative mRNA levels in leaves ( **e** ) and upper axillary buds ( **f** ) quantified by qPCR, of WT and RNAi plants grown for six weeks in LD or five weeks in LD followed by 2SD, 7SD, 14SD or 21SD. _
+n_ = 3
+biologically independent samples examined.
+The error bars indicate ±1 s.e.m.
+The letters above the bars indicate significant differences among means (one-way ANOVA plus Tukey’s HSD; the _P_ values for leaves and axillary buds are 0.0000000083 and 0.0000636, respectively).
+**286** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRe PlAnTS Articles                                        WT _BRC1b_ RNAi line   **Fig.
+5 |** _**BRC1b**_ **RNAi axillary buds have more PD than WT in SD.
+**
+**
+a** –
+**d**, Transmission electron microscopy photographs of ultrathin (70 nm) sections of WT ( **a**, **c** ) and RNAi ( **b**, **d** ) axillary buds.
+The images are from cells located close to the developing vasculature, below the meristem dome, where _BRC1b_ is expressed.
+PD are indicated with black arrowheads.
+In **b**, notice some twin PD in the RNAi buds.
+Connections of the PD with the endoplasmic reticulum (red arrowheads) are more often detectable in RNAi ( **d** ) than in the WT ( **c** ).
+**e**, Transversal view of PD clusters in RNAi buds.
+**f**, Number of PD per μm of plasma membrane.
+The values of each violin plot correspond to the mean obtained from _n_ =
+10–50 pictures taken of six axillary buds of six independent WT and six RNAi plants.
+The error bars indicate the highest and lowest values, the box indicates the middle 50% and the centre line indicates the median.
+The letters above the bars indicate significant differences among means (one-way ANOVA plus Tukey’s HSD, _
+P_ < 2 × 10
+[−][16] ).
+The experiment was performed once.
+**Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**287**   ##### Articles NATuRe PlAnTS    interaction (Fig. 6a).
+The BRC1b paralogue, BRC1a
+[L], also interacted with both proteins (Supplementary Fig. 9), but the binding affinity of BRC1a
+[L] –SP6A seemed lower than that of BRC1b–SP6A. Co-immunoprecipitation assays confirmed these interactions in planta.
+Constructs driving the expression of _BRC1b_ – _HA_ or _BRC1a_ _
+[L]_ – _HA_ were co-agroinfiltrated in _Nicotiana_ leaves with constructs expressing either _SP6A_ – _GFP_ or _SP5G_ – _GFP_, and the presence of these proteins was analysed after pull-down of protein extracts with anti-HA magnetic beads.
+These assays confirmed a strong interaction of BRC1b with SP6A (Fig. 6b), whereas interactions were much weaker for BRC1b–SP5G and BRC1a
+[L] –SP6A, and no interaction was observed for BRC1a
+[L] and SP5G. These interactions were further confirmed by acceptor photobleaching fluorescence resonance energy transfer (APB–FRET) assays of fluorescent protein fusions of BRC1b co-expressed with SP6A or SP5G in _Nicotiana_ leaves.
+The _E_ FRET (percentage of GFP expression change) values for BRC1b–mCherry/SP6A–GFP were almost as high as those for BRC1b–mCherry/BRC1b–GFP homodimers and significantly higher than those of BRC1b–mCherry/ SP5G–GFP (Fig. 6c).
+These findings demonstrate that BRC1b specifically interacts with SP6A and probably antagonizes (via protein–protein interactions) its tuber-inducing activity in axillary buds, where BRC1b accumulates in the WT.   _**miR156**_ **negatively controls** _**BRC1b**_ **.
+**
+Lastly, we investigated the relationship between _BRC1b_ and other genes whose altered expression cause aerial tuber phenotypes.
+Tomato lines overexpressing the cytokinin biosynthesis gene _LONELY GUY1_ ( _LOG1_ ) display aerial tubers [39] .
+However, our transcriptomic data showed no induction of any _LOG_ gene in the RNAi buds (Supplementary Fig. 8, columns 2–4), suggesting that the phenotype observed in tomato is caused by a genetic pathway unrelated to or upstream of _BRC1b_ .
+Likewise, altered expression of the chromatin-remodelling-related genes _MULTICOPY SUPPRESSORS OF IRA1_ ( _MSI1_ ) and _BMI1_ (both of which regulate _miR156_ ) cause similar phenotypes [40] .
+The expression of these genes is not significantly altered in RNAi buds (Supplementary Fig.
+8).
+Finally, plants ectopically overexpressing _
+miR156_ ( _35SCaMV_ – _miR156_, _miR156_ -OE) also display aerial tubers, as well as simple leaves that resemble those of _BRC1b_ RNAi
+[41] .
+We generated new _miR156_ -OE lines and confirmed the reported phenotypes (Supplementary Fig.
+10a,b,c).
+As the expression of _Teosinte Branched1_ (the monocot orthologue of _BRC1_ ) is controlled by the _miR156/SPL_ module in rice
+[42], we further investigated whether the overexpression of _miR156_ could indirectly lead to reduced _BRC1b_ expression levels, which would result in a phenocopy of the _BRC1b_ RNAi phenotype.
+We quantified _BRC1b_ and _BRC1a_ mRNA in axillary buds of the _miR156_ -OE lines and observed that _BRC1b_ (but not _BRC1a_ ) was significantly downregulated in these plants, both in LD and in SD (Supplementary Fig.
+10d,e).
+Conversely, we tested whether _BRC1b_ RNAi could affect _miR156_ expression.
+Indeed, _miR156_ expression was significantly upregulated in RNAi buds relative to the WT from 7SD onwards (Supplementary Fig. 10f).
+This _miR156_ induction coincided in time with the _SP6A_ upregulation, a correlation previously observed in tuberizing stolons
+[41] .
+Moreover, several _SPL miR156_ targets ( _SPL3_, _SPL5_, _SLP6_, _SPL9_ and _SPL13_ ) and non-targets ( _SPL1_ and _SPL2_ ) were downregulated in RNAi buds (Supplementary Fig.
+10g).
+Altogether, these findings indicate, first, that _
+miR156_ negatively controls _BRC1b_ expression in potato axillary buds, and second, that the aerial tuber phenotype of _miR156_ -OE can be explained, at least in part, by a reduced activity of _BRC1b_ .
+Moreover, the loss of _BRC1b_ function in RNAi buds causes an induction of _miR156_ and downregulation of both _miR156-_ dependent and independent    _SPL_ expression, perhaps not directly, but rather associated with the development of aerial tubers.
+**Discussion**
+In potato, all axillary meristems (aerial and underground) have the potential to remain dormant or develop into a branch, stolon or tuber.
+The acquisition of either of these fates requires the activation of specific genetic programs in response to positional and environmental cues.
+In the ssp. _andigena_, tubers are formed only in the SD of winter, and usually at stolon tips, below ground.
+This spatial restriction probably evolved to protect tubers from animal foraging and unfavourable environmental conditions over the winter and to ensure vegetative propagation the following spring.
+In this study, we have shown that _BRC1b_ is essential to preventing aerial tuberization and promoting efficient underground tuber formation: _
+BRC1b_ silencing leads to ectopic aerial tuber formation and reduced below-ground tuberization.
+This suggests that in the WT, _BRC1b_ prevents aerial buds from becoming strong sinks for sucrose in conflict with stolons and probably facilitates stolon sink dominance and tuberization (Fig. 7).
+_
+BRC1b_ loss of function causes a collection of interconnected physiological, cellular and molecular alterations in aerial axillary buds, mainly detectable in SD: impaired bud dormancy, reduced ABA levels and responses, cells with an increased number of PD, enhanced symplasmic movement, and abnormal accumulation of sucrose and _SP6A_ mRNA (Fig. 7).
+One of the earliest features of RNAi aerial buds, detectable as early as 2SD, is their failure to enter dormancy, consistent with the active-bud phenotype of _brc1_ mutants in other species [43] .
+Nevertheless, although active axillary buds are necessary [39], they are not sufficient to promote tuber development: _BRC1a_ loss of function also causes bud activation, but plants lacking _BRC1a_ do not display aerial tubers [15] .
+This indicates that _BRC1b_ plays a divergent, more specific role in tuberization.
+A key differential feature of _BRC1b_ (compared with _BRC1a_ ) is the unique capability of its encoded protein to directly bind the SP6A protein.
+In other species, the interaction between BRC1-like and FT-like proteins results in the inactivation of the latter [14][,][38] (see below).
+Thus, in potato, BRC1b–SP6A interaction may help prevent SP6A tuber-promoting activity in axillary buds.
+RNAi buds also have reduced ABA levels and responses relative to the WT, in agreement with observations in _brc1_ / _tb1_ mutants of other species
+[13][,][25] .
+Reduced ABA responses may contribute to a reduced dormancy of RNAi buds, as ABA is necessary to maintain bud growth arrest [9][,][12][,][24][,][44][–][46] .
+In hybrid aspen, SD-induced ABA signalling leads to a blockage of symplasmic intercellular communication that prevents FT-like proteins from entering the shoot apex to promote growth [9][,][14] .
+Likewise, SD-induced ABA signalling may lead to reduced PD-mediated transport of SP6A into WT potato aerial buds.
+Indeed, WT bud cells (with higher ABA levels than RNAi) have fewer PD and probably more restricted symplasmic trafficking into buds, as indicated by the reduced movement of CFDA in the WT compared with RNAi.
+Furthermore, several MCTPs (PD-associated proteins found in _Arabidopsis_ and rice to be involved in cell-to-cell trafficking of FT-like proteins and other developmental factors [34][,][47][,][48] ) become more downregulated in the WT than in RNAi at the LD-to-SD transition.
+This could promote the increased selective symplasmic transport of SP6A into the RNAi buds.
+We have also observed significantly increased levels of sucrose in RNAi buds.
+An enhanced symplasmic movement of sucrose into the buds could also explain this abnormal accumulation.
+This situation would mirror that of WT stolon tips, which undergo a switch in sucrose unloading from apoplastic to symplasmic during tuberization that enhances their sink potential [36] .
+This is a key step in the regulation of resource allocation during tuber formation that    **288** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRe PlAnTS Articles    **a**    TCP   TCP   TCP   TCP   TCP   TCP    0–AD   R StBRC1b    SP6A–BD   –LWAH –LWAH –LW +20 mM 3-AT +50 mM 3-AT    R      R   R      StBRC1b ∆1–85   StBRC1b ∆190–365   StBRC1b ∆1–182   0–AD   StBRC1b   StBRC1b ∆1–85   StBRC1b ∆190–365   StBRC1b ∆1–182    **b** **c**    SP6A–GFP    SP5G–GFP    75 kDa    anti-HA  50 kDa   50 kDa   anti-GFP 37 kDa   75 kDa   anti-HA   50 kDa   50 kDa   anti-GFP 37 kDa      SP6A–GFP    SP5G–GFP GFP–NLS–GFP    0.4   0.2   0          Luc–G/ SP5G–G/ SP6A–G/ SP5G–G/ SP6A–G/ BRC1b–G/  BRC1b–C Luc–C Luc–C BRC1b–C BRC1b–C BRC1b–C   **Fig. 6 |** **BRC1b interacts with SP6A in yeast and in planta.
+** **a**, Y2H assays to test the interaction of BRC1b with SP5G and SP6A. SP5G and SP6A were fused to the GAL4 binding domain (BD) and used as baits.
+BRC1b and its truncated forms were fused to the GAL4 activation domain (AD).
+The empty  − − vector pGADT7 (0–AD) was used as a negative control.
+LW, medium lacking leucine and tryptophan; LWAH, selective medium lacking leucine, tryptophan, adenine and histidine; 3-AT, 3-amino-1,2,4-triazole.
+TCP indicates the TCP domain; R indicates the R domain.
+**b**, Co-immunoprecipitation assay.
+BRC1b–HA or BRC1a–HA was co-expressed with either SP5G–GFP or SP6A–GFP in _Nicotiana benthamiana_ leaves.
+A GFP protein fused to the nuclear localization signal MYC (GFP–NLS) was used as a control.
+In, input fraction; Ub, unbound fraction; IP, immunoprecipitation fraction.
+The experiments were repeated three times with similar results.
+**c**, FRET acceptor photobleaching assays.
+FRET efficiency ( _E_ FRET ) is calculated as the relative increase in GFP (G) fluorescence intensity after photobleaching of the mCherry (C) acceptor.
+FRET measurements between BRC1b, SP5G or SP6A with truncated luciferase (Luc) are included as negative controls.
+The error bars indicate the highest and lowest values, the box indicates the middle 50% and the centre line indicates the median.
+The letters designate significant differences among means (one-way ANOVA plus Tukey’s HSD, _
+P_ < 2 × 10
+[−][16], _n_ - 10).
+**Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**289**   ##### Articles NATuRe PlAnTS    Wild type (SD)            _BRC1b_ RNAi (SD)          **Fig. 7 |** **Model for the role of BRC1b in potato axillary buds.
+**
+In tuberizing inductive conditions (SD), _SP6A_ is induced in leaves, and the protein is phloem-transported along with sucrose.
+In the WT (left), axillary buds accumulate BRC1b and become dormant, which renders the bud a weak sink.
+_
+BRC1b_ promotes ABA signalling and, directly or indirectly, causes a reduction in the number of PD.
+This restricts symplasmic transport of sucrose and SP6A into the buds, which in turn are preferentially transported basipetally to the stolons.
+In buds, any residual SP6A protein is bound and antagonized by direct interaction with BRC1b proteins.
+The green arrows indicate the positive feedback loops between sucrose and _SP6A_ and between SP6A and its own gene.
+In RNAi (right), the lack of _BRC1b_ leads to bud activation.
+ABA signalling is reduced, and PD number is increased; this facilitates the movement of sucrose and SP6A into the buds.
+Moreover, the SP6A proteins accumulated in the buds are not bound by BRC1b.
+Axillary buds become strong sinks that compete with stolons for sink dominance.
+This leads to alterations in the distribution of photoassimilates, which preferentially enter the aerial buds instead of being transported to stolons.
+could take place ectopically in RNAi aerial buds, leading to major alterations in photoassimilate distribution [36] .
+Indeed, changes in the strength of individual sinks can greatly impact the final assimilate partitioning [49], which in this case would result in a poor allocation of assimilates to stolons.
+Remarkably, aerial tubers are more frequently formed in the topmost nodes (where flowers are usually formed), indicating that sucrose fails to be transported basipetally as it occurs during tuberization.
+In the WT, sucrose promotes the expression of _SP6A_ in phloem and developing tubers [28][,][50] .
+In RNAi buds, the increased sucrose levels at 7SD coincide with a strong accumulation of the _SP6A_ mRNA, which could in part be sucrose-induced.
+The feedback regulation of _SP6A_ by its own protein may account for the additional increase in _SP6A_ mRNA levels
+[1] .
+SP6A can, in turn, boost sucrose unloading into the buds by a mechanism similar to the one taking place in stolons: SP6A directly interacts with and antagonizes the sucrose transporter SWEET11b in the plasma membrane, thus preventing sucrose apoplastic leakage and facilitating symplastic transport [28] .
+Due to this cross-talk, the levels of sucrose and SP6A, key players in tuberization, could escalate and trigger tuber formation in RNAi aerial buds (Fig. 7).
+In the WT, the direct interaction of BRC1b with    SP6A would be a buffering mechanism to prevent the initiation of this positive feedback.
+Furthermore, BRC1b activates _SWEET11b_ (Fig.
+4d, columns 1 and 2), which facilitates apoplastic transport
+[28] .
+The aerial tuber phenotype of lines overexpressing _miR156_ (a microRNA that negatively controls BRC1-like genes) can be due to the observed downregulation of _BRC1b_ in these lines.
+Likewise, the phenotype of other potato lines displaying aerial tubers, such as the strigolactone-deficient _CAROTENOID CLEAVAGE_ _DIOXYGENASE 8_ ( _CCD8_ ) RNAi lines [51], could also be explained by reduced _BRC1b_ activity.
+Indeed, strigolactone mutants have low expression levels of _BRC1_ -like genes in most angiosperms [6] .
+Furthermore, the overexpression of _miR156_ causes a reduction in strigolactone content in potatoes [41] .
+A remarkable degree of genetic conservation is found between the pathways that control flowering time in annuals, apical growth (versus dormancy) in perennials and tuber formation in pot ato [1][–][3][,][14][,][52][,][53] (this work).
+Notably, all are sugar-demanding processes that take place in strong sink organs.
+In those sinks, sucrose supports growth and activates FT-like genes, which ultimately regulate these developmental pathways
+[28] .
+In contrast, _BRC1_ -like genes, repressed by sugar
+[5][,][6] and active under energy-limiting conditions,    **290** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRe
+PlAnTS Articles    promote energy-saving mechanisms and antagonize these developmental pathways in part by negatively modulating the activity of FT-like genes via direct protein–protein interactions, but probably also through other mechanisms [14][,][38] (this work).
+This reveals the existence of a widely conserved _FT–BRC1_ genetic module, perhaps evolved in early angiosperms, in which _FT_ promotes processes requiring sucrose and energy, whereas _BRC1_ genes activate energy-saving programs [5][,][6] .
+The positive ( _FT_ ) and negative ( _BRC1_ ) regulation of these genes by sucrose or sucrose derivatives, and the direct interaction and mutual regulation of their proteins, would directly integrate the metabolic status of the plant with developmental decisions that require a tightly regulated use and allocation of photoassimilates.
+**Methods** **Plant material and growth conditions.
+**
+All experiments were carried out in _S. tuberosum_ ssp.
+_andigena_ 7540 plants and, when indicated, _S. tuberosum_ L. cv.
+Désirée.
+Plants were propagated in vitro from single-node stem cuttings on Murashige and Skoog medium containing 2% sucrose and 0.8% agar, in chambers at 21 °C in an LD photoperiod (16 h light, 8 h dark, PAR 90 µmol m [2] s [−][1] ).
+Once they had developed six visible nodes, they were cut at the base and transferred to new jars for five to seven days for rooting.
+Synchronized rooted cuttings were then transferred to soil (substrate:vermiculite, 3:1) with five basal nodes buried.
+The plants were covered with pierced transparent plastic cups for 24 hours and then left uncovered.
+The plants were grown in the greenhouse at 21–24 °C, in LD, with natural light supplemented with Na lamps when required (intensity < 110 µmol m [2] s [−][1] ).
+They were watered with a nutritive solution (6.25 mM KNO 3, 12.5 mM Ca(NO 3 ) 2 4H 2 O, 1 mM KH 2 PO 4, 1 mM MgSO 4, 0.016 g l [−][1] micronutrients Kelamix and 0.08 g l [−][1] Hortrilon) once a week.
+Plants used for phenotypic or expression analysis (qPCR or RNA-seq) in LD versus SD were first grown in the greenhouse and then transferred to a growth chamber with similar temperature and light conditions and an adequate photoperiod.
+For the co-immunoprecipitation assays, _Nicotiana benthamiana_ plants were grown in the greenhouse in similar conditions.
+**Plant phenotyping.
+**
+Phenotypic analyses in LD and SD were done as follows: ten synchronized plants of each genotype, with six visible nodes, were transferred to soil; five nodes were buried.
+For LD phenotyping, plants were grown for 16 weeks in the greenhouse; for SD phenotyping, plants were grown for 10 weeks in the greenhouse (LD) and then transferred to a growth chamber in SD (8 h light, 16 h dark) for 6 weeks.
+Branches and stolons were counted when longer than 1 cm.
+All tubers were considered in the analyses.
+Phenotypes were analysed when the WT plants became senescent.
+At this time, the transgenic plants were still green.
+For the leaf phenotyping, plants were grown for six weeks in the greenhouse, and then leaves from even nodes were collected starting from the lowest nodes.
+**Constructs.
+** Full-length _BRC1b_ (PGSC0003DMG400004054) and _BRC1a_ (PGSC0003DMG400005705) coding sequences (Désirée cv. background) cloned in pDONR207 and _SP6A_ and _SP5G_ (ssp. _
+andigena_ background) coding sequences cloned in pENTR/D-TOPO were already available [3][,][15] .
+Constructs were generated by LR recombination using Gateway LR clonase II (Invitrogen) according to the manufacturer’s instructions.
+For the _proBRC1b_ – _GUS_ construct, a genomic fragment comprising 1.7 kb upstream of the ATG was amplified from genomic DNA of Désirée cv.
+plants with Phusion polymerase (New England BioLabs; the primers are given in Supplementary Data 3).
+The PCR fragment was cloned in pGEM-t Easy (Promega), re-amplified by PCR with primers with attB tails and BP-cloned into pDONR207 (Invitrogen).
+The fragment was then mobilized into the destination vector pGWB3 [54] with LR-clonase.
+To generate the _BRC1b_ RNAi constructs, _BRC1b_ -specific
+PCR products (168 base pairs) of a coding region non-conserved with other TCPs were obtained with the primers indicated (Supplementary Data 3) and cloned into the vector pHANNIBAL (CSIRO) as previously described [16] .
+The pHANNIBAL cassettes were then digested with NotI and subcloned in the NotI site of the binary vector pART27 as previously described [15] .
+For the transgenic control lines, an empty pHANNIBAL cassette subcloned in pART27 was used.
+The _miR156_ -OE lines were made using the previously described plasmid _35SCaMV_ – _miR156a_ (ref.
+[39] ), kindly provided by Y. Eshed.
+For the Y2H assays, coding sequences were integrated into pGADT7-GW or pGBKT7-GW (YTH assays; Invitrogen) by LR cloning.
+The truncated forms of _BRC1a_ _
+[L]_ and _BRC1b_ were cloned in pDONR207 after amplification using the primers indicated in Supplementary Data 3.
+For the co-immunoprecipitation, expression vectors containing _UBQ10pro_ – _BRC1a_ – _6XHA_, _UBQ10pro_ – _BRC1b_ – _6XHA_, _UBQ10pro_ – _SP5G_ – _Citrin_ and _UBQ10pro_ – _SP6A_ – _Citrin_ were generated by triple Gateway cloning using the destination vector pB7mG34GW,0 (TAIR    accession number: Vector:6530643175).
+The construct _UBQ10pro_ – _Citrin_ – _MYC(NLS)_ – _Citrin_
+[15] was used as a control.
+**Generation of transgenic plants.
+** Binary vectors were transformed into the _Agrobacterium tumefaciens_ strain AGL-0.
+To generate stable transgenic potato plants, leaves were transformed as described in ref.
+[15] .
+_
+BRC1b_ silencing and _PDK_ intron expression (intron of the hairpin) were confirmed by qPCR in axillary buds using the primers indicated in Supplementary Data 3. _
+BRC1b_ RNAi lines 5, 10 and 19 were selected in the ssp.
+_andigena_ background, and lines 13, 27, 36 and 40 were selected in Désirée cv.
+**CRISPR–Cas9 mutagenesis.
+** _BRC1b_ mutagenesis by CRISPR–Cas9 was performed by transforming plants with the pK7mG34GW,0 destination vector containing two _BRC1b_ -specific guide RNAs (CAGCTGTCAGCTAAGACGTG and GAAGGCCGAGGCGGAAACAA) and the Cas9–TPC [55] under the Ubiquitin10 promoter.
+Potato (ssp. _andigena_ ) plants were transformed as described above.
+To avoid chimaeric mutated plants, the leaves of transgenic plants were used for de novo callogenesis and new plant regeneration.
+_
+BRC1b_ mutagenesis was confirmed by amplicon sequencing (Genewiz.com).
+An amplicon comprising both single guide RNAs was obtained by PCR using the primers indicated in Supplementary Data 3.
+Allelic frequency was analysed using the FASTQ files with Crispresso2 (ref.
+[56] ).
+We analysed 57,643, 37,206, 46,803 and 274,903 paired-end reads for _brc1b_ CRISPR mutant lines A6, A10, and A12 and the WT, respectively.   _**GUS**_ **staining.
+** _GUS_ staining was conducted as previously described [13] .
+**RNA in situ hybridization.
+** RNA in situ hybridization and image acquisition were performed as previously described [57] .
+Tissues were collected at the end of the day.
+The samples were fixed with formaldehyde–acetic acid–ethanol, dehydrated with ethanol and embedded with paraffin (Paraplast, Leica).
+After dehydration, the samples were processed in an embedding station (EG1160, Leica).
+Then, 8-µm sections were obtained with a rotary microtome (RM2265, Leica) and transferred to polylysine-coated slides (Roth).
+A _BRC1b_ full-length probe was generated from its cDNA and cloned into the pGEM-T Easy Vector (Promega).
+The probes were synthesized with a DIG RNA Labeling Kit (Roche).
+**Stem section.
+** Stems from the basal part (between the second and fourth nodes) of one-month-old _BRC1b_ RNAi plants were cut and placed in cold 90% acetone and fixed in 4% glutaraldehyde.
+Dehydration, staining, resin inclusion and sectioning were done as previously described [58] .
+**Sucrose measurements.
+** Plants were grown in the greenhouse for six weeks and transferred to an LD growth chamber for one week to set up dawn time.
+Leaves and axillary buds were sampled one hour after dawn and flash-frozen in liquid N 2 .
+After the LD samples were collected, the chamber photoperiod was set to SD conditions, and samples were collected one week later.
+Material termed ‘upper axillary buds’ was from the four aerial axillary buds below the third visible node counting from the apex.
+Material termed ‘lower axillary buds’ was from the first four nodes starting from ground level.
+The leaf samples were from these lower nodes.
+Biological replicates were pooled material from four plants.
+The leaves were ground in the mortar and the axillary buds in Qiagen TissueLyser.
+An aliquot of the powder was transferred to a 2-ml-cap tube and weighed in a precision scale for normalization of sucrose content.
+Then, 1 ml of 80% ethanol was added to the ground tissue, and the tubes were placed in a thermo-shaker at 80 °C for one hour.
+The supernatants of the first wash containing the reducing sucrose were dried in a Speed-vac, and the pellet was resuspended in 200 µl of milli-Q water.
+Sucrose was quantified with the Starch Saccharose/D-Glucose kit (Roche/r-Biopharm) following the NAD+/NADH technique.
+**Experimental design of the RNA-seq time course and qPCR experiments.
+**
+Plants were grown in the greenhouse for six weeks and then placed in an LD growth chamber for one week, after which samples for the LD time point were collected.
+The growth chamber photoperiod was then set to SD by bringing the night-time forwards.
+The following day corresponds to the first day in SD.
+Samples were collected at two days (2SD), one week (7SD), two weeks (14SD) and three weeks (21SD) (only for qPCR).
+All samples were obtained at one hour after dawn.
+Upper axillary buds (see the sugar measurements, those most likely to produce tubers) were collected.
+**RNA extraction and RNA-seq analysis.
+** Bud-containing stem nodes were flash-frozen in liquid N 2, subsequently dissected at 4 °C and then ground in the Qiagen TissueLyser.
+Three biological replicates (each a bud pool from four plants) were collected.
+RNA was extracted with the FavorPrep Plant Total RNA Mini Kit (FAVORGEN).
+DNA was digested in the column with RNase-free DNase I (Roche).
+The samples were sent for sequencing at BGI Genomics (Beijing, China).
+Twenty-four samples of _S. tuberosum_ ssp.
+_andigena_ were sequenced on a BGISEQ-500 Platform, generating about 7.01 Gb per sample.
+The average genome-mapping rate was 83.28%, and the average gene-mapping rate was 69.20%.
+RNA-seq paired-end reads were filtered using SOAPnuke v.1.5.2 (ref.
+[59] ) to remove    **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**291**   ##### Articles NATuRe PlAnTS    reads with adaptors, having more than 5% unknown bases or with poor base quality (more than 20% of bases having quality <15).
+The cleaned reads were then aligned to the PGSC_DM_v4.03_pseudomolecules reference genome [60] (available at [http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml) using HISAT v.2.0.4](http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml) (ref.
+[61] ) with the sensitive mode, options no-discordant and no-mixed, minimum fragment size 1 and maximum fragment size 1,000.
+Reads per gene quantification for each sample was performed using the FeatureCounts function implemented in the R package Rsubread v.2.0.0 (ref.
+[62] ) with the PGSC_DM_V403_genes.gff file [from http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml as genome](http://solanaceae.plantbiology.msu.edu/pgsc_download.shtml)
+annotation and parameter isPairedEnd = TRUE.
+Differentially expressed genes were then calculated for each comparison between conditions using the R package DESeq2 v.1.26.0 (ref.
+[63] ) with the default values.
+The RNA-seq data are available in [the NCBI Gene Expression Omnibus database with accession code GSE155774.](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155774)   **GSEA.
+**
+The tests of overrepresentation of the different gene sets were carried out with the GSEA [18] method (version 3.0) as described in ref.
+[5] .
+All the gene sets defined for this study were previously used [5], except the gene sets for tuber eye dormancy and sprouting [19] .
+All gene sets are available in Supplementary Data 4.
+Potato putative orthologues of _A. thaliana_ genes were determined according to the potato genome annotation computed by PHYTOZOME (Stuberosum_448_v4.03.
+annotation_info; based on genome version v.4.03, best hits in BLASTP alignment to _A. thaliana_ TAIR10).
+When several potato gene loci were associated with a single _Arabidopsis_ gene, all of them were included in the gene set.
+The GSEA method evaluates whether these genes occur preferentially towards the top or [bottom of a ranked list.
+The complete results are available at https://bioinfogp.cnb.](https://bioinfogp.cnb.csic.es/files/projects/nicolas_et_al/)
+[csic.es/files/projects/nicolas_et_al/.](https://bioinfogp.cnb.csic.es/files/projects/nicolas_et_al/)   **Real-time qPCR.
+**
+We used 1 µg of total RNA of axillary buds for reverse transcription using the High-Capacity cDNA Reverse Transcription Kit from Applied Biosystems following the manufacturer’s instructions.
+We diluted cDNA seven times before performing qPCR.
+GoTaq qPCR Master Mix (Promega) and the Applied Biosystems 7500 real-time PCR system were used to perform qPCR.
+The primers used are in Supplementary Data 3. _
+StACTIN8_ was used as a reference gene
+[1][,][15] .
+Three technical replicates were performed for each of the three biological replicates.
+The gene relative expressions were calculated as previously described [15] .
+We determined _miR156_ expression levels by using the stem–loop qPCR method
+[64] .
+We used 300 ng of total RNA for the cDNA synthesis.
+U6 small nuclear RNA was used as a reference gene.
+Three technical replicates were performed for each of the three biological replicates.
+**ABA quantification.
+** Plant endogenous ABA was analysed using high-performance liquid chromatography–electrospray–high-resolution accurate mass spectrometry using an Orbitrap Exploris 120 Mass Spectrometer (Thermo Fisher Scientific).
+The extraction of this hormone was carried out as previously described [65] .
+The detection and quantification of ABA were carried out using a Product Ion Scan experiment in the negative-ion mode, employing a multilevel calibration curve with the internal standard (2H6-(+)- _cis_, _trans_ -ABA).
+Instrument control and data processing were carried out by TraceFinder v.5.1 EFS software.
+**PD transmission electron microscopy imaging and quantification.
+**
+Meristems were fixed with 4% paraformaldehyde (Electron Microscopy Sciences) and 2.5% glutaraldehyde (TAAB Laboratories) in phosphate–sucrose buffer for 4–5 h at room temperature and overnight at 4 °C in fresh fixative buffer.
+The samples were washed with the same buffer, post-fixed with 1% osmium tetroxide (TAAB Laboratories) in 0.8% potassium ferricyanide (Sigma) for 1 h at 4 °C and incubated with 2% aqueous uranyl acetate (Electron Microscopy Sciences) for 1 h at the same temperature.
+After washing with distilled water, the samples were dehydrated with increasing concentrations of acetone (VWR) and embedded in epoxy resin TAAB 812 (TAAB Laboratories).
+Polymerization was carried out for two days at 60 °C.
+The resin blocks were trimmed, and semi-thin sections were obtained and stained with toluidine blue 0.1% (Merck) to select the area of interest.
+Next, ultrathin 70 nm-thick sections were obtained using a Leica EM UC6 ultramicrotome, transferred to 200 mesh formvar/carbon-coated nickel grids (Gilder) and stained with saturated uranyl acetate and 0.2% lead citrate at room temperature.
+The sections were visualized on a JEOL JEM 1011 electron microscope (operating at 100 kV).
+Micrographs were taken with a Gatan Erlangshen ES1000W CCD camera.
+Six WT and six RNAi buds were analysed, and 10–50 images were obtained for each bud, from cells located close to the developing vasculature, below the meristem dome, where _BRC1b_ is expressed.
+PD were quantified in the micrographs and normalized by μm of plasma membrane in each image.
+The plasma membrane length in each photograph was calculated using [the Measure Segmented Line tool in ImageJ/FIJI (https://imagej.net/software/fiji/).](https://imagej.net/software/fiji/)   **CFDA mobility assays.
+** WT and RNAi plants grown in vitro in LD for a month were transferred to an SD growth chamber.
+Two weeks later, the uppermost part of each stem containing four nodes was cut and transferred to a tube containing a solution of 1 mg ml
+[−][1] CFDA (Sigma) in distilled water (from a 30 mg ml [−][1] DMSO-dissolved stock solution).
+Four hours later, individual axillary-bud-containing nodes were excised, hand-sectioned in half, mounted    and observed under an epifluorescence microscope (Leica DMR) using a green (530–550 nm) emission filter and bright field optics.
+Microphotographs were taken with an Olympus DP70 digital camera.
+The quantification of CF in buds was determined by the relative fluorescence intensity in the axillary bud normalized by the fluorescence intensity in the stem below using the tool Measure Integrated [Intensity in ImageJ/FIJI (https://imagej.net/software/fiji/).
+Four to six buds per](https://imagej.net/software/fiji/) plant were analysed for 10 WT plants and 12 RNAi plants.
+**Y2H assays.
+** Vectors were transformed in yeast strain AH109.
+Yeast interaction assays were carried out in selective medium deficient in leucine, tryptophan, adenine and histidine (SD–LWAH) with 20 mM or 50 mM 3-AT as previously described [66] .
+Yeast colony growth was compared with their equivalent in SD–LW plates (positive growth controls).
+Each combination was analysed three times.
+**Co-immunoprecipitation assays.
+**
+Constructs were transformed in the _Agrobacterium tumefaciens_ strain AGL-0.
+Overnight cultures of _Agrobacterium_ were resuspended in 10 mM MES (pH 5.5), 10 mM MgCl 2 and 150 mM acetosyringone at OD 600 nm = 0.5 and incubated for three hours at room temperature.
+Identical volumes of each resuspended culture were mixed for co-infiltrations in _N. benthamiana_ leaves.
+Samples were collected 24 hours after infiltration.
+Co-immunoprecipitation was performed as previously described [66] .
+**APB–FRET assays.
+**
+The APB–FRET assays were performed as previously described [15] .
+FRET efficiency ( _E_ FRET ) was calculated as the percentage of increase in donor fluorescence after acceptor photobleaching; _E_ FRET = 100 × ( _D_ post − _D_ pre )/ _
+D_ post, where _D_ pre and _D_ post are the fluorescence intensity of the donor before and after photobleaching, respectively.
+_D_ pre and _D_ post were measured with a secondary region of interest (ROI) inside the bleached region of the first ROI (4-mm-diameter ROI for nuclei).
+A 1.2-kb truncated luciferase protein fused with either Citrin or mCherry was used for the negative control assays.
+BRC1b was also fused with Citrin or mCherry.
+The SP5G and SP6A proteins were fused to the MYC nuclear localization signal and Citrin (SP5G– MYC–Citrin and SP6A–MYC–Citrin) to do the APB–FRET assays in the nucleus.
+Proteins fused with Citrin were under a 2X35S promoter.
+Proteins fused to mCherry were under an estradiol-inducible promoter (pABindmCherry [15] ).
+Gene expression was induced the night before the APB–FRET assays.
+**Reporting Summary.
+**
+Further information on research design is available in the Nature Research Reporting Summary linked to this article.
+**Data availability**
+The RNA-seq data generated in this study have been deposited in the Gene [Expression Omnibus under accession no.
+GSE155774.
+Source data are provided](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155774) with this paper.
+Received: 31 August 2020; Accepted: 11 February 2022; Published online: 21 March 2022   **References** 1.
+`Navarro, C. et al.
+Control of flowering and storage organ formation in potato by FLOWERING LOCUS T. _
+Nature_ **478**, 119–122 (2011).
+2. Kloosterman, B. et al.
+Naturally occurring allele diversity allows potato cultivation in northern latitudes.
+_
+Nature_ **495**, 246–250 (2013).
+3. Abelenda, J. A., Cruz-Oró, E., Franco-Zorrilla, J. M. & Prat, S. Potato StCONSTANS-like1 suppresses storage organ formation by directly activating the FT-like StSP5G repressor.
+_
+Curr.
+Biol.
+_
+**26**, 872–881 (2016).
+4.
+Teo, C.-J., Takahashi, K., Shimizu, K., Shimamoto, K. & Taoka, K. Potato tuber induction is regulated by interactions between components of a tuberigen complex.
+_
+Plant Cell Physiol.
+_
+**58**, 365–374 (2017).
+5. Tarancón, C., González-Grandío, E., Oliveros, J. C., Nicolas, M. & Cubas, P. A conserved carbon starvation response underlies bud dormancy in woody and herbaceous species.
+_
+Front.
+Plant Sci._ **8**, 788 (2017).
+6. Martín-Fontecha, E. S., Tarancón, C. & Cubas, P. To grow or not to grow, a power-saving program induced in dormant buds.
+_
+Curr.
+Opin.
+Plant Biol._
+**41**, 102–109 (2018).
+7. Bohlenius, H. et al.
+CO/FT regulatory module controls timing of flowering and seasonal growth cessation in trees.
+_
+Science_ **312**, 1040–1043 (2006).
+8.
+Rinne, P. L. H., Kaikuranta, P. M. & Van Schoot, C. Der
+The shoot apical meristem restores its symplasmic organization during chilling-induced release from dormancy.
+_
+Plant J._ **26**, 249–264 (2001).
+9.
+Tylewicz, S. et al.
+Photoperiodic control of seasonal growth is mediated by ABA acting on cell–cell communication.
+_
+Science_ **360**, 212–215 (2018).
+10.
+Wang, M. et al.
+BRANCHED1: a key hub of shoot branching.
+_
+Front.
+Plant Sci._ **10**, 76 (2019).
+11.
+Aguilar-Martínez, J. A., Poza-Carrión, C. & Cubas, P. _
+Arabidopsis_
+BRANCHED1 acts as an integrator of branching signals within axillary buds.
+_
+Plant Cell_ **19**, 458–472 (2007).
+**292** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRe PlAnTS Articles    12.
+Gonzalez-Grandio, E. et al.
+BRANCHED1 promotes axillary bud dormancy in response to shade in _Arabidopsis_ .
+_
+Plant Cell_ **25**, 834–850 (2013).
+13.
+González-Grandío, E. et al.
+Abscisic acid signaling is controlled by a BRANCHED1/HD-ZIP I cascade in _Arabidopsis_ axillary buds.
+_
+Proc._ _
+Natl Acad.
+Sci.
+USA_ **114**, E245–E254 (2017).
+14.
+Maurya, J. P. et al.
+Branching regulator BRC1 mediates photoperiodic control of seasonal growth in hybrid aspen.
+_
+Curr.
+Biol.
+_
+**30**, 122–126.e2 (2020).
+15.
+Nicolas, M., Rodríguez-Buey, M. L. L., Franco-Zorrilla, J. M. M. & Cubas, P. A recently evolved alternative splice site in the BRANCHED1a gene controls potato plant architecture.
+_
+Curr.
+Biol.
+_
+**25**, 1799–1809 (2015).
+16.
+Martín-Trillo, M. et al.
+Role of tomato BRANCHED1-like genes in the control of shoot branching.
+_
+Plant J._ **67**, 701–714 (2011).
+17.
+Fernie, A. R. et al. Synchronization of developmental, molecular and metabolic aspects of source–sink interactions.
+_
+Nat.
+Plants_ **6**, 55–66 (2020).
+18.
+Subramanian, A. et al.
+Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles.
+_
+Proc.
+Natl Acad._ _
+Sci.
+USA_ **102**, 15545–15550 (2005).
+19.
+Campbell, M., Suttle, J., Douches, D. S. & Buell, C. R. Treatment of potato tubers with the synthetic cytokinin 1-(α-ethylbenzyl)-3-nitroguanidine results in rapid termination of endodormancy and induction of transcripts associated with cell proliferation and growth.
+_
+Funct.
+Integr.
+Genomics_ **14**, 789–799 (2014).
+20.
+Gonzali, S. et al.
+Identification of sugar-modulated genes and evidence for in vivo sugar sensing in _Arabidopsis_ .
+_
+J. Plant Res._
+**119**, 115–123 (2006).
+21.
+Osuna, D. et al.
+Temporal responses of transcripts, enzyme activities and metabolites after adding sucrose to carbon-deprived _Arabidopsis_ seedlings.
+_
+Plant J._ **49**, 463–491 (2007).
+22.
+Paul, L. K., Rinne, P. L. H. & van der Schoot, C. Shoot meristems of deciduous woody perennials: self-organization and morphogenetic transitions. _
+Curr.
+Opin.
+Plant Biol._
+**17**, 86–95 (2014).
+23.
+Singh, R. K. et al.
+A genetic network mediating the control of bud break in hybrid aspen.
+_
+Nat.
+Commun.
+_
+**9**, 4173 (2018).
+24.
+Karlberg, A. et al.
+Analysis of global changes in gene expression during activity–dormancy cycle in hybrid aspen apex.
+_
+Plant Biotechnol._
+**27**, 1–16 (2010).
+25.
+Dong, Z. et al.
+The regulatory landscape of a core maize domestication module controlling bud dormancy and growth repression.
+_
+Nat.
+Commun.
+_
+**10**, 3810 (2019).
+26.
+González-Grandío, E. & Cubas, P. Identification of gene functions associated to active and dormant buds in _Arabidopsis_ .
+_
+Plant Signal.
+Behav._ **9**, e27994 (2014).
+27.
+Nemhauser, J. L., Hong, F. & Chory, J. Different plant hormones regulate similar processes through largely nonoverlapping transcriptional responses.
+_
+Cell_ **126**, 467–475 (2006).
+28.
+Abelenda, J. A. et al.
+Source–sink regulation is mediated by interaction of an FT homolog with a SWEET protein in potato.
+_
+Curr.
+Biol.
+_
+**29**, 1178–1186.e6 (2019).
+29.
+Kloosterman, B. et al. StGA2ox1 is induced prior to stolon swelling and controls GA levels during potato tuber development.
+_
+Plant J._ **52**, 362–373 (2007).
+30.
+Chen, H. Interacting transcription factors from the three-amino acid loop extension superclass regulate tuber formation.
+_
+Plant Physiol.
+_
+**132**, 1391–1404 (2003).
+31.
+Sharma, P., Lin, T. & Hannapel, D. J. Targets of the StBEL5 transcription factor include the FT ortholog StSP6A. _Plant Physiol._
+**170**, 310–324 (2016).
+32.
+Bolduc, N. et al.
+Unraveling the KNOTTED1 regulatory network in maize meristems.
+_Genes Dev._
+**26**, 1685–1690 (2012).
+33.
+Brault, M. L. et al.
+Multiple C2 domains and transmembrane region proteins (MCTPs) tether membranes at plasmodesmata.
+_
+EMBO Rep._ **20**, e47182 (2019).
+34.
+Liu, L. et al.
+FTIP1 is an essential regulator required for florigen transport.
+_PLoS Biol._
+**10**, e1001313 (2012).
+35.
+Song, S. et al. OsFTIP1-mediated regulation of florigen transport in rice is negatively regulated by the ubiquitin-like domain kinase OsUbDKγ4. _
+Plant Cell_ **29**, 491–507 (2017).
+36.
+Viola, R. et al.
+Tuberization in potato involves a switch from apoplastic to symplastic phloem unloading.
+_
+Plant Cell_ **13**, 385–398 (2001).
+37.
+Knoblauch, M. et al.
+Multispectral phloem-mobile probes: properties and applications.
+_
+Plant Physiol.
+_
+**167**, 1211–1220 (2015).
+38.
+Niwa, M. et al.
+BRANCHED1 interacts with FLOWERING LOCUS T to repress the floral transition of the axillary meristems in _Arabidopsis_ .
+_
+Plant Cell_ **25**, 1228–1242 (2013).
+39.
+Eviatar-Ribak, T. et al.
+A cytokinin-activating enzyme promotes tuber formation in tomato.
+_
+Curr.
+Biol.
+_
+**23**, 1057–1064 (2013).
+40.
+Kumar, A., Kondhare, K. R., Vetal, P. V. & Banerjee, A. K. PcG proteins MSI1 and BMI1 function upstream of miR156 to regulate aerial tuber formation in potato.
+_
+Plant Physiol.
+_
+**182**, 185–203 (2020).
+41.
+Bhogale, S. et al.
+MicroRNA156: a potential graft-transmissible microRNA that modulates plant architecture and tuberization in _Solanum tuberosum_ ssp.
+_andigena_ .
+_
+Plant Physiol.
+_
+**164**, 1011–1027 (2013).
+42.
+Lu, Z. et al.
+Genome-wide binding analysis of the transcription activator ideal plant architecture1 reveals a complex network regulating rice plant architecture.
+_
+Plant Cell_ **25**, 3743–3759 (2013).
+43.
+Nicolas, M. & Cubas, P. in _Plant Transcription Factors_ (ed. Gonzalez, D. H.)
+[249–267 (Elsevier, 2016); https://doi.org/10.1016/B978-0-12-800854-6.00016-6](https://doi.org/10.1016/B978-0-12-800854-6.00016-6) 44.
+Reddy, S. K., Holalu, S. V., Casal, J. J. & Finlayson, S. A. Abscisic acid regulates axillary bud outgrowth responses to the ratio of red to far-red light.
+_
+Plant Physiol.
+_
+**163**, 1047–1058 (2013).
+45.
+Yao, C. & Finlayson, S. A. Abscisic acid is a general negative regulator of _Arabidopsis_ axillary bud growth.
+_
+Plant Physiol.
+_
+**169**, 611–626 (2015).
+46.
+Ruttink, T. et al.
+A molecular timetable for apical bud formation and dormancy induction in poplar.
+_
+Plant Cell_ **19**, 2370–2390 (2007).
+47.
+Liu, L. et al.
+FTIP-dependent STM trafficking regulates shoot meristem development in _Arabidopsis_ .
+_
+Cell Rep._ **23**, 1879–1890 (2018).
+48.
+Vaddepalli, P. et al.
+The C2-domain protein QUIRKY and the receptor-like kinase STRUBBELIG localize to plasmodesmata and mediate tissue morphogenesis in _Arabidopsis thaliana_ .
+_
+Development_ **141**, 4139–4148 (2014).
+49.
+Ho, L. C. Metabolism and compartmentation of imported sugars in sink organs in relation to sink strength.
+_
+Annu.
+Rev. Plant Physiol.
+Plant Mol._ _
+Biol.
+_
+**39**, 355–378 (1988).
+50.
+Xu, X., van Lammeren, A. A., Vermeer, E. & Vreugdenhil, D.
+The role of gibberellin, abscisic acid, and sucrose in the regulation of potato tuber formation in vitro.
+_
+Plant Physiol.
+_
+**117**, 575–584 (1998).
+51.
+Pasare, S. A. et al.
+The role of the potato ( _Solanum tuberosum_ ) CCD8 gene in stolon and tuber development.
+_
+N. Phytol.
+_
+**198**, 1108–1120 (2013).
+52.
+Andrés, F. & Coupland, G.
+The genetic basis of flowering responses to seasonal cues.
+_
+Nat. Rev. Genet.
+_
+**13**, 627–639 (2012).
+53.
+Maurya, J. P. & Bhalerao, R. P. Photoperiod- and temperature-mediated control of growth cessation and dormancy in trees: a molecular perspective.
+_
+Ann.
+Bot.
+_
+**120**, 351–360 (2017).
+54.
+Nakagawa, T. et al.
+Development of series of gateway binary vectors, pGWBs, for realizing efficient construction of fusion genes for plant transformation.
+_J. Biosci.
+Bioeng._
+**104**, 34–41 (2007).
+55.
+Fauser, F., Schiml, S. & Puchta, H. Both CRISPR/Cas-based nucleases and nickases can be used efficiently for genome engineering in _Arabidopsis_ _thaliana_ .
+_
+Plant J._ **79**, 348–359 (2014).
+56.
+Clement, K. et al.
+CRISPResso2 provides accurate and rapid genome editing sequence analysis.
+_
+Nat.
+Biotechnol._
+**37**, 224–226 (2019).
+57.
+Seibert, T., Abel, C. & Wahl, V. Flowering time and the identification of floral marker genes in _Solanum tuberosum_ ssp. _andigena_ .
+_
+J. Exp.
+Bot._
+**71**, 986–996 (2020).
+58.
+Chevalier, F., Iglesias, S. M., Sánchez, O. J., Montoliu, L. & Cubas, P. Plastic embedding of stem sections.
+_
+Bio-Protoc.
+_
+**4**, e1261 (2014).
+59.
+Chen, Y. et al.
+SOAPnuke: a MapReduce acceleration-supported software for integrated quality control and preprocessing of high-throughput sequencing data.
+_
+Gigascience_ **7**, gix120 (2018).
+60.
+Sharma, S. K. et al.
+Construction of reference chromosome-scale pseudomolecules for potato: integrating the potato genome with genetic and physical maps.
+_G3 (Bethesda)_ **3**, 2031–2047 (2013).
+61.
+Kim, D., Langmead, B. & Salzberg, S. L. HISAT: a fast spliced aligner with low memory requirements.
+_
+Nat.
+Methods_ **12**, 357–360 (2015).
+62.
+Liao, Y., Smyth, G. K. & Shi, W. The R package
+Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads.
+_
+Nucleic Acids Res._
+**47**, e47 (2019).
+63.
+Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2.
+_
+Genome Biol.
+_
+**15**, 550 (2014).
+64.
+Chen, C. et al.
+Real-time quantification of microRNAs by stem–loop RT–PCR. _
+Nucleic Acids Res._
+**33**, e179 (2005).
+65.
+García-León, M. et al. _
+Arabidopsis_
+ALIX regulates stomatal aperture and  turnover of abscisic acid receptors.
+_
+Plant Cell_ **31**, 2411–2429 (2019).
+66.
+Nieto, C., López-Salmerón, V., Davière, J. & Prat, S. ELF3–PIF4 interaction regulates plant growth independently of the evening complex.
+_
+Curr.
+Biol.
+_
+**25**, 187–193 (2015).
+**Acknowledgements**
+The work of P.C. was funded by BIO2014-57011-R (MINECO), BIO2017-84363-R (Spanish Ministry of Science and Innovation)
+(MCIN/AEI/10.13039/501100011033/) and FESF investing in your future.
+The work of S.P. was funded by BIO2015-73019-EXP (Spanish Ministry of Science and Innovation)
+(MCIN/AEI/10.13039/501100011033/), ERA-NET COSMIC EIG CONCERT-Japan (PCIN-2017-032)
+(Spanish Ministry of Science and Innovation) and European Union H2020 ‘ADAPT’ project.
+The work of R.T.-P. and J.C.O. was funded by CSIC-202020E079
+(Spanish National Research Council).
+The work of V.W. was funded by BMBF (031B0191), DFG (SPP1530: WA3639/1-2, 2-1) and Max-Planck-Society.
+M.N. had an Excellence Severo Ochoa contract (MINECO, SEV-2013-0347).
+The CNB is a Severo Ochoa Center of    **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**293**   ##### Articles NATuRe PlAnTS    Excellence (MINECO award SEV 2017-0712).
+We thank T. Seibert for help with in situ hybridizations and photography, L. Yan for amplicon sequencing of the _brc1b_ CRISPR lines, I. Poveda for the photographs of aerial tubers and D. Bradley and J. A. Abelenda for constructive criticisms of the manuscript.
+**Author contributions**  M.N., S.P. and P.C. designed the research.
+M.N., V.W., M.L.R.-B., E.C.-O., A.M.Z., J.M.G.-M., B.M.-J., S.P. and P.C. performed the research.
+R.T.-P. and J.C.O. analysed data.
+M.N. and P.C. wrote the article.
+**Competing interests**
+The authors declare no competing interests.
+**Additional information**  **Supplementary information**
+The online version contains supplementary material
+[available at https://doi.org/10.1038/s41477-022-01112-2.](https://doi.org/10.1038/s41477-022-01112-2)   **Correspondence and requests for materials** should be addressed to Michael Nicolas or Pilar Cubas.
+**Peer review information** _
+Nature Plants_ thanks Christian Bachem, Uwe Sonnewald and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+**Reprints and permissions information**
+[is available at www.nature.com/reprints.](http://www.nature.com/reprints)
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+© The Author(s), under exclusive licence to Springer Nature Limited 2022    **294** **Nature Plants**
+[| VOL 8 | March 2022 | 281–294 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+Corresponding author(s): Pilar Cubas and Michael Nicolas   Last updated by author(s): Feb 2, 2022
+### Reporting Summary   Nature Portfolio wishes to improve the reproducibility of the work that we publish.
+This form provides structure for consistency and transparency in reporting.
+For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+###### Statistics   For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed   The exact sample size ( _n_ ) for each experimental group/condition, given as a discrete number and unit of measurement   A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly   The statistical test(s) used AND whether they are one- or two-sided _
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+_
+A description of all covariates tested   A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons   A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)   For null hypothesis testing, the test statistic (e.g. _F_, _t_, _r_ ) with confidence intervals, effect sizes, degrees of freedom and _P_ value noted  _Give P values as exact values whenever suitable._
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings   For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes   Estimates of effect sizes (e.g. Cohen's _d_, Pearson's _r_ ), indicating how they were calculated   _
+Our web collection on_ _statistics for biologists contains articles on many of the points above.
+_  |/a|Co| |---|---| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||   ###### Software and code   Policy information about availability of computer code   Data collection no software was used for data collection   Data analysis HISAT v2.0.4: aligner: alignment program for mapping next-generation sequencing reads.
+https://daehwankimlab.github.io/hisat2/
+SOAPnuke v1.5.2: tool for quality control and preprocessing of FASTQ sequences.
+https://github.com/BGI-flexlab/SOAPnuke Rsubread v2.0.0: R package used for gene quantification (FeatureCounts function).
+https://bioconductor.org/packages/release/bioc/html/ Rsubread.html  DESeq2
+v1.26.0: R package used for differential gene expression analysis based on the negative binomial distribution.
+https:// bioconductor.org/packages/release/bioc/html/DESeq2.html GSEA v.3.0: Gene Set Enrichment Analysis to determine a priori defined set of genes showing statistically significant, concordant differences between biological states.
+https://www.gsea-msigdb.org/gsea/index.jsp ANOVA test were done using the R package Rcmdr version 2.7-1 (Multiple Comparisons of Means: Tukey Contrasts, 95% family-wise confidence level) Student’s t- test were done using excel (equal variance, two-tailed distribution)
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and reviewers.
+We strongly encourage code deposition in a community repository (e.g. GitHub).
+See the Nature Portfolio guidelines for submitting code & software for further information.
+1   ###### Data  Policy information about availability of data   All manuscripts must include a data availability statement.
+This statement should provide the following information, where applicable:      - Accession codes, unique identifiers, or web links for publicly available datasets     - A description of any restrictions on data availability     - For clinical datasets or third party data, please ensure that the statement adheres to our policy   -RNA-seq data are available at the NCBI GEO database with Accession Code GSE155774.
+-Complete results of the GSEA are in https://bioinfogp.cnb.csic.es/files/projects/nicolas_et_al/  #### - Field specific reporting   Please select the one below that is the best fit for your research.
+If you are not sure, read the appropriate sections before making your selection.
+Life sciences Behavioural & social sciences Ecological, evolutionary & environmental sciences   For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf  #### Life sciences study design   All studies must disclose on these points even when the disclosure is negative.
+Sample size For axillary bud q-RT-PCR 3-4 biological replicates that comprised 16 axillary buds (4 buds from 4 individuals) and 3 technical replicates for each biological replicate, were performed as indicated in the manuscript.
+For in situ hibridization, three biological replicates (i.e. tissue from three independent plants) was used.
+Plus we always generated consecutive sections, which were all transferred to the respective slide - these also serve as controls.
+For sugar quantification analyses results are mean of three biological replicates comprising either 4 leaves or 16 axillary buds (4 buds from 4 individuals).
+For phenotypic analyses, 10 plants of each genotype/condition/time-point were analysed, as indicated in the manuscript.
+For RNA-seq, three biological replicates were analysed that comprised 16 axillary buds each (4 buds from 4 individuals).
+For CFDA mobility assay, 10 WT plants and 12 BRC1b RNAi plants were analysed (4-6 buds each).
+For ABA content measurement, three biological replicates were analysed for each genotype/time-point that comprised 16 axillary buds each (4 buds from 4 individuals).
+For Plasmodesmata number counting, pictures from 2 buds from 3 different plants of each genotype were taken (at least 10 pictures for each bud) Sample size (number of plants used for each analysis) was mainly determined by the limitations of our growth chambers.
+Neverthless they had been proven sufficient to provide robust and significant differences (with very low P values) in reproducible experiments.
+These numbers are also similar to those classically used by other research groups in other published work with satisfactory results.
+Data exclusions no data was excluded   Replication For the phenotypic analyses, 4 experiments were performed that gave similar results with comparable conclusions.
+The last one, which contained the highest number of individuals, was included in the manuscript.
+The co-IP experiments were done three times.
+The CFDA experiments were done three times.
+No replication problems were found in any experiment.
+Randomization
+For all studies, individual plants of different genotypes were randomized in the growth chambers to avoid environmental effects.
+Blinding No blinding was performed in the experiments as the control and experiment plants are very different phenotypically and impossible to mistake for each other  #### Reporting for specific materials, systems and methods   We require information from authors about some types of materials, experimental systems and methods used in many studies.
+Here, indicate whether each material, system or method listed is relevant to your study.
+If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+2   Materials & experimental systems    Methods   |n/a|Col2|Involved in the study<br>ChIP-seq<br>Flow cytometry<br>MRI-based neuroimaging| |---|---|---| |n/a|||   |n/a|Col2|Involved in the study<br>Antibodies<br>Eukaryotic cell lines<br>Palaeontology and archaeology<br>Animals and other organisms<br>Human research participants<br>Clinical data<br>Dual use research of concern| |---|---|---| |n/a|||    3

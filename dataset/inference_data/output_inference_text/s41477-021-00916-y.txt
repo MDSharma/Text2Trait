@@ -1,0 +1,1182 @@
+## **The chloroplast-associated protein degradation** **pathway controls chromoplast development and** **fruit ripening in tomato**  **
+[Qihua Ling](http://orcid.org/0000-0002-6984-9921)** **
+[1,2,3,8]** **
+[, Najiah Mohd. Sadali](http://orcid.org/0000-0001-6774-7756)
+** **[1,5,8]** **, Ziad Soufi** **[1]** **, Yuan Zhou
+** **
+[1,2]** **, Binquan Huang** **
+[1,6]** **,** **Yunliu Zeng
+** **
+[1,7]** **[, Manuel Rodriguez-Concepcion](http://orcid.org/0000-0002-1280-2305)
+** **[4]** **[and R. Paul Jarvis](http://orcid.org/0000-0003-2127-5671)
+** **[1]** [ ✉]   **
+The maturation of green fleshy fruit to become colourful and flavoursome is an important strategy for plant reproduction and** **dispersal.
+In tomato (** _**Solanum lycopersicum**_ **) and many other species, fruit ripening is intimately linked to the biogenesis of chro-** **moplasts, the plastids that are abundant in ripe fruit and specialized for the accumulation of carotenoid pigments.
+Chromoplasts** **develop from pre-existing chloroplasts in the fruit, but the mechanisms underlying this transition are poorly understood.
+Here,** **we reveal a role for the chloroplast-associated protein degradation (CHLORAD) proteolytic pathway in chromoplast differen-** **tiation.
+Knockdown of the plastid ubiquitin E3 ligase SP1, or its homologue SPL2, delays tomato fruit ripening, whereas over-** **expression of SP1 accelerates ripening, as judged by colour changes.
+We demonstrate that SP1 triggers broader effects on fruit** **ripening, including fruit softening, and gene expression and metabolism changes, by promoting the chloroplast-to-chromoplast** **transition.
+Moreover, we show that tomato SP1 and SPL2 regulate leaf senescence, revealing conserved functions of CHLORAD** **in plants.
+We conclude that SP1 homologues control plastid transitions during fruit ripening and leaf senescence by enabling** **reconfiguration of the plastid protein import machinery to effect proteome reorganization.
+The work highlights the critical role** **of chromoplasts in fruit ripening, and provides a theoretical basis for engineering crop improvements.
+**    ipening of fleshy fruits is a complex process that involves dramatic changes in colour, texture, aroma and flavour
+[1][,][2] .
+The # R end result is that the fruit becomes an appealing food, attract ing animals to help with seed dispersal [3][,][4] .
+Tomato ( _Solanum lycop-_ _ersicum_ ) is an economically important vegetable and is one of the most well-studied models of fleshy fruit ripening.
+An important component of tomato fruit ripening is the transition of chloroplasts into carotenoid-accumulating plastids termed chromoplasts, which give the red, orange and yellow colours to ripe and ripening tomato fruits [5][,][6] .
+This interconversion process involves the remodelling of the plastid’s internal membranes, leading to the formation of carotenoid-rich membranous sacs and the dismantling of thylakoid membranes with concomitant chlorophyll degradation [6] .
+Such changes are associated with fruit softening, the conversion of starch into simple sugars, and the synthesis of compounds that are associated with taste and aroma, with the overall process being controlled by the hormone ethylene [7][–][10] .
+Although chromoplasts are vital constituents of many fleshy fruits, their contribution to fleshy fruit ripening is not well understood.
+Indeed, the functions of these morphologically complex organelles are far from clear [6] .
+Chromoplast differentiation is accompanied by, or caused by, major changes in the plastid proteome [6] .
+Tomato proteomic studies have shown that proteins related to photosynthesis are generally reduced during the chloroplast-to-chromoplast transition, whereas many non-photosynthetic plastid proteins, such as those linked to    the biosynthesis of fatty acids, amino acids, carotenoids, vitamins, hormones and aroma volatiles, are accumulated [7][,][11][–][13] .
+Such changes can be partially attributed to transcriptional control.
+For example, genes involved in carotenoid biosynthesis are upregulated during chromoplast formation [14][,][15], whereas those encoding proteins involved in photosynthesis, such as the major light-harvesting chlorophyll-binding proteins and the small subunit of Rubisco, are downregulated [16] .
+Nonetheless, post-transcriptional regulation must also have a critical role, as tomato fruit ripening is a rapid process involving dramatic plastid proteome changes, and unneeded proteins must be quickly removed [17] .
+However, in contrast with the role of transcriptional control, the role of post-transcriptional regulation during chromoplast biogenesis is poorly understood [18] .
+An important mechanism underlying the transformation of plastids from one type to another involves direct action of the ubiquitin–proteasome system, and is mediated by SP1, a really interesting new gene (RING)-type ubiquitin E3 ligase located in the plastid outer envelope membrane
+[19] .
+Notwithstanding other hypotheses [20][,][21], the SP1 protein was recently shown to operate within a novel pathway for chloroplast protein degradation termed chloroplast-associated protein degradation (CHLORAD)
+[22] .
+The CHLORAD pathway degrades chloroplast outer-membrane proteins, including components of the protein import machinery.
+Numerous studies on chloroplasts have demonstrated the importance of this import machinery, consisting of translocons at the    1 Department of Plant Sciences, University of Oxford, Oxford, UK.
+2 National Key Laboratory of Plant Molecular Genetics, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China.
+[3] CAS-JIC Center of Excellence for Plant and Microbial Sciences (CEPAMS), Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, China.
+[4] Instituto de Biología Molecular y Celular de Plantas (IBMCP), CSIC-Universitat Politècnica de València, Valencia, Spain.
+[5] Present address: Centre for Research in Biotechnology for Agriculture (CEBAR), University of Malaya, Kuala Lumpur, Malaysia.
+[6] Present address: School of Agriculture, Yunnan University, Kunming, China.
+7 Present address: Key Laboratory of Horticultural Plant Biology (Ministry of Education), Huazhong Agricultural University, Wuhan, China.
+8
+These authors contributed equally: Qihua Ling, Najiah Mohd.
+Sadali.
+[✉] [e-mail: paul.jarvis@plants.ox.ac.uk](mailto:paul.jarvis@plants.ox.ac.uk)
+**Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**655**   ##### Articles NATuRE PLAnTS    outer (TOC) and inner (TIC) envelope membranes of chloroplasts, for plastid biogenesis [23][–][27] .
+Notably, components of the TOC/TIC apparatus have been detected in tomato fruit chromoplasts [7], indicating that the protein import system is active in chromoplasts.
+In contrast, proteins associated with internal protein trafficking to the thylakoids are absent
+[16] .
+These observations point to a need for active adjustment of the protein translocation systems to meet the changing proteomic demands of the organelle.
+In plants such as _Arabidopsis_, pea and tomato, TOC receptors exist in different isoforms enabling the formation of substrate-specific translocons and the operation of substrate-specific protein import pathways
+[23][,][25][,][28] .
+This may help to meet the requirement for different proteomes in different plastid types, as the overwhelming majority of plastid proteins are imported from the cytosol.
+This hypothesis has been supported by studies on SP1 in _Arabidopsis_ : SP1 regulates chloroplast protein import by selectively targeting TOC components for degradation by the proteasome; and this ultimately controls the plastid proteome and plastid development, which are important during developmental transitions such as de-etiolation and leaf senescence [19] .
+We hypothesized that another important developmental process, the chloroplast-to-chromoplast interconversion, may also be governed by SP1 and protein import, and that this may in turn be crucial for fruit ripening.
+To address these questions, which cannot be investigated in _Arabidopsis_ due to the lack of chromoplasts, we conducted detailed analyses of tomato plants with altered expression of two tomato SP1 homologues, SP1 and SP1-like2 (SPL2).
+We show that both E3 ligases play an important role during fruit ripening by regulating TOC components, chromoplast differentiation and fruit metabolism, and thereby highlight a critical role for post-transcriptional control of plastid proteins during fruit ripening.
+**Results** **Identification and analysis of the localization and expression** **of tomato SP1 and SPL2.
+**
+By protein BLAST search analysis, we identified two SP1 homologues in tomato ( _Solanum lycopersi-_ _cum_ ), which we designated slSP1 (Solyc06g084360) and slSPL2 (Solyc12g049330) according to an established nomenclature
+[19] .
+Like _Arabidopsis_ SP1 (and its paralogue SPL2), both tomato homologues are predicted to have two transmembrane domains and a highly conserved C3HC4-type RING finger (RNF) domain (Fig.
+1a,b).
+Overall, the two proteins share 73.3% (slSP1) and 22.1% (slSPL2) amino-acid sequence identity with _Arabidopsis_ SP1, and 18.5% identity with each other; in fact, slSPL2 is substantially more similar to the _Arabidopsis_ SPL2 protein (47.1% identity).
+Thus, we conclude that slSP1 and slSPL2 are orthologues of _Arabidopsis_ SP1 and SPL2, respectively.
+The moderate sequence divergence between the _Arabidopsis_ and tomato orthologues implies that they may have evolved specific functions in the different species.
+To shed light on the functions of slSP1 and slSPL2, we first investigated their subcellular locations and gene expression profiles.
+Confocal microscopy analysis of translational fusions to yellow fluorescent protein (YFP) indicated that both slSP1 and slSPL2 are localized at the chloroplast envelope in tomato mesophyll protoplasts (Fig. 1c), which is entirely in line with expectations based on what is known about their counterparts in _Arabidopsis_
+[19] .
+These data point to a conserved role for slSP1 and slSPL2 in the plastids.
+While the _slSPL2_ gene shows a relatively low and uniform pattern of expression, _slSP1_ is highly expressed in meristematic tissues, leaves, ripening fruit and late stages of development (Fig.
+1d and Extended Data Fig. 1), the latter suggesting important roles for _slSP1_ in fruit ripening and senescence.
+**Tomato SP1 homologues function in both dark-induced and** **aging-related leaf senescence.
+**
+To investigate the function of slSP1, we generated stable transgenic tomato plants (cv.
+Ailsa Craig) with    altered _slSP1_ expression.
+We employed both artificial microRNA knockdown (KD) and overexpression (OX) driven by the strong 35S promoter, generating transformed plants via regeneration from _Agrobacterium_ -inoculated tomato leaf explants.
+The efficiency of _slSP1_
+KD and _slSP1_ OX in the transgenic plants was tested by quantitative PCR with reverse transcription (qRT–PCR) in the T2 and T3 generations, using wild-type plants also obtained through regeneration as controls.
+We selected for analysis three independent KD lines in which _slSP1_ expression was reduced to ~20% of the wild-type level, and three independent OX lines in which _slSP1_ expression was increased more than fivefold relative to wild type (Extended Data Fig. 2).
+For simplicity, in all subsequent analyses we combined the data from the individual KD and OX lines, as they gave similar results.
+Like the _Arabidopsis_ SP1 mutant and OX plants [19], neither slSP1-KD nor slSP1-OX tomato plants were distinguishable from wild type during early vegetative growth, suggesting that slSP1 may have special roles in developmental transitions, similar to the _
+Arabidopsis_ protein
+[19] .
+To investigate this possibility, we began by analysing the tomato transgenics with respect to leaf senescence, during which chloroplasts transition into gerontoplasts [5] .
+First, we studied premature leaf senescence induced by dark treatment of individual leaves, as was done previously with _Arabidopsis_ plants [19] .
+In this experiment, the slSP1-KD leaves remained greener and healthier than wild-type leaves, with no obvious signs of senescence, whereas the slSP1-OX plants showed much more pronounced leaf yellowing than wild-type plants, providing a clear indication of accelerated leaf senescence (Fig. 2a).
+These visible phenotypes were quantified by measuring chlorophyll contents, which confirmed that slSP1-KD ( _P_ < 0.0001) and slSP1-OX ( _P_ < 0.001) leaves retained more and less chlorophyll, respectively, relative to wild type after dark treatment (Fig.
+2b).
+Moreover, photosynthetic performance (as assessed using average, whole-leaf _
+F_ v / _
+F_ m (the ratio of variable to maximum fluorescence after dark adaptation) values determined from chlorophyll fluorescence images) was highest in slSP1-KD leaves, and lowest in the slSP1-OX leaves, indicating accelerated senescence in the latter (Fig. 2c).
+Thus, these results indicate that slSP1 is involved in leaf senescence, revealing conservation of an SP1 function seen previously in _Arabidopsis_ .
+While _Arabidopsis_ SP1 was shown to influence dark-induced leaf senescence [19], it was not reported to affect natural, aging-related leaf senescence.
+Senescence linked to aging might be more important in large plants such as tomato, because such plants typically shed lower leaves as the plant grows, and this process involves senescence of the photosynthetically ineffective leaves to retrieve nutrients.
+To investigate the role of SP1 in such recurrent leaf senescence, we assessed the leaf aging process in normally growing tomato plants.
+Although the rate of chlorophyll loss was slower in this analysis, similar trends between the genotypes were eventually observed: measurements showed that the smallest chlorophyll content reduction occurred in the slSP1-KD leaves ( _P_ < 0.0001), while slSP1-OX leaves experienced the largest change ( _P_ < 0.01) (Fig. 2d).
+The photosynthetic performance data not only matched the chlorophyll content data, but also showed that the reduction in _F_ v / _
+F_ m was greatest in the basal leaf margins, most noticeably in slSP1-OX leaves ( _P_ < 0.001) (Fig. 2e,f).
+The latter phenomenon is consistent with previous reports suggesting that natural leaf senescence progresses via a coordinated process across the leaf, starting from the tip and edge of the lamina
+[29] .
+Next, to investigate whether slSPL2 similarly has conserved functions, related to those reported previously for SP1 in _Arabidopsis_, we generated slSPL2-KD transgenic tomato plants, and selected lines showing <20% of the wild-type expression level for further analysis (Extended Data Fig. 2).
+As with the slSP1 transgenics, we analysed the slSPL2-KD lines with respect to dark-induced leaf senescence, measuring wild-type and slSP1-KD plants alongside as controls.
+We found that slSPL2-KD leaves also show delayed senescence, as indicated by their greener, healthier appearance due to reduced    **656** **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRE
+PLAnTS Articles    **a**   **b**    Number of amino acids    TMD1 TMD2    slSP1   slSPL2    1 19    RNF   221 241 294 341    TMD1 TMD2    RNF    1 14 34 271 291 339 391    14 34    271 291 339    10 20    30 40 50  343 383 341 391 352    (Fig. 1d), and is much less closely related to _Arabidopsis_ SP1.
+Overall, these data reveal an important new role for slSPL2 in leaf senescence, which, together with the slSP1 data, point to a conserved function of SP1 homologues in leaf plastid development.
+**Both SP1 and SPL2 control tomato fruit ripening.
+** The _slSP1_ gene is upregulated during fruit ripening, and is most highly expressed during the breaker stage when chloroplasts lose their photosynthetic apparatus and transition into carotenoid-accumulating chromoplasts (Fig.
+1d and Extended Data Fig. 1).
+This expression pattern suggests that slSP1 may also play an important role in tomato fruit ripening.
+In contrast, the _slSPL2_ gene shows rather stable expression throughout tomato development.
+Tomato fruit ripening can be divided into different stages by colour changes, which are successively called mature green, breaker, turning, pink, light red and red stages [30] .
+To investigate potential roles for SP1 and SPL2 during fruit ripening, transgenic fruits were harvested at the onset of the breaker stage (at ~36 d post anthesis) and incubated at 25 °C in the dark.
+Detached fruit picked at the breaker stage can be ripened in a controlled way that avoids various environmental changes, allowing for a more consistent analysis of fruit ripening [31] .
+Prior to the breaker stage, all of our transgenic lines developed normal, mature green fruits such that at the point of harvesting, there was no variation in fruit size between the genotypes (Extended Data Fig. 3); this indicates that the SP1 homologues do not influence the early growth of the fruit, which does not involve plastid-type interconversions.
+To precisely follow the ensuing ripening process, we employed a chroma meter, the readings of which are _a_ */ _b_ - values based on colour: the _a_ - value represents colours from green to red (it denotes greenness when negative, and redness when positive) and the _b_ value represents colours from blue to yellow (it denotes blueness when negative, and yellowness when positive).
+Such _a*/b*_ values provide an effective parameter for determining the different stages of tomato fruit ripeness
+[32][,][33] (Fig. 3a).
+Across multiple fruit populations, we consistently observed a significant delay in the change from breaker to pink and red stages, in both slSP1-KD and slSPL2-KD fruits relative to wild type, whereas slSP1-OX fruit showed a clear acceleration of this change compared with wild-type fruit.
+On the first day of the experiment (breaker stage; day 1), all of the fruits looked similarly green (Fig.
+3a,b).
+However, by day 8, clear differences among the genotypes were already apparent: while the wild-type fruit were past the pink stage, fruit of slSP1-KD and slSPL2-KD lines were at the turning stage only, whereas those of the slSP1-OX lines had already reached the light red stage (Fig.
+3a,b).
+Although the fruits of all the lines eventually reached the red stage (Fig.
+3a,b), those of the slSP1-KD and slSPL2-KD lines took ~23% longer to do so than wild-type fruit, whereas slSP1-OX fruit took ~27% less time than wild-type fruit to reach the red stage (Fig. 3a).
+These results clearly demonstrate that slSP1 and slSPL2 both play an important role in tomato fruit ripening, particularly in relation to colour change.
+It is interesting to note that the slSPL2-KD lines displayed a delay in fruit ripening that was broadly similar to that seen in the slSP1-KD lines.
+Together with the observed effect of slSPL2-KD on leaf senescence, as described above, this supports the notion that slSPL2 plays a role that is similarly important as that of slSP1 in plastid transitions.
+**SP1 controls chromoplast differentiation during tomato fruit** **ripening.
+**
+As mentioned, the ripening of fleshy fruits involves systematic changes in a variety of parameters including fruit colour, texture and aroma.
+Colour changes in particular are closely connected to chromoplast differentiation.
+In _Arabidopsis_, SP1 is critical for chloroplast development due to its role in regulating the plastid proteome through protein import control [19] .
+Because    _A. thaliana_ (SP1) _A. thaliana_ (SPL2) _S. lycopersicum_ (slSP1) _
+S. lycopersicum_ (slSPL2) _H. sapiens_ (MULAN)            - *          - *          - *          - *    **c**   **d**    slSP1   slSPL2   20    Tomato leaf protoplasts   YFP Chlorophyll Merge Bright field   _slSP1_    15   10   5   0
+Tomato organ/fruit developmental stage   **Fig.
+1 |** **Sequence, localization and gene expression analysis of slSP1** **and slSPL2.
+** **a**, Domain maps illustrating the structural organization of slSP1 and slSPL2.
+Transmembrane domains (TMD) are shown in red and  RNF domains are shown in blue.
+**b**, Amino acid sequence alignment of the C3HC4-type RNF domains of _Arabidopsis_ SP1 (At1g63900) and SPL2 (At1g54150), slSP1 and slSPL2, and _Homo sapiens_
+[MULAN (NM_024544,](https://www.ncbi.nlm.nih.gov/nuccore/NM_024544) a human mitochondrial outer-membrane protein which controls mitochondrial dynamics
+[79] ).
+Residues conserved in at least two of the five sequences are shaded black.
+The critical conserved Cys and His residues are indicated with asterisks.
+**c**, Confocal microscopy images of tomato leaf protoplasts transiently expressing slSP1–YFP and slSPL2–YFP.
+The YFP fluorescence signal is shown in green and chlorophyll autofluorescence is shown in red; an overlay of these two is also shown (Merge).
+Bright-field images confirm the intactness of the protoplasts.
+Scale bar, 10 μm.
+**d**, Quantitative RT–PCR analysis of _slSP1_ and _slSPL2_ expression in different tomato organs and at different developmental stages, normalized to the expression of _slACTIN_ .
+Fruit developmental stages analysed were: 0.5-cm-diameter developing (0.5 cm), pre-mature green (Pre MG), mature green (MG), breaker, pink and red.
+Values are means ± s.e.m. of 3–6 biological replicates.
+chlorophyll content loss ( _P_ < 0.05) (Fig. 2g), and their higher photosynthetic performance ( _F_ v / _F_ m ) ( _P_ < 0.0001) (Fig.
+2h,i), relative to wild-type plants.
+In fact, slSPL2-KD had an even stronger effect on senescence than slSP1-KD, which is remarkable given that _slSPL2_ is normally expressed at much lower levels than _slSP1_ ( _P_ < 0.01)
+**Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**657**   ##### Articles NATuRE PLAnTS    **c**  0.8   0.7   0.6   0.5   0.4    **a**   **d**   **g**    Day 1 Day 30 Day 45
+Standard conditions   ****   40   30   20   10   0    **b** 60 ******* WT   KD   20    **h**    **** ***   WT KD OX    0  Day 1 Day 30    Dark treatment Leaf genotype    0.8   0.7   0.6   0.5   0.4   0.8   0.7   0.6   0.5   0.4    60   40   20   0    WT slSP1-KD slSP1-OX   Leaf genotype           - ** **e**    **** ***   WT KD OX   Leaf genotype   **** ****    **f**   **i**    WT KD OX   Leaf genotype    0.863   0.570   0.805   0.371    Day 1 Day 30   Dark treatment   Leaf genotype Leaf genotype   **Fig.
+2 |** **Analyses of the roles of slSP1 and slSPL2 in tomato leaf senescence.
+** **a** – **c**, Effect of _slSP1_ on dark-induced leaf senescence.
+Individual leaves of two-month-old wild type (WT), slSP1 knockdown (KD) and slSP1 overexpression (OX) tomato plants were covered with aluminium foil for a number of days, as was done previously with _Arabidopsis_ plants [19] .
+The leaves were analysed before (day 1) and after (day 30) the dark treatment.
+Representative leaves were photographed at day 30 ( **a** ).
+Leaves were analysed in relation to both: chlorophyll content ( **b** ) ( _n_ = 12–18 leaves; **** _P_ = 0.0001 (day 30, KD) and *** _P_ = 0.0004 (day 30, OX), compared with WT); and photosynthetic performance ( _F_ v / _F_ m ) ( **c** ) ( _n_ = 9–10 leaves; **** _P_ = 0.0001 (KD) and *** _P_ = 0.0002 (OX), compared with WT).
+Leaves in **c** were analysed on day 30.
+The colour legend in **b** applies to panels **b** – **d** and **f** only, and the terms KD and OX here pertain to _slSP1_ .
+**d** – **f
+**, Effect of _slSP1_ on age-related leaf senescence.
+The leaves of similar tomato plants growing under standard conditions (that is, without a dark treatment) were analysed over a more extended time period; day 1 corresponds to the beginning of the experiment when the plants were two months old.
+Leaves were analysed in relation to both: chlorophyll content ( **d** ) ( _n_ = 10–20 leaves; * _
+P_ = 0.0462 (day 30, KD), **** _P_ = 0.0001 (day 45, KD) and ** _P_ = 0.0046 (day 45, OX), compared with WT); and photosynthetic performance ( _F_ v / _
+F_ m ) ( **e**, **f** ) ( _n_ = 8–10 leaves; **** _P_ = 0.0001 (KD) and *** _P_ = 0.0009 (OX), compared with WT).
+Leaves in **e** and **f** were analysed on day 45.
+A colour spectrum representing the range of _F_ v / _
+F_ m values displayed is shown to the left of the leaf images ( **e** ), and average values were calculated using the images shown and other similar images ( **f** ).
+**g** – **i**, Effect of _slSPL2_ on dark-induced leaf senescence.
+Individual leaves of two-month-old WT, slSPL2-KD and slSP1-KD plants were dark-treated as in **a** – **c** for a number of days.
+Chlorophyll contents were measured on the same leaf before (day 1) and after (day 16) the dark treatment ( **g** ) ( _n_ = 16–19 leaves; **** _P_ = 0.0001 (day 30, KD) and **** _P_ = 0.0001 (day 30, OX), compared with WT).
+Photosynthetic performance ( _F_ v / _F_ m ) was measured on day 16 ( **h**, **i** ).
+A colour spectrum representing the range of _F_ v / _
+F_ m values displayed is shown to the left of the leaf images ( **h** ), and average values were calculated using the images shown and other similar images ( **i** )
+( _n_ = 10 leaves; **** _P_ = 0.0001 (slSPL2-KD) and **** _P_ = 0.0001 (slSP1-KD), compared with WT).
+In **g** and **i**, the data for WT, slSPL2-KD and slSP1-KD are shown in black, grey and white, respectively.
+All values are means ± s.e.m. of at least eight experiments.
+Open red circles represent data points.
+The _P_ values were derived from an unpaired two-tailed Student’s _t_ -test; WT was used as the reference group for the statistical analyses.
+chromoplast differentiation also involves major changes in the plastid proteome
+[11][,][12][,][34], we hypothesized that slSP1 is important for the efficient differentiation of chloroplasts into chromoplasts.
+To directly investigate this possibility, fruit from wild-type, slSP1-KD and slSP1-OX plants collected at the day 8 post-breaker stage were analysed by transmission electron microscopy (TEM), to study plastid ultrastructure, using fruits at the green and red stages as controls (Fig. 4).
+Our decision to focus on day 8 was based on the fact that the most extensive, between-genotype colour differences were apparent at this stage (Fig. 3).
+For consistency,    we analysed only mesocarp (the middle layer of the pericarp) near the base of the fruit, in all cases.
+At the green and breaker stages, wild-type fruit contained typical chloroplasts characterized by the presence of well-developed thylakoid membranes, which either formed stacks known as grana, or simple, interconnecting lamellae (Fig. 4a).
+At day 8, when wild-type fruit had reached the pink stage, a majority of the chloroplasts had transformed into immature chromoplasts (Fig. 4a); these are called globular chromoplasts as they possess large plastoglobules (lipid droplets) for accumulating pigments, but they still contain    **658** **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRE
+PLAnTS Articles    **a**  1.2   1.0   0.8   0.6   0.4   0.2   0   –0.2   –0.4    Red   Light red   Pink   Turning   Breaker          clearly show that chromoplast differentiation was delayed in slSP1KD fruit and accelerated in slSP1-OX fruit, corresponding in both cases with the visible colour differences seen in the fruit (Fig. 3).
+**SP1 also influences tomato fruit softening and transcriptional** **reprogramming.
+**
+Given that SP1 is a plastid-localized regulator, it is not difficult to imagine how it might regulate both chromoplast development and fruit colour, as the latter is directly controlled by the former.
+However, whether the chromoplast changes mediated by SP1 (or indeed any other factor) can in turn alter aspects of fruit ripening that are not obviously linked to plastids was an interesting open question.
+To address this issue, we measured the firmness of the ripening tomato fruit using a durometer.
+Reduction of firmness, or softening, is an important component of fruit ripening controlled by water accumulation, solute metabolism and cell wall modification, and it is a major fruit quality trait
+[30] .
+As expected, the tomato fruits became much softer at the red stage than at the breaker stage, in all genotypes (Extended Data Fig. 4a).
+At these two defined stages, no obvious differences in fruit firmness were observed between the wild-type, slSP1-KD and slSP1-OX plants, which is consistent with the visible fruit phenotypes (Fig. 3).
+Although fruits of all genotypes still had comparable firmness at the day 5 post-breaker stage, clear differences became apparent when fruit firmness was measured at later time points (that is, days 9, 12 and 14 post-breaker) (Extended Data Fig. 4b).
+In general, slSP1-KD fruit showed significant delays in softening relative to wild-type fruit, whereas slSP1-OX displayed accelerated softening compared with the wild type.
+It is well known that the fruit ripening process, including softening, is controlled by ethylene-related transcriptional regulation.
+This affects nuclear genes controlling ethylene synthesis (for example, _ACO1_, _ACS2_, _ACS4_, _NR_ ), cell wall degradation (for example, _PME_, _PG2a_ ), carotenoid biosynthesis (for example, _PDS_, _PSY1_ ) and master transcription factors governing ripening regulators (for example _RIN_, _TDR4_ )
+[35][–][37] .
+To assess for effects of SP1 on such regulation, we measured the messenger RNA levels of various genes during tomato fruit development.
+The results revealed that the differences in colour and softening among wild-type, slSP1-KD and slSP1-OX fruits were accompanied by corresponding changes in expression of ripening-related genes (Extended Data Fig. 5).
+These results imply that slSP1 regulates fruit softening through transcriptional changes, which are themselves most likely indirect effects of retrograde plastid-to-nucleus signalling during chromoplast development.
+It is well documented that chloroplasts emit retrograde signals that report on their developmental and functional status to regulate nuclear gene expression [38][,][39], and this may even occur during chromoplast biogenesis [15][,][40] .
+We interpret the fruit softening and transcriptional effects of slSP1 to be an example of such regulation.
+Altogether, these results indicate that SP1 has a comprehensive, holistic effect on fruit ripening that extends beyond direct effects on chromoplast biogenesis, and that chloroplast-to-chromoplast transitions influence the ripening process more generally.
+This highlights how fruit ripening is orchestrated by remarkably complex controlling pathways.
+**SP1 influences tomato fruit metabolism.
+**
+The striking changes in colour during tomato fruit ripening coincide with equally dramatic changes in fruit metabolism, which influence other quality traits such as flavour, nutrition and aroma.
+As the factories of much metabolism in plants, plastids play a profound role in this process by synthesizing pigments, amino acids, sugars and organic acids [41] .
+To investigate the role of SP1 in orchestrating metabolic changes linked to a plastid-type transition, we compared metabolomic profiles of fruit mesocarp from wild-type, slSP1-KD and slSP1-OX plants, at the day 8 post-breaker and red stages, using high-performance liquid chromatography (HPLC), ion chromatography mass spectrometry        Days    Fruit genotype    slSP1-OX    sISPL2-KD    sISP1-KD    **b**    WT    Day 1   Day 8   Red   **Fig.
+3 |** **Examination of the effects of slSP1 and slSPL2 on tomato fruit** **ripening.
+** **a**, Fruit from the indicated genotypes were harvested at breaker stage (day 1) and then monitored daily using a chroma meter, all the way through to the mature red stage.
+How the recorded colour ( _a*/b*_ ) values relate to different stages of fruit ripening is indicated to the right
+[33] .
+The data shown were derived from fruit populations harvested from two individual T2 generation tomato plants from each of two independent transformants per genotype.
+Values are means ± s.e.m. of 30–40 fruits per genotype.
+**b**, Representative fruit of each genotype from the experiment shown in **a** were photographed at the breaker stage (day 1), at the day 8 post-breaker stage, and at the red stage.
+rudimentary remnants of the thylakoid membranes.
+In wild-type fruit that had reached the red stage, the plastids had completed their differentiation into mature chromoplasts of the type typically found in ripe tomato fruit (Fig. 4a); these are called crystalloid chromoplasts, and they feature large plastoglobules and undulating-shaped envelopes that are shrunken due to the loss of lycopene crystals during the dehydration step of TEM sample preparation
+[17] .
+Although the slSP1-KD and slSP1-OX samples both displayed a rather homogeneous population of wild-type-like chloroplasts or chromoplasts at the green and red stages, respectively, their plastid populations in fruits at day 8 showed striking differences (Fig. 4a), all of which in agreement with the fruit colour observations (Fig. 3b).
+Most plastids in day 8 fruit from slSP1-KD plants contained a relatively intact thylakoid network and few large globular structures, essentially retaining chloroplast features; in contrast, those from slSP1-OX plants had differentiated into typical mature chromoplasts, characterized by undulating membranes and loss of thylakoid structures (Fig. 4a).
+These trends in the day 8 fruits were confirmed when the plastids were classified into different developmental stages (chloroplast, immature chromoplast, mature chromoplast) and counted (Fig. 4b); and when the numbers of thylakoid membranes and the sizes of plastoglobules were quantified ( _P_ < 0.0001 in all cases) (Fig. 4c,d).
+Altogether, these observations    **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**659**   ##### Articles NATuRE PLAnTS    **b**  OX    **a**   Breaker (day 1)
+Day 8   Red   **c**  40   30   20   10    250   200   150   100   50    WT    Fruit genotype   KD    Stage I Stage II    **d**    120   100   80   60   40   20    0  WT    KD OX    Fruit genotype   WT KD OX    WT KD OX    Fruit genotype Fruit genotype   **Fig. 4 |** **Ultrastructural analysis of the effects of slSP1 on the** **chloroplast-to-chromoplast transition in ripening tomato fruit.
+** **a**, Fruit from wild-type (WT), slSP1-KD (KD) and slSP1-OX (OX) plants at the breaker stage (day 1), the day 8 post-breaker stage, and the red stage, were analysed by transmission electron microscopy.
+Images of representative plastids in each genotype at each stage are shown.
+Scale bar, 1 μm.
+The plastids were classified by their ultrastructure as follows: Stage I (S.I; chloroplast-like), Stage II (S.II; immature chromoplast-like) and Stage III (S.III; mature chromoplast-like).
+**b** – **
+d**, Quantitative data derived from the analysis in **a** .
+The proportion of plastids at each of the three developmental stages defined above (I, II and III) in fruit at the day 8 post-breaker stage was determined ( **b** ) ( _n_ = 3 tomato lines).
+Total numbers of thylakoid lamellae per plastid in each genotype at day 8 were counted ( **c** )
+( _n_ = 30 plastids).
+Diameters of plastoglobules in plastids of each genotype at day 8 were measured ( **d** ) ( _n_ = 52 plastids).
+All values are means ± s.e.m.
+Open red circles in **c** and **d** represent data points.
+(IC–MS) and gas chromatography mass spectrometry (GC–MS), and focusing on pigments, sugars, organic acids and amino acids.
+During the ripening process, tomato fruit accumulate certain carotenoids that are virtually absent from chloroplasts, such as lycopene (red) and phytoene, while the levels of photosynthesis-related chlorophylls (green) and xanthophylls such as lutein (yellow) and neoxanthin (yellow) decrease (Fig. 5a)
+[42] ; these changes underlie the change in fruit colour from green (at the breaker stage) to red (at the red stage).
+As expected based on the fruit colour and plastid morphology data (Figs. 3 and 4), all genotypes showed a similar pigment profile at the mature red stage, but differences between the genotypes were clearly apparent at the day 8 post-breaker stage.
+The slSP1-KD fruit retained much higher chlorophyll ( _a_ and _b_ ) and neoxanthin contents, and more lutein, than wild-type fruit at day 8, whereas in slSP1-OX fruit the opposite was observed (Fig. 5a).
+In contrast, slSP1-OX fruit accumulated significantly higher amounts of lycopene and phytoene than wild-type fruit at day 8, while slSP1-KD hardly accumulated these pigments at all at this stage.
+Another isoprenoid derivate, tocopherol, was used as a control in this analysis, but this did not vary obviously among these genotypes, indicating that SP1 specifically affects pigment changes during the chloroplast-to-chromoplast transition.
+Apart from changes in pigments, other major changes in the fruit metabolome during ripening include: the accumulation of certain organic acids, such as caffeic acid and galacturonic acid, and certain    amino acids, such as arginine, glutamic acid and methionine; and the reduction of certain sugars, such as glycerol, and certain amino acids, such as alanine, glycine, serine and lysine (Fig. 5b)
+[42] .
+Interestingly, SP1 may also be required for the proper delivery of these shifts in primary metabolism: such changes appeared delayed in slSP1-KD fruit, and accelerated in slSP1-OX fruit, at the day 8 post-breaker stage (Fig. 5b).
+Thus, the data indicate that SP1 is not only required for the metabolism of plastid pigments during tomato fruit development, but it may in fact have a broader role in fruit primary metabolism, most likely through the triggering of the central plastid-type change.
+**SP1 regulates tomato plastid protein levels during plastid transi-** **tions.
+**
+The SP1 E3 ligase was shown to mediate ubiquitination of chloroplast TOC components and their degradation by the ubiquitin–proteasome system to control the chloroplast proteome, and thereby influence the developmental fate and functions of the organelle in _Arabidopsis_
+[19][,][43] .
+To investigate whether the function of slSP1 is also linked to the control of plastid protein levels, protein extracts from mature, non-senescent leaves of the different tomato genotypes were analysed by immunoblotting (Fig.
+6a,b).
+The data showed that the abundance of Toc75 was strongly elevated in slSP1-KD transgenic plants relative to wild type ( _P_ < 0.001), and significantly reduced in SP1-OX transgenic plants ( _P_ < 0.0001).
+In contrast, the levels of Tic40 (which is not a substrate of SP1 in _Arabidopsis_
+[19] ) did not change significantly in response to altered expression of _slSP1_ .
+Overall, these data are in agreement with previous results on SP1 function in _Arabidopsis_
+[19], thus supporting a conserved role of SP1 in regulating TOC proteins in tomato and _Arabidopsis_ .
+Next, to investigate whether slSP1 is similarly involved in the plastid proteome changes that occur during leaf senescence and fruit ripening in tomato, protein extracts from whole senescent leaves and the mesocarp of fruits at the day 8 post-breaker were analysed by immunoblotting.
+As with the analysis on non-senescent leaves, in both tissues the abundance of Toc75 was strongly increased in slSP1-KD samples, relative to wild type, and reduced in slSP1-OX samples, whereas the abundance of Tic40 was unchanged (Fig.
+6c–f).
+It is noteworthy that the magnitudes of change in Toc75 abundance in slSP1-KD (relative to wild type) in senescent leaves and ripening fruits (more than threefold) are larger than that in non-senescent leaves (less than twofold), as this suggests a particularly important and specific role for slSP1 in controlling plastid protein import during leaf aging and fruit ripening.
+In line with the results presented earlier showing differences in photosynthetic performance in senescent leaves between the genotypes (Fig. 2e,f), we observed that an important photosystem component, Photosystem II subunit O / Oxygen evolving complex (PsbO/OE33), was significantly elevated in slSP1-KD senescent leaves relative to wild type ( _P_ < 0.05), and slightly reduced in slSP1-OX leaves ( _P_ < 0.05) (Fig.
+6c,d).
+During tomato fruit ripening, the photosystems are known to decline dramatically [11], and correspondingly, we observed that the abundance of a photosystem component, Photosystem I subunit D (PsaD), remained higher in slSP1-KD fruit ( _P_ < 0.05), and was reduced in slSP1-OX fruit ( _P_ < 0.01) (Fig.
+6e,f).
+In contrast, the amount of a chromoplast marker protein, Plastoglobulin 35 (PGL35), was significantly reduced in slSP1-KD fruit ( _P_ < 0.01).
+Altogether, the results support a model in which slSP1 directly degrades the TOC complex to inhibit the import of photosynthetic proteins, which in turn facilitates plastid-type transitions during leaf senescence and fruit ripening.
+**Discussion**
+In this study, we identified two chloroplast envelope-localized SP1 homologues in tomato, and showed that they regulate the processes of leaf senescence and fruit ripening.
+Knockdown of _slSP1_ or    **660** **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRE
+PLAnTS Articles    **a**  Lycopene Lutein  Neoxanthin   4   2   0    12   10   5   2.0   1.5   1.0   0.5   0      Pericarp genotype-stage Pericarp genotype-stage    **b**
+Caffeic acid   5   4   3   2   1   0    10   8   6   4   2   0    Galacturonic acid Arginine Glutamic acid Methionine    2.5   2.0   1.5   1.0   0.5   0    2.5   2.0   1.5   1.0   0.5   0   Pericarp genotype-stage    2.5   2.0   1.5   1.0   0.5   0    1.5   1.0   0.5   0    Glycerol Alanine Glycine Serine Lysine  2.5 2.0 2.0 3.0    2.0   1.5   1.0   0.5   0    1.5   1.0   0.5   0    2.0    2.5    2.0    1.5   1.0   0.5   0    2.0   1.0   0    Pericarp genotype-stage   **Fig.
+5 |** **Metabolic profile analyses of the effects of slSP1 on tomato fruit ripening.
+** Relative metabolite contents of pericarp tissue samples from wild-type (WT), slSP1-KD (KD) and slSP1-OX (OX) fruits at the day 8 post-breaker (8d) and red stages were determined.
+**a**, Levels of pigments and derivatives were measured by HPLC or IC–MS, and their relative amounts are shown.
+Left: carotenoid levels; right: chlorophyll and tocopherol levels ( _n_ = 3–6 samples).
+**b**, Levels of organic acids, soluble sugars and amino acids were measured by IC–MS or GC–MS.
+Histograms show the relative amounts of metabolites typically influenced by fruit ripening ( _n_ = 3–6 samples).
+All values are expressed relative to the corresponding value for WT-8d, which in each case is set to 1.
+Values are means ± s.e.m.
+Open circles represent data points.
+_slSPL2_ expression delayed both leaf senescence and fruit ripening, as judged by visible phenotype, chlorophyll content, photosynthetic performance, plastid ultrastructure, fruit firmness and metabolism.
+In contrast, overexpression of _slSP1_ accelerated leaf senescence and fruit ripening, according to the same parameters.
+The consequences of altering _slSP1_ expression can be attributed to the regulation of plastid protein import by CHLORAD
+[22], which in turn controls the plastid proteome.
+Previous work has shown that such regulation is particularly important during developmental stages requiring a plastid-type change [19], and leaf senescence and fruit ripening are two such stages; the former involves a chloroplast-to-gerontoplast transition, and the latter a chloroplast-to-chromoplast transition [5][,][6] .
+So far, most molecular analyses of leaf senescence and fruit ripening have been based on mRNA expression [44][,][45], but it is reasonable to    assume that other regulatory mechanisms, including protein-level control, are also involved.
+Indeed, our data point to a critical role for SP1 and the CHLORAD pathway in the regulation of these  processes.
+Previous work in _Arabidopsis_ revealed an important role for SP1 in dark-induced leaf senescence, but an effect on aging-related senescence was not reported [19] .
+Here we found that knockdown of either _slSP1_ or _slSPL2_ delays both dark-induced and age-related senescence of tomato leaves (Fig. 2).
+Because different plant species have different senescence physiologies, knowledge gained from one model may not necessarily be applicable to another [44] .
+One possible reason why SP1 apparently has a relatively more important role in age-related senescence in tomato is that such perennial plants have differing requirements for chloroplast degeneration than annual    **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**661**   ##### Articles NATuRE PLAnTS    **a**  Non-senescent  leaves   WT KD OX (kDa)    **b** **** 3 ***   2   1   0
+Toc75 Tic40   Plastid protein  **d**    WT  KD  OX    Toc75   Tic40   H3   **c**   Toc75   Tic40   PsbO   H3   **e**   Toc75   Tic40   PsaD   PGL35   H3    Senescent  leaves   WT KD OX   Ripening fruit (day 8)   WT KD OX    75   50   37   20   75   50   37   20   75   50   37   20   37   20    ****
+Toc75 Tic40 PsbO   Plastid protein    - ** **   Toc75 Tic40 PsaD PGL35    **f**    5   4   3   2   1   0   4   3   2   1   0    Plastid protein   **Fig. 6 |** **Analysis of the role of slSP1 in regulating the plastid proteome** **during leaf senescence and fruit ripening.
+** **a**, **b**, Immunoblot analysis of total protein extracts from leaves of two-week-old plants of the indicated genotypes, using Toc75, Tic40 and histone H3 (as a loading control) antibodies ( _n_ =
+10–15 experiments; *** _P_ = 0.0003 (Toc75, KD) and **** _P_ = 0.0001 (Toc75, OX), compared with WT).
+**c**, **d**, Immunoblot analysis of total protein extracts from leaves of two-month-old plants that had been induced to senesce by dark treatment, using Toc75, Tic40, PsbO (OE33) and H3 antibodies ( _n_ = 3–8 experiments; **** _P_ = 0.0001 (Toc75, KD), **** _P_ = 0.0001 (Toc75, OX), * _
+P_ = 0.0156 (PsbO, KD) and * _P_ = 0.0398 (PsbO, OX), compared with WT).
+**e**, **
+f**, Immunoblot analysis of total protein extracts from day 8 post-breaker-stage fruit, using Toc75, Tic40, PsaD, PGL35 and H3 antibodies ( _n_ = 3–4 experiments; ** _P_ = 0.0073 (Toc75, KD), - _P_ = 0.0206 (Toc75, OX), * _
+P_ = 0.0117 (PsaD, KD), ** _P_ = 0.0080 (PsaD, OX) and ** _P_ = 0.0068 (PGL35, KD), compared with WT).
+In each case, the protein bands were visualized by chemiluminescence imaging, and then quantified by using Aida software.
+The data obtained for proteins of interest were normalized relative to corresponding H3 data.
+All values are expressed relative to the corresponding value for WT, which in each case is set to 1.
+Values are means ± s.e.m.
+of at least three replicates.
+The _P_ values were derived from an unpaired two-tailed Student’s _t_ -test; WT was used as the reference group for the statistical analysis.
+Positions of molecular weight markers are shown to the right of the images ( **a**, **c**, **e** ).
+Open red circles in panels **b**, **d** and **f** represent data points.
+plants such as _Arabidopsis_ .
+Another possibility is that the growth habit of tomato leads to the progressive shading of lower leaves by the canopy above.
+Thus, SP1 may have even more profound roles in species other than _Arabidopsis_, as the latter has relatively simple morphology compared with many other plants.
+The paralogue SPL2 displays similar subcellular localization and domain architecture to SP1, in both tomato and _Arabidopsis_ (Fig. 1a–c)
+[19], suggesting that it may have a similar mode of action to SP1.
+Nonetheless, the role of SPL2 in _Arabidopsis_ has remained unclear [19][,][46] .
+Given that it is one of just a few E3 ligases found in plastids, it is very important to understand its role.
+Here we showed that SPL2 and SP1 share conserved functions.
+Intriguingly, knockdown of _slSPL2_ caused a more pronounced effect on leaf senescence than _slSP1_ knockdown (Fig.
+2g–i), which is surprising given that the mRNA expression of _slSPL2_ is much lower than that of _slSP1_ (Fig.
+1d and Extended Data Fig. 1).
+This lack of correspondence between phenotypic severity and expression level may reflect differences in post-transcriptional regulation of the two components.
+In _Arabidopsis_, SP1 is subject to proteasomal degradation triggered by self-ubiquitination, which keeps steady-state levels of the protein very low [19][,][22] .
+Thus, lower _slSPL2_ mRNA levels do not necessarily mean that slSPL2 protein levels are also lower.
+Alternatively, slSPL2 might have a relatively more potent role in the regulation of leaf senescence, for instance, by preferentially targeting plastid components that limit catabolic activity.
+Indeed, functional differences between slSP1 and slSPL2 (for example, in relation to target specificity) might be expected given that the two proteins share such low sequence similarity, especially in the substrate-binding intermembrane space domain
+[19] .
+However, the true nature of such functional differences must await further investigation, for example by comparing plants overexpressing slSP1 or slSPL2.
+Nonetheless, both tomato SP1 homologues play an important role in fruit ripening, as alterations in the expression of either had significant impacts on the speed and duration of fruit ripening: slSP1-OX accelerated the process, whereas slSP1-KD and slSPL2-KD both delayed the process, indicating redundant functions in fruit development (Fig. 3).
+Fruit ripening is a multifaceted process involving organoleptic changes in colour, flavour, texture and aroma.
+While these changes occur concomitantly with a dramatic plastid-type transition [6], whether chromoplast differentiation has regulatory significance within the fruit ripening process has remained poorly explored and is an open question.
+The specific role of SP1 in regulating plastid development provided us with a unique opportunity to address this question.
+First, our TEM results directly showed that SP1 controls plastid-type interconversion during fruit development: while wild-type fruit at the post-breaker stage contained predominantly immature chromoplasts with residual characteristics of chloroplasts, slSP1-KD and slSP1-OX fruit contained mainly typical chloroplasts and mature chromoplasts, respectively (Fig. 4).
+Then (and most pertinently in relation to the question posed above), we found that other aspects of fruit ripening less obviously connected to plastids were also changed, in parallel with the plastid-type changes: fruit softening occurred much more slowly in slSP1-KD and more quickly in slSP1-OX fruit, relative to wild-type fruit (Extended Data Fig.
+3b); and the characteristic metabolomic changes that occur between the green and red fruit stages were delayed in slSP1-KD fruit and accelerated in slSP1-OX fruit (Fig. 5).
+Thus, the chloroplast-to-chromoplast transition plays a central, controlling role in the ripening process as whole, and is not merely a consequence of the process.
+As a resident regulator of plastids, SP1 is not likely to control the overall ripening steps directly, given that processes such as fruit softening involve ethylene-induced transcriptional changes in the nucleus
+[7][–][10] .
+However, our data show that the manipulation of slSP1 expression influences a wide range of ripening-related genes involved in processes such as ethylene synthesis and cell wall modification (Extended Data Fig. 5).
+As chloroplasts are well known to have the ability to modify nuclear gene expression [38][,][39], our results imply that SP1-regulated chromoplast differentiation triggers retrograde signals that help to orchestrate the ripening process.
+**662** **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRE
+PLAnTS Articles
+This suggests that the ability to influence nuclear gene expression may be common among different plastid types.
+Transformation of chloroplasts into chromoplasts involves numerous pigment and metabolic changes and the reorganization of the organelle’s internal structures, all of which requires extensive reconfiguration of the plastid proteome.
+To achieve such dramatic proteomic changes in a relatively short time period, one may assume that the timely removal or exclusion of unwanted proteins is critical.
+Such post-transcriptional regulation may be more efficient and quicker than transcriptional control, especially for plastid proteins that require the additional step of protein import.
+Our previous work demonstrated how SP1 reorganizes the TOC apparatus in _Arabidopsis_
+[19] .
+In plants, TOC receptors exist in different isoforms which enable the formation of substrate-specific translocons and the operation of substrate-specific protein import pathways (for example, with preference for photosynthesis-related or housekeeping precursor proteins)
+[23][,][25][,][47] ; SP1 modifies the balance between these through selective TOC degradation [48] .
+The decline in photosynthesis-related proteins during tomato fruit development implies a need for reorganization of the TOC machinery, to accommodate a different set of precursor proteins (for example, those involved in carotenoid synthesis, lipid metabolism and chlorophyll catabolism).
+Thus, slSP1 action may allow for a more rapid fruit ripening process by facilitating plastid proteome changes through TOC reorganization.
+Consistently, the Toc159 and Toc34 receptor families in tomato comprise isoforms as diverse as those in _Arabidopsis_ and pea, implying that similar regulation exists in tomato
+[6][,][28] .
+Indeed, we observed that the abundance of a photosynthetic protein declines more quickly in slSP1-OX fruit than in wild-type fruit, but remains high in slSP1-KD fruit (Fig. 6).
+Unfortunately, it was not possible to analyse the TOC receptors themselves because the available antibodies were designed to specifically recognize individual _
+Arabidopsis_ isoforms, and consequently are ineffective in tomato.
+In the future, it will be interesting to develop a better understanding of the tomato TOC apparatus, and to analyse a greater range of plastid proteins in such experiments, to more fully appreciate the dynamics of protein import during fruit ripening in response to slSP1 regulation.
+On the basis of the similarities between slSP1-KD and slSPL2-KD plants during leaf senescence and fruit ripening, we can reasonably infer that slSPL2 influences TOC protein levels too.
+Lastly, it is worth noting that the manipulation of slSP1 or slSPL2 changed the speed of ripening rather than the quality of the fully ripened fruit (as judged in relation to colour, size, firmness, metabolites and chromoplast ultrastructure).
+This may reflect the fact that SP1 and SPL2 have partially redundant functions, so that one can compensate for the loss of the other, for example.
+Alternatively, it may signify that multiple layers of control operate during fruit ripening, so that failure of the SP1/SPL2 pathway may eventually be compensated for by other regulatory systems, such as transcriptional control or different proteolytic pathways.
+Such redundancy of regulation may, in wild-type fruit, allow for an optimal balance of short-term (post-transcriptional, for example, via protein import or proteolysis) and long-term (transcriptional) control.
+This may also explain how green tomato varieties, such as Green Flesh and Green Giant, can still soften and sweeten in spite of the fact that they do not appear to make many chromoplasts [49] .
+However, differing flesh colour does seem to influence fruit metabolite composition [50] .
+Regardless, the regulatory properties of SP1 and SPL2 imbue them with real potential for agricultural use.
+For example, early and late fruiting varieties of fleshy fruits might be developed; or the transportability and shelf-life of fruit could be improved by delaying ripening without compromising the quality of the ripe fruit.
+**Methods** **Plant growth conditions.
+** Tomatoes ( _Solanum lycopersicum_ cv.
+Ailsa Craig) were grown in Levington M2 modular compost mixed with a slow-release fertilizer, and were kept adequately watered.
+The greenhouse was kept at a constant temperature of 25 °C, with a light cycle of 16 h of light followed by 8 h of darkness.
+Dark treatments for the induction of leaf senescence were conducted using the following method that was previously described for use with _Arabidopsis_
+[19] .
+Developmentally equivalent leaves of approximately two-month-old plants were wrapped in aluminium foil while still attached to the plants, and then left under standard growth conditions for 16 to 30 d. For age-related leaf senescence analysis, leaves similar to those above were selected and marked (with paper tags), and then left uncovered as the plants were grown further under standard conditions for up to 45 d.
+In both cases, the degree of senescence was analysed by measuring chlorophyll content and photosynthetic efficiency at the beginning and end of the experiment.
+**Chlorophyll measurements.
+** Leaf chlorophyll contents were measured using a SPAD-502 meter (Konica Minolta) following the instructions from the manufacturer [51] .
+**Quantification of photosynthetic efficiency.
+** Chlorophyll fluorescence imaging was performed on freshly detached leaves using a CF imager (Technologica).
+Plants were dark-adapted for 30 min immediately before the leaves were detached for each measurement.
+The data were used to calculate the _F_ v / _
+F_ m ratio, to provide an estimation of the maximum photochemical efficiency of photosystem II in dark-adapted material [52] .
+At least three leaves (from three plants) were analysed per genotype in each experiment.
+**Identification and in silico analysis of tomato SP1 homologues.
+** Tomato SP1 homologue sequences were obtained by BLAST searches of the Phytozome, Ensembl Plants, and National Center for Biotechnology Information (NCBI) databases using the _Arabidopsis_ SP1 amino-acid sequence as a query
+[53] .
+Alignments were performed using Clustal W [54], and RNF domains were predicted based on the alignment results.
+Transmembrane domains were predicted based on the alignment results and by using Aramemnon (TmMultiCon)
+[55] .
+Sequence files were managed using DNAStar Lasergene v7.2.
+**Constructs and tomato transformation.
+**
+All primers used are listed in Supplementary Table 1.
+To generate the slSP1-OX construct, the complete coding sequence (CDS) of _slSP1_ (Solyc06g084360) was amplified from tomato complementary DNA and inserted using Gateway cloning into the pDONR201 entry vector.
+The slSP1-KD and slSPL2-KD constructs encoded artificial microRNA (amiRNA) sequences that were designed to specifically target the respective gene
+[56][,][57] .
+The amiRNA target sequences are listed in Supplementary Table 1b.
+The amiRNAs were designed using the WMD3 Web MicroRNA Designer
+[58], and carefully selected to ensure gene silencing efficiency and specificity.
+They were amplified from tomato cDNA using the primers listed in Supplementary Table 1c.
+The resulting sequences were cloned into the pRS300 vector [58] to make the amiRNA precursors, and then amplified and inserted using Gateway cloning into the pDONR201 entry vector.
+The _slSP1_ CDS and amiRNA precursor sequences (for both _slSP1_ and _slSPL2_ ) were subsequently cloned into the binary vector pK7WG2D, which contains the neomycin phosphotransferase II ( _nptII_ ) gene conferring kanamycin resistance and a green fluorescent protein (GFP) marker to aid callus selection [59], using a Gateway Clonase II kit (Invitrogen).
+This generated the pK7WG2D-slSP1 (slSP1-OX), pK7WG2D-amiRslSP1 (slSP1-KD), and pK7WG2D-amiRslSPL2 (slSPL2-KD) vectors.
+The resulting plasmids were freeze–thaw transformed into the _Agrobacterium tumefaciens_ strain GV3101 (pMP90RK)
+[60] .
+Plasmids were isolated from _Agrobacterium_ and verified by restriction digestion before use in tomato transformation experiments.
+Tomato plant transformation was conducted by following a published protocol with minor modifications [61] .
+Before _Agrobacterium_ infection, tomato cotyledon leaf segments were prepared by removing the apical and basal extremities, placed on solid KCMS medium (4.4 g l [–1] Murashige–Skoog (MS) salts with vitamins, 20 g l [–1] sucrose, 200 mg l
+[–1] KH 2 PO 4, 0.9 mg l
+[–1] thiamine, 100 μM acetosyringone, 8 g l [–1] agar, pH 5.7), and incubated at 25 °C for 24 h. Leaf segments were co-cultivated with the _Agrobacterium_ suspension (diluted in liquid KCMS medium (KCMS without agar) to a final optical density of 0.05) for 30 min with shaking.
+The segments were then dried on sterile filter paper, placed on solid KCMS medium, and incubated for 2 d at 25 °C.
+The inoculated segments were cultured on 2Z medium (4.4 g l [–1] MS salts with vitamins, 30 g l [–1] sucrose, 2 mg l
+[–1] zeatin riboside, 150 mg l [–1] timentin, 75 mg l [–1] kanamycin, 8 g l [–1] agar, pH 5.8) for shoot regeneration.
+The medium was changed every 10 to 14 d.
+Newly formed shoots were cut from the calli and placed in rooting medium (4.4 g l [–1] MS basal salts without vitamins, 30 g l [–1] sucrose, 1 mg l
+[–1] indole-3-acetic acid, 150 mg l [–1] timentin, 30 mg l
+[–1] kanamycin, 6 g l [–1] agar, pH 5.8).
+The ploidy number of the transformants was checked by counting the number of chloroplasts in guard cells, and only diploid plants were selected for further analysis [62] .
+The most suitable lines were grown to maturity, and T1 seeds were harvested.
+Transformed plants were analysed by quantitative genomic PCR of    **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**663**   ##### Articles NATuRE PLAnTS    the _nptII_ selectable marker gene in the T1 generation, to determine copy number and identify homozygous lines, and only homozygous lines with a single T-DNA insertion were selected for further analysis.
+The overexpression or silencing of _slSP1_ and _slSPL2_ in the T0 and T1 generations was assessed by RT–PCR, relative to expression in wild-type plants regenerated in parallel from tissue culture, and the data were normalized to _slACTIN_ (Solyc03g078400).
+**Subcellular localization analysis.
+**
+To produce the YFP fusion constructs for subcellular localization analysis, CDSs of _slSP1_ and _slSPL2_ without the stop codon were amplified from tomato cDNA by PCR using primers listed in Supplementary Table 1a.
+Amplicons were subsequently cloned, via pDONR201, into the plant expression vector p2GWY7 to provide a C-terminal YFP tag [63] .
+The Gateway system (Invitrogen) was used for the cloning, and both constructs were verified by DNA sequencing.
+Tomato mesophyll protoplast isolation and transient assays were both carried out using an established method, with modifications [19][,][64] .
+In brief, the first pair of leaves from approximately two-week-old plants were collected, and the abaxial epidermis was peeled off using Magic tape (3 M) and discarded.
+The peeled leaves were incubated in enzyme solution (1% cellulase ‘Onozuka’ R10 (Yakult), 0.25% macerozyme ‘Onozuka’ R10 (Yakult), 0.4 M mannitol, 10 mM CaCl 2, 20 mM KCl, 0.1% bovine serum albumin, 20 mM 2-morpholinoethanesulfonic acid, pH 5.7) for 2 h with gentle shaking.
+The released protoplasts were collected by centrifugation at 100 × _g_ for 3 min, washed twice with 25 mL pre-chilled W5 solution (154 mM NaCl, 125 mM CaCl 2, 5 mM KCl, 5 mM glucose, 2 mM MES, pH 5.7) and incubated on ice for 30 min.
+The protoplasts were then counted, collected by centrifugation at 100 × _g_ for 3 min, and resuspended in MMg solution (0.4 M mannitol, 15 mM MgCl 2, 4 mM 2-morpholinoethanesulfonic acid, pH 5.7) to a final concentration of 1 × 10 [6] cells mL [–1] .
+Approximately 0.1 mL protoplast suspension was mixed with 5 μg plasmid DNA at room temperature.
+An equal volume of a freshly prepared polyethylene glycol (PEG) solution (40% (w/v) PEG-4000 (Fluka), 0.1 M CaCl 2, 0.2 M mannitol) was added, gently mixed and incubated at room temperature for 5 min.
+After incubation, the solution was gently mixed with 1.5 mL W5 solution, and the protoplasts were pelleted by centrifugation at 100 × _g_ for 2 min.
+This protoplast W5 washing step was repeated twice more, and the protoplasts were finally incubated in 0.5 mL W5 in 24-well plates at room temperature for 15–18 h in the dark.
+Fluorescence images were captured using a Nikon Eclipse TE-2000E inverted microscope and NIS Elements v4.00 software (Nikon)
+[19][,][65] .
+Fluorescence signals were analysed with filters for YFP (exciter HQ500/20x, emitter HQ535/30 m) and chlorophyll autofluorescence (exciter D480/30x, emitter D660/50 m) (Chroma Technology).
+All experiments were conducted at least twice with the same results, and typical images are shown.
+**Analysis of tomato plant DNA and RNA.
+**
+Extraction of tomato DNA and RNA, and qRT–PCR were performed using the following established methods [36][,][65] .
+In brief, DNA and RNA extractions were done using a DNeasy Plant Mini Kit (Qiagen) and a Spectrum Plant Total RNA Kit (Sigma-Aldrich), respectively.
+Reverse transcription was performed by using SuperScript IV Reverse Transcriptase (Invitrogen).
+For qRT–PCR, a PowerUp SYBR Green Master Mix Kit (Applied Biosystems) and a StepOnePlus Real-Time PCR System (Applied Biosystems) were employed.
+The primers used for PCR amplification are shown in Supplementary Table 1d.
+Gene expression data were normalized using data for _slACTIN_ .
+For qRT–PCR analysis of different tissues: root, stem and leaf tissues from four-week-old tomato plants, and petal and sepal flower parts from two-month-old tomato plants, were used.
+For qRT–PCR analysis of fruit, samples were collected from the fruit mesocarp of developing (0.5 cm fruit diameter), pre-mature green (dark green), mature green (light green), breaker, pink and red fruit stages, with later stages being differentiated using a chroma meter (model CR 400, Konica Minolta)
+[33] .
+**Fruit ripening analysis.
+**
+The ripening analysis was carried out using fruits selected at the onset of the breaker stage.
+Fruits at the breaker stage were harvested and placed in a Percival growth chamber without lights, at a constant temperature of 25 °C, with 60% humidity.
+Then, fruit colour values were recorded daily through to the mature red stage.
+Fruit colour was measured by reflectance using a chroma meter (model CR 400, Konica Minolta), which records values of _a_ */ _b_ *, an established indicator of colour development and maturation in tomato
+[66][,][67] .
+Konica Minolta _a_ */ _b_ - values of tomatoes correspond to the following US Department of Agriculture colour stages
+[33] : breaker, −0.47; turning, −0.27; pink, 0.08; light red, 0.60; red, 0.95.
+Each fruit was measured at four different positions at the bottom of the fruit, and a mean value was calculated and used.
+**Fruit size.
+**
+The maximal lateral diameter of tomato fruit was measured using a digital caliper (150 mm, Fisher Scientific Traceable) when the fruit reached breaker stage.
+As noted above, the fruits were then detached from the plant and incubated at 25 °C in the dark for use in ripening analysis.
+**Fruit firmness.
+**
+Fruit firmness was measured using a Durofel XF basic durometer (Agrosta Sarl).
+An average value derived from four readings recorded at four    different points on the circumference of each fruit was calculated and used.
+The firmness measurement scale was 0–100 durometer units.
+Values >70 units  indicated hard tomatoes, and those <60 units indicated soft tomatoes [68] .
+**Transmission electron microscopy.
+** Tomatoes were sampled near the base of the fruit using a scalpel, and the pieces were transferred to a Leica AMW sample basket for microwave processing (microwave-assisted chemical fixation was performed to increase speed of fixation and reduce plasmolysis).
+Fresh fixative was used for each batch, and consisted of: 2.5% (v/v) glutaraldehyde plus 4% paraformaldehyde (w/v) in 0.1 M sodium cacodylate buffer, pH 6.9.
+After fixation, samples were incubated at room temperature for 5 h and then transferred to 4 °C for 2 d. Subsequent processing steps were performed with microwave assistance.
+Samples were transferred to AMW baskets and then processed in the Leica AMW using Program 1 (buffer wash; staining with 2% osmium tetroxide (w/v) plus 1.5% potassium ferricyanide (w/v) in 0.1 M sodium cacodylate buffer, pH 6.9; water washing; en-bloc staining with 2% uranyl acetate (w/v); water washing; first part of ethanol dehydration) and, following a reagent change, Program 2 (ethanol and acetone dehydration; then infiltration with TAAB Hard Plus epoxy resin).
+Following completion of Program 2, the baskets were disassembled and samples were submerged in fresh 100% TAAB Hard Plus epoxy resin and placed on a rotator for 24 h. Samples were then embedded in fresh resin in flat-dish embedding moulds and polymerized at 65 °C for 48 h. Semithin (500 nm) and ultrathin (90 nm) sections were taken from each block using a Leica UC7 ultramicrotome equipped with a Ditome diamond knife.
+Semithin sections were transferred to glass slides and stained with Toluidine blue for preliminary inspection.
+Ultrathin sections were transferred to formvar-coated 50-mesh copper grids or 2 mm × 1 mm slot grids and post-stained for 5 min with lead citrate.
+Grids were imaged at 120 kV in a FEI Tecnai 12 TEM using a Gatan OneView camera.
+Quantitative data were derived from at least 30 different plastids per genotype, or >50 different plastoglobules per genotype, and are representative of three individuals per genotype.
+**Profiling of tomato fruit metabolites.
+** Sample preparation and metabolite profiling of tomato fruit tissues were carried out using established methods.
+Tomatoes were sampled exactly as described above for TEM analysis, taking equivalent tissue.
+The samples were immediately covered with aluminium foil and subjected to freeze-drying in an Alpha 2–4 LD (Martin Christ) for at least 2 d.
+The freeze-dried fruit pieces were ground into a fine powder in liquid nitrogen, and were then stored at −80 °C or used in subsequent HPLC, ion chromatography mass spectrometry (IC–MS) and GC–MS analyses.
+For HPLC analysis of pigments, approximately 15 mg fruit tissue powder was mixed with 1 mL hexane/acetone/methanol (2:1:1) as an extraction solvent and 25 µL of a 10% (w/v) solution of canthaxanthin (Sigma) in chloroform as an internal control.
+The mixture was vortexed for 10 s and lysed using 4 mm glass beads for 1 min at 30 Hz in a TissueLyser II (Qiagen) homogenizer.
+After adding 100 μL milli-Q water and mixing for 1 min in the TissueLyser, samples were centrifuged for 3 min at 500 × _g_ and 4 °C.
+The organic phase was evaporated using a SpeedVac system, and the extracted pigments were resuspended in 200 μL acetone by using an ultrasound bath (Labolan).
+Separation and detection of carotenoids was next performed using an Agilent 1200 series HPLC system (Agilent Technologies)
+[17] .
+Eluting chlorophylls and carotenoids were monitored using a photodiode array detector, whereas tocopherols were identified using a fluorescence detector.
+Peak areas of chlorophylls (650 nm), coloured carotenoids (470 nm for lycopene, β-carotene, lutein and canthaxanthin), phytoene (280 nm), and tocopherols (330 nm) were determined using Agilent ChemStation HPLC 2D 32 bit, version G2175BA, software.
+Quantification was performed by comparison with commercial standards (Sigma).
+For IC–MS analysis, approximately 50 mg fruit powder was further homogenized in a Precellys Evolution homogenizer (Bertin Instrument) with 500 μL of 100% methanol solvent (a 100 mg mL [–1] final ratio) and ceramic beads; homogenization was undertaken in two steps, each at 100% power for 10 s with a 20 s interval between steps to prevent sample heating.
+Samples were filtered through Ultra Centrifugal Filters (10 kD cut-off; Amicon) to remove proteins, and processed using a Dionex Ultimate 3000 UHPLC system (Dionex) coupled to a Q-Exactive HF hybrid quadrupole-Orbitrap mass spectrometer (Thermo Scientific)
+[69] .
+The data were analysed using Progenesis QI version 2.0 for small molecules (Waters).
+For GC–MS, metabolites were extracted by mixing approximately 10 mg fruit powder with 400 μL of 100% methanol solvent and 60 μL of a 0.1 mg mL [–1] solution of ribitol (Sigma-Aldrich) as an internal standard.
+Extraction was done by brief vortexing and then shaking for 15 min at 70 °C.
+Samples were centrifuged for 10 min at 20,000 × _g_, and then the supernatants were further extracted by mixing with 250 μL chloroform and 500 μL water through vortexing.
+After centrifugation for 15 min at 2000 × _g_, 100 μL polar phase was analysed using an Intuvo 9000 GC system (Agilent Technologies) coupled to a 5977 Series MSD detector (Agilent Technologies)
+[70] .
+The data were analysed using Agilent MassHunter Workstation software, Quantitative Analysis, version B.08.00 for GC–MS.
+In Fig. 5: phytoene, lycopene, lutein, chlorophylls and tocopherols were detected by HPLC; neoxanthin, caffeic acid, galacturonic acid, arginine,    **664** **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### NATuRE
+PLAnTS Articles    methionine and glycerol were detected by IC–MS; glutamic acid, alanine, glycine, serine and lysine were detected by GC–MS.
+**Tomato protein extraction.
+** Tomato leaf protein extraction was conducted following a procedure similar to that described previously for _Arabidopsis_
+[71] .
+Approximately 20 mg leaf tissue was used for each sample, and only leaf lamina tissue was collected to avoid the thick midvein.
+Tomato fruit protein extraction was performed using a published method [72] .
+Tomato fruit tissue was ground in liquid N 2 to a fine powder using a TissueLyser (Qiagen) at 20 Hz for 1 min. Ground tissue samples (1 g) were each suspended in 3 mL extraction buffer (500 mM Tris-HCl, 50 mM EDTA, 700 mM sucrose, 100 mM KCl, pH 8.0; 2% (v/v) β-mercaptoethanol and 1 mM phenylmethylsulfonyl fluoride were added just before use) by vortexing, and incubated on ice with shaking for 10 min.
+An equal volume of Tris-buffered phenol was added to each sample, and samples were incubated with shaking (180 rpm) at room temperature for 10 min.
+After centrifugation at 5500 × _g_ and 4 °C for 10 min (all centrifugation steps below were similar), the upper phenolic phase was recovered in each case, and an additional 3 mL extraction buffer was added and mixed thoroughly before further centrifugation.
+The phenolic phase was again recovered to a new tube, and then four volumes of precipitation solution (0.1 M ammonium acetate in cold methanol) was added per sample, with mixing by inverting the tubes.
+Samples were incubated at −20 °C for 4 h or overnight, and then proteins were pelleted by centrifugation.
+Pellets were washed three times with ice-cold precipitation solution, and finally with ice-cold acetone; after each washing step, the samples were centrifuged.
+The final pellet was dried under vacuum for 1 h, and then resuspended in 2× protein loading buffer (4% (w/v) SDS, 20% (v/v) glycerol, 120 mM Tris-HCl, pH 6.8, 50 mM dithiothreitol, 0.02% (w/v) bromophenol blue).
+**SDS–PAGE, immunoblotting and quantification.
+**
+For SDS–PAGE, immunoblotting and quantification thereof, procedures were as previously described [73][,][74] .
+Total protein samples of 10 to 20 μg, prepared from tomato leaf or fruit, were typically analysed.
+Primary antibodies were: anti-atToc75-III (TOC, 75 kD)
+[75], anti-atTic40 (TIC, 40 kD)
+[65], anti-PsbO/OE33 (33 kD)
+[19][,][76], anti-PsaD [77], anti-PGL35 (Agrisera)
+[78] and anti-H3 histone (Abcam)
+[65] .
+Secondary antibody was anti-rabbit immunoglobulin G conjugated with horseradish peroxidase (Santa Cruz Biotechnology).
+Chemiluminescence was measured using an EZ-ECL Chemiluminescence Detection Kit (Geneflow) and an ImageQuant LAS-4000 imager (GE Healthcare Life Sciences).
+Bands intensities were quantified in silico using Aida image analyzer software v4.27 (Raytest).
+Quantification data were obtained from the results of at least three experiments all showing a similar trend, and typical images are shown.
+**Statistical analysis.
+** Statistical calculations (mean, s.e.m. and _t_ -test) were performed using GraphPad Prism v8.3.0 software.
+The statistical significance of differences between two experimental groups was assessed by using an unpaired two-tailed Student’s _t_ -test.
+Differences between two datasets were considered significant at _P_ < 0.05.
+The wild type was used as the reference group for all statistical analyses.
+**Reporting Summary.
+**
+Further information on research design is available in the Nature Research Reporting Summary linked to this article.
+**Data availability**
+All data generated or analysed during this study are included in this published article or its Supplementary Information.
+Source data are provided with this paper.
+Received: 18 August 2020; Accepted: 6 April 2021; Published online: 18 May 2021   **References** 1.
+Alexander, L. & Grierson, D. Ethylene biosynthesis and action in tomato: a model for climacteric fruit ripening.
+_
+J. Exp.
+Bot.
+_
+**53**, 2039–2055 (2002).
+2. Klee, H. J. & Giovannoni, J. J. Genetics and control of tomato fruit ripening and quality attributes.
+_
+Annu.
+Rev. Genet.
+_
+**45**, 41–59 (2011).
+3. Seymour, G. B., Ostergaard, L., Chapman, N. H., Knapp, S. & Martin, C. Fruit development and ripening.
+_
+Annu.
+Rev. Plant Biol._
+**64**, 219–241 (2013).
+4.
+Llorente, B., D’Andrea, L. & Rodriguez-Concepcion, M. Evolutionary recycling of light signaling components in fleshy fruits: new insights on the role of pigments to monitor ripening.
+_
+Front.
+Plant Sci._ **7**, 263 (2016).
+5.
+Jarvis, P. & López-Juez, E. Biogenesis and homeostasis of chloroplasts and other plastids.
+_
+Nat.
+Rev. Mol.
+Cell Biol.
+_
+**14**, 787–802 (2013).
+6. Sadali, N. M., Sowden, R. G., Ling, Q. & Jarvis, R. P. Differentiation of chromoplasts and other plastids in plants.
+_
+Plant Cell Rep._ **38**, 803–818 (2019).
+7. Barsan, C. et al.
+Characteristics of the tomato chromoplast revealed by proteomic analysis.
+_
+J. Exp.
+Bot._
+**61**, 2413–2431 (2010).
+8.
+Egea, I. et al.
+Chromoplast differentiation: current status and perspectives.
+_
+Plant Cell Physiol.
+_
+**51**, 1601–1611 (2010).
+9.
+Li, L. & Yuan, H. Chromoplast biogenesis and carotenoid accumulation.
+_
+Arch._ _
+Biochem.
+Biophys.
+_
+**539**, 102–109 (2013).
+10.
+Pesaresi, P., Mizzotti, C., Colombo, M. & Masiero, S. Genetic regulation and structural changes during tomato fruit development and ripening.
+_
+Front.
+_ _
+Plant Sci._
+**5**, 124 (2014).
+11.
+Barsan, C. et al.
+Proteomic analysis of chloroplast-to-chromoplast transition in tomato reveals metabolic shifts coupled with disrupted thylakoid biogenesis machinery and elevated energy-production components.
+_
+Plant_ _Physiol.
+_
+**160**, 708–725 (2012).
+12.
+Suzuki, M. et al.
+Plastid proteomic analysis in tomato fruit development.
+_PLoS
+ONE_ **10**, e0137266 (2015).
+13.
+Szymanski, J. et al. Label-free deep shotgun proteomics reveals protein dynamics during tomato fruit tissues development.
+_
+Plant J._ **90**, 396–417 (2017).
+14.
+Dalal, M., Chinnusamy, V. & Bansal, K. C. Isolation and functional characterization of lycopene beta-cyclase (CYC-B) promoter from _Solanum_ _habrochaites_ .
+_
+BMC Plant Biol.
+_
+**10**, 61 (2010).
+15.
+Llorente, B. et al.
+Synthetic conversion of leaf chloroplasts into carotenoid-rich plastids reveals mechanistic basis of natural chromoplast development.
+_
+Proc.
+Natl Acad.
+Sci.
+USA_ **117**, 21796–21803 (2020).
+16.
+Pech, J. C., Bouzayen, M. & Latché, A. in _Fruit Ripening: Physiology, Signaling_ _and Genomics_ (eds Nath, P. & Bouzayen, M.) 28–47 (CAB International, 2014).
+17. D’Andrea, L. et al.
+Interference with Clp protease impairs carotenoid accumulation during tomato fruit ripening.
+_
+J. Exp.
+Bot._
+**69**, 1557–1568 (2018).
+18. D’Andrea, L. & Rodriguez-Concepcion, M. Manipulation of plastidial protein quality control components as a new strategy to improve carotenoid contents in tomato fruit.
+_
+Front.
+Plant Sci._ **10**, 1071 (2019).
+19.
+Ling, Q., Huang, W., Baldwin, A. & Jarvis, P. Chloroplast biogenesis is regulated by direct action of the ubiquitin–proteasome system.
+_
+Science_ **338**, 655–659 (2012).
+20.
+Pan, R., Satkovich, J. & Hu, J. E3 ubiquitin ligase SP1 regulates peroxisome biogenesis in _Arabidopsis_ .
+_
+Proc.
+Natl.
+Acad.
+Sci.
+USA_ **113**, E7307–E7316 (2016).
+21.
+Ling, Q., Li, N. & Jarvis, P. Chloroplast ubiquitin E3 ligase SP1: does it really function in peroxisomes?
+_
+Plant Physiol.
+_
+**175**, 586–588 (2017).
+22.
+Ling, Q. et al.
+Ubiquitin-dependent chloroplast-associated protein degradation in plants.
+_
+Science_ **363**, eaav4467 (2019).
+23.
+Jarvis, P. Targeting of nucleus-encoded proteins to chloroplasts in plants (Tansley Review).
+_New Phytol.
+_
+**179**, 257–285 (2008).
+24.
+Schnell, D. J.
+The TOC GTPase receptors: regulators of the fidelity, specificity and substrate profiles of the general protein import machinery of chloroplasts.
+_
+Protein J._ **38**, 343–350 (2019).
+25.
+Demarsy, E., Lakshmanan, A. M. & Kessler, F. Border control: selectivity of chloroplast protein import and regulation at the TOC-complex.
+_
+Front.
+Plant_ _
+Sci._
+**5**, 483 (2014).
+26.
+Li, H. M. & Chiu, C. C. Protein transport into chloroplasts.
+_
+Annu.
+Rev. Plant_ _Biol._
+**61**, 157–180 (2010).
+27.
+Shi, L. X. & Theg, S. M.
+The chloroplast protein import system: from algae to trees.
+_
+Biochim.
+Biophys.
+Acta_ **1833**, 314–331 (2013).
+28.
+Yan, J., Campbell, J. H., Glick, B. R., Smith, M. D. & Liang, Y. Molecular characterization and expression analysis of chloroplast protein import components in tomato ( _Solanum lycopersicum_ ).
+_PLoS
+ONE_ **9**, e95088 (2014).
+29.
+Lim, P. O., Kim, H. J. & Nam, H. G. Leaf senescence.
+_
+Annu.
+Rev. Plant Biol._
+**58**, 115–136 (2007).
+30.
+Hou, X., Zhang, W., Du, T., Kang, S. & Davies, W. J. Responses of water accumulation and solute metabolism in tomato fruit to water scarcity and implications for main fruit quality variables.
+_
+J. Exp.
+Bot._
+**71**, 1249–1264 (2020).
+31.
+Gray, J. E., Picton, S., Giovannoni, J. J. & Grierson, D.
+The use of transgenic and naturally occurring mutants to understand and manipulate tomato fruit ripening.
+_
+Plant Cell Environ.
+_
+**17**, 557–571 (1994).
+32.
+López Camelo, A. F. & Gómez, P. A. Comparison of color indexes for tomato ripening.
+_
+Hortic.
+Bras._
+**22**, 534–537 (2004).
+33.
+Batu, A. Determination of acceptable firmness and colour values of tomatoes.
+_J. Food Eng._
+**61**, 471–475 (2004).
+34.
+Zeng, Y. et al.
+A comprehensive analysis of chromoplast differentiation reveals complex protein changes associated with plastoglobule biogenesis and remodeling of protein systems in sweet orange flesh.
+_
+Plant Physiol.
+_
+**168**, 1648–1665 (2015).
+35.
+Martel, C., Vrebalov, J., Tafelmeyer, P. & Giovannoni, J. J.
+The tomato MADS-box transcription factor RIPENING INHIBITOR interacts with promoters involved in numerous ripening processes in a COLORLESS NONRIPENING-dependent manner.
+_
+Plant Physiol.
+_
+**157**, 1568–1579 (2011).
+36.
+Pan, Y. et al.
+Network inference analysis identifies an APRR2-like gene linked to pigment accumulation in tomato and pepper fruits.
+_
+Plant Physiol.
+_ **161**, 1476–1485 (2013).
+**Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)
+**665**   ##### Articles NATuRE PLAnTS    37.
+Rigano, M. M., Lionetti, V., Raiola, A., Bellincampi, D. & Barone, A. Pectic enzymes as potential enhancers of ascorbic acid production through the D-galacturonate pathway in Solanaceae.
+_
+Plant Sci._
+**266**, 55–63 (2018).
+38.
+Chan, K. X., Phua, S. Y., Crisp, P., McQuinn, R. & Pogson, B. J. Learning the languages of the chloroplast: retrograde signaling and beyond.
+_
+Annu.
+Rev._ _
+Plant Biol.
+_
+**67**, 25–53 (2016).
+39.
+Zhao, X., Huang, J. & Chory, J. Unraveling the linkage between retrograde signaling and RNA metabolism in plants.
+_Trends Plant Sci._
+**25**, 141–147 (2020).
+40.
+Wu, G. Z. & Bock, R. GUN control in retrograde signaling: How GENOMES UNCOUPLED proteins adjust nuclear gene expression to plastid biogenesis.
+_
+Plant Cell_ **33**, 457–474 (2021).
+41.
+Chen, Y. et al.
+Formation and change of chloroplast-located plant metabolites in response to light conditions.
+_
+Int.
+J. Mol.
+Sci._ **19**, 654 (2018).
+42.
+Carrari, F. et al.
+Integrated analysis of metabolite and transcript levels reveals the metabolic shifts that underlie tomato fruit development and highlight regulatory aspects of metabolic network behavior.
+_
+Plant Physiol.
+_ **142**, 1380–1396 (2006).
+43.
+Ling, Q. & Jarvis, P. Regulation of chloroplast protein import by the ubiquitin E3 ligase SP1 is important for stress tolerance in plants.
+_
+Curr.
+Biol.
+_
+**25**, 2527–2534 (2015).
+44.
+Woo, H. R., Kim, H. J., Lim, P. O. & Nam, H. G. Leaf senescence: systems and dynamics aspects.
+_
+Annu.
+Rev. Plant Biol._
+**70**, 347–376 (2019).
+45.
+Wang, R., Angenent, G. C., Seymour, G. & de Maagd, R. A.
+Revisiting the role of master regulators in tomato ripening.
+_Trends Plant Sci._
+**25**, 291–301 (2020).
+46.
+Gao, W., Liu, W., Zhao, M. & Li, W. X. _NERF_ encodes a RING E3 ligase important for drought resistance and enhances the expression of its antisense gene _
+NFYA5_ in _Arabidopsis_ .
+_
+Nucleic Acids Res._
+**43**, 607–617 (2015).
+47.
+Teng, Y. S., Chan, P. T. & Li, H. M. Differential age-dependent import regulation by signal peptides.
+_PLoS Biol._
+**10**, e1001416 (2012).
+48.
+Kessler, F. Chloroplast delivery by UPS.
+_
+Science_ **338**, 622–623 (2012).
+49.
+Cheung, A. Y., McNellis, T. & Piekos, B. Maintenance of chloroplast components during chromoplast differentiation in the tomato mutant _green_ _flesh_ .
+_
+Plant Physiol.
+_
+**101**, 1223–1229 (1993).
+50.
+Dono, G. et al.
+Color mutations alter the biochemical composition in the San Marzano tomato fruit.
+_
+Metabolites_ **10**, 110 (2020).
+51.
+Parry, C., Blonquist, J. M. Jr & Bugbee, B.
+In situ measurement of leaf chlorophyll concentration: analysis of the optical/absolute relationship.
+_
+Plant_ _
+Cell Environ.
+_
+**37**, 2508–2520 (2014).
+52.
+Gálvez-Valdivieso, G. et al.
+The high light response in _Arabidopsis_ involves ABA signaling between vascular and bundle sheath cells.
+_
+Plant Cell_ **21**, 2143–2162 (2009).
+53.
+Goodstein, D. M. et al.
+Phytozome: a comparative platform for green plant genomics.
+_
+Nucleic Acids Res._
+**40**, D1178–D1186 (2012).
+54.
+Thompson, J. D., Higgins, D. G. & Gibson, T. J. CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice.
+_
+Nucleic_ _Acids Res._
+**22**, 4673–4680 (1994).
+55.
+Schwacke, R. et al.
+ARAMEMNON, a novel database for _Arabidopsis_ integral membrane proteins.
+_
+Plant Physiol.
+_
+**131**, 16–26 (2003).
+56.
+Ossowski, S., Schwab, R. & Weigel, D. Gene silencing in plants using artificial microRNAs and other small RNAs.
+_
+Plant J._ **53**, 674–690 (2008).
+57.
+Fernandez, A. I. et al.
+Flexible tools for gene expression and silencing in tomato.
+_
+Plant Physiol.
+_
+**151**, 1729–1740 (2009).
+58.
+Schwab, R., Ossowski, S., Riester, M., Warthmann, N. & Weigel, D. Highly specific gene silencing by artificial microRNAs in _Arabidopsis_ .
+_
+Plant Cell_ **18**, 1121–1133 (2006).
+59.
+Karimi, M., Inze, D. & Depicker, A. GATEWAY vectors for _Agrobacterium_ mediated plant transformation.
+_
+Trends Plant Sci._
+**7**, 193–195 (2002).
+60.
+Chetty, V. J. et al. Evaluation of four _Agrobacterium tumefaciens_ strains for the genetic transformation of tomato ( _Solanum lycopersicum_ L.) cultivar Micro-Tom. _
+Plant Cell Rep._ **32**, 239–247 (2013).
+61.
+Sun, H. J., Uchii, S., Watanabe, S. & Ezura, H. A highly efficient transformation protocol for Micro-Tom, a model cultivar for tomato functional genomics.
+_
+Plant Cell Physiol.
+_
+**47**, 426–431 (2006).
+62.
+Koornneef, M. et al.
+Chromosomal instability in cell- and tissue cultures of tomato haploids and diploids.
+_
+Euphytica_ **43**, 179–186 (1989).
+63.
+Karimi, M., De Meyer, B. & Hilson, P. Modular cloning in plant cells.
+_
+Trends_ _Plant Sci._
+**10**, 103–105 (2005).
+64.
+Wu, F. H. et al.
+Tape- _
+Arabidopsis_ Sandwich - a simpler _Arabidopsis_ protoplast isolation method.
+_
+Plant Methods_ **5**, 16 (2009).
+65.
+Kasmati, A. R., Töpel, M., Patel, R., Murtaza, G. & Jarvis, P. Molecular and genetic analyses of Tic20 homologues in _Arabidopsis thaliana_ chloroplasts.
+_
+Plant J._ **66**, 877–889 (2011).
+66.
+Hobson, G. E., Adams, P. & Dixon, T. J. Assessing the color of tomato fruit during ripening.
+_J. Sci.
+Food Agric._
+**34**, 286–292 (1983).
+67.
+Pathare, P. B., Opara, U. L. & Al-Said, F. A. Colour measurement and analysis in fresh and processed foods: a review.
+_Food Bioproc.
+Tech.
+_
+**6**, 36–60 (2013).
+68.
+Arazuri, S., Jarén, C., Arana, J. I. & de Ciriza, J. P. Influence of mechanical harvest on the physical properties of processing tomato ( _Lycopersicon_ _esculentum_ Mill.).
+_J. Food Eng._
+**80**, 190–198 (2007).
+69.
+Walsby-Tickle, J. et al.
+Anion-exchange chromatography mass spectrometry provides extensive coverage of primary metabolic pathways revealing altered metabolism in IDH1 mutant cells.
+_
+Commun.
+Biol.
+_
+**3**, 247 (2020).
+70.
+Lisec, J., Schauer, N., Kopka, J., Willmitzer, L. & Fernie, A. R. Corrigendum: Gas chromatography mass spectrometry-based metabolite profiling in plants.
+_
+Nat.
+Protoc.
+_
+**10**, 1457 (2015).
+71.
+Aronsson, H. et al.
+Nucleotide binding and dimerization at the chloroplast pre-protein import receptor, atToc33, are not essential in vivo but do increase import efficiency.
+_
+Plant J._ **63**, 297–311 (2010).
+72.
+Faurobert, M., Pelpoir, E. & Chaib, J. Phenol extraction of proteins for proteomic studies of recalcitrant plant tissues.
+_
+Methods Mol.
+Biol.
+_
+**355**, 9–14 (2007).
+73.
+Kovacheva, S. et al.
+In vivo studies on the roles of Tic110, Tic40 and Hsp93 during chloroplast protein import.
+_
+Plant J._ **41**, 412–428 (2005).
+74.
+Kovacheva, S., Bédard, J., Wardle, A., Patel, R. & Jarvis, P. Further in vivo studies on the role of the molecular chaperone, Hsp93, in plastid protein import.
+_
+Plant J._ **50**, 364–379 (2007).
+75.
+Huang, W., Ling, Q., Bédard, J., Lilley, K. & Jarvis, P.
+In vivo analyses of the roles of essential Omp85-related proteins in the chloroplast outer envelope membrane.
+_
+Plant Physiol.
+_
+**157**, 147–159 (2011).
+76.
+Suorsa, M. & Aro, E. M. Expression, assembly and auxiliary functions of photosystem II oxygen-evolving proteins in higher plants.
+_
+Photosynth.
+Res._
+**93**, 89–100 (2007).
+77.
+Andersen, B., Koch, B. & Scheller, H. V. Structural and functional analysis of the reducing side of photosystem I. _Physiol.
+Plant.
+_
+**84**, 154–161 (1992).
+78.
+Luo, T. et al.
+Distinct carotenoid and flavonoid accumulation in a spontaneous mutant of Ponkan ( _Citrus reticulata_ Blanco) results in yellowish fruit and enhanced postharvest resistance.
+_
+J. Agric.
+Food Chem.
+_
+**63**, 8601–8614 (2015).
+79.
+Li, W. et al.
+Genome-wide and functional annotation of human E3 ubiquitin ligases identifies MULAN, a mitochondrial E3 that regulates the organelle’s dynamics and signaling.
+_PLoS
+ONE_ **3**, e1487 (2008).
+80.
+Hruz, T. et al.
+Genevestigator v3: a reference expression database for the meta-analysis of transcriptomes.
+_
+Adv.
+Bioinformatics_ **2008**, 420747 (2008).
+**Acknowledgements**
+We thank E. Johnson and R. Dhaliwal for transmission electron microscopy conducted in the Sir William Dunn School of Pathology EM Facility, D. Hauton and J. McCullagh for IC–MS conducted in the Mass Spectrometry Research Facility in the Department of Chemistry, P. Bota for GC–MS conducted in the Department of Plant Sciences, P. Bota and R. Ross for technical assistance, P. Pulido for assistance with the pigment analysis, and M. R. Rodriguez Goberna for HPLC conducted at CRAG, Spain.
+This work was supported by a Khazanah-Oxford Centre for Islamic Studies Merdeka Scholarship to N.M.S., by Strategic Priority Research Program (Type-B; project number: XDB27020107), Chinese Academy of Sciences to Q.L., by the Spanish Agencia Estatal de Investigación (grants BIO2017-84041-P and BIO2017-90877-REDT) to M.R.-C., and by the Biotechnology and Biological Sciences Research Council (BBSRC; grants BB/H008039/1, BB/K018442/1, BB/N006372/1, BB/R005591/1, BB/R009333/1 and BB/R016984/1) to R.P.J.   **Author contributions**  Q.L. and N.M.S. designed and conducted the experiments, analysed the data and wrote the manuscript.
+Z.S., Y. Zhou, Y. Zeng and B.H. assisted with the fruit phenotypical analyses, qRT–PCR, immunoblotting, preparation of samples for the TEM and metabolomic experiments and data analysis.
+M.R.-C. performed the HPLC analysis of pigments and analysed the results.
+R.P.J. conceived the study, supervised the work, analysed the data and wrote the manuscript.
+**Competing interests**
+The application of CHLORAD as a technology for crop improvement is covered by a patent application (no. WO2019/171091 A).
+**Additional information**  **Extended data**
+[is available for this paper at https://doi.org/10.1038/s41477-021-00916-y.](https://doi.org/10.1038/s41477-021-00916-y)   **Supplementary information**
+The online version contains supplementary material
+[available at https://doi.org/10.1038/s41477-021-00916-y.](https://doi.org/10.1038/s41477-021-00916-y)   **Correspondence and requests for materials** should be addressed to R.P.J.   **Peer review information** _
+Nature Plants_ thanks the anonymous reviewers for their contribution to the peer review of this work.
+**Reprints and permissions information**
+[is available at www.nature.com/reprints.](http://www.nature.com/reprints)
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+© The Author(s), under exclusive licence to Springer Nature Limited 2021, corrected publication 2021    **666** **Nature Plants**
+[| VOL 7 | May 2021
+| 655–666 | www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### **NATuRE PLAnTS Articles**  **Extended Data Fig.
+1 |** **Expression profiles of the** _**slSP1**_ **and** _**slSPL2**_ **genes.
+**
+The expression profiles shown are based on Affymetrix GeneChip data and were generated using the Development ( **a** ) and Anatomy ( **b** ) functions of Genevestigator
+[80] .
+Data from ATH arrays are shown in scatter-plot diagrams.
+In **a**, the x-axis represents the following developmental stages, from left to right: young seedling, developed seedling, flower, green fruit, ripening fruit, and mature fruit.
+Values are means ± s.e.m., and for each data point the number of samples is indicated.
+Medium expression levels are defined as the interquartile range (IQR; light grey boxes); values below the IQR are defined as low expression (white boxes), and values above the IQR are defined as high expression (HIGH; dark grey boxes).
+The presented data provide a complement to the data in Fig.
+1d, and confirm that _
+slSPL2_ is generally more weakly expressed than  _slSP1_ .
+**Nature Plants**
+[| www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### **Articles NATuRE PLAnTS**  **Extended Data Fig.
+2 |** **Assessment of the extent of knockdown or overexpression of the** _**slSP1**_ **and** _**slSPL2**_ **genes in the transgenic tomato plants.
+** Total leaf RNA was extracted from two-week-old tomato plants of the indicated genotypes; three independent T1 generation transformants (#1-3) were analysed for each construct.
+Quantitative RT–PCR analysis of _slSP1_ and _slSPL2_ expression was performed on the corresponding transgenic lines, in comparison with wild-type controls, as indicated.
+Relative gene expression levels were calculated by normalization using the reference gene, _slACTIN_ .
+All values are expressed relative to the corresponding value for wild type, which in each case is set to 1.
+Values are means ± s.e.m.
+( _n_ = 3
+[WT-1, slSPL2-KD #2 and #3], 4 [slSP1-KD #3], or 5 [all other genotypes] technical replicates).
+**Nature Plants**
+[| www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### **NATuRE PLAnTS Articles**  **Extended Data Fig.
+3 |** **Determination of tomato fruit sizes.
+** Measurement of the maximal equatorial diameter of breaker-stage tomato fruit, from T2 generation transgenic plants, was performed using a calliper.
+The fruits were then detached from the plants and incubated at 25 °C in the dark for the ripening analysis presented in Fig.
+3. Values are means ± s.e.m.
+( _n_ = 26-27 fruits per genotype).
+The data demonstrate that fruit size in the slSP1-KD, slSP1-OX and slSPL2-KD transgenic lines at breaker stage was not significantly different from that in the wild type, as revealed by an unpaired two-tailed Student’s _t-_ test ( _P_ = 0.4125
+[slSP1-KD], 0.7132 [slSP1-OX], and 0.8001
+[slSPL2-KD]).
+This rules out the possibility of nonspecific effects due to fruit size differences, which is important because ripening in detached tomato fruit is dependent on proper maturation up to the mature green stage [17] .
+**Nature Plants**
+[| www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### **Articles NATuRE PLAnTS**  **Extended Data Fig.
+4 |** **Determination of firmness of detached tomato fruits.
+**
+Fruit firmness was measured using a durometer at the breaker (Day 1) and red stages ( **a** ) ( _n_ = 20-28 [breaker stage] or 10-13 [red stage] fruits per genotype); or at specific days post breaker stage ( **b** ) ( _n_ = 20-28 [Day 1, Day 5, Day 9], 10-13 [Day 12], or 10-12 [Day 14] fruits per genotype).
+Note that slSP1-OX fruit at Day 14 were too soft to give a reading using the durometer.
+All values are means ± s.e.m.
+The fruit used in this analysis were randomly chosen from the fruit populations of T2 generation plants used in the ripening analysis in Fig.
+3.
+**Nature Plants**
+[| www.nature.com/natureplants](http://www.nature.com/natureplants)   ##### **NATuRE PLAnTS Articles**  **Extended Data Fig.
+5 |** **Analyses of the effects of slSP1 on ripening-related gene expression.
+** Total fruit RNA was extracted from wild-type (WT), slSP1-KD (KD), and slSP1-OX (OX) tomato plants at the Day 8 post-breaker stage (Day 8) stage and the red stage (the same fruit as those used in Fig. 6).
+Relative mRNA expression levels were analysed by qRT–PCR using primers specific for genes encoding ethylene synthesis ( **a** ), cell wall modification ( **b** ), carotenoid biosynthesis ( **c** ), and master, ripening-related transcription factors ( **d** ).
+It was reported previously that all of these ripening-related genes are upregulated during fruit ripening; typically, in wild-type fruit, their transcript levels will reach a peak at the pink stage, and then reduce at the red stage [35][–][37] .
+Correspondingly, in our analysis, wild-type fruit at the Day 8 post-breaker stage (pink-looking) show higher expression levels than fruit at the red stage.
+Although the slSP1-KD and slSP1-OX fruits both showed similar lower mRNA levels of ripening-related genes at the red stage, at Day 8 they showed striking differences in mRNA levels.
+In general, slSP1-KD fruit (green-looking) had markedly reduced mRNA levels, while slSP1-OX fruit (red-looking) had gene expression levels in between those of wild-type and slSP1-KD fruits.
+Overall, these results indicated that slSP1-KD fruit show delayed transcriptional changes of ripening-related genes relative to wild-type fruit, whereas slSP1-OX fruit displayed accelerated transcriptional changes relative to wild-type fruit.
+Expression data for the genes of interest were normalized using data for the reference gene, _slACTIN_ .
+All values are expressed relative to the corresponding value for wild type, which in each case is set to 1.
+Values are means ± s.e.m.
+of three replicates. _ACO1_, _1-Aminocyclopropane-1-carboxylate_ _oxidase 1_ ; _ACS2/4_, _1-Aminocyclopropane carboxylic acid synthase 2/4_ ; _NR_, _Never ripe_ ; _PME_, _
+Pectin methylesterase_ ; _PG2a_, _
+Polygalacturonase 2a_ ; _PDS_, _Phytoene_ _desaturase_ ; _PSY1_, _Phytoene synthase 1_ ; _RIN_, _
+Ripening inhibitor_ ; _TDR4_, _
+Agamous-like MADS-box protein AGL8 homolog_ .
+**Nature Plants**
+[| www.nature.com/natureplants](http://www.nature.com/natureplants)
+Corresponding author(s): R. P. Jarvis   Last updated by author(s): Mar 24, 2021  ### Reporting Summary   Nature Research wishes to improve the reproducibility of the work that we publish.
+This form provides structure for consistency and transparency in reporting.
+For further information on Nature Research policies, see our Editorial Policies and the Editorial Policy Checklist.
+###### Statistics   For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed   The exact sample size ( _n_ ) for each experimental group/condition, given as a discrete number and unit of measurement   A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly   The statistical test(s) used AND whether they are one- or two-sided _
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+_
+A description of all covariates tested   A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons   A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)   For null hypothesis testing, the test statistic (e.g. _F_, _t_, _r_ ) with confidence intervals, effect sizes, degrees of freedom and _P_ value noted  _Give P values as exact values whenever suitable._
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings   For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes   Estimates of effect sizes (e.g. Cohen's _d_, Pearson's _r_ ), indicating how they were calculated   _
+Our web collection on_ _statistics for biologists contains articles on many of the points above.
+_  |/a|Co| |---|---| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||   ###### Software and code   Policy information about availability of computer code   Data collection Band quantification following electrophoresis and/or immunoblotting was conducted using Aida Image Analyzer v4.27 (Raytest).
+Electron micrographs were captured using a Tecnai 12 TEM (FEI).
+Photosynthetic performance was recorded using a CF Imager chlorophyll fluorescence imaging system (Technologica).
+Chlorophyll levels of mature plants were measured using a SPAD-502 meter (Konica Minolta).
+Fruit colour index was measured using a Chroma Meter Model CR 400 (Konica Minolta).
+Epifluorescence microscope images were captured using NIS Elements v4.00 (Nikon).
+HPLC data were collected using an Agilent 1200 series HPLC system (Agilent Technologies).
+IC-MS data were collected using a Dionex Ultimate 3000 UHPLC system (Dionex) coupled to a Q-Exactive HF Hybrid Quadrupole-Orbitrap mass spectrometer (Thermo Scientific).
+GC-MS data were collected using an Intuvo 9000 GC system (Agilent Technologies) coupled to a 5977 Series MSD detector (Agilent Technologies).
+Data analysis Statistical analyses (mean, standard error of the mean, and Student’s t-test) were conducted using Graphpad Prism v8.3.0.
+Routine sequence analyses were conducted using DNAStar Lasergene v7.2.
+1   ~~Sequence alignments were performed using Clustal W (http://www.clustal.org/clustal2/).~~  HPLC data were analysed using Agilent ChemStation HPLC 2D 32 bit, version G2175BA.
+IC-MS data were analysed using Progenesis QI version 2.0 for small molecules (Waters).
+GC-MS data were analysed using Agilent MassHunter Workstation Software, Quantitative Analysis, version B.08.00 for GC-MS.
+Primers for amiRNA construction were designed using the WMD3 Web MicroRNA Designer platform (http://wmd3.weigelworld.org/cgi-bin/ webapp.cgi?page=Help).
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and reviewers.
+We strongly encourage code deposition in a community repository (e.g. GitHub).
+See the Nature Research guidelines for submitting code & software for further information.
+###### Data   Policy information about availability of data   All manuscripts must include a data availability statement.
+This statement should provide the following information, where applicable:      - Accession codes, unique identifiers, or web links for publicly available datasets     - A list of figures that have associated raw data     - A description of any restrictions on data availability   Amino acid sequences were obtained from the Phytozome (https://phytozome.jgi.doe.gov/pz/portal.html), Ensembl Plants (http://plants.ensembl.org/index.html), and National Center for Biotechnology Information (NCBI) (https://www.ncbi.nlm.nih.gov/) databases.
+Public microarray data for gene expression analysis were obtained using the Genevestigator V3 analysis tool (https://genevestigator.com/).
+The following data availability statement is included in the manuscript: "All data generated or analysed during this study are included in this published article or its supplementary information."  #### - Field specific reporting   Please select the one below that is the best fit for your research.
+If you are not sure, read the appropriate sections before making your selection.
+Life sciences Behavioural & social sciences Ecological, evolutionary & environmental sciences   For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf  #### Life sciences study design   All studies must disclose on these points even when the disclosure is negative.
+Sample size No statistical measures were used to predetermine sample size.
+The sample sizes were determined based on those used in previous, similar reports in the literature.
+Unless specifically noted otherwise in the figure legends or Methods, we performed at least three biological replicates for each experiment, which is typical for this type of experimental analysis and usually sufficient for reliable conclusions to be drawn.
+The phenotypes of tomato plants were highly consistent, with minimal variation.
+Data exclusions No data were excluded from the analyses.
+Replication As reported in the figure legends, main text, and Methods, the findings were reliably reproduced.
+Multiple mutant alleles and transgenic plants were examined.
+The experiments were repeated on different days.
+Randomization For physiological, molecular and cell biological experiments, plants of the different genotypes were randomly selected to mitigate potential variation due to environmental factors.
+Samples were allocated into experimental groups dependent on the genotype.
+Blinding For physiological experiments, plants were selected randomly without consideration of genotype until the point of data analysis, and similar results were obtained by 2-3 co-authors with independent samples.
+For molecular and cell biological experiments, blinding was not required because the results of such measurements are directly obtained through softwares, and thus are not affected by knowledge of sample identities.  #### Reporting for specific materials, systems and methods   We require information from authors about some types of materials, experimental systems and methods used in many studies.
+Here, indicate whether each material, system or method listed is relevant to your study.
+If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+2   Materials & experimental systems  |n/a|Col2|Involved in the study<br>Antibodies<br>Eukaryotic cell lines<br>Palaeontology and archaeology<br>Animals and other organisms<br>Human research participants<br>Clinical data<br>Dual use research of concern| |---|---|---| |n/a|||   ###### Antibodies    Methods   |n/a|Col2|Involved in the study<br>ChIP-seq<br>Flow cytometry<br>MRI-based neuroimaging| |---|---|---| |n/a|||    Antibodies used Primary antibodies used in this study were as follows (relevant publications are cited in square brackets, and full reference information for these papers is provided in the manuscript): anti-atToc75-III antibody (1:1000)
+[76], anti-atTic40 antibody (1:100000)
+[66], anti-PsbO/OE33 antibody (1:10000)
+[19,77], antiPsaD antibody (1:5000)
+[78], anti-PGL35 antibody (1:1000; Agrisera, Cat# AS06 116)
+[79] and anti-H3 histone antibody (1:1000; AbCam, Cat# ab1791)
+[66].
+Secondary antibody was anti-rabbit immunoglobulin G (IgG) conjugated with horseradish peroxidase (1:5000; Santa Cruz Biotechnology, Cat# SC-2004).
+Validation All antibodies were validated by immunoblotting in previously published work, and relevant citations have been provided.
+Commercial antibodies were validated by the manufacturers as indicated on their web sites: Rabbit anti-PGL35 antibody was validated in Arabidopsis for immunoblotting by manufacturer (https://www.agrisera.com/en/ artiklar/pgl35-arabidopsis-thaliana-plastoglobule-marker.html).
+Rabbit anti-H3 histone antibody was validated in Arabidopsis for immunoblotting by manufacturer (https://www.abcam.com/ histone-h3-antibody-nuclear-marker-and-chip-grade-ab1791.html).
+3

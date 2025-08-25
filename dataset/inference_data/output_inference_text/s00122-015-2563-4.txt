@@ -1,0 +1,516 @@
+# **Wide‑genome QTL mapping of fruit quality traits in a tomato** **RIL population derived from the wild‑relative species Solanum** **pimpinellifolium L.**  **Carmen Capel** **[1]** **· Asunción Fernández del Carmen** **[2]** **· Juan Manuel Alba** **[3]** **·** **Viviana Lima‑Silva** **[3]** **· Francesc Hernández‑Gras** **[4]** **· María Salinas** **[1]** **· Albert Boronat** **[4]** **·** **Trinidad Angosto** **[1]** **· Miguel A. Botella** **[3]** **· Rafael Fernández‑Muñoz** **[3]** **·** **Antonio Granell** **[2]** **· Juan Capel** **[1]** **· Rafael Lozano** **
+[1]**   Received: 22 December 2014 /
+Accepted: 13 June 2015 / Published online: 12 July 2015 © Springer-Verlag Berlin Heidelberg 2015    **Abstract**  _**Key message**_ **QTL and candidate genes associated** **to fruit quality traits have been identified in a tomato** **genetic map derived from** _**Solanum pimpinellifolium**_ **L.,** **providing molecular tools for marker-assisted breeding.
+** _
+Abstract_
+The study of genetic, physiological, and molecular pathways involved in fruit development and ripening has considered tomato as the model fleshy-fruited species par excellence.
+Fruit quality traits regarding organoleptic and nutritional properties are major goals for tomato breeding programs since they largely decide the acceptance of tomato in both fresh and processing markets.
+Here we report the genetic mapping of single-locus and epistatic   Communicated by H.-Q. Ling.
+**Electronic supplementary material**
+The online version of this [article (doi:10.1007/s00122-015-2563-4) contains supplementary](http://dx.doi.org/10.1007/s00122-015-2563-4) material, which is available to authorized users.
+- Rafael Lozano  rlozano@ual.es   1 Departamento de Biología y Geología (Genética), Edificio CITE II‑B, Centro de Investigación en Biotecnología Agroalimentaria (BITAL), Universidad de Almería, Carretera de Sacramento s/n, 04120 Almería, Spain   2 Instituto de Biología Molecular y Celular de Plantas (UPV‑CSIC), Universidad Politécnica de Valencia, 46022 Valencia, Spain   3 Instituto de Hortofruticultura Subtropical y Mediterránea La Mayora, Universidad de Málaga-Consejo Superior de Investigaciones Científicas, 29750 Algarrobo‑Costa, Málaga, Spain   4 Departamento de Bioquímica y Biología Molecular, Facultad de Biología, Universidad de Barcelona, 08028 Barcelona, Spain    quantitative trait loci (QTL) associated to the fruit size and content of sugars, acids, vitamins, and carotenoids from the characterization of a RIL population derived from the wild-relative _Solanum pimpinellifolium_ TO-937.
+A genetic map composed of 353 molecular markers including 13 genes regulating fruit and developmental traits was generated, which spanned 1007 cM with an average distance between markers of 2.8 cM. Genetic analyses indicated that fruit quality traits analyzed in this work exhibited transgressive segregation and that additive and epistatic effects are the major genetic basis of fruit quality traits.
+Moreover, most mapped QTL showed environment interaction effects.
+_FrW7.1_ fruit size QTL co-localized with QTL involved in soluble solid, vitamin C, and glucose contents, dry weight/ fresh weight, and most importantly with the _Sucrose Phos‑_ _phate Synthase_ gene, suggesting that polymorphisms in this gene could influence genetic variation in several fruit quality traits.
+In addition, _1_ - _deoxy_ - _D_ - _xylulose 5_ - _phosphate_ _synthase_ and _
+Tocopherol cyclase_ genes were identified as candidate genes underlying QTL variation in beta-carotene and vitamin C. Together, our results provide useful genetic and molecular information regarding fruit quality and new chances for tomato breeding by implementing marker assisted selection.
+**Introduction**   Tomato, _Solanum lycopersicum_
+L., is one of the most relevant horticultural crops in the world because tomato fruit is a major dietary component in many countries being an important source of sugars, minerals, vitamins, and antioxidant compounds (Raiola et al. 2014).
+Most of these compounds are soluble solids, which contribute to the flavor and processed product yield, and reduce the energy cost of  ## 1 3   2020 Theor Appl Genet (2015) 128:2019–2035    dehydration in processing tomato production (Rick 1974).
+Among the most important nutrients of tomato, l -ascorbic acid or vitamin C is essential for cardiovascular function, immune cell development, and iron utilization (Zou et al. 2006).
+Other nutrients like carotenoids, apart from their functions in tomato fruit ripening, are antioxidants that play an important role in immune system stimulation and preventing cancer and heart diseases (Heber and Lu 2002).
+The red carotenoid pigment, lycopene, responsible for the mature tomato fruit color, is an important indicator of fruit quality and the main attribute for food-processing tomato industries (Stevens and Rick 1986).
+Lycopene is not an essential nutrient but it has reported beneficial effects on human health, such as reducing the risk of suffering certain cancers and metastasis (Meadows 2012).
+Traditionally, fresh markets and food industry have demanded tomato varieties with improved agronomic characteristics such as increased production and resistances, but currently, higher content of nutraceutical compounds is demanded by consumers and producers.
+Wild relative species of tomato have been used as donors of some of these fruit quality traits.
+However, most of these characters, and other agronomic traits like yield and tolerance to biotic or abiotic stresses, are under regulation of several genes, often collectively referred to as polygene or quantitative trait loci (QTL).
+Therefore, in order to localize these QTL, several linkage maps have been developed from more than 20 mapping populations derived from interspecific crosses between cultivated tomato and their related wild species such as _S. cheesmaniae_, _S. chmielews‑_ _kii_, _S. neorickii, S. habrochaites,_ and _S. pennelli_ (reviewed by Foolad 2007).
+In these maps, different QTL have been identified for one or a few of the main important traits in tomato breeding and even in a small number of cases the gene responsible for the main-effect QTL has been cloned from its map position, i.e., _fw2.2_ (Frary et al. 2000).
+Despite this successful case, phylogenetic distance between most of these wild species and the cultivated one makes unfeasible or at least tedious and inefficient the simultaneous introgression of several traits/QTL into the breeding  programs.
+Compared to other wild relatives, _S. pimpinellifolium_ L. has many desirable traits and significantly fewer unwanted characteristics.
+Thus, several genetic linkage maps have been developed based on different _S. lycopersicum_
+× _S._ _pimpinellifolium_ crosses (Grandillo and Tanksley 1996;
+Chen and Foolad 1999; Lippman and Tanksley 2001; Doganlar et al. 2002; Sharma et al. 2008; Ashrafi et al. 2009).
+However, most of these maps were developed based on non-permanent populations and all of them contain a high proportion of dominant markers.
+This, together with the fact that the wild accessions used as parental line did not show enough desirable agronomical traits, reduces the  ## 1 3    utility of these maps for tomato breeding purposes.
+Selection of a more appropriated parental donor and stable segregating populations should permit better resolution and usefulness of oncoming genetic maps.
+Recently, a new _S. pimpinellifolium_ accession named TO-937, which has many interesting horticultural and agronomic characteristics, has been described (FernandezMuñoz et al. 2000) and a permanent recombinant inbred lines (RIL) population from a cross between TO-937, and the well-characterized tomato cultivar Moneymaker was developed (Alba et al. 2009).
+A RIL population has many advantages over other populations that are used for genetic mapping and QTL analysis because each line has a fixed genotype, and the whole population can be distributed and replicated for use in experiments in different laboratories and environments (Ashrafi et al. 2009).
+This feature is crucial to quantify the effect of genotype × environment (GxE) interaction within a QTL analysis of agronomic traits, especially for fruit quality characters.
+Additionally, a RIL population is more efficient than the _F_ 2 population from the same parents because fewer individuals are needed to detect linkage of the same magnitude between markers and QTL (Burr and Burr 1991).
+In this study, a genetic linkage map based on the RIL population from the TO-937 × Moneymaker cross has been generated.
+This new map includes a high number of markers (105 SSRs, 233 SNPs, and 15 InDels), all of them codominant, and spans a higher distance than other tomato genetic maps, with an average distance between markers lower than any other interspecific linkage maps generated from previous _S. lycopersicum_
+× _S. pimpinellifolium_ crosses.
+The mapping population includes 169 RIL that were evaluated for fruit quality traits during two growing seasons.
+Statistically significant QTL were mapped for characters related to yield as well as soluble solids content, sugars, acidity, organic acids, carotenoids, and vitamin C content.
+The ultimate goal of this work is the identification of genes involved in the inheritance of all these characters.
+Therefore, the map reported here contains a high number of candidate genes and QTL, and the latter being co-localized with genes controlling agronomic traits analyzed in this work.
+We discussed the usefulness of the QTL identified in future tomato breeding programs, as well as novel epistatic relationships between QTL and the QTL × Environment interaction (QTL × E) effects.
+**Materials and methods**   **Plant material**   A plant of _S. lycopersicum_ cv.
+Moneymaker was crossed to a plant of _S. pimpinellifolium_ accession TO-937   Theor Appl Genet (2015) 128:2019–2035 2021    (Fernandez-Muñoz et al. 2000) to produce _
+F_ 1 seeds.
+Selfing of a single _F_ 1 plant generated an _F_ 2 segregating population.
+A more advanced segregating plant population composed of 169 recombinant inbred lines (RIL) was generated by single seed descendent (SSD) until the _F_ 8 generation was reached.
+Four to six biological replicates of each RIL were used for tissue collection, marker genotyping and phenotypic characterization.
+The agronomic characterization of the RIL was performed during two environmental conditions, a winter– spring and a summer–autumn growing cycles.
+In all cases biological replicates of each RIL, the two parental lines and the _F_ 1 were grown in a plastic greenhouse under standard commercial growing conditions previously described (Alba et al. 2009).
+Fruits to be analyzed were collected at red stage and weighted.
+For each growing cycle, at least twelve fruits per RIL were frozen in liquid nitrogen and kept at −80 ºC until homogenization using a laboratory grinder (IKA A11 Analytical Mill) with its knife and chamber pre-chilled with liquid nitrogen.
+Resulting homogenated fruit fine powder was used for metabolite analyses.
+**Determination of total soluble solids content (TSS),** **titratable acidity (TA), pH, and dry weight/fresh weight** **(Dw/Fw)**   TSS content (ºBrix) was assessed using an ATAGO PR-100 digital refractometer.
+For titratable acidity determination, 1 ml of the juice was added to 100 ml water and titrated with NaOH 0.01 N (freshly made from a commercial valorated stock of 0.1 N) using a semi-automatic titrator (Schott TitroLine easy) to a final endpoint of pH 8.1.
+TA was expressed as meq NaOH/100 ml juice.
+The pH of the fruits was also determined.
+About 10 ml of thawed juice were weighted and then dried at 80 °C for 3 days and weighted to calculate the Dw/Fw ratio.
+**Determination of sugar and organic acids**   One g of frozen fruit pericarp powder was placed in 80 % ethanol, and sugars and organic acids were extracted from the tissue by heating it to 70 °C as previously described (Miron and Shaffer 1991).
+Sugars were analyzed using HPLC on a SugarPak column (Waters), taking as reference the retention time of standard samples as well as their  refractive index.
+The citric acid and malic acid content were  determined by HPLC, using anion exchange resin, Spherisorb S5C8 (Waters), and an UV–VIS light detector set at 210 nm wavelength.
+Chromatographic data were handled using TotalChrom™ Workstation software (PerkinElmer).
+**Determination of vitamin C**   Ascorbic acid extraction was performed as follows: 1 ml of extraction buffer (2 % m-phosphoric acid, 2 mM EDTA)    was added to 0.15 mg of pericarp frozen powder.
+Samples were vortexed until thawing and were kept on ice for 20 min.
+Then, they were spun down, filtered, and carefully transferred to an HPLC vial on ice.
+Vitamin C (Ascorbic acid) content in fruit tissue was determined using an HPLC equipment (Jasco) with a reversed-phase column (Gemini [®] 3 μm C18 Phenomenex, Inc.; Kromasil C18, Scharlau) using ultraviolet detection (254 nm).
+The HPLC mobile phase was 0.1 M NaH 2 PO 4 and 0.2 mM Na 2 EDTA, pH 3.1 adjusted with orthophosphoric acid.
+**Carotenoids**   Lycopene, b-carotene, and a-tocopherol were extracted and then analyzed using HPLC (C30 reverse-phase stationary matrix) coupled to a continuous photodiode array detection system using a modification of the method described by Fraser et al. (2000).
+The changes consisted in the use of hexane–acetone–methanol (2:1:1) for sample extraction, using dichloromethane to dissolve the extracted samples, and increasing the HPLC gradient to 100 % methyl _tert_ butyl ether.
+**DNA isolation and marker analysis**   Leaves from parents and progeny plants were collected, quickly frozen in liquid nitrogen and finally ground using a Retsch MM301 mixer mill shaker at maximum speed.
+DNA was isolated from 100 mg of powdered leaf tissue using DNA easy Plant Mini Kit.
+Total DNA concentration was estimated by comparison with DNA standards after electrophoresis in 0.8 % agarose gels in 1XTBE (Tris–borate-EDTA).
+Sets of SNP (Single Nucleotide Polymorphism), SSR (Simple Sequence Repeat), and InDel (insertion/deletion) markers  were obtained from the “Solanaceae Genomics Network”
+[(http://solgenomics.net) and the Tomato Mapping Resource](http://solgenomics.net)
+[Database (http://tomatomap.net/).
+Among these markers were](http://tomatomap.net/)
+the following genes: _GDP mannose epimerase1_ ( _GME1_ ), _GDP mannose pyrophosphorylase1_ ( _GMP1_ ), _Geranyl pyroph‑_ _osphate synthase_ ( _GPS_ ), _Galactose dehydrogenase_ ( _GalDH_ ), _Monodehydroascorbate reductase2_ ( _MDHAR2_ ), _Lycopene_ _beta_ - _cyclase_ ( _CRTL1_ ), _Geranylgeranyl pyrophosphate syn‑_ _thase2_ ( _GGPS2_ ), and _Isopentenyl diphosphate isomerase_ ( _IPI_ ).
+Another set of microsatellite markers was selected from previously published results (Smulders et al. 1997; Areshchenkova and Ganal 1999).
+Marker analysis of the RIL population _S. lycopersicum_ × _
+S. pimpinellifolium_ was carried out according to the standard PCR protocols and one of each primer pair was labeled with an Applied Biosystems fluorescent label.
+Simple sequence repeats (SSR) and InDel loci were amplified in a 10 µl reaction mixture containing 10 ng of template DNA, 50 ng of each primer, and 100 µM of dNTPs, 1.5 mM of MgCl 2, 0.2 units of RedTaq DNA polymerase, and 1 × Taq  ## 1 3   2022 Theor Appl Genet (2015) 128:2019–2035    buffer supplied with the enzyme (Sigma-Aldrich).
+PCR reactions were performed in an Eppendorf Mastercycler epgradientS thermocycler.
+The samples were denatured at 94 °C for 3 min, followed by 30 cycles consisting of 94 °C for 15 s, 55 °C for 30 s, and 72 °C for 1 min. SSR and InDel fragments were resolved using a fluorescent dye (FAM, VIC, NED, or PET), and the PCR products were separated by capillary electrophoresis using a DNA sequencer (ABI PRISM [®] 3130 XL Genetic Analyser, Applied Biosystems, USA).
+An internal size marker, GeneScan 500 LIZ (35-500 bp; Applied Biosystems), was added, allowing the multiplexing of differently labeled reactions in the same run.
+Data regarding selectively amplified DNA fragments were analyzed with GeneMapper [®] Software 3.7 (Applied Biosystems).
+Allelic discrimination of SNP genotyping products by high-resolution melting (HRM) analysis was achieved by detecting the difference in melting temperature between the different PCR fragments amplified by each allele.
+Genomic DNA (10 ng) was mixed with 5 μl of HotShotMastermix (Taq DNA Polymerase, anti-Taq monoclonal antibodies in 2×
+Reaction buffer with 400 μM dNTP and Stabiliser), 1 μl LCGreen™ Plus + (Idaho Technology Inc.), 1 μl of 10 μM primers, and completed to 10 μl with MQ water according to manufacturer recommendations (Clent Life Science, UK).
+The HRM PCRs were performed in FramStar 96-well plates (4titude, UK) using the following conditions: 94 °C, 10 min; 45 cycles of two steps, 94 °C, 30 s, 60 °C, 30 s; and a denaturation step of 30 s at 94 °C and renaturation by cooling to 26 °C.
+Reactions were analyzed and genotyped using a LightScanner [®] System (Idaho Technology Inc., USA) following standard protocols (Montgomery et al. 2007) as described previously (Salinas et al. 2013).
+**Linkage mapping**   JoinMap
+[®] 4 software (van Ooijen 2006) was used to generate the linkage maps.
+A logarithm of odds ratio (LOD) of 9.0 was established to consider significant linkage, and genetic map construction was performed using Kosambi mapping function (Kosambi 1944) with the following JoinMap parameters: Rec = 0.3, LOD = 2.0, and Jump = 5.   **QTL analysis**   Quantitative data for QTL analysis were the trait mean values of the RILs at each growing cycle experiment.
+QTLNetwork 2.0 software (Yang et al. 2008) was used to identify candidate QTL regions for quality traits, single-locus QTL, epistatic QTL (E-QTL) and their environment interaction effects (QTL × environment, QE; and E-QTL × environment, E-QE) across environments (growing cycles).
+The mixed-model is based on composite  ## 1 3    interval mapping method (MCIM).
+It was carried out for both one-dimensional genome scan in order to detect putative QTL and their environment interactions, and twodimensional genome scan for epistasis.
+An experimentalwide significant level of 0.05 was designated for candidate interval selection, putative QTL detection, and QTL effect.
+Both testing and filtration window sizes were set at 10 cM, with a walk speed of 1 cM. The critical _F_ value to identify a QTL was determined by 1000 permutation test.
+Epi static and environment interaction effects were estimated  using the MCMC (Markov Chain Monte Carlo) method.
+QTL with only genetic effects were expressed regardless of the environment.
+QTL with environment interaction were found to have environmentally dependent expression.
+The genetic map and the QTL detected were drawn using MapChart 2.2 software (Voorrips 2002).
+Other statistical analyses of the data were performed with SPSS19 statistical package.
+**Results**   **Fruit quality characterization of the** _**S.**_ _**lycopersicum**_ × _**S. pimpinellifolium**_ **RIL population**
+The RIL population was cultivated during two growing cycles and the following fruit quality traits were evaluated: fruit weight, total soluble solids, glucose, fructose, fructose/glucose ratio, dry weight/fresh weight ratio, titratable acidity, pH, citric acid, malic acid, vitamin C, lycopene, and beta-carotene.
+The mean of the phenotypic values observed for the analyzed traits in the parental lines, _F_ 1 and RIL segregating families are presented in Table 1.
+All the analyzed traits showed continuous variation and transgressive segregation in the RIL population typical of quantitative traits as it is shown for the vitamin C (VitC) content (Fig. 1; see Supplemental Fig. 1 for the rest of analyzed traits).
+Whereas some of the RIL showed slightly lower VitC content (average 18.01 mg/100 g FW) than the cultivated parent Moneymaker (18.55 mg/100 g FW), other showed higher VitC content (74.01 mg/100 g FW) than the wild parental line (44.47 mg/100 g FW), being the mean  VitC content of the RIL more than double that the VitC  content of the cultivated parental line (Fig. 1).
+Several correlations between the traits analyzed during the winter and summer growing seasons were found (Table 2) and are  detailed below.
+**Development of a genetic linkage map based on a RIL** **population**
+In order to generate a genetic map of the RIL population, we genotyped the 169 lines with a total of 353 codominant   Theor Appl Genet (2015) 128:2019–2035 2023    **Table 1**
+Agronomic characteristic of the parental lines, the _F_ 1 and the range of variation of the analyzed traits in the RIL population
+Trait
+[a] _S. lycopersicum_ _
+S. pimpinellifolium_ _
+F_ b1 RIL [c]  cv.
+Moneymaker [b] TO-937
+[b]   Fruit weight (FrW), g 1.51–58.24  Total soluble solids (TSS), ºBrix 3.45 8.50 5.76 2.63–10.20  Glucose (Glu), μg/mg FW 4.93 7.98 4.58 0.00–29.22  Fructose (Fru), μg/mg FW 5.78 10.47 5.46 0.00–34.99  Fructose/glucose (Fru/Glu)
+1.17 1.29 1.19 0.64–3.13  Dry weight/fresh weight (Dw/Fw) 0.05 0.12 0.09 0.06–0.14  Titratable acidity (TA), 3.78 8.10 5.69 2.19–8.56 meqNaOH/100 ml juice   pH 4.34 4.45 4.61 4.02–5.31  Citric acid (CA), μg/mg FW 1.08 1.17 1.44 0.00–8.93  Malic acid (MA), μg/mg FW 0.63 0.71 0.44 0.00–9.05  Vitamin C (VitC), mg/100 g FW 18.55 44.47 51.78 18.01–74.01  Lycopene (Lyc), μg/g DW 732.12 812.95 1288.28 229.58–2286.24   Beta-carotene (B-c), μg/g DW 66.29 54.55 94.81 18.77–260.29   a Fresh weight (FW) or dry weight (DW)
+b Mean values of the growing cycles   c Range of variation observed in the RIL population    **Fig.
+1** Vitamin C content in the fruits of the RIL population.
+_
+Center_ _lines_ show the average values, whereas _box limits_ indicate the 25th and 75th percentiles as determined by R software.
+_
+Whiskers_ extend 1.5 times the interquartile range from the 25th and 75th percentiles and outliers are represented by _dots_ .
+For this trait, the sample size was 163 and 169 for the _first_ (winter–spring) and _second_ (summer– autumn) growing seasons, respectively   markers, which include 105 SSRs, 233 SNPs, and 15 InDels.
+To increase our understanding of the genetic basis of fruit quality traits, we also identified SNPs in the sequence of candidate genes like those involved in the synthesis of vitamin C such as _GME1_, _GMP1_, _GalDH,_ and _MDHAR2_ (Stevens et al. 2007), and use this information to map them.
+The same approach was used to map genes involved in lycopene biosynthesis such as _GPS_, _GGPS2_, _
+CRTL1,_ and _IPI.
+_
+We also mapped the _1_ - _deoxy_ - _d_ - _xylulose 5_ - _phosphate syn‑_ _
+thase_ ( _DXS_ ) gene because it appeared to limit carotenoid biosynthesis during tomato fruit ripening (Lois et al. 2000).
+Other genes controlling characters of agronomic interest, such as _Fw2.2_ (Frary et al. 2000) and _Self Pruning_ (Pnueli et al. 1998), were also genotyped and mapped in the population.
+The genetic map we obtained with these data covered a genetic length of 1007 cM with an average distance between markers of 2.8 cM (Fig. 2), these values being similar to other genetic maps based on populations from _S. lycoper‑_ _sicum_
+× _S_ .
+_
+pimpinellifolium_ crosses (Sharma et al. 2008;
+Ashrafi et al. 2009).
+The resulting genetic linkage map consisted of 12 linkage groups, and on average, 29 markers were evenly distributed in each chromosome, providing a uniform coverage of the genome.
+Chromosome length varied from 65 cM (chromosome 8) to 101 cM (chromosome 11), with an average length of 84 cM. Skewed segregation was observed on all chromosomes and, in general, was in favor of both alleles without distinction.
+This phenomenon has been repeatedly reported in the _S. lycopersicum_
+× _S._ _pimpinellifolium_ genetic maps previously published (Villalta et al. 2005;
+Sharma et al. 2008; Ashrafi et al. 2009).
+**QTL analysis**   _Fruit weight (FrW)_
+A negative trait of accession TO-937 is the small size of their fruits, a characteristic of all _S. pimpinellifolium_ accessions.
+Fruit weight (FrW) was found significantly correlated with several fruit quality traits such as titratable acidity (TA) and total solid soluble (TSS) content of the fruits (Table 2).
+In order to identify QTL associated with FrW, an analysis was carried out on the newly developed  ## 1 3   2024 Theor Appl Genet (2015) 128:2019–2035   **Table 2** Correlations between agronomic traits analyzed in the RIL population   **Frw**  **VitC** w 0.117  **VitC** s −0.003 **VitC**  **TA** w −0.257** 0.304**  **TA** s −0.423** −0.042 **TA**  **pH** w 0.008 0.493** 0.476**  **pH** s 0.006 −0.083 −0.337** **pH**  **CA** w −0.052 0.071 0.215** 0.167*  **CA** s 0.053 −0.150 0.100 0.261** **CA**  **MA** w −0.021 0.131 0.163* 0.179* 0.795**  **MA** s 0.242**
+−0.073 −0.083 0.168* 0.711** **MA**  **TSS** w −0.261** 0.415** 0.776** 0.563** 0.281** 0.250**  **TSS** s −0.415** 0.229** 0.490** −0.070 −0.024 −0.122 **TSS**  **Glu** w −0.058 0.173* 0.199** 0.241** 0.082 0.090 0.304**  **Glu** s −0.292** 0.127 0.183* −0.181* −0.418
+** −0.462** 0.555** **Glu**  **Fru** w −0.048 0.222** 0.210** 0.247** 0.013 0.039 0.337** 0.884**  **Fru** s
+−0.306** 0.101 0.154*
+−0.145 −0.430** −0.509** 0.500** 0.970** **Fru**  **Fru/Glu** w 0.135 0.149 0.123 0.113 0.017 −0.006 0.093 −0.207**
+−0.091  **Fru/Glu** S 0.167* −0.076 −0.122 0.115 0.058 −0.023 −0.215** −0.193* −0.009 **Fru/Glu**  **Lyc** w 0.028 0.293** 0.353** 0.470**
+−0.038 −0.029 0.321** 0.116 0.128 0.169*  **Lyc** s −0.021 0.087
+−0.096 0.191* 0.149 0.082 −0.070 −0.035 −0.028 −0.099 **Lyc**  **Dw/Fw** w −0.432** 0.007 0.243** −0.106 0.044 0.040 0.382** 0.122 0.136
+−0.059 −0.028  **Dw/Fw** s na na na na na na na na na na na **Dw/Fw**  **B-c** w 0.070 0.296** 0.178* 0.291**
+−0.046 −0.064 0.181* 0.234** 0.236** 0.060 0.489** 0.043   **B-c** s 0.067 0.302**
+−0.003 −0.095 −0.042 0.063 −0.052 −0.096 −0.120
+−0.027 0.192*
+−0.009   The sign of the correlation coefficient indicates the direction of correlations   _w_ winter–spring growing cycle, _s_ summer–autumn growing cycle, _na_ data not available or not analyzed in that growing season  - Significant correlation (P ≤ 0.05), ** Highly significant correlation (P ≤ 0.001)    _S. lycopersicum_
+× _S. pimpinellifolium_ genetic map using QTLNetwork 2.0 (Yang et al. 2008).
+Seven main-effect QTL were detected for FrW, which were located on chromosomes 1, 2, 7, and 11 (Fig.
+2; Table 3).
+All these QTL had positive additive effects indicating that alleles from the cultivated species increased the phenotypic value of this trait (Table 3).
+The largest effect QTL was _FrW2_, which is flanked by _fw2.2_, a major gene regulator of tomato fruit size (Frary et al. 2000), suggesting that _fw2.2_ is responsible for near 15 % of the phenotypic variation in fruit weight observed in the RIL population.
+Together, the seven maineffects QTL explain more than 49 % of the phenotypic variance observed in FrW (Table 3) although none of them showed additive by environment interaction (AE) effects.
+_
+Total soluble solids (TSS), glucose (Glu), fructose (Fru),_ _and fructose/glucose (Fru/Glu)_
+Total soluble solids content is the most important contributor to tomato processing quality (Grandillo et al. 1999) and is a major determinant of fruit quality for fresh-market  ## 1 3    **Fig.
+2** Genetic linkage map of tomato constructed based on a RIL population of a cross between _S. lycopersicum_ cv.
+Moneymaker and the TO-937 accession of _S. pimpinellifolium_ .
+Twelve linkage groups were constructed using 105 SSRs, 233 SNPs and 15 InDels.
+The names of the marker and their map position are shown at the _right_ and _left_ of the chromosomes, respectively. _
+Boxes_ at the _right_ of the chromosomes indicate the positions of QTL for the fruit quality traits analyzed   consumption (Stevens et al. 1977).
+As expected, TSS was correlated with glucose (Glu) and fructose (Fru) contents (Table 2).
+A total of seven additive QTL for TSS in the RIL population were identified which were located on chromosomes 1, 2, 3, 5, 7, and 12.
+The QTL located on chromosome 2, _TSS2_, explained the highest contribution to the variance of the trait with a value of 14.8 %.
+Together, the seven QTL could account for 45.3 % of the phenotypic variance and six of them had negative additive values, indicating that positive alleles were provided by _S. pimpinel‑_ _lifolium_ (Table 4).
+The QTL located on chromosome 1, _TSS1_, was also involved in additive interactions (AE) with environment 1 (first growing cycle).
+This AE interaction   Theor Appl Genet (2015) 128:2019–2035 2025  ## 1 3   2026 Theor Appl Genet (2015) 128:2019–2035   **Table 3** Single-locus QTL and QTL × environment (QE) effects for tomato quality traits identified in a RIL population developed from the cross _S. lycopersicum_ × _S. pimpinellifolium_ following one dimensional genome scan for multi-environment analysis using QTLNetwork   QTL Marker interval LG (pos.)
+[a] _F_ value [b] A [c] _h_
+[2] (a)
+[d] QE AE
+[e] _h_
+[2] (ae) [f]   FrW   _FrW1_ SL10975i-PC119 1 (35.3–36.4) 13.7 1.7*** 2.3 ns   _FrW2_ X63093- **fw2.2** 2 (76.4–78.6) 28.8 6.0*** 14.2 ns   _FrW7.1_ **SPS183** -U222756 7 (13.1–23.5) 9.3 1.0** 7.1 ns   _FrW7.2_ PC185-PC059 7 (30.5–30.9) 14.7 1.3*** 7.4 ns   _FrW7.3_ PC064- **MDH154** 7 (65.6–71.1) 11.4 2.1*** 4.6 ns   _FrW11.1_
+cLET24J2-SL10615 11 (68.6–70.2) 9.9 3.5*** 7.5 ns   _FrW11.2_ ChCr11_4-UalT11.5 11 (92.4–94.7) 11.1 4.3*** 6.0 ns   Total soluble solids (TSS)   _TSS1_ PC002-SL20268i 1 (24.7–27.7) 8.5 −0.2*** 4.8 −0.15* AE1 0.9   _TSS2_ SSR26-SSR32 2 (49.7–51.1) 20.1 −0.7*** 14.8 ns   _
+TSS3.1_ SSR22-SNP3_11 Kb 3 (37.2–37.5) 8.9 −0.4*** 9.2 ns   _TSS3.2_ LEOH127-PC33 3 (66.1–68.2) 9.8 0.3*** 2.2 ns   _TSS5_ SL20210i-SL10100i 5 (44.2–46.4) 7.3 −0.2*** 2.2 ns   _TSS7_ **SPS183-** U222756 7 (13.1–23.5) 12.1 −0.3*** 5.4 ns   _TSS12_ PC104-TMC6d10_n 12 (11.7–16.0) 7.2 −0.2*** 6.7 ns   Glucose (Glu)   _Glu2_ PC122-LEOH348 2 (51.9–52.3) 9.3 −0.8*** 4.9 ns   _Glu7.1_ **SPS183-** U222756 7 (13.1–23.5) 8.8 −0.6*** 2.8 ns   Fructose (Fru)   _Fru2_
+PC016-SSR26 2 (47.2–49.7) 8.9 −0.9*** 6.4 ns   Fructose/glucose (Fru/Glu)   _Fru/Glu8_
+PC_D-PC069 8 (29.7–31.4) 7.0 −0.2** 1.3 −0.3*** AE1 3.1   _Fru/Glu11_
+SSR80-PC092 11 (0.0–7.1) 6.1 0.2** 1.2 0.2** AE1 2.6   Dry weight/fresh weight (Dw/Fw)   _Dw/Fw2_ K_Isoc-Glutamin 2 (57.3–59.4) 20.8 −0.0096*** 11.5 ns   _Dw/Fw3_
+SSR22-SNP3_11 Kb 3 (37.2–37.5) 17.3 −0.0063*** 9.4 ns   _Dw/Fw5_ PC086-PC184a 5 (47.6–49.0) 17.8 −0.0041*** 7.5 ns   _Dw/Fw7.1_ **SPS183-** U222756 7 (13.1–23.5) 18.3 −0.0034** 7.7 ns   _Dw/Fw7.2_ PC185-PC059 7 (30.5–30.9) 26.0 −0.0040*** 9.4 ns   Titriable acidity (TA)   _TA1.1_
+SSR98-SSR192 1 (9.3–11.5) 9.7 0.3** 3.0 ns   _TA1.2_ PC002-SL20268i 1 (24.7–27.7) 10.0 −0.3** 3.6 ns   _TA3.1_ SNP3_57 Kb-SSR231 3 (41.8–42.8) 29.0 −0.4** 12.2 ns   _TA3.2_ SSR231-SNP3_Betain 3 (42.8–44.1) 20.7 −0.7** 8.0 ns   _TA5.1_
+LEOH-9.1-PC049 5 (57.7–64.3) 7.5 −0.5** 2.2 ns   pH   _pH3_ SL10480i-U225952 3 (29.6–31.3) 9.3 0.03*** 2.3 ns   _pH6_ **CaCalm-** CaRet 6 (34.7–38.8) 7.0 −0.02** 1.1 −0.04** AE1 2.1   0.008*** AE2 2.0   _pH8_ LEct004-PC_F 8 (18.9–20.9) 14.7 −0.05*** 7.9 ns   Citric acid (CA)   _CA6.1_
+PC054-U218252 6 (14.6–18.9) 7.2 −0.30* 1.7 −0.20*** AE1 2.0   0.20*** AE2 2.0   _CA6.2_ SSR578-Ca_Calm 6 (31.2–34.7) 8.1 −0.20*** 4.7 ns   _CA10_ TMC3f8b-T0590 g 10 (58.4–61.4) 8.8 −0.20*** 5.0 ns   _CA11.1_ PC096-K_GluReg 11 (57.8–61.4) 9.3 0.20*** 6.0 ns   _CA11.2_ PC098-K_Channel 11(90.2–91.2) 11.1 0.67*** 6.2 ns  ## 1 3   Theor Appl Genet (2015) 128:2019–2035 2027   **Table 3** continued   QTL Marker interval LG (pos.)
+[a] _F_ value [b] A [c] _h_
+[2] (a)
+[d] QE AE
+[e] _h_
+[2] (ae) [f]   Malic acid (MA)   _MA11_
+PC098-K_Channel 11 (90.2–91.2) 11.6 0.4*** 5.6 ns   Vitamin C (VitC)   _VitC1_ PC010-SSR9 1 (61.0–64.5) 7.4 −5.9*** 12.1 ns   _VitC3.1_ SNP3_57 Kb-SSR231 3 (41.8–42.8) 11.8 4.2*** 5.4 ns   _VitC7_ **SPS183** -U222756 7 (13.1–23.5) 11.0 −2.8*** 7.6 ns   _VitC8_ PC069- *
+*TC187** 8 (31.4–34.2) 7.9 −4.0*** 17.0 ns   Lycopene (Lyc)   _Lyc2.1_
+PC014-SSR96 2 (9.7–18.1) 8.3 −46.6*** 3.4 ns   _Lyc4_
+SSR94-LEga003 4 (59.9–62.1) 10.5 −57.0*** 7.7 ns   _Lyc6_ SP-U222112 6 (54.0–59.2) 7.1 −97.7*** 5.5 ns   Beta-carotene (B-c)   _B_ - _c1.1_ **DXS** -SSR75 1 (17.1–19.4) 13.4 −9.9*** 3.5 −6.5** AE1 0.8   6.5** AE2 0.8   _B_ - _c2.1_ PC140-SSR66 2 (20.5–24.1) 9.8 −7.0*** 4.0 ns   _B_ - _c3_ PC125-SNP3_57 Kb 3 (39.8–41.8) 10.1 −10.4*** 4.8 ns   _B_ - _c4_ SSR94-LEga003 4 (59.9–62.1) 23.3 22.1*** 8.6 12.8*** AE1 1.8   −12.4*** AE2 1.7   _B_ - _c10_ TG408-T0308241 10 (37.1–39.8) 10.2 −10.2*** 2.9 ns   _B_ - _c12_ TG111-LEOH66 12 (32.8–39.2) 13.7 12.2*** 6.3 4.4* AE1 0.5   −5.3* AE2 0.8   _ns_ no significant effects on the four environments evaluated  - _P_ ≤ 0.05, ** _P_ ≤ 0.01, *** _P_ ≤ 0.001.
+Only significant effects are listed  a Chromosome and the estimated confidence interval of QTL position in brackets (in Kosambi cM).
+Markers corresponding to genes are indicated in bold   b _F_ values of significance of each QTL.
+Threshold _
+F_ values were 9.10, 7.0, 6.9, 6.8, 6.7, 6.6, 6.9, 7.1, 7.0, 5.6, 14.8, 6.9 and 7.5 for FW, VitC, TA, pH, CA, MA, TSS, Glu, Fru, Fru/Glu, Dw/Fw, Lyc and B-c,
+respectively   c Estimated additive effect.
+Positive values indicate that alleles from _S. lycopersicum_ increase the trait value, and negative values indicate that the increase in the trait is due to the presence of the alleles from _S. pimpinellifolium_
+d Percentage of the phenotypic variation explained by additive effects  e Predicted additive by environment interaction effect.
+AE1, AE2 additive by environment interaction effect associated with first and second growing cycles environments, respectively.
+The sign values indicate the same as shown in A [c]  f Percentage of the phenotypic variation explained by additive by environment interaction effect    explained an additional 0.9 % of the phenotypic variance of TSS.
+When the concentration of the main sugars was determined, we found two QTL, _Glu2_ and _Glu7.1_ that explained 4.9 % and 2.8 % of the phenotypic variance for fruit Glu content, respectively.
+Interestingly, one of these QTL was located near to _TSS2_ on chromosome 2, whereas the other QTL was found on the same chromosomal region as _TSS7_ (Fig. 2).
+Both QTL had negative additive value effects on Glu content indicating that alleles from _S. pimpinellifo‑_ _lium_ contribute to increase phenotypic value of this trait.
+No additive by environment interaction (AE) effects were identified for main-effect QTL _
+Glu2_ and _Glu7.1_ .
+However, we found one epistatic interaction between two QTL located on chromosomes 1 and 7 explaining 2.7 % of the phenotypic variance of fruit Glucose content.
+This epistatic    interaction did not show additive interaction with the  environments.
+Concerning Fru content of the fruits, only one maineffect QTL, _Fru2_, was detected located on chromosome 2 in a position very close to _TSS2_ and _Glu2_ .
+This QTL explained 6.4 % of the phenotypic variance and had an additive value of -0.9, which indicate that positive alleles for this trait were provided by _S. pimpinellifolium_ .
+_Fru2_ showed neither any interaction with the environment (AE) nor any epistatic interaction between QTL implicated in the  inheritance of fruit Fru content.
+Given that Fru is sweeter than Glu, the ratio Fru/Glu is an important trait in tomato breeding because, with the same amount of sugars, sweeter fruits can be obtained by increasing this ratio.
+Although parental lines showed quite  ## 1 3   2028 Theor Appl Genet (2015) 128:2019–2035  ## 1 3   Theor Appl Genet (2015) 128:2019–2035 2029    similar Fru/Glu ratio, the RIL lines showed transgressive segregation for this trait (Table 1), which facilitated the mapping of two QTL located on chromosomes 8 and 11 (Fig. 2).
+They explained 2.5 % of the total phenotypic variance and both QTL were involved in AE interactions, which in turn explain 5.7 % of phenotypic variance of this trait (Table 3).   _Titratable acidity (TA), pH (pH), citric acid (CA),_ _and malic acid (MA)_
+Fourteen main-effects QTL were identified for acidityrelated traits: 5 for titratable acids (TA), 3 for fruit pH (pH), 5 for citric acid content (CA), and 1 for malic acid content (MA).
+QTL for pH and CA are located on an overlapping region of chromosome 6 and QTL for CA and MA are located in the same region of chromosome 11 suggesting a common genetic base for these two pairs of characters.
+Regarding TA, the five QTL identified on chromosomes 1, 3, and 5 accounted for 2.2–12.2 % of the phenotypic variance.
+Wild alleles of four out the five QTL increased the fruit acidity and none showed environment interaction effects (Table 3).
+On the other hand, five epistatic interactions located on chromosomes 1–3, 4–7, 4–11, 5–9, and 7–10 accounting for 19.4 % of the phenotypic variation of the TA were found.
+These epistatic interactions did not show any significant interaction with the environment (Table 4).
+For pH of the fruit (pH), we found 3 QTL with additive effects that significantly influenced pH content located on chromosomes 3, 6, and 8.
+The QTL on chromosomes 6 and 8 explained 1.1 and 7.9 % of the phenotypic variance, respectively, and they had negative additive effects on pH; contrarily, the chromosome 3 locus, _pH3_, showed a positive additive effect on the character.
+These results suggested that although alleles from both parents contributed to the inheritance of fruit pH, alleles of wild parent explain threefold higher percentage of the variance observed for this taste-related trait.
+The QTL located on chromosome 6, _pH6_, showed an interaction with the two environments of the assays corresponding to the two growing cycles of the RIL.
+One pair of epistatic QTL located on chromosomes 2 and 6 was identified for pH content of the fruits.
+The contribution of the epistatic QTL interaction to pH was only 1 %, and they are alleles from the _S. lycopersicum_ parental  line.
+Citric acid (CA) content has a major effect on tomato flavor and consumers’ acceptability.
+When CA content of the fruit was analyzed we found 5 QTL located on chromosomes 6, 10, and 11.
+The trait-increasing QTL alleles on chromosomes 6 and 10 came from the wild parent _S._ _pimpinellifolium_ and together explained 11.4 % of the phenotypic variance.
+The _CA6.1_ QTL was also involved in AE    interactions with the environment, which explained 2 % of the phenotypic variance of CA.
+Since _CA11.1 and CA11.2_ had positive additive values (Table 4), alleles from both parents contributed to the increase CA content in tomato fruits.
+One epistatic interaction among the QTL implicated in fruits CA content was also found (Table 4).
+Malic acid (MA) is used as an additive for processing tomato because it enhances tomato flavor.
+When MA content was analyzed in the RIL population, we only found one QTL located on chromosome 11 with an additive value of 0.4 and explaining 5.6 % of the phenotypic variance.
+We also found an epistatic interaction that explained a phenotypic variance of 4.3 % and had an additive value of 0.1 on MA content (Table 4).
+All these acidity-related traits were correlated among themselves during the two growing seasons that fruits of the RIL population were analyzed, and they also showed significant positive correlations with TSS, Glu, and Fru (Table 2).   _
+Dry weight/fresh weight (Dw/Fw)_
+The fruit dry weight/fresh weight ratio is a very important trait especially in breeding programs focused on varieties for the processing industry.
+When the inheritance of this trait was analyzed, a total of five QTL were found, one located on chromosomes 2, 3, and 5 and two QTL on chromosome 7.
+Together the four QTL explained more than 45.5 % of the phenotypic variance and all alleles derived from _S. pimpinellifolium_ contribute positively to this trait.
+The QTL _Dw/Fw2_ had the highest contribution and explained 11.5 % of the phenotypic variation in Dw/Fw of the fruits.
+_
+Dw/Fw7.1_, co-localized with _TSS7_ suggesting the existence of a similar genetic basis for both characters.
+None of the QTL for the Dw/Fw ratio showed additive interactions with the environment (AE), and no epistatic interactions among QTL involved in Dw/Fw inheritance  were found.
+_Vitamin C (VitC)_   Accession TO-937 of _S. pimpinellifolium
+_ can be considered a donor of high vitamin C (VitC) content because their  fruits showed 2.4-fold more VitC content than the fruits of  cv.
+Moneymaker (Table 1).
+VitC content showed highly significant positive correlations with TSS and B-c content during the two growing cycles analyzed (Table 2).
+Four main-effect QTL for VitC content of the fruit were located on chromosomes 1, 3, 7, and 8 (Fig. 2; Table 3).
+Their addi − tive values ranged from 5.9 to 4.2, whereas the phenotypic variance explained by these QTL ranged from 5.4 to 17.0 %.
+Three QTL ( _VitC1_, _VitC7,_ and _VitC8_ ) had negative additive effects values on vitamin C content of the fruit, indicating that wild alleles increase vitamin C content,  ## 1 3   2030 Theor Appl Genet (2015) 128:2019–2035    while the other QTL had the opposite additive effect.
+This result demonstrates that alleles from both parents contributed to the increasing of vitamin C content.
+The total contribution of the four main-effect QTL on vitamin C variation was 42.1 %, and no additive by environment interaction (AE) effects were identified for any of these QTL.
+When epistatic interactions involved in VitC were analyzed, a pair of epistatic QTL were identified on chromosomes 3 and 5 (Table 4).
+This interaction explained a phenotypic variance of 5.5 %.
+Interaction between QTL _VitC3.2_ and _VitC5_ showed a positive additive by additive epistatic effect indicating that alleles increasing vitamin C content come from the cultivated genome (Table 4).
+_
+Carotenoids: lycopene (Lyc) and beta‑carotene (B‑c)_   Carotenoids are tetraterpenoid pigments essential for animal diets that are synthesized in photosynthetic organ isms.
+We determined the content of the two most common  carotenoids in mature tomato fruits, the linear lycopene, and the vitamin A precursor cyclic beta-carotene in fruits of the RIL population.
+We found three QTL located on chromosome 2, 4, and 6 involved in the inheritance of Lyc content of the fruit (Fig. 2).
+These QTL, which accounted for 16.1 % of the total phenotypic variance, increased the lycopene content of the fruit and their additive effects indicated that the _S. pimpinellifolium_ alleles have positive effect on this trait (Table 3).
+These main-effect QTL were not involved in any environment interaction.
+However, two pairs of epistatic QTL interactions that explained a phenotypic variance ranging from 1.6 to 4.1 for lycopene content were identified on chromosomes 2–3 and 3–7.
+The total contribution of epistatic QTL was 8.8 % and showed significant interaction effects across environments (Table 4).
+When beta-carotene content (B-c) was analyzed, a total of six QTL, located on chromosomes 1, 2, 3, 4, 10, and 12 (Table 3) were identified for this trait.
+These QTL increased beta-carotene and accounted for a phenotypic variance ranging from 2.9 to 8.6 %.
+The trait-increasing QTL alleles of _B_ - _c1.1_, _Bc_ - _2.1B_ - _c3,_ and _B_ - _c10_ came from the _S._ _pimpinellifolium_ parent and whereas those of _B_ - _c4_ and _B_ _c10_ derived from _S. lycopersicum_ .
+This suggested that the alleles for high B-c content of the fruits were dispersed within the genomes of the two species (Fig. 2).
+Three QTL were involved in AE interactions, which explained 6.4 % of the phenotypic variance of B-c content of the fruits.
+One main-effect QTL _B_ - _c1.1_ was flanked by the _DXS_ gene, suggesting that this gene could be responsible of the B-c content present in the RIL fruits.
+The QTL identified on chro mosome 4 was found located in the same chromosomal  region than the lycopene QTL _Lyc4_ .
+Two pairs of epistatic QTL for B-c were resolved and explained a phenotypic variance ranging from 2.1 to 3.3 %.
+The epistatic interaction  ## 1 3    _B_ - _c1.1_ - _B_ - _c2.2_ had the largest effect, with a 3.1 % of the phenotypic variance.
+The total contribution of epistatic QTL interactions was 5.4 % of the phenotypic variance.
+**Discussion**   Genetic analyses reported here emphasize the importance of developing and characterizing RIL populations generated from wild species as a source of genetic and phenotypic variability and also its value to map QTL associated to fruit quality traits in a model fleshy-fruited species as tomato.
+Indeed, the TO-937-derived RIL population used in this study has already facilitated the isolation of new regulatory genes and markers of undoubted agronomic interest (Powell et al. 2012; Salinas et al. 2013).
+Our results show that all traits analyzed exhibited transgressive segregation and the identification of a set of molecular markers associated to significant fruit quality QTL will provide useful information and molecular tools for tomato breeding.
+In the following sections, the discussion has been focused on the significance of the QTL characterized in this work.
+**Genetic analysis and mapping of fruit quality traits**   Genetic analyses performed in the RIL population confirm that inheritance of quality components of tomato fruit is complex in nature, and results from a large number of major and minor QTL.
+In fact, we have identified maineffect QTL as well as other QTL involved in epistatic or environmental interactions.
+Despite the fact that epistasis is to be expected in traits that are controlled by several genes/ QTL in autogamous plants (Holland 2001), few studies of epistatic interactions have been reported in conventional tomato segregating populations so far (Grandillo and Tanksley 1996; Saliba-Colombani et al. 2001).
+In the current study, epistasis was detected for nine of the thirteen quality traits evaluated and 15 epistatic interactions were identified.
+Except for the QTL _pH6_, which showed both main and epistatic effects, the remaining QTL detected by the two-loci QTL analysis displayed only epistatic effects.
+These epistatic QTL might be considered as modifying genes, which have no significant effects alone but might affect its expression by epistatic interactions with other loci.
+Thereby, not only the main-effect QTL but also the epistatic QTL detected in this work provide genetic information useful for pyramiding several quality traits in tomato and should be considered for a successful application of Marker-Assisted Selection (MAS).
+Genetic linkage maps are essential tools for practical applications such as marker-assisted selection (MAS) and the map-based cloning of target genes, for which a correct linear order of loci within linkage groups is essential.
+Theor Appl Genet (2015) 128:2019–2035 2031
+We have developed a novel genetic linkage map based on the RIL population _S. lycopersicum_ cv.
+Moneymaker × _S._ _pimpinellifolium_ accession TO-937.
+When compared with the several _S. lycopersicum_ × _S. pimpinellifolium_ linkage maps previously published (Grandillo and Tanksley 1996; Chen and Foolad 1999; Lippman and Tanksley 2001; Doganlar et al. 2002; Villalta et al. 2005; Sharma et al. 2008;
+Ashrafi et al. 2009), it can be concluded that this map also provided additional usefulness.
+While most of those maps were constructed based on crosses between the processing tomato cultivar M82 and accessions LA1589 or LA2093 of _S. pimpinellifolium_, the genetic map reported here was generated using cv.
+Moneymaker and TO-937, which add some novelties to the parental lines used in previous studies.
+Indeed, cv.
+Moneymaker is a fresh-market tomato widely used for genetic studies, and TO-937 is a valuable donor of pest resistances and fruit quality traits (Fernandez-Muñoz et al. 2000; RodríguezLópez et al. 2011; Powell et al. 2012; Salinas et al. 2013).
+Moreover, TO-937 and LA1589 (the first _S. pimpinellifo‑_ _lium_ accession that has been sequenced) showed relatively low genetic similarity in a survey using a large set of SNP markers in a sample of _S. pimpinellifolium_ accessions (data to be published elsewhere).
+In addition, the nature of the segregating population we used to construct the map differs from most of the previously reported similar maps.
+We used a RIL population, which allowed us to evaluate each genotype by phenotyping several plants in two different environments (growing seasons).
+And finally, all the markers we mapped are codominant and most of them correspond to genes of interest for the tomato breeding programs, such as those involved in the control of fruit size and the biosynthesis pathways of lycopene or vitamin C, among others.
+The utility of this map could be increased after the release of the sequence of the tomato genome and the pre-release of the whole-genome shotgun assembly for _S. pimpinellifo‑_ _lium_ accession LA1589 (The Tomato Genome Consortium, 2012).
+More recently, a huge amount of SNP arisen from the resequencing of quite diverse accessions of tomato have been reported (Xu et al. 2013;
+Aflitos et al. 2014; Lin et al. 2014), and therefore, novel markers could be included in the map.
+Moreover, some of the RIL here characterized accumulate several beneficial QTL, and hence they can be selected as donor parental lines in tomato breeding initiatives.
+The identification of novel lines containing several agronomically interesting characters conveys an advantage of the QTL mapping approach used in this work over the association mapping recently performed in a large collection of tomato accessions (Xu et al. 2013; Lin et al. 2014).
+Despite the increase availability of tomato and wild tomato relatives genomes is facilitating GWAS studies (Xu et al. 2013; Lin et al. 2014), there is still a need for QTL analysis    based on biparental populations to capture all untapped natural variability of these species.
+**Fruit weight, soluble solid, and sugars**   TO-937 is derived from a wild accession of _S. pimpinelli‑_ _folium_, thus it develops small-sized fruits.
+To avoid linkage drag of this trait, it is important to know where the genetic determinants of fruit size are located.
+The QTL with the largest effect on fruit weight was _FrW2,_ and it was flanked by _fw2.2_ in chromosome 2 (Fig. 2), a gene previously described as a major QTL that, depending on the population studied, accounting up to 30 % of the variation in fruit weight and it is considered one of the most important step in tomato domestication (Frary et al. 2000; Nesbitt and Tanksley 2001).
+This QTL explained more than 14 % of the phenotypic variation observed (Table 3) in the RIL popula tion used in this work.
+Other QTL with minor effect on fruit weight in the RIL were located on chromosomes 7 and 11 (Table 3).
+In previously published works, QTL affecting fruit weight were found located on chromosomes 7 and 11 (Chen et al. 1999).
+Although this latter map does not share enough common markers with the map here constructed to allow a comparison between them, our results indicate that these chromosomes may contain multiple closely linked QTL for this trait.
+In addition, we found epistatic relationships between QTL controlling fruit weight indicating that this character could be controlled by a more complex polygenic and epistatic genetic architecture than the one previously described by Chen et al. (1999).
+Association mapping approach recently performed in a large collection of cultivated tomato accessions and in wild-related species identified 16 QTL implicated in the inheritance of fruit weight (Xu et al. 2013), some of them being novel QTL while others co-localize with previously mapped QTL.
+Recent genomic analyses performed in a wide collection of tomato accessions identified 18 loci involved in the evolution of fruit mass, some of them related to domestication and improvement of this trait (Lin et al. 2014).
+Our approach does not allow us to distinguish QTL involved in these two important steps of the tomato breeding story, but having in mind the origin of the parental lines of the RIL, QTL located on chromosomes 1 and 7 could be associated to domestication, whereas QTL on chromosomes 2 and 11 could be related to the breeding effort performed to obtain the cv.
+Moneymaker.
+High-soluble solids content not only increase processed fruit yield, but also reduce the energy cost of dehydration in processing tomato production (Rick 1974).
+High-soluble solids content also increases the fruit overall flavor in freshmarket tomato (Stevens and Rick 1986; Khialparast et al. 2013).
+Given the importance of this trait, it is one of the  ## 1 3   2032 Theor Appl Genet (2015) 128:2019–2035    most analyzed in tomato and the number of QTL controlling this trait differs notably depending on the mapping population employed, from just one QTL reported after analyzing sub-NILs or NILs (Monforte and Tanksley 2000; Frary et al. 2003), up to even 23 QTL located on most chromosomes were identified in a introgression line population (Eshed and Zamir 1995).
+Most of these works had been performed using genetic maps mainly based on anonymous RFLP markers.
+However, markers included the map here described are mainly gene specific sequences, which allowed us to identify a SNP polymorphism (SPS183 marker) in the sequence of the _Sucrose phosphate synthase_ (Fig. 2) linked to _FwR7.1_ and other QTL.
+This result suggests that _FwR7.1_ QTL could contain a candidate gene influencing fruit quality traits of tomato such as TSS, sugar content, and Dw/Fw ratio.
+**Fruit acidity**   Titratable acidity (TA) and pH are both important criteria for tomato organoleptic quality and during fruit processing since low pH in fruits allows a reduction in processing time (Kader et al. 1977; Baldwin et al. 1991).
+We found four QTL for fruit titratable acidity which are located in chromosomes 1, 3, and 5. QTL located on chromosome 1 and 3 co-localize to those previously described both in a RIL population from an intraspecific cross (Causse et al. 2004) and in IL population derived from _S. pennelli_ (SalibaColombani et al. 2001), indicating that they may include major determinants of fruit acidity.
+In addition, TA and pH traits showed a highly significant correlation between them and also with MA, TSS, Glu, Fru, Lyc, B-c, and A-t. Additionally, TA was correlated with Suc and Dw/Fw and VitC, indicating that breeding for fruit acidity could increase other-related fruit quality traits (Table 2).
+Regarding pH of tomato fruit, QTL involved in the con trol of this trait had been detected on all chromosomes of  tomato genome, although with quite different results being obtained depending on the segregating population and the wild parental donor used in each study (reviewed in Foolad 2007).
+We have found QTL for pH on the same chromosomes than Fulton et al. (2002) did from backcross populations of _S. peruvianum_, _S. hirsutum_, _S. parviflorum,_ and _S. pimpinellifolium_ .
+In addition, we found epistatic interactions between one of these QTL (i.e., _pH6_ ) and a QTL located in chromosome 2 (Table 4), being this the first report about this kind of genetic interaction as involved in the control of pH of tomato fruit.
+Tomato fruits accumulate two main types of organic acids during ripening, i.e., citric acid and malic acid.
+Although malic acid tastes sourer to consumers, citric acid produces most of the sour taste in tomato because it is accumulated at higher levels.
+In addition citric acid and malic  ## 1 3    acid contents in the fruit of the RIL population were highly correlated (Fig. 1).
+We found only one main-effect QTL (Table 3) involved in malic acid content (Table 4) and a pair of QTL with epistatic interaction.
+These QTL lie in different chromosomal locations to those already described in a segregating population generated from a different donor parent (Causse et al. 2004).
+On the contrary, citric acid is controlled by 7 QTL, two of them ( _CA2_ and _CA11.3_ ) showing epistatic interaction.
+One of these QTL showed significant interaction with the environment and another QTL is located on chromosome 10 in position similar to one of the QTL controlling citric acid already described (Causse et al. 2004).
+These results seem to corroborate that both orthologous and species-specific genes could be involved in fruit quality traits.
+**Tomato antioxidants: vitamin C and carotenoids**   Tomato antioxidants include vitamins such as ascorbic acid and tocopherols, phenolic compounds such as flavonoids, and carotenoids such as beta-carotene, a precursor of vitamin A, and mainly lycopene, which is largely responsible for the red color of the fruit (Moco et al. 2006; Borguini and Torres 2009; Kotkov et al. 2009; Vallverdú-Queral et al. 2011).
+These compounds have been proposed to play important roles inhibiting reactive oxygen species responsible for many diseases (Crozier et al. 2009; Raiola et al. 2014).
+Lycopene is a carotenoid widely present in tomato and dietary intake of food containing lycopene has been shown to be related to a decreased risk of chronic diseases, such as cancer and cardiovascular disease (Agarwal and Rao 2000).
+Lycopene content in tomato fruit has been described as a quantitative trait controlled by QTL located on several chromosomes, depending on the wild donor species, and indeed all tomato chromosomes, except to chromosome 9, seem to contain at least one QTL involved in lycopene content (see Foolad 2007 for a review).
+However, chromosome 4 is the only chromosome that contains QTL controlling lycopene content in several wild species.
+Interestingly, this QTL seem to be located in _S. peruvianum_ and _S. habrochaites_ (Yates et al. 2004) in a syntenic position to _Lyc4_, one of the maineffect QTL controlling lycopene content in the RIL population reported in this work.
+This QTL co-localize with one of the 6 QTL controlling beta-carotene content in the fruit, which could explain the correlation showed by these fruit quality traits.
+We mapped carotenoid-related genes _GGPS2_ and _IPI_ (Van der Hoeven et al. 2002), _IPI4_, _CRTL1_ (Cunningham et al. 1996), _GGPS_ (Ament et al. 2006), and _DXS_ (Lois et al. 2000).
+Only map position of _DXS_ overlapped with the QTL for beta-carotene content _B.c1.1_, suggesting that the wild allele of this gene could be relevant for the accumulation of this pigment in tomato fruits.
+This QTL is one of the two QTL that showed significant interactions   Theor Appl Genet (2015) 128:2019–2035 2033    with the two environments analyzed here, results that suggest that the _DXS_ gene could be the responsible of the varia tion in beta-carotene content of tomato.
+Wild alleles of QTL located on chromosomes 1, 7, and 8 increased vitamin C (ascorbic acid) content in the fruits, while _S. lycopersicum_ alleles of QTL on chromosome 3 seems to have also positive effect on this trait.
+QTL located on chromosomes 1 and 8 accounted for the largest percentage of phenotypic variance and were also involved in epistatic relationships.
+QTL associated with ascorbic acid content were previously reported on chromosome 2, 8, 9, 10, and 12 (Stevens et al. 2007), and most of them were unrelated to ascorbic acid metabolism genes, but associated with the expression of genes involved in pectin degradation (Di Matteo et al. 2010).
+However, none of these reported QTL are located in syntenic positions to those found in this study probably because different wild donor species as _S._ _pennelli_ and _S. habrochaites_ were used in those previous works.
+Interestingly, the _VitC8_ QTL was associated to vitamin C content and co-localized with TC187, a marker for the _Tocopherol cyclase_ gene.
+The homologous _Arabidop‑_ _sis_ _Tocopherol cyclase_ gene has also been found related to ascorbic acid content (Kanwischer et al. 2005), suggesting that this gene could be an useful tool for genotyping selection of this fruit quality trait.
+**Conclusion**
+The development of a tomato genetic map based on a new RIL population allowed us to identify QTL for important fruit quality traits, which in turn largely influence the acceptance of tomato fruits in both fresh and processing markets.
+Our results not only confirm that the genetics of quality components in tomato is complex in nature, but also provide useful tools for genotyping and breeding purposes.
+This work provides evidence that QTL with main and epistatic effects as well as environment interactions are involved in the genetic variation of fruit quality traits.
+Some of the QTL identified here are located in similar positions to other previously reported QTL, but most of the QTL are novel and linked to codominant markers.
+Therefore, genetic information here reported could be useful for pyramiding several quality traits in tomato and for avoiding negative interaction with the environment, which means new chances for marker-assisted breeding of tomato crop.
+**Author contribution statement** CC mapped most of molecular markers, performed QTL analysis, and wrote the first drafts of the manuscript under the supervision of JC and RL.
+AFC and AG provided and genotyped SNP markers.
+JMA and RF-M grew the RIL, performed the agronomic characterization of the RIL, and provided molecular    markers.
+VL-S and MAB performed ascorbic acid determinations and provided SNP markers.
+FH-G and AB per formed carotenoid determinations.
+MS and TA evaluated  sugars and organic acid contents.
+RF-M, AG, MAB, TA, AB, and JC reviewed the manuscript.
+RL devised the study, wrote, and reviewed the manuscript.
+**Acknowledgments**
+Thanks are due to Dr. Fernando Yuste-Lisbona and Dr. Antonio Monforte for critical review of the manuscript.
+This work was funded by the ESPSOL project from the Fundación Genoma of the Spanish Ministerio de Ciencia y Tecnología.
+We also thank research facilities provided by the Campus de Excelencia Internacional Agroalimentario (CeiA3).
+**Compliance with ethical standards**   **Conflict of interest**
+The authors declare that they have no conflict of interest.
+**References**   Aflitos S, Schijlen E, de Jong H, de Ridder D, Smit S, Finkers R, Wang J, Zhang G, Li N, Mao L, Bakker F, Dirks R, Breit T, Gravendeel B, Huits H, Struss D, Swanson-Wagner R, van Leeuwen H, van Ham RC, Fito L, Guignier L, Sevilla M, Ellul P, Ganko E, Kapur A, Reclus E, de Geus B, van de Geest H, Te Lintel Hekkert B, van Haarst J, Smits L, Koops A, Sanchez-Perez G, van Heusden AW, Visser R, Quan Z, Min J, Liao L, Wang X, Wang G, Yue Z, Yang X, Xu N, Schranz E, Smets E, Vos R, Rauwerda J, Ursem R, Schuit C, Kerns M, van den Berg J, Vriezen W, Janssen A, Datema E, Jahrman T, Moquet F, Bonnet J, Peters S (2014)
+Exploring genetic variation in the tomato ( _Solanum_ section Lycopersicon) clade by whole-genome sequencing.
+Plant J 80:136–148  Agarwal A, Rao AV (2000)
+Tomato lycopene and its role in human health and chronic diseases.
+Can Med Assoc J 163:739–744  Alba JM, Montserrat M, Fernández-Muñoz R (2009)
+Resistance to the two-spotted spider mite ( _Tetranychus urticae_ ) by acylsucroses of wild tomato ( _Solanum pimpinellifolium_ )
+trichomes studied in a recombinant inbred line population.
+Exp Appl Acarol 47:35–47 Ament K, Van Schie CC, Bouwmeester HJ, Haring MA, Schuurink RC (2006)
+Induction of a least specific genranygeranyl pyrophosphate synthase and emission of ( _E_, _E_ )-4,8,12-trimethyltrideca1,3,7,11-tetraene in tomato are dependent on both jasmonic acid and salicylic acid signaling pathways.
+Planta 224:1197–1208 Areshchenkova T, Ganal MW (1999)
+Long tomato microsatellites are predominantly associated with centromeric regions.
+Genome 42:536–544 Ashrafi H, Kinkade M, Foolad MR (2009)
+A new genetic linkage map of tomato based on a _Solanum lycopersicum_
+× _S. pimpinellifo‑_ _lium_ RIL population displaying locations of candidate pathogen response genes.
+Genome 52:935–956 Baldwin EA, Nisperos-Carriedo MO, Moshonas MG (1991)
+Quantitative analysis of flavor and other volatiles and for certain constituents of two tomato cultivars during ripening.
+J Am Soc Hort Sci 116:265–269  Borguini R, Torres E (2009)
+Tomatoes and tomato products as dietary sources of antioxidant.
+Food Rev Int 25:313–325  Burr B, Burr FA (1991)
+Recombinant inbreeds for molecular mapping in maize: theoretical and practical considerations.
+Trends Genet 7:55–60  ## 1 3   2034 Theor Appl Genet (2015) 128:2019–2035    Causse M, Duffe P, Gomez MC, Buret M, Damidaux R, Zamir D, Gur A, Chevalier C, Lemarie-Chamley M, Rothan C (2004)
+A genetic map of candidate genes and QTL involved in tomato fruit size and composition.
+J Exp Bot 55:1671–1685 Chen FQ, Foolad MR (1999)
+A molecular linkage map of tomato based on a cross between _Lycopersicon esculentum_ and _L. pimpi‑_ _nellifolium_ and its comparison with other molecular maps of tomato.
+Genome 42:94–103  Chen FQ, Foolad MR, Hyman J, St Clair DA, Beelaman RB (1999) Mapping of QTL for lycopene and other fruit traits in a _Lycoper‑_ _sicon esculentum_ × _L. pimpinellifolium_ cross and comparison of QTL across tomato species.
+Mol Breed 5:283–299 Crozier A, Jaganath IB, Clifford MN (2009)
+Dietary phenolics: chemistry, bioavailability and effects on health.
+Nat Prod Rep 26:1001–1043  Cunningham FX Jr, Pogson B, McDonald KA, DellaPenna D, Gantt E (1996)
+Functional analysis of the beta and epsilon lycopene cyclase enzymes of Arabidopsis reveals a mechanism for control of cyclic carotenoid formation.
+Plant Cell 8:1613–1626 Di Matteo A, Sacco A, Anacleria M, Pezzotti M, Delledonne M, Ferrarini A, Frusciante L, Barone A (2010)
+The ascorbic acid content of tomato fruits is associated with the expression of genes involved in pectin degradation.
+BMC Plant Biol 10:163 Doganlar S, Frary A, Ku HM, Tanksley SD (2002)
+Mapping quantitative traits loci in inbred backcross lines of _Lycopersicon pimpi‑_ _nellifolium_ LA1589.
+Genome 456:1189–1202 Eshed Y, Zamir D (1995)
+An introgression line population of _Lyco‑_ _persicon pennellii_ in the cultivated tomato enables the identification and fine mapping of yield-associated QTL.
+Genetics 141:1147–1162  Fernandez-Muñoz R, Dominguez E, Cuartero J (2000)
+A novel source of resistance to the two-spotted spider mite in _Lycopersicon_ _pimpinellifolium_ Jusl.
+Mill.: its genetics as affected by interplot interference.
+Euphytica 111:169–173 Foolad MR (2007)
+Genome mapping and molecular breeding of tomato.
+Int J Plant Genomics 2007:64358  Frary A, Nesbitt TC, Frary A, Grandillo S, Van der Knaap E, Cong B, Liu J, Meller J, Elber R, Alpert KB, Tanksley SD (2000)
+fw2.2: a quantitative trait locus key to the evolution of tomato fruit size.
+Science 289:85–88  Frary A, Doganlar S, Frampton A, Fulton T, Uhlig J, Yates H, Tanksley S (2003)
+Fine mapping of quantitative trait loci for improved fruit characteristics from _Lycopersicon chmielewskii_ chromosome 1.
+Genome 46:235–243  Fraser PD, Pinto ME, Holloway DE, Bramley PM (2000) Application of high-performance liquid chromatography with photodiode array detection to the metabolic profiling of plant isoprenoids.
+Plant J 24:551–558  Fulton TM, Bucheli P, Voirol E, López J, Pétiard V, Tanksley SD (2002) Quantitative trait loci QTL affecting sugars, organic acids and other biochemical properties possibly contributing to flavour, identified in four advanced backcross populations of tomato.
+Euphytica 127:163–177 Grandillo S, Tanksley SD (1996) Genetic analysis of RFLPs, GATA microsatellites and RAPDs in a croos between _L. esculentum_ and  _L. pimpinellifolium_ .
+Theor Appl Genet 92:957–965 Grandillo S, Ku HM, Tanksley SD (1999)
+Identifying loci responsible for natural variation in fruit size and shape in tomato.
+Theor Appl Genet 99:978–987  Heber D, Lu QY (2002)
+Overview of mechanisms of action of lycopene.
+Exp Biol Med 227:920–923 Holland JB (2001) Epistasis and plant breeding.
+Plant Breed Rev 21:27–82  Kader AA, Stevens MA, Albright-Holton M, Morris LL, Algazi M (1977) Effect of fruit ripeness when picked on flavor and composition in fresh market tomatoes.
+J Am Soc Hort Sci 102:724–731  ## 1 3    Kanwischer M, Porfirova S, Bergmuller E, Dormann P (2005) Alterations in tocopherol cyclase activity in transgenic and mutant plants of Arabidopsis affect tocopherol content, tocopherol composition, and oxidative stress.
+Plant Physiol 137:713–723 Khialparast F, Abdemishani S, Yazdisamadi B, Naghavi MR, Foolad MR (2013) Identification and characterization of quantitative trait loci related to chemical traits in tomato ( _Lycopersicon escu‑_ _lentum_ Mill.).
+Crop Breed J 3:13–18 Kosambi DD (1944)
+The estimation of map distances from recombination values.
+Ann Eugen 12:172–175 Kotkov Z, Hejtmnkov A, Lachman A (2009)
+Determination of the influence of variety and level of maturity of the content and development of carotenoids in tomatoes.
+Czech J Food Sci 27:S200–S203  Lin T, Zhu G, ZhangJ XuX, YuQ Zheng Z, Zhang Z, LunY Li S, Wang X, Huang H, Li J, Chunzhi Z, Wang T, Zhang Y, Wang A, Zhang Y, Lin K, Li C, Xiong G, Xue Y, Mazzucato A, Causse M, Fei Z, Giovannoni JJ, Chetelat RT, Zamir D, Städler T, Li J, Ye Z, Du Y, Huang S (2014)
+Genomic analyses provide insights into the history of tomato breeding.
+Nat Genet 46:1220–1226 Lippman Z, Tanksley SD (2001) Dissecting the genetic pathway to extreme fruit size in tomato using a cross between _Lycopersicon_ _pimpinellifolium_ and _L. esculentum_ var.
+Giant Heirloom.
+Genetics 1581:413–422  Lois LM, Rodriguez-Concepción M, Gallego F, Campos N, Boronat A (2000)
+Carotenoid biosynthesis during tomato fruit development: regulatory role of 1-deoxy-
+d -xylulose 5-phosphate synthase.
+Plant J 22:503–513  Meadows GG (2012) Diet, nutrients, phytochemicals, and cancer metastasis suppressor genes.
+Cancer Metastasis Rev 31:441–454 Miron D, Shaffer AA (1991)
+Sucrose Phosphate Synthase, Sucrose Synthase, and Invertase activities in developing fruit of _Lycoper‑_ _sicum esculemtum_
+Mill.
+and the sucrose accumulating _Lycopersi‑_ _cum hirsutum_ Humb.
+and Bonpl.
+Plant Physiol 95:623–627 Moco S, Bino RJ, Vorst O, Verhoeven HA, de Groot J, van Beek TA, Vervoort J, de Vos JHR (2006)
+A liquid chromatography-mass spectrometry-based metabolome database for tomato.
+Plant Physiol 141:1205–1218 Monforte AJ, Tanksley SD (2000)
+Development of a set of near isogenic and backcross recombinant inbred lines containing most of the _Lycopersicon hirsutum_ genome in a _L. esculentum_ genetic background: a tool for gene mapping and gene discovery.
+Genome 43:803–813  Montgomery J, Wittwer CT, Palais R, Zhou L (2007)
+Simultaneous mutation scanning and genotyping by high-resolution DNA melting analysis.
+Nat Protoc 2:59–66 Nesbitt TC, Tanksley SD (2001) _
+fw2.2_ directly affects the size of developing tomato fruit, with secondary effects on fruit number and photosyntate distribution.
+Plant Physiol 127:575–583 Pnueli L, Carmel-Goren L, Hareven D, Gutfinger T, Alvarez J, Ganal M, Zamir D, Lifschitz E (1998)
+The _SELF_   - _PRUNING_ gene of tomato regulates vegetative to reproductive switching of sympodial meristems and is the ortholog of CEN and TFL1.
+Development 125:1979–1989  Powell ALT, Nguyen CV, Hill T, Cheng KL, Figueroa-Balderas R, Aktas K, Ashrafi H, Pons C, Fernández-Muñoz R, Vicente A, Lopez-Baltazar J, Barry CS, Liu Y, Chetelat R, Granell A, Van Deynze A, Giovannoni JJ, Bennett AB (2012) _
+Uniform ripening_ encodes a golden 2-like transcription factor regulating tomato fruit chloroplast development.
+Science 336:1711–1715 Raiola A, Rigano MM, Calafiore R, Frusciante L, Barone A (2014)
+Enhancing the health-promoting effects of tomato fruit for biofortified food.
+Mediat Inflamm 2014:139873 Rick CM (1974)
+High soluble-solids content in large-fruited tomato lines derived from a wild green-fruited species.
+Hilgardia 42:493–510   Theor Appl Genet (2015) 128:2019–2035 2035    Rodríguez-López MJ, Garzo E, Bonani JP, Fereres A, FernándezMuñoz R, Moriones E (2011)
+Whitefly resistance traits derived from the wild tomato _Solanum pimpinellifoliu_ m affect the preference and feeding behavior of _Bemisia tabaci_ and reduce the spread of Tomato yellow leaf curl virus.
+Phytopathology 10:1191–1201  Saliba-Colombani V, Causse M, Langlois D, Philouze J, Buret M (2001) Genetic analysis of organoleptic quality in fresh market tomato.
+1. Mapping QTL for physical and chemical traits.
+Theor Appl Genet 102:259–272 Salinas M, Capel C, Alba JM, Mora B, Cuartero J, Fernández-Muñoz R, Lozano R, Capel J (2013) Genetic mapping of two QTL from the wild tomato _
+Solanum pimpinellifolium_
+L. controlling resistance against two-spotted spider mite ( _Tetranychus urticae_ Koch).
+Theor Appl Genet 126:83–92 Sharma A, Zhang L, Nino-Liu D, Ashrafi H, Foolad MR (2008)
+A _
+Solanum lycopersicum_
+× _
+Solanum pimpinellifolium_ linkage map of tomato displaying genomic locations of R-Genes, RGAs, and candidate resistance/defense-response ESTs.
+Int J Plant Genomics 2008:926090  Smulders MJM, Bredemeijer G, RusKortekaas W, Arens P, Vosman B (1997) Use of short microsatellites from database sequences to generate polymorphisms among _Lycopersicon esculentum_ cultivars and accessions of other _Lycopersicon_ species.
+Theor Appl Genet 94:264–272  Stevens MA, Rick CM (1986) Genetics and breeding.
+In: Athernon JG, Rudich J (eds) The tomato crop.
+A scientific basis for improvement.
+Chapman and Hall, London, pp 35–109 Stevens MA, Kader AA, Albright-Holton M (1977)
+Intercultivar variation in composition of locular and pericarp portions of fresh market tomatoes.
+J Am Soc Horti Sci 102:689–692  Stevens R, Buret M, Philippe D, Garchely C, Baldet P, Rothan C, Causse M (2007)
+Candidate genes and quantitative trait loci affecting fruit ascorbic acid content in three tomato populations.
+Plant Physiol 143:1943–1953 The Tomato Genome Consortium (2012)
+The tomato genome sequence provides insights into fleshy fruit evolution.
+Nature 485:635–641    Vallverdú-Queral A, Medina-Remón A, Martínez-Huélamo M, Jaúregui O, Andres-Lacueva C, Lamuela-Raventos RM (2011)
+Phenolic profile and hydrophilic antioxidant capacity as chemotaxonomic markers of tomato varieties.
+J Agric Food Chem 59:3994–4001  Van der Hoeven R, Ronnind C, Giovannoni JJ, Martin G, Tanksley SD (2002) Deductions about the number, organization and evolution of genes in the tomato geneme based on analysis of a large expressed sequence tag collection and selective genomic sequencing.
+Plant Cell 14:1441–1456 van Ooijen JW (2006) JoinMap
+[®] 4, software for the calculation of genetic linkage maps in experimental populations.
+Kyazma BV, Wageningen Villalta I, Reina-Sanchez A, Cuartero J, Carbonell EA, Asins MJ (2005) Comparative microsatellite linkage analysis and genetic structure of two populations of F6 lines derived from _Lycoper‑_ _sicon pimpinellifolium_ and _L. cheesmanii_ .
+Theor Appl Genet 110:881–894  Voorrips RE (2002)
+MapChart: software for the graphical presentation of linkage maps and QTL.
+J Hered 93:77–78 Xu J, Ranc N, Muños S, Rolland S, Bouchet JP, Desplat N, Le Paslier MC, Liang Y, Brunel D, Causse M (2013)
+Phenotypic diversity and association mapping for fruit quality traits in cultivated tomato and related species.
+Theor Appl Genet 126:567–581 Yang J, Hu C, Hu H, Yu R, Xia Z, Ye X, Zhu J (2008)
+QTL network: mapping and visualizing genetic architecture of complex trait in experimental populations.
+Bioinformatics 10:721–723
+Yates HE, Frary A, Doganlar S, Frampton A, Eannetta NT, Uhlig J, Tanksley SD (2004)
+Comparative fine mapping of fruit quality QTL on chromosome 4 introgressions derived from two wild tomato species.
+Euphytica 135:283–296 Zou L, Li H, Ouyang B, Zhang J, Ye Z (2006) Cloning and mapping of genes involved in tomato ascorbic acid biosynthesis and metabolism.
+Plant Sci 170:120–127  ## 1 3

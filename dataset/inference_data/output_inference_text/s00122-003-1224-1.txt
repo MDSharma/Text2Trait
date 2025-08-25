@@ -1,0 +1,293 @@
+Theor Appl Genet (2003) 107:139–147 DOI 10.1007/s00122-003-1224-1   E. van der Knaap · S. D. Tanksley  #
+The making of a bell pepper-shaped tomato fruit: identification of loci controlling fruit morphology in Yellow Stuffer tomato   Received: 27 May 2002 / Accepted: 19 June 2002 / Published online:
+21 March 2003 �Springer-Verlag 2003    Abstract The heirloom tomato cultivar Yellow Stuffer produces fruit that are similar in shape and structure to fruit produced by the bell pepper varieties of garden pepper.
+To determine the genetic basis of this extreme fruit type in tomato, quantitative trait loci (QTL) analysis was performed on an F 2 population derived from a cross between Yellow Stuffer and the related species, Lycopersicon pimpinellifolium, which produces a small, round fruit typical of most wild species.
+F 2 plants were analyzed for both fruit size and the degree to which their fruit resembled the bell pepper.
+Three QTL were determined to influence bell pepper shape and seven QTL influenced fruit mass.
+The map positions of all three bell shape and six out of seven fruit size QTL appear to be allelic to components of fruit morphology analyzed in this population and to major fruit morphology QTL reported previously, adding support to the hypothesis that the majority of fruit size and shape variation in cultivated tomato is attributable to allelic variation at a limited number of loci.
+However, novel loci controlling components of fruit morphology, such as elongated fruit shape, bumpiness, number of seed per fruit and flowers per inflorescence were identified in this study as well.
+The three bell shape loci involved are: bell2.1, bell2.2 and bell8.1, and appear to correspond to locule number2.1 (lcn2.1) and fruit weight 2.2 (fw2.2) and fruit shape 8.1 (fs8.1), respectively.
+The Yellow Stuffer alleles at lcn2.1 and fw2.2 increase locule number and fruit size, respectively, hence contributing to the overall bell pepper shape.
+The Yellow Stuffer allele at fs8.1 causes convex locule   Communicated by G. Wenzel
+## E. van der Knaap · S. D. Tanksley ( ) )
+Department of Plant Breeding, Department of Plant Biology, 245 Emerson Hall, Cornell University, Ithaca, NY 14853-1902, USA e-mail: sdt4@cornell.edu  Fax: +1-607-2556683   Present address: E. van der Knaap, Department of Horticulture and Crop Science, 204A Williams Hall, The Ohio State University/OARDC, Wooster, OH 44691, USA    walls, giving the extended, bumpy shape characteristic of bell peppers.
+In addition, most fruit size QTL correspond to loci controlling number of flowers per inflorescence and/or stem-end blockiness.
+Comparisons among previously identified fruit morphology loci in tomato, eggplant and pepper suggest that loci affecting several aspects of fruit morphology may be due to pleiotrophic effects of the same, orthologous loci in these species.
+Moreover, it appears that the evolution of bell pepper-shaped tomato fruit may have proceeded through mutations of some of the same genes that led to bell pepper-type fruit in garden  pepper.
+Keywords Bell pepper tomato · QTL ·
+Fruit morphology · Domestication   Introduction   Fruit of cultivated tomato, Lycopersicon esculentum, show remarkable variation in morphology.
+Between varieties, fruit shape extends from perfectly round to elongated, and from pear to heart shape, while fruit size extends from only a few grams per berry to fruit weighing up to 1,000 g. Survival of cultivated tomato in connection with fruit morphology requires human acceptance of its fruit characteristics: larger fruit result in increased nourishment value; elongated and blocky fruit are preferred shapes of processing tomatoes; high locule number is ideal for the larger fresh-market slicing tomatoes; alternatively shaped and sized fruit are popular at specialty markets.
+Contrary to cultivated tomato, variation in fruit morphology is much less obvious in its wild relatives.
+Plant survival under natural conditions usually requires small and inconspicuous fruit to aid the seed dispersal by small birds and rodents.
+Over 15 mapping populations, derived from crosses between L. esculentum and wild Lycopersicon spp, have resulted in the identification of a large collection of quantitative trait loci (QTL) controlling fruit shape and size (Grandillo et al. 1999), even though the cultivars   140   Fig.
+1
+Fruit of Lycopersicon pimpinellifolium (upper left), L. esculentum cv.
+Yellow Stuffer (lower left), Capsicum annuum cv.
+Chiltepin (upper right) and C. annuum cv. bell pepper (lower right)   Fig.
+2 A Longitudinal section of Yellow Stuffer fruit.
+Right:
+Ratio of fruit measurements taken to analyze stem-end blockiness (sblk), blossom-end blockiness (bblk), heart shape (hrt) and elongated fruit shape (fs).
+B Cross section of Yellow Stuffer fruit.
+Right: Ratio of measurement taken to analyze bumpiness (bpi)   used in these studies were round to slightly elongated in shape, and medium-sized.
+One of the most extreme tomato fruit morphology cultivars is Yellow Stuffer (Fig. 1).
+Fruit from this variety is large, unevenly shaped, blocky and hollow, and in many respects resembles fruit of a distant relative, the bell pepper (Figs. 1, 2).
+We were interested in identifying key QTL controlling developmental switches from small and round, as found in wild species, to large and bell pepper shaped, as found in Yellow Stuffer.
+In most previous QTL studies, tomato fruit shape had been scored from round to elongatedblocky by visual means or measured as the ratio of fruit length to diameter, and fruit size had been measured in    grams per fruit (Grandillo et al. 1999).
+Therefore, to more accurately describe fruit shape and size, additional fruit and plant morphological characters were developed to identify and measure components of bell shape and fruit size.
+QTL identified in this study were compared to previously reported tomato fruit morphology QTL with respect to magnitude of effects, potential allelism and possible pleiotropy.
+Lastly, due to large regions of colinearity between the tomato, pepper and eggplant genomes, we were able to show similar map positions of some of the tomato fruit morphology loci with previously reported map position of fruit morphology QTL in pepper (Ben Chaim et al. 2001) and eggplant (Doganlar et al. 2002b).
+Materials and methods   Plant material   A population of 200 F 2 plants derived from a cross between an inbred L. esculentum cv.
+Yellow Stuffer and an inbred L. pimpinellifolium accession LA1589, five plants of each parental control and five F 1 plants were transplanted in a randomized design to field plots in Ithaca, New York in the summer of 1999.
+Phenotypic analysis   For each plant, a minimum of 20 fruit with good seed set (more than 10 seeds) was used for fruit morphological measurements.
+Bell shape (bell) was scored visually from 1 (round) to 5 (bell shape).
+Fruit mass (fw) was based on the average of 20 fruit.
+Of these 20 fruit, seven were cut longitudinally, seven were cut transversely, and six fruit were kept as whole fruit.
+Cut and whole fruit were scanned and stored as a digital image.
+Total seed weight (from 20 fruit) was divided by 20-seed weight to obtain the number of seed per fruit (nsf).
+Locule number (lcn) was counted on at least 20 fruit per plant.
+Flowers were counted on three inflorescences per plant to obtain average number of flowers per inflorescence (nfl).
+The scanned fruit were analyzed using image j software (http:// rsb.info.nih.gov/nih-image/).
+The following measurements were taken to obtain values for stem-end blockiness, blossom-end blockiness, heart shape, elongated shape and fruit bumpiness (Fig. 2).
+Stem-end blockiness (sblk) was measured as the ratio of fruit diameter at a distance 10% below the top of the fruit to fruit diameter at midpoint.
+Blossom-end blockiness (bblk) was measured as the ratio of fruit diameter at midpoint to fruit diameter at a distance 10% above the bottom of the fruit.
+Heart shape (hrt) was measured as the ratio of fruit diameter at a distance 10% below the top to fruit diameter at a distance 10% above the bottom.
+Elongated shape (fs) was measured as fruit shape index: length to diameter of fruit at midpoint.
+Bumpiness (bpi) was measured on cross-sectioned fruit as the ratio of the measured circumference to calculated circumference, multiplied by 10.
+The calculated circumference was 2 �(length of the septum from the center to the edge of the fruit) � pi.
+The basis for all fruit measurements is depicted in Fig.
+2.   Genotypic analysis   Total genomic DNA was extracted from leaf tissue harvested from field grown plants according to Bernatzky and Tanksley (1986) and Fulton et al. (1995).
+Filters were prepared from DNA digested with one of the following restriction enzymes: BstNI, DraI, EcoRI, EcoRV, HindIII, ScaI and XbaI. Southern blot analysis was performed as described (Bernatzky and Tanksley 1986).
+Genome coverage was obtained by mapping a total of 93 restriction   flagment length polymorphic (RFLP) markers on the 12 tomato chromosomes.
+Detailed information on these markers and map positions can be viewed on the SGN website (http://www.sgn.
+cornell.
+edu/).
+Statistical analysis   A molecular linkage map of the 93 markers was created using mapmaker v2.0 and the Kosambi mapping function (Kosambi 1944; Lander et al. 1987).
+LOD value obtained from the ripple was greater than 3 for all markers.
+Functions in the program qgene (Nelson 1997) were used to determine correlation between traits and to detect QTL.
+To minimize type-I errors leading to QTL false positives, a probability level of P < 0.005 for linear regression analysis was chosen to indicate significant association of a QTL with a particular marker locus.
+Confirmation of the presence of a QTL was done with the interval mapping function of qgene.
+Additivity (A) was calculated as (EE – PP)/2, where EE is homozygous Yellow Stuffer and PP is homozygous LA1589.
+Degree of dominance or gene action was calculated as D/A, where D = EP – (EE + PP)/2 and A = (EE – PP)/2.
+Multidimensional scaling coupled with nonhierarchical cluster analysis was performed to visualize correlation between traits (Fig. 4; Gizlice et al. 1996).
+Results and discussion   Morphological analyses   To gain insight into the genetic changes that led to the occurrence of a tomato variety bearing bell pepper-shaped fruit, an F 2 population derived from a cross between Yellow Stuffer and its wild relative, L. pimpinellifolium accession LA1589 was analyzed for fruit morphology, with the major emphasis on bell pepper shape and fruit size.
+Figure 3 shows frequency histograms for F 2 plants with respect to bell shaped fruit (Fig.
+3A) and fruit size (Fig.
+3B).
+Bell shape and fruit size were distributed continuously, indicative of quantitatively inherited characters.
+The majority of F 2 plants bore fruit that were spherical or nearly spherical (score 1–2, Fig.
+3A) and relatively small in size (Fig.
+3B).
+Only a few plants bore fruit that were bell pepper shaped (Fig.
+3A), and large in size (Fig.
+3B).
+The skewed distribution of bell shape and fruit size towards the wild parent, LA1589, suggested that both bell shape and fruit size are controlled by a number of loci and that most wild alleles confer semi-dominancy over cultivated alleles.
+Bell shape and fruit size were significantly correlated (r = 0.48) such that a disproportionate number of plants with bell pepper-shaped fruit also produced larger fruit, suggesting the possibility of common QTL determining both traits (Fig.
+3C).
+To better describe and more reliably score fruit morphology, we developed more precise descriptors for further analysis of fruit shape and size in the F 2 population.
+As described in the Materials and methods, measurements were taken on scanned fruit to obtain quantitative data for the following fruit morphological traits: stem-end blockiness, blossom-end blockiness, heart shape, elongated shape, locule number, bumpiness, seed number per fruit and number of flowers per inflorescence    141   Fig.
+3 Frequency histogram of bell shape A, fruit size B, and correlation between fruit size and bell shape C. r Pearson correlation coefficient between bell shape and fruit size, P significance of the correlation   (Fig. 2).
+Most fruit morphology components were significantly correlated with bell shape and/or fruit size, suggesting that most components control, at least in part, these two characters (Table 1, Fig. 4).
+For example, strong correlations were observed between fruit size and stemend blockiness, fruit size and heart shape, and fruit size and seeds per fruit (r = 0.66, 0.65 and 0.63, respectively; Table 1, Fig. 4).
+Likewise, strong correlations were also observed between stem-end blockiness and heart shape, stem-end blockiness and seeds per fruit, and heart shape and seeds per fruit, suggesting that these three characters may be part of similar developmental pathway controlling   142   Table 1 Pearson correlation coefficients between traits   Trait Bell Fruit size sblk bblk hrt fs bpi
+nsf lcn shape   Stem-end blockiness (sblk) 0.60*** 0.66*** Bottom-end blockiness (bblk) ns 0.38*** 0.37
+*** Heart shape (hrt) 0.35*** 0.65*** 0.86*** 0.79*** Elongated shape (fs) ns 0.39*** ns 0.44*** 0.25*** Bumpiness (bpi) 0.42*** ns ns ns ns –0.27*** Seed number per fruit (nsf) ns 0.63*** 0.51*** 0.28*** 0.47*** ns –0.21** Locule number (lcn) 0.35*** 0.20** ns ns ns –0.22** 0.23*** ns Flowers per inflorescence (nfl) ns –0.43*** –0.32*** –0.19** –0.31*** ns ns –0.23** –0.33***   **Significant at P < 0.01, ***significant at P < 0.001; ns, not significant   against the homozygous L. pimpinellifolium class was observed at loci on the long arm of chromosome 2 (TG337) and on the long arm of chromosome 9 (TG421).
+Segregation distortion at several of the aforementioned loci, in particular at TG342, has been noted in F 2 populations derived from crosses between different L. esculentum cultivars and LA1589 (Lippman and Tanksley 2001; Van der Knaap and Tanksley 2001).
+Skewed allele segregation is commonly observed in populations derived from interspecific crosses and may be due to selfincompatibility, gametophytic and/or hybrid viability (Zamir et al. 1982;
+Gebhardt et al. 1991).
+QTL analysis    Fig.
+4 Multidimensional scaling (Gizlice et al. 1996) analysis of correlation coefficients from Table 1.
+The distance between the traits as measured by the X- and Y-axis ruler corresponds to 1 – r (from Table 1).
+Circles were drawn by hand to indicate the traits significantly correlated to either bell shape or fruit size   fruit size.
+With respect to bell shape, high correlation coefficients were observed between bell shape and stemend blockiness, and bell shape and bumpiness (r = 0.60 and 0.42, respectively, Table 1).
+However, no significant correlations were detected between stem-end blockiness and bumpiness, suggesting that they operated through independent developmental pathways in the control of bell shape.
+Construction of genetic map   A molecular linkage map was constructed by scoring the genotype of 93 RFLP markers on the F 2 population.
+The map spanned 1,076 cM, resulting in an average map distance between the markers of 13 cM. Highly significant skewing of segregation of alleles was observed for the top of chromosome 7 (TG342), top of chromosome 9 (TG18) and in the middle of the short arm of chromosome 11 (TG508).
+In those three cases, skewing occurred at the expense of the homozygous L. esculentum class.
+Skewing    On the basis of single point linear regression analyses, we identified ten QTL controlling bell shape and fruit size, and 40 QTL controlling potential components of fruit shape and fruit size (Table 2, Fig. 5).
+The presence of each significant fruit morphology locus was confirmed by interval analysis.
+As will be described below, nearly all regions of the genome exerting an effect on bell shape and fruit size also contained loci affecting one or more components of fruit morphology.
+Such results may be due to close linkage of discrete QTL or pleiotropic effects of a single gene on multiple traits.
+However, since we attempted to identify components of bell shape and fruit size, we expected to find coinciding QTL, some of which may be due to the action of pleiotropic genes.
+Bell shape   Loci controlling bell shape were found on chromosome 2 (bell2.1 and bell2.2) and on chromosome 8 (bell8.1).
+The three bell shape loci exhibited R
+[2] values between 13% and 17% each and, when fitted simultaneously, explained 30% of the phenotypic variation (Table 2).
+For all three loci, the increase in bell shape was attributed to the Yellow Stuffer allele.
+One of the bell shape loci, bell2.2, overlapped with a locus controlling fruit size, fw2.2 (see below).
+The coincidence of a locus for bell shape and fruit size explained, at least in part, the highly significant correlation between these two characters (Fig.
+3C).
+The   143   Table 2 List of QTL controlling bell shape, fruit size and their components (P < 0.005)
+Trait QTL [a] Putative orthologous Putative ortholog Marker [c] R2 A [e] D/A
+[e] QTL in tomato
+[b] Solanaceae (PVE)
+[d]   Bell shape (BELL) bell2.1 lcn2.1 [f,g] TG645 0.15 0.43 –0.51 bell2.2 fw2.2
+[f,h], sblk2.1 [f], hrt2.1 [f] TG537 0.13 0.45 0.16 bell8.1
+fs8.1
+[i], bpi8.1
+[f] fs8.1 (pepper [k] ) CT47 0.17 0.47 –0.20 Fruit size (FW) fw1.1 fw1.1
+[h], nfl1.1 [f,m] TG125 0.13 2.73 –0.18 fw2.2 fw2.2
+[h], sblk2.1 [f], hrt2.1 [f], bell2.2 [f] fw2.1 TG537 0.10 2.50 –0.14 (eggplant [j], pepper
+[k] )  fw3.2 fw3.2 [h], sblk3.1 [f], hrt3.1 [f], nfl3.1
+[f,i] fw3.1 (pepper [k] ) CT85 0.19 3.00 0.08 fw5.2 CT118 0.08 1.93 –0.38 fw6.2 fw6.2
+[h] TG356 0.07 1.33 1.51 fw7.2 fw7.2
+[h], sblk7.1 [f], hrt7.1
+[f], nsf7.1
+[f,i], TG183 0.10 2.33 –0.41 nfl7.2 [f]  fw11.3 fw11.3 [h], lcn11.9
+[g] TG393 0.08 2.15 0.23 Stem-end blockiness sblk1.1 Hrt1.1
+[f] CT149 0.12 0.03 –0.20 (SBLK) sblk2.1 fw2.2 [f,h], hrt2.1 [f], bell2.2
+[f] TG537 0.07 0.02 0.33 sblk3.1 fw3.2 [f,h], hrt3.1 [f], nfl3.1
+[f,l] CT85 0.10 0.02 0.00 sblk7.1 fw7.2 [f,h], hrt7.1
+[f], nsf7.2 [f], nfl7.2 [f,m] TG183 0.11 0.02 0.00 sblk8.1 TG349 0.08 0.02 0.00 sblk12.1 TG565 0.07 0.02 0.33  Blossom-end blockiness bblk2.1 CT244 0.06 –0.03 0.20 (BBLK)
+Heart shape (HRT) hrt1.1 sblk1.1
+[f] CT149 0.09 0.04 –0.33 hrt2.1 bell2.2 [f], fw2.2
+[f,h], sblk2.1 [f] TG537 0.05 0.04 0.00 hrt3.1 fw3.2 [f,h], sblk3.1 [f], nfl3.1
+[f,l] CT85 0.08 0.04 0.25 hrt7.1 fw7.2 [f,h], sblk7.1 [f], nsf7.2 [f], nfl7.2 [f,m] TG183 0.07 0.04 0.00  Elongated shape (FS) fs6.2 TG356 0.09 0.04 0.43 fs9.2 fs3.1 (pepper [k] )
+TG551 0.09 0.04 –0.14 Bumpiness (BPI) bpi8.1
+bell8.1
+[f], fs8.1
+[I] fs8.1 (pepper [k] ) CT47 0.08 0.10 –0.26 bpi9.1 TG551 0.10 –0.10 –0.10 bpi11.1 TG546 0.06 –0.09 –0.53 Seed number per fruit nsf1.1 nsf1.1
+[g], sblk1.1 [f], hrt1.1 [f] CT149 0.06 4.27 –0.42 (NSF) nsf2.1 TG14 0.10 6.22 0.44 nsf3.1 TG129 0.09 2.49 2.94 nsf4.1 nsf4.1
+[l] TG15 0.08 5.48 –0.16 nsf6.1 nsf6.1 [l] TG356 0.08 –0.03 –249.00 nsf7.1
+nsf7.1
+[I] TG342 0.09 7.91 –0.83 nsf7.2 fw7.2
+[f,h], sblk7.1 [f], hrt7.1
+[f], nfl7.2 [f,m] TG183 0.10 6.01 –0.23 nsf9.1 CT74 0.09 6.27 0.27 nsf11.1 nsf11.1
+[g] TG36 0.06 4.68 –0.60 nsf12.1 TG565 0.06 4.16 –0.63  Locule number (LCN) lcn2.1 lcn2.1
+[g], bell2.1 [f] TG645 0.30 0.22 –0.64 lcn3.1 TG129 0.06 0.09 –1.00 lcn4.1 CT157 0.06 –0.07 1.57 lcn10.1 CT234 0.06 0.00 –31.00 lcn12.1 TG565 0.06 0.11 –0.05  Flowers per
+inflorescence nfl1.1 nfl1.1
+[m], fw1.1 [h] TG125 0.19 –1.38 –0.49 (NFL) nfl2.1 TG537 0.09 –1.04 –0.27 nfl3.1 nfl3.1
+[l], fw3.2 [f,h], sblk3.1 [f], hrt3.1 [f] CT85 0.16 –1.21 0.14 nfl4.1 TG483 0.09 –0.90 –0.68 nfl5.1 TG441 0.07 –0.79 –0.54 nfl7.3 TG342 0.10 –1.27 –0.26 nfl7.2 nfl7.2
+[m], fw7.2 [f,h], sblk7.1 [f], hrt7.1
+[f], TG183 0.06 –0.71 –1.07 nsf7.2 [f]  nfl9.2 nfl9.2
+[l] TG551 0.08 –0.84 0.57 nfl9.3 TG421 0.06 –0.76 0.95   a QTL detected in this study are named according to trait abbreviations.
+The first number following each abbreviation indicates the chromosome number, and the second number distinguishes QTL mapping to the same chromosome and affecting the same trait b QTL described in current manuscript as well as previous literature for which orthology seems likely based on map position, function and gene action c Marker most significantly linked to QTL d
+Fraction of phenotypic variance explained by locus e A, Additive effect; D/A, degree of dominance of alleles References: [f] this study, [g] Lippman and Tanksley (2001),
+[h] Grandillo et al. (1999),
+[i] Ku et al. (2000),
+[j] Doganlar et al. (2002b), [k] Ben Chaim et al. (2001), [l] Grandillo and Tanksley (1996),
+[m] Doganlar et al. (2002a)   144   Fig.
+5 Molecular linkage map of tomato indicating RFLP markers used in the study and the distance between markers in centiMorgans (number on left of chromosome).
+Fruit morphology QTL are indicated by vertical bars on the right of each chromosome.
+The map position of related QTL that are likely allelic to QTL identified in the current study are shown to the left of the corresponding chromosome.
+The length of the bar indicates the broadness of the LOD curve peak around the locus as determined by interval analysis   gene action, the direction of the allelic effect on the trait (i.e. the esculentum allele increased bell shape and fruit size) and the overlap of the interval analysis curves for bell shape and fruit size suggests that the basis for this QTL is fw2.2 which gene was recently identified and shown to be a negative regulator of fruit growth (Frary et al. 2000; Nesbitt and Tanksley 2001).
+The second QTL on chromosome 2, bell2.1 maps to the same position as lcn2.1, a locus controlling locule number (see below).
+lcn2.1 identified in this study is most likely allelic to lcn2.1 identified recently in a population derived from a cross between Giant Heirloom tomato and L. pimpinellifolium, and to lc described by early classical geneticists (Yeager 1937; Lippman and Tanksley 2001).
+In the current study, as well as in the previous study, the esculentum allele at this QTL increases locule number in a semi-recessive manner (Table 2, Lippman and Tanksley 2001).
+Because these QTL control similar phenotypes, map to the same position in chromosome 2 and display similar gene action, it is strongly suggested that bell2.1 and lcn2.1 correspond to the same gene.
+Finally, bell8.1, which maps to the top of chromosome 8, is coincidental with bpi8.1 (see below) and a previously reported QTL for fruit shape, fs8.1 (Grandillo et al. 1996).
+The wild-type allele of bpi8.1 results in smooth round fruit, whereas the esculentum allele results in more convex, unevenly shaped locule walls.
+The esculentum allele of fs8.1 results in elongated and blocky fruit    characteristic of processing tomatoes (Grandillo et al. 1996).
+The coincidence of map position, phenotypic effects and gene action (mostly additive) suggest that bell8.1, bpi8.1 and fs8.1 are the same gene.
+Fruit size   Seven QTL controlling fruit size exhibited R
+[2] values between 7% and 19% each (Table 2) and, when fitted simultaneously, explained 46% of the phenotypic variation.
+The Yellow Stuffer allele increased fruit size at all loci controlling fruit mass.
+Major QTL were found on chromosome 1 and 3 (fw1.1 and fw3.2, respectively), and both loci exhibited largely additive gene action.
+QTL of smaller effect were found on chromosome 2 and 7, displaying additive gene action (fw2.2) to partial dominance of the wild over the esculentum allele (fw7.2).
+The remaining fruit size QTL on chromosome 5, 6 and 11 were minor in effect.
+Except for fw5.2, all fruit size QTL have been were detected in previous studies (Table 2; Grandillo et al. 1999).
+Components of bell shape and fruit size   Stem-end blockiness and heart shape   Blockiness of the stem end of the fruit is characteristic of Yellow Stuffer (Fig. 1).
+This trait was measured in the F 2 population by calculating the ratio of fruit diameter at the top of the fruit to the fruit diameter at midpoint (Fig. 2).
+Therefore, larger ratios are the consequence of blockier fruit.
+Stem-end blockiness was controlled by six QTL, explaining between 7% and 12% of the phenotypic variance which, when fitted simultaneously, explained 34% of the variance.
+For all QTL, the Yellow Stuffer allele resulted in increased blockiness, and all loci displayed additive gene action.
+All but one QTL (sblk12.1) mapped on or near bell shape and fruit size QTL suggesting that mostly the same genes control these traits (Fig. 5).
+Although heart shape is not a typical characteristic of Yellow Stuffer, this trait appeared to segregate in the F 2 population.
+Therefore, heart shape was measured on fruit of plants in the F 2 population as the ratio of diameter at the top to diameter at the bottom of the fruit.
+Symmetrical and round shaped fruit had a heart shape ratio near 1, while larger ratios were obtained for heart-shaped fruit (Fig. 2).
+As shown in Table 2, loci controlling stem-end blockiness also controlled heart shape, albeit at a lesser significance.
+This indicates that these two morphological characters are similarly controlled.
+Blossom-end blockiness   Yellow Stuffer fruit display prominent blockiness of the stem-end as well as the blossom-end of the fruit (Figs. 1 and 2).
+The ratio of fruit diameter at midpoint to the diameter at the bottom of the fruit was measured to obtain the blossom-end blockiness score.
+Rounder and pointier fruit had larger blockiness ratios than blocky and indented fruit.
+Blossom-end blockiness was highly significantly correlated to fruit size, however only one novel, minor QTL was detected to control this character.
+This QTL mapped to chromosome 2 (bblk2.1) and explained 6% of the phenotypic variance.
+Although we observed variation in blossom-end blockiness in the F 2 population, this trait could not be mapped well suggesting more minor QTL, and non-heritable effects in the expression of this character.
+Elongated shape   While elongated fruit shape appears not to be a major characteristic of Yellow Stuffer, a small number of plants in the F 2 population bore elongated fruit.
+Elongated shape, measured as the ratio of fruit length to diameter, was controlled by two QTL of small effect, each explaining 9% of the phenotypic variance.
+The QTL on chromosome 6 (fs6.2) and 9 (fs9.2) were novel, and the    145   Yellow Stuffer allele increased fruit elongation at both loci.
+Of those two fruit elongation QTL, fs6.2 mapped near a minor fruit size QTL (fw6.2).
+Comparisons between gene actions and interval analysis LOD curves did not discriminate between pleiotropy or closely linked loci for fs6.2 and fw6.2.
+Bumpiness   Yellow Stuffer fruit are very unevenly shaped, the pericarp often bulging between septum walls (Fig. 2).
+This uneven shape was scored in the segregating F 2 population as bumpiness, measured as the ratio of the measured to the calculated fruit circumference (Fig. 2).
+The more bumpy and unevenly shaped the fruit, the higher the score for bumpiness.
+Three QTL controlled this character, each explaining between 6% and 10% of the phenotypic variance.
+The most significant QTL, bpi9.1, did not correspond to either bell shape or fruit size QTL.
+Furthermore, increased bumpiness controlled by bpi9.1 was attributable to the pimpinellifolium allele (Table 2).
+On the other hand, interval analysis showed nearly perfect overlap between the next most significant bumpiness QTL, bpi8.1, and bell8.1.
+The esculentum allele caused an increase in bell shape and bumpiness as well as similar gene action, suggesting that bpi8.1 was controlled by the same gene as bell8.1.
+Both bpi8.1, and bell8.1 map to the same position as the previously mentioned fruit shape QTL, fs8.1, and it seems likely that all are the result of pleiotropic actions of the same gene (see previous section).
+Seed number per fruit   Number of seed per fruit was controlled by ten QTL, exhibiting R
+[2] values between 6% and 10%.
+Except for one locus, nsf6.1, the increase in seed number was due to the Yellow Stuffer allele.
+Seed number QTL were found on nearly every chromosome which, when fitted simultaneously, explained 36% of the phenotypic variance.
+The highly significant correlation between seed number and fruit size was expected since developing seed produce and act as sinks for growth hormones, thereby affecting fruit size (Gillaspy et al. 1993).
+While five seed number QTL mapped near or on fruit size QTL, only nsf7.2 showed an interval analysis LOD curve perfectly overlapping with that of fw7.2.
+The similarity in gene action as well as the similar direction of the allele effect – i.e. the esculentum  allele increased both number of seeds and fruit size – suggested that the same gene controlled both fruit size and seed number at the nsf7.2-fw7.2 locus.
+Of the ten QTL identified in this study, five seeds number per fruit loci had been identified in previous studies (Grandillo and Tanksley 1996; Lippman and Tanksley 2001), while the largest effect loci, nsf2.1, nsf3.1, nsf7.2 as well as minor loci, nsf9.1 and nsf12.1 were novel (Table 2).
+146   Locule number   The major QTL controlling locule number mapped to the bottom of chromosome 2, lcn2.1, while the remaining four were minor in their effect.
+lcn2.1 explained 30% of the phenotypic variance and displayed partial dominance of the wild allele over the Yellow Stuffer allele.
+Interval analysis showed perfect overlap between LOD curves for lcn2.1 and bell2.1.
+The similarity in gene action, the direction of the effect of the alleles and the highly significant correlation between locule number and bell shape strongly suggests that bell2.1 and lcn2.1 are controlled by the same gene (see above).
+Flowers per inflorescence   Nine QTL were found to control number of flowers per inflorescence, each explaining between 6% and 19% of the observed phenotypic variance.
+The QTL were found on chromosome 1 (nfl1.1), 2 (nfl2.1), 3 (nfl3.1), 4 (nfl4.1), 5 (nfl5.1), 7 (nfl7.2 and nfl7.3) and 9 (nfl9.2 and nfl9.3), and an increase in flower number was attributed to the pimpinellifolium allele at all loci.
+Interval analysis showed perfect overlap of LOD curves for flowers per inflorescence loci nfl1.1, nfl3.1, and nfl7.2 and their corresponding fruit size loci fw1.1, fw3.2, and fw7.2, respectively (Table 2, Fig. 5).
+Furthermore, the direction of the allele effect – i.e. pimpinellifolium alleles increase flower number while decreasing fruit size – suggested that several genes controlling fruit size were pleiotropic to flowers per inflorescence genes.
+For flowers per inflorescence, four loci, nfl1.1, nfl3.1, nfl7.2 and nfl9.2, had been identified before (Grandillo and Tanksley 1996; Doganlar et al. 2002a), while the remaining five QTL were novel.
+Comparisons between QTL controlling fruit morphology in tomato and other Solanaceae   Results from several mapping experiments have led to the notion that most loci controlling fruit shape and size have been identified, and that preexisting alleles at several loci, brought together relatively recently, resulted in extreme fruit types (Grandillo et al. 1999; Lippman and Tanksley 2001).
+Indeed, three QTL largely responsible for the bell pepper-shaped fruit observed in the Yellow Stuffer variety appear to be allelic to the previously reported QTL for tomato size and shape: fw2.2, lcn2.1 and fs8.1.
+Furthermore, except for one minor QTL, fw5.2, this study did not identify new QTL controlling fruit size (Grandillo et al. 1999; Table 2).
+However, contrary to previous populations derived from crosses between cultivated L. esculentum and L. pimpinellifolium, in which fw2.2 (Grandillo and Tanksley 1996; Tanksley et al. 1996) or fw11.3/lcn11.1 (Lippman and Tanksley 2001) were major determinants in the control of fruit size, in this population fw1.1 and fw3.2 were the two major loci controlling fruit    mass.
+This difference in magnitude in the effect of the loci could be explained by differences in genetic background.
+However, an alternative explanation would be that mutations at a finite number of fruit size loci arose independently during domestication, creating multiple alleles per locus, each varying in their effect on the character.
+By measuring the components of fruit morphology, it was possible to assign more specific phenotypic functions to each of these loci.
+In addition to fw2.2, bell2.2 may also be allelic to loci controlling stem-end blockiness and heart shape (Table 2, Fig. 5).
+Furthermore, in addition to fs8.1 and bpi8.1, bell8.1 may be allelic to a locus controlling stem-end blockiness (Fig. 5).
+This would suggest that one gene controls many different aspects of fruit morphology (Grandillo et al. 1996; Ku et al. 2000).
+The major fruit mass QTL appear to be controlled by loci regulating number of flowers per inflorescence and/or stem-end blockiness (Table 2, Fig. 5).
+In addition to the ability to assign more specific phenotypic functions of each locus, measuring components of fruit morphology also allowed identification of several hitherto unknown QTL controlling morphological variation.
+Outside the Lycopersicon genus but within the Solanaceae family, a cross between a small-fruited Indian pepper and a sweet bell pepper resulted in the identification of fruit size and elongation QTL (Ben Chaim et al. 2001).
+The major QTL controlling fruit size in the Yellow Stuffer tomato and bell pepper study is fw3.2, which maps to similar positions in their respective genome (Ben Chaim et al. 2001).
+Tomato fw2.2 and pepper fw2.1 overlap, as do pepper fs8.1 and tomato QTL cluster bell8.1, bpi8.1, blki8.1 (this study) and fs8.1 (Grandillo et al. 1996; Ku et al. 2000).
+Large rearrangements between tomato and pepper genomes resulted in the top of pepper chromosome 3 to be colinear to the bottom of tomato chromosome 9 (Livingstone et al. 1999).
+Therefore, tomato fs9.2 may be orthologous to pepper fs3.1 (Ben Chaim et al. 2001).
+However, the limited number of shared markers on either map does not allow for an accurate position of pepper fs3.1 in tomato and vice versa.
+In addition, a cross between cultivated eggplant and a wild relative resulted in the identification of eggplant fw2.1 coinciding with tomato fw2.2 (Doganlar et al. 2002b;
+Table 2).
+The incidence of several coinciding QTL between Yellow Stuffer tomato, bell pepper and eggplant suggests that domestication and selection pressures that resulted in dramatic changes in fruit morphology were through accumulation of mutations at similar loci in these fruit-bearing crops.
+Acknowledgements We thank N. van Eck, C. de Sousa, J. Bezziderides for excellent technical help, and Dr Clay Sneller for help with the Multidimensional Scaling analysis.
+This work was supported by grants from the National Research Initiative Cooperative Grants Program, U.S. Department of Agriculture Plant Genome Program (no. 97-35300-4384); the National Science Foundation (no. DBI-9872617); and the Binational Agricultural Research and Development Fund (No US2427-94).
+The experiments presented here comply with current US law.
+References   Ben-Chaim A, Paran I, Grube RC, Jahn M, van Wijk R, Peleman J (2001) QTL mapping of fruit-related traits in pepper (Capsicum annuum).
+Theor Appl Genet 102:1016–1028 Bernatzky R, Tanksley SD (1986)
+Towards a saturated linkage map in tomato based on isozymes and random cDNA sequences.
+Genetics 112:887–898 Doganlar S, Frary A, Ku H-M, Tanksley SD (2002a)
+Mapping quantitative trait loci in inbred backcross lines of Lycopersicon pimpinellifolium (LA1589).
+Genome 45:1189–1202 Doganlar S, Frary A, Daunay MC, Lester RN, Tanksley SD (2002b)
+Conservation of gene function in the Solanaceae as revealed by comparative mapping of domestication traits in eggplant.
+Genetics 161:1713–1726 Frary A, Nesbitt TC, Frary A, Grandillo S, van der Knaap E, Cong B, Liu J, Meller J, Elber R, Alpert KB, Tanksley SD (2000)
+fw2.2: a quantitative trait locus key to the evolution of tomato fruit size.
+Science 289:85–88 Fulton TM, Chunwongse J, Tanksley SD (1995)
+Microprep protocol for extraction of DNA from tomato and other herbaceous plants.
+Plant Mol Biol Rep 13:207–209 Gebhardt C, Ritter E, Barone A, Debener T, Walkemeier B, Schachtschabel U, Kaufmann H, Thompson RD, Bonierbale MW, Ganal MW, Tanksley SD, Salamini F (1991)
+RFLP maps of potato and their alignment with the homeologous tomato genome.
+Theor Appl Genet 83:49–57 Gillaspy G, Ben-David H, Gruissem W (1993) Fruits: a developmental perspective.
+The Plant Cell 5:1439–1451 Gizlice Z, Carter TE, Gerig TM, Burton JW (1996) Genetic diversity patterns in North American public soybean cultivars based on coefficient of parentage.
+Crop Sci 36:753–765 Grandillo S, Tanksley SD (1996) QTL analysis of horticultural traits differentiating the cultivated tomato from the closely related species Lycopersicon pimpinellifolium.
+Theor Appl Genet 92:935–951 Grandillo S, Ku H, Tanksley SD (1996) Characterization of fs8.1, a major QTL influencing fruit shape in tomato.
+Mol Breed 2:251–260    147   Grandillo S, Ku HM, Tanksley SD (1999) Identifying the loci responsible for natural variation in fruit size and shape in tomato.
+Theor Appl Genet 99:978–987 Kosambi DD (1944)
+The estimation of map distances from recombination values.
+Ann Eugen 12:172–175 Ku HM, Grandillo S, Tanksley SD (2000) fs8.1, a major QTL, sets the pattern of tomato carpel shape well before anthesis.
+Theor Appl Genet 101:873–878 Lander ES, Green P, Abrahamson J, Barlow A, Daly MJ, Lincoln SE, Newburg L (1987) mapmaker: an interactive computer package for constructing primary genetic linkage maps of experimental and natural populations.
+Genomics 1:174–181 Lippman Z, Tanksley SD (2001) Dissecting the genetic pathway to extreme fruit size in tomato using a cross between the smallfruited wild species Lycopersicon pimpinellifolium and L. esculentum var.
+Giant Heirloom.
+Genetics 158:413–422 Livingstone KD, Lackney VK, Blauth JR, van Wijk R, Jahn MK (1999)
+Genome mapping in Capsicum and the evolution of genome structure in the Solanaceae.
+Genetics 152:1183–1202 Nelson JC (1997) qgene: software for marker-based genomic analysis and breeding.
+Mol Breed 3:229–235 Nesbitt TC, Tanksley SD (2001) fw2.2 directly affects the size of developing tomato fruit, with secondary effects on fruit number and photosynthate distribution.
+Plant Physiol 127:575–583 Tanksley SD, Grandillo S, Fulton TM, Zamir D, Eshed Y, Petiard V, Lopez J, Beck-Bunn T (1996)
+Advanced backcross QTL analysis in a cross between an elite processing line of tomato and its wild relative L. pimpinellifolium.
+Theor Appl Genet 92:213–224 Van der Knaap E, Tanksley SD (2001) Identification and characterization of a novel locus controlling early fruit development in tomato.
+Theor Appl Genet 103:353–358 Yeager AF (1937) Studies on the inheritance and development of fruit size and shape in tomato.
+J Agric Res 55:141–152 Zamir D, Tanksley SD, Jones RA (1982)
+Haploid selection for low temperature tolerance of tomato pollen.
+Genetics 101:129–137

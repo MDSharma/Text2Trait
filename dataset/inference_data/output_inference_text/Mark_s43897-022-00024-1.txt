@@ -1,0 +1,1197 @@
+## Zhu et al.
+Molecular Horticulture       (2022) 2:2 Molecular Horticulture  https://doi.org/10.1186/s43897-022-00024-1  ### REVIEW Open Access  #
+The metabolic changes that effect fruit quality during tomato fruit ripening   Feng Zhu [1,2], Weiwei Wen
+[1], Yunjiang Cheng
+[1] and Alisdair R. Fernie [2*]   Abstract   As the most valuable organ of tomato plants, fruit has attracted considerable attention which most focus on its quality formation during the ripening process.
+A considerable amount of research has reported that fruit quality is affected by metabolic shifts which are under the coordinated regulation of both structural genes and transcriptional regulators.
+In recent years, with the development of the next generation sequencing, molecular and genetic analysis methods, lots of genes which are involved in the chlorophyll, carotenoid, cell wall, central and secondary metabolism have been identified and confirmed to regulate pigment contents, fruit softening and other aspects of fruit flavor quality.
+Here, both research concerning the dissection of fruit quality related metabolic changes, the transcriptional and posttranslational regulation of these metabolic pathways are reviewed.
+Furthermore, a weighted gene correlation network analysis of representative genes of fruit quality has been carried out and the potential of the combined application of the gene correlation network analysis, fine-mapping strategies and next generation sequencing to identify novel candidate genes determinants of fruit quality is discussed.
+Keywords: Tomato, Ripening, Metabolites regulation, Fruit quality    Introduction
+Following import from the Andean region to Europe in the 16th century and human domestication and breeding for around 600 years, tomato has become one of the most economically important vegetables in the world (Bergougnoux 2014).
+In 2019, the worldwide cultivated area of tomato reached almost 6.11 million hectares producing 243.62 million tons fruits which are sold either as fresh market vegetables or made into soups, juice and [ketchup by the processing industry (FAOSTAT, http://](http://www.fao.org/faostat)
+[www.fao.org/faostat).
+As the most important traits for](http://www.fao.org/faostat) fresh market and processing, the appearance and internal quality of fruit are formed by dramatic changes in the activities of a series of metabolic pathways during the ripening process.
+These metabolic changes are not only attributed to the colorful and flavorsome   [* Correspondence: fernie@mpimp-golm.mpg.de](mailto:fernie@mpimp-golm.mpg.de) 2 Max-Planck-Institut für Molekulare Pflanzenphysiologie, Am Mühlenberg 1, 14476 Potsdam, Golm, Germany Full list of author information is available at the end of the article    appearance that were initially required to attract animals to eat and subsequently disperse seeds but also an important nutritional source of carbohydrate, minerals, vitamins, and antioxidants for both animals and humans (Klee and Giovannoni 2011).
+For this reason, the key biosynthetic pathways of the fruit quality metabolites during the ripening have been well-documented and the genetic and molecular analysis of tomato metabolism have been summarized in several reviews (Carrari and Fernie 2006;
+Giovannoni 2007; Tohge et al. 2017).
+Recently, the high quality tomato genome and large scale transcriptomic datasets have significantly accelerated the illumination of the structural genes and transcriptional regulators underlying the formation of high quality fruit (The Tomato Genome Sequencing Consortium 2012).
+However, given that tomato specialized metabolism is highly complex, in order to identify the novel genes involved in aspects of fruit quality that are associated with these metabolites still requires considerable research effort.
+© The Author(s).
+2022
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material.
+If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain [permission directly from the copyright holder.
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+[The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the](http://creativecommons.org/publicdomain/zero/1.0/) data made available in this article, unless otherwise stated in a credit line to the data.
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 2 of 19    Here, we focus on the recently obtained knowledge considering structural genes as well as transcriptional and post-translational regulators involved in the metabolic pathways underlying both appearance and internal quality such as those involved in chlorophyll, carotenoid, cell wall, central and secondary metabolism (Table 1, Figure 1).
+Moreover, to mine the other potential genes involved in fruit quality formation, we additionally carried out a weighted gene correlation network analysis of the representative genes of the fruit quality based on previously published high-resolution spatiotemporal transcriptome data for tomato fruit ripening (Shinozaki et al. 2018).
+We additionally discuss the combined application of gene correlation network analysis, finemapping strategies and next generation sequencing as a mean to identify the novel candidate genes underlying fruit quality.
+Pigments As one of the most important traits of fruit appearance quality, pigmentation alters dramatically during fruit ripening process, changing following upregulation of chlorophyll degradation and carotenoid biosynthesis to form the unique color of the fruit (Klee and Giovannoni 2011).
+As a representative magnesium porphyrin compound, chlorophylls contain a porphyrin ring chelating a magnesium atom for light energy absorption and the aliphatic hydrocarbon side chain, phytol.
+The degradation of chlorophylls initializes with the conversion of chlorophyll b to chlorophyll a which is catalyzed by chlorophyll b reductase (Horie et al. 2009).
+Subsequently, based on the order of removing the phytol and magnesium atoms, the chlorophyll degradation pathway is divided into the PAO (Pheophorbide a monooxygenase) pathway and the PPH (Pheophytin pheophorbide hydrolase) pathway.
+In the PAO pathway, the phytol group is removed from chlorophyll a which catalyzed by chlorophyllase, and subsequently the magnesium atom chelated with the porphyrin ring is removed as the action of magnesium ion dechelating enzyme.
+For the PPH pathway, the magnesium atom in the chlorophyll a porphyrin ring is removed first, and then PPH specifically removes the phytol chain of Mg-free chlorophyll (Chl) pigment pheophytin to generate pheophorbide (Schelbert et al. 2009).
+Then, oxygen atoms are added to the C4 and C5 of the porphyrin ring to break the structure of the porphyrin ring and produce red chlorophyll metabolites (Pruzinska et al. 2003).
+Subsequently, the red chlorophyll metabolites are converted into a primary fluorescent chlorophyll catabolite and transported out of the chloroplast (Pruzinska et al. 2007).
+Following modification in the cytosol, these molecules are transported to the vacuole, and finally undergo an isomerization reaction to form the final product of Chl breakdown, nonfluorescent Chl    catabolites (Berghold et al. 2004).
+In addition to the above enzymes, former research has reported that SGR (STAY-GREEN) proteins can interact with chlorophyll degrading enzymes to affect the degradation of chlorophyll.
+In tomato fruits, SGR1 and SGRL proteins can promote chlorophyll degradation, while the SGR2 protein in Arabidopsis acts as a repressor of the chlorophyll degradation (Barry et al. 2008;
+Sakuraba et al. 2012; Sakuraba et al. 2014; Yang et al. 2020).
+As the main pigment of ripe tomato fruit, the orderly synthesis of carotenoids is a key step of fruit color quality.
+During the fruit ripening process, carotenoids are de novo synthesized by the polymerization of isopentenyl diphosphate to produce geranyl geranyl pyrophosphate (GGPP).
+GGPP then acts as the direct precursor for synthesis of various linear and epoxidized carotenoids under the catalysis of a series of enzymes.
+The first reaction which is catalyzed by phytoene synthase (PSY) synthesizes the colorless phytoene from two molecules of GGPP.
+This enzyme is the key rate-limiting step of carotenoid synthesis pathway and its loss-of-function underlies the yellow-fruited tomato 2 mutant (Bird et al. 1991; Bartley and Scolnik 1993;
+Chen et al. 2019b).
+Subsequently, under the catalysis of phytoene dehydrogenase (PDS), ζ-carotene dehydrogenase (ZDS), ζ-carotene isomerase (Z-ISO) and carotene isomerase (CRTISO), phytoene undergoes dehydrogenation and isomerization reactions to form lycopene, which is the dominate carotenoid of tomato fruit (Hirschberg 2001; Isaacson et al. 2002; Cazzonelli and Pogson 2010).
+Thereafter, lycopene is converted by lycopene epsilon cyclase (LCYE) and lycopene beta cyclase (LCYB) in the branch pathway of carotenoid synthesis to produce α-carotene and βcarotene (Ronen et al. 1999; Diretto et al. 2020).
+Moreover, α-, β-carotene can be catalyzed by β-carotene hydroxylase (BCH, loss-of-function which leads to tomato white-flower mutant) and through the intermediate products zeinoxanthin and β-cryptoxanthin form lutein and zeaxanthin (Galpaz et al. 2006; Stigliani et al. 2011).
+In addition, zeaxanthin can also generate antherxanthin and violaxanthin following the reaction catalyzed by zeaxanthin epoxidase (ZEP, loss-of-function which leads to tomato high-pigment 3 mutant) (Galpaz et al. 2008;
+Karniel et al. 2020).
+Finally, violaxanthin can also be converted to neoxanthin under the catalysis of neoxanthin synthase (NSY) (Neuman et al. 2014).
+Cell wall  As one of the predominant parameters of fruit texture and the major determinant of shelf life and commercial value of fruits, cell wall remodeling during the ripening stage is a complex process which contains the hydrolysis of cellulose and hemicelluloses, solubilisation and depolymerisation of the pectin polysaccharides, and   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 3 of 19   Table 1 Validated structure and transcriptional genes of tomato fruit quality metabolism    Metabolite pathway or TF famaily    Gene name Gene ID Gene function validation method or regulation pathway    Reference    Chlorophyll SGR1 Solyc08g080090 Map-Based Cloning and (Barry et al. 2008; degradation transgene Luo et al. 2013)
+SGRL Solyc04g063240 Transgene (Yang et al. 2020)
+PPH Solyc01g088090 Transgene (Guyer et al. 2014)
+Carotenoid PSY1 Solyc03g031860 Transgene (Bird et al. 1991) biosynthesis  PSY2 Solyc02g081330 Bacterial mutant (Bartley and complementation Scolnik 1993)
+CRTISO Solyc10g081650 Map-Based Cloning and (Isaacson et al. E.coli transformation 2002)
+ZDS Solyc01g097810 Transgene (McQuinn et al. 2020)   PDS Solyc03g123760 Virus-Induced Gene (Naing et al. 2019)
+Silencing (VIGS)
+LCYE Solyc12g008980 E.coli transformation (Roessner-Tunali et al. 2003)   LCYB Solyc04g040190 Transgene (Diretto et al. 2020)   BCH2 Solyc03g007960 Map-Based Cloning and (Galpaz et al. E.coli
+transformation 2006)
+ZEP Solyc02g090890 Map-Based Cloning (Galpaz et al. 2008)   NSY Solyc06g074240 E.coli transformation (Bouvier et al. 2000)   NXD Solyc12g041880 Map-Based Cloning (Neuman et al. 2014)
+Cell wall Exp1 Solyc06g051800 Transgene (Brummell et al. metabolism 1999)   PG Solyc10g080210 Transgene (Jiang et al. 2019)   XTHs Solyc01g099630 Transgene (Miedes et al. 2010)   PL Solyc03g111690 Transgene (Yang et al. 2017)   PE1/PE2 Solyc03g123630/Solyc07g064170
+Transgene (Wen et al. 2013)   TBG4 Solyc12g008840 Transgene (Smith et al. 2002)   Cel1/Cel2 Solyc08g081620/ Solyc09g010210 Transgene (Flors et al. 2007)   Xyl1/ Xyl2 Solyc11g044910/ Solyc01g079570 Transgene and enzyme (Tateishi et al. assay 2014)
+Central Aco-1 Solyc12g005860
+Mutant phenotype analysis (Carrari et al. metabolism 2003)   ICDH1 Solyc01g005560 Transgene (Gamrasni et al. 2020)
+MDH Solyc07g062650 Transgene (Centeno et al. 2011)   SWEET15
+Solyc09g074530 Transgene (Ko et al. 2020)   SUT1/SUT2 Solyc11g017010/ Solyc05g007190 Transgene (Hackel et al. 2006)
+SWEET 1a Solyc04g0646410 Map-Based Cloning and (Shammai et al.
+Transgene 2018)   LIN5 Solyc09g010080 Map-Based Cloning and (Fridman et al.
+Transgene 2000; Zanor et al. 2009)
+AgpL1 Solyc01g109790 Map-Based Cloning and (Petreikov et al.
+enzyme assay 2006)
+VIF Solyc12g099190 Transgene (Qin et al. 2016)
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 4 of 19   Table 1 Validated structure and transcriptional genes of tomato fruit quality metabolism (Continued)
+Metabolite pathway or TF famaily    Gene name Gene ID Gene function validation method or regulation pathway    Reference    INVINH1 Solyc12g099200
+Transgene (Jin et al. 2009)   TIV1 Solyc03g083910 Transgene (Klann et al. 1996)
+SuSy1 Solyc12g009300 Transgene and enzyme (D'Aoust et al. assay 1999)
+TRAMP Solyc08g081190 Transgene (Chen et al. 2001)
+Frk1/Frk2 Solyc03g006860/ Solyc06g073190 Transgene (Odanaka et al. 2002)
+ALMT9 Solyc06g072910 GWAS and transgene (Ye et al. 2017)   Secondary PAL Solyc10g086180 Map-Based Cloning and (Brog et al. 2019) metabolism transgene   CL Solyc08g083110 Map-Based Cloning and (Brog et al. 2019)
+transgene   C4H Transgene (Millar et al. 2007)
+4CL Solyc12g094520 Introgression line and (Rigano et al.
+enzyme activity 2016)
+CHS1 Solyc09g091510 Transgene (Schijlen et al. 2007)   CHI Solyc05g010320 Map-Based Cloning and (Kang et al. 2014) transgene   F3H Solyc02g083860 Map-Based Cloning and (Maloney et al. transgene 2014)
+F3’5’H Solyc11g066580 Enzyme assay (Olsen et al. 2010)
+DFR Solyc02g085020 Transgene (Andrew et al. 1994)   CTOMT1 Solyc10g005060 Transgene and enzyme (Mageroy et al. assay 2012)
+AnthOMT Solyc06g06450 Transgene (Gomez Roldan et al. 2014)   MOMT1 Solyc06g083450 Enzyme assay (Schmidt et al. 2011)
+MOMT4 Map-Based Cloning and (Kim et al. 2014)
+enzyme assay   UGT78-a Solyc10g083440
+Enzyme assay and transgene (Tohge et al. 2020)   UGTs Solyc12g096870 /Solyc12g098600
+Map-Based Cloning and (Alseekh et al. transgene 2020)   F3HL Solyc03g080190 Transgene (Meng et al. 2015)
+FdAT1 Solyc12g088170 Transgene and enzyme (Tohge et al. assay 2015)   GORKY Solyc03g120570 Map-Based Cloning and (Kazachkova et al.
+Transgene 2021)
+GAME31
+Solyc02g062460 Map-Based Cloning and (Cardenas et al.
+Transgene 2019)   GAME5 Solyc10g085230 Map-Based Cloning and (Szymanski et al.
+Transgene 2020)
+GAME4/ GAME6/ GAME11/  GAME12/ GAME17/ GAME18/  GAME2    Solyc12g006460/ Solyc07g043460/Solyc07g043420/ Solyc12g006470/ Solyc07g043480/ Solyc07g043500/ Solyc07g043410    Transgene and enzyme (Itkin et al. 2013; assay Alseekh et al. 2015)    GAME1 Solyc07g043490 Transgene and enzyme (Itkin et al. 2011)  assay   SAMT Solyc09g091550 QTL mapping and enzyme (Tieman et al. assay 2010)
+Lecithin:cholesterol Solyc05g050710/ Solyc12g055730/ Solyc03g123750
+Map-Based Cloning and (Garbowicz et al.
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 5 of 19   Table 1 Validated structure and transcriptional genes of tomato fruit quality metabolism (Continued)    Metabolite pathway or TF famaily    Gene name Gene ID Gene function validation method or regulation pathway    Reference    acyltransferase/ LIP1 / LIP2 Transgene 2018)
+TomLoxC Solyc01g006540 pan-genome analysis and (Chen et al. 2004; Transgene Gao et al. 2019)   GAUT10 Solyc04g064490 GWAS
+(Bauchet et al. 2017)   PPEAT Solyc02g079490
+GWAS (Dominguez et al. 2020)   COI1 Solyc05g052620 Transgene (Li et al. 2004)
+AAT1 Solyc08g005770 Transgene (Goulet et al. 2015)
+CCD1A Solyc01g087250 Transgene and enzyme (Simkin et al. assay 2004)
+CCD1B Solyc01g087260 Transgene and enzyme (Ilg et al. 2014)  assay   FLORAL4 Solyc04g063350 Map-Based Cloning and (Tikunov et al.
+Transgene 2020)   LIP8 Solyc09g091050 Map-Based Cloning and (Li et al. 2020a)
+Transgene   AADC1/2 Solyc08g068610/ Solyc08g006750 Transgene and enzyme (Tieman et al. assay 2006)
+ASAT1 Solyc12g006330
+In vitro enzyme assay (Fan et al. 2016)   ASAT2 Solyc04g012020
+In vitro enzyme assay (Fan et al. 2016)
+ASAT3 Solyc11g067270 Map-Based Cloning and (Schilmiller et al.
+Transgene 2015)   ASAT4 Solyc01g105580 Map-Based Cloning and (Schilmiller et al.
+Transgene 2012)   IPMS3 Solyc08g014230 Map-Based Cloning and (Ning et al. 2015)
+enzyme assay   MADS TFs CMB1 Solyc04g005320 Pigmentation (Zhang et al. 2018a)
+RIN Solyc05g012020 Carotenoid, cell wall and (Fujisawa et al. secondary metabolism 2013)   TDR4 Solyc06g069430 Secondary metabolism (Zhao et al. 2019)   MBP8 Solyc12g087830 Cell wall (Yin et al. 2017)
+MBP15 Solyc12g087810 Carotenoid (Yin et al. 2018)
+MADS1 Solyc03g114840 Carotenoid (Dong et al. 2013)   NAC TFs NOR Solyc10g006880 Pigmentation and cell wall (Gao et al. 2020)   NOR-like1 Solyc07g063420 Pigmentation and cell wall (Gao et al. 2018b)   NAC1 Solyc04g009440 Pigmentation and cell wall (Ma et al. 2014)   NAC4 Solyc11g017470 Pigmentation (Zhu et al. 2014)   NAP2 Solyc04g005610 Pigmentation and fruit (Kou et al. 2018; softening Ma et al. 2018)   MYB TFs MYBATV Solyc10g086290 Anthocyanin (Yan et al. 2020b)
+ANT1 Solyc10g086260 Anthocyanin (Schreiber et al. 2012)   MIXTA-like Solyc02g088190 Primary metabolism (Ying et al. 2020)
+MYB72 Solyc07g055000 Chlorophylls, carotenoids (Wu et al. 2020) and flavonoids   MYB12 Solyc01g079620 Flavonoid (Ballester et al. 2010)   MYB111 Solyc06g009710 SGA (Chen et al. 2019a)
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 6 of 19   Table 1 Validated structure and transcriptional genes of tomato fruit quality metabolism (Continued)    Metabolite pathway or TF famaily    Gene name Gene ID Gene function validation method or regulation pathway    Reference    AN2 Solyc10g086250 Anthocyanin and volatile (Jian et al. 2019;
+Zhi et al. 2020)   WD40 TFs AN11 Solyc03g097340 Secondary metabolism (Gao et al. 2018a)   ERF TFs ERF.G3-like Solyc02g077790 Flavonoid (Li et al. 2020b)   AP2a Solyc03g044300 Pigmentation and cell wall (Karlova et al. 2011)
+ERF.B3 Solyc05g052030 Pigmentation (Liu et al. 2014)   GAME9 Solyc01g090340 GWAS and transgene (Cardenas et al. 2016; Zhu et al. 2018)   GRAS TFs GRAS38
+Solyc07g052960 Pigmentation, secondary (Shinozaki et al. metabolism and cell wall 2018)   ABF TFs AREB1 Solyc04g078840 Primary metabolic (Bastias et al. 2014)   ARF TFs ARF6A Solyc12g006340 Starch and soluble sugars (Yuan et al. 2019)
+ARF4 Solyc11g069190 Cell wall (Sagar et al. 2013)
+ARF10 Solyc11g069500 Sugar accumulation (Yuan et al. 2018)   BLH TFs BL4 Solyc08g065420 Cell wall metabolism (Yan et al. 2020a)   bHLH TFs GL3 Anthocyanin (Nukumizu et al. 2013)
+TT8 Solyc09g065100 Anthocyanin (Qiu et al. 2016)   bHLH114 Solyc01g096370 SGA (Li et al. 2020b)   PRE2 Solyc02g067380 Pigmentation (Zhu et al. 2017)   bZIP TFs bZIP1 Solyc01g079480 Amino acid metabolism (Sagor et al. 2016)   HD-zip TFs HZ24 Solyc04g005800 d-mannose/l-galactose (Hu et al. 2016)
+pathway   E3 ubiquitin PPSR1 Solyc01g006810 Carotenoid (Wang et al. 2020) ligase    rearrangements of their connection (Goulao and Oliveira 2008).
+In the cell wall, cellulose is generally cross-linked together with hemicellulose whilst the pectin fills in the spaces of the networks.
+The hydrolysis of cellulose and hemicelluloses is often catalyzed by cellulase and xyloglucan-endotransglycosylase which can hydrolyze internal 1→4 β-D-glucan linkages.
+However, suppression of cellulase gene expression by antisense method did not alter the tomato fruit softening process, which indicates that they are not the predominant enzymes regulating the cell wall remodeling (Payasi et al. 2009).
+As the major components of primary cell wall and middle lamella, pectins are modified with methyl ester groups and highly branched with side-chains of galactosyl and arabinosyl residues in unripe fruits.
+On ripening initiation, the methyl ester groups and branched sidechains are first removed by pectin methyl esterase (PME), rhamnogalacturonase (RG) and β-galactanase (Wen et al. 2020).
+Then polygalacturonase (PG) can    recognize and hydrolyze the α-1,4-galacturonosyl linkages between galacturonide residues of the de-esterified pectin to produce galacturonide oligomers (Smith et al. 2002;
+Miedes et al. 2010; Wen et al. 2013; Tateishi et al. 2014; Jiang et al. 2019).
+However, similar to the result of cellulase genes, inhibition of PG activity or antisense of PME genes had only minor effects on fruit softening (Smith et al. 1990;
+Wen et al. 2013).
+As the key enzyme which breaks the α-1,4-galacturonosyl linkages through β-elimination reaction, silencing pectate lyase (PL) dramatically altered the softening process of tomato fruit, emphasizing the vital function of PL for pectin depolymerization in the fruit softening process (Yang et al. 2017).
+In addition to the enzymes mentioned above which directly modify cell wall components, expansins are located at the cell wall and are involved in fruit softening by disrupting hydrogen bonds between cellulose microfibrils and xyloglucans (Brummell et al. 1999; Whitney et al. 2000; Perini et al. 2017).
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 7 of 19   Fig.
+1 Interrelationships of glycolysis, tricarboxylic acid cycle and fruit quality related metabolism.
+Names in black letters indicate the metabolite and names in red letters indicate the validated enzymes.
+VLC Acyl-CoA: Very-long-chain Acyl-CoA; Chl a: Chlorophyll a; Phein a: Pheophytin a; Chlide a: Chlorophyllide a; Pheide a: Pheophorbide a; RCC: Red chlorophyll catabolite; FCC: fluorescent chlorophyll catabolite; NCCs: Nonfluorescent chlorophyll catabolites.
+ACO-1: Aconitase-1; ICDH1: Isocitrate dehydrogenase 1; MDH:
+Malate dehydrogenase; PSY, phytoene synthase; PDS, phytoene desaturase; ZDS, ζ-carotene desaturase; CRTISO, carotenoid isomerase; LCYB, lycopene beta cyclase; LCYE, lycopene epsilon cyclase; BCH, β-carotene hydroxylase; ZEP, zeaxanthin epoxidase; NSY, neoxanthin synthase; CCD1, carotenoid cleavage dioxygenase1; PPH: Pheophytin pheophorbide hydrolase; PAL: Phenylalanine ammonia-lyase; C4H: Cinnamate 4-hydroxylase; 4CL: 4-coumarate CoA ligase; CHS: Chalcone synthase; CHI: Chalcone isomerase; F3H:
+Flavanone 3-hydroxylase; F3'5'H: Flavonoid 3'5'-hydroxylases; DFR: Dihydroflavonol 4-reductase; OMTs: O-methyltransferases; UFGT:
+UDP glucose flavonoid 3-O-glucosyl transferase; AADC2: Aromatic amino acid decarboxylase 2; GAME: GlycoAlkaloid metabolism    Central carbon metabolites  As the key components that influence the favor and quality of fruit, central carbon metabolites not only directly affect the sour-sweet taste but also act as important carbon skeletons for other metabolites (Malundo et al. 1995).
+During fruit ripening process, the content of sugars and organic acids are under highly coordinated regulation of balance importation from source organ as well as utilization via the glycolysis, and the tricarboxylic acid (TCA) cycle (Carrari et al. 2006).
+Although the chloroplasts of green fruit can assimilate CO 2, the majority of fruit photoassimilate is imported from the leaves (Fernie et al. 2020).
+In leaves, CO 2 is initially fixed to produce triose phosphates in the chloroplast prior to export to the cytosol to support sucrose biosynthesis.
+Then sucrose acts as the carbon transportation component to load on the phloem and transported in the sieve for a long distance (Chen et al. 2012).
+After arriving at the fruit, sucrose is unloaded from the phloem and transported to fruit through two cytological pathways (the apoplastic and symplastic pathway) and stored in vacuoles.
+In past decades, based on the mapbased cloning, several SWEETs (Sugars Will Eventually be Exported Transporters) (SWEET 1a and SWEET15) and sugar transporters (SUT1, SUT2 and SUT4) involved in sucrose transportation have been cloned and validated to regulate sugar metabolism (Weise et al. 2000; Hackel et al. 2006; Shammai et al. 2018; Ko et al. 2020).
+Sucrose metabolism is a key factor in sugar accumulation under the regulation of sucrose-phosphate synthase (SPS), sucrose synthase (SS) and invertase (Ivr).
+SPS can catalyze uridine diphosphate glucose (UDPG) and fructose 6-phosphate to synthesize sucrose 6-phosphate which subsequently hydrolyzed by sucrose phosphate phosphatase (SPP) to produce sucrose (Dali et al. 1992).
+Antisense of tomato fruit sucrose synthase1 (SuSy1) not   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 8 of 19    only reduced the sucrose unloading capacity but also affected starch accumulation and fruit development (D'Aoust et al. 1999).
+According to their subcellular location, Ivrs are divided into apoplastic invertase, cytosolic invertase and vacuolar invertases.
+Invertase  irreversibly catalyzes the degradation of sucrose into glucose and fructose and the well-known QTL (Brix9-2-5) which associated with the glucose and fructose contents is results from the nucleotide polymorphism of apoplastic invertase, Lin5 in the population (Fridman et al. 2000).
+Moreover, invertase inhibitors which can bind to invertases and form inactive complexes can also affect the sugar metabolism (Qin et al. 2016).
+Unlike sugar metabolites, the organic acids accumulated in the fruit mainly depend on the de-novo synthesis in fruit cell.
+During fruit cell division phase, organic acids are highly accumulated in parallel with the accumulation of soluble sugars (Beauvoit et al. 2014).
+Subsequently, during the tomato ripening process, respiration is highly induced and organic acids are gradually decreased as the respiratory substrate and then achieve a palatable sugar/acid ratio for consumer (Gautier et al. 2008).
+As the two main organic acids in fruits, citric acid and malic acid are the intermediate products of the tricarboxylic acid cycle and phosphoenolpyruvate carboxylase (PEPC) is the key enzyme in organic acid biosynthesis (Carrari et al. 2003; Guillet et al. 2012).
+The product of glycolysis, PEP is catalyzed by PEPC to form oxaloacetate (OAA).
+OAA then catalyzed by citrate synthase (CS) and combined with acetyl-CoA to produce citric acid.
+Moreover, OAA can also reversibly catalyzed by malate dehydrogenase (MDH) to generate malic acid (Centeno et al. 2011).
+Besides the enzyme of central metabolism, based on a metabolite-based genome-wide association study and BSA mapping, Ye et al. (2017) found that AlACTIVATED MALATE TRANSPORTER9 (ALMT9 in tomato) is the causal gene of TFM6 (the malate content major QTL) and a 3-bp indel in the promoter region of ALMT9 which destroys a W-box binding site and blocks the regulation of transcription repressor WRKY42 cause the variation of ALMT9 expression and is attributed to the malate variation among the population.
+Secondary metabolism The secondary metabolism of tomato fruits can be divided into polyphenols, volatile organic compounds (VOCs) and alkaloids, which act as the bioactive compounds against inflammation, cardiovascular diseases, and cancer (Andersen and Markham 2005).
+As the most important component class of the polyphenols, flavonoid metabolites are derived from phenylalanine and synthesized via the phenylpropanoid and polyketide pathways (Perez de Souza et al. 2019).
+In    phenylpropanoid pathway, phenylalanine ammonia lyase (PAL), cinnamate 4-hydroxylase (C4H) and 4-coumaroyl CoA-Ligase (4CL) catalyze the conversion of phenylalanine to 4-coumaronyl-CoA (Millar et al. 2007; Tohge et al. 2014).
+Subsequently, condensing with three molecules of malonyl-CoA, 4-coumaronyl-CoA catalyzed by chalcone synthase (CHS) produces naringenin chalcone (Schijlen et al. 2007).
+Then naringenin chalcone is isomerized by chalcone isomerase (CHI) to produce naringenin (Schijlen et al. 2007).
+Moreover, naringenin is subsequently hydroxylated at position C-3 to form the dihydrokaempferol (DHK) by flavanone-3-hydroxylase (F3H) and then enters different branch metabolism of flavonol and anthocyanin (Tohge et al. 2017).
+In the flavonol branch pathway, DHK can be further hydroxylated at the 3′ position to produce dihydroquercetin (DHQ), catalyzed by the P450 hydroxylase, flavonoid 3′-hydroxylase (F3′H).
+Subsequently, under the control of flavonol synthase (FLS) enzyme, DHK and DHQ are converted to kaempferol and quercetin, respectively (Colliver et al. 2002).
+Moreover, flavonols can be converted by the flavonoid-3-O-glycosyltransferase (F3GlcT) to the representative tomato flavonolglycosides, such as quercetin 3-O-glucoside and quercetin 3-O-rutinoside (rutin) (Tohge et al. 2020).
+DHK can also be hydroxylated at both the 3′ and 5′ positions by flavonoid 3′, 5′-hydroxylase (F3′5′H) to produce dihydromyricetin (DHM).
+Under the action of dihydroxyflavonol reductase (DFR) and anthocyanin synthase (ANS), DHM can be catalyzed to anthocyanins (Tohge et al. 2017).
+Moreover, given that glycosylation is essential for stability, the anthocyanins generally can be modified by glycosylation to produce the most abundant tomato anthocyanins, nasunin and petanin under the regulation of flavonoid glycosyltransferase (UFGT) (such as anthocyanin-3-O-glucosyltransferase and anthocyanin5-O-glucosyltransferase) (Tohge et al. 2015).
+Although anthocyanin is not naturally produced in the cultivar tomato fruit due to the switch off this sub-pathway gene expression in the fruit peel, which may be under the domestication preference of lycopene red color (Gonzali et al. 2009), the bio-fortified tomato which are expressed two transcription factors Delila (Del) and Rosea1 (Ros1) from snapdragon can significantly induce anthocyaninrelated gene expression and accumulate high amount of anthocyanin (Butelli et al. 2008).
+VOCs are the important characteristic quality index of fruit, which is mainly composed of a complex mixture of terpenes, aldehydes, alcohols, esters and ketones and other volatile components.
+Based on the different precursors, VOCs can be divided into four subclasses, (i) fatty acid volatiles, (ii) amino acid derived volatiles, (iii) terpenoid volatiles, and (iv) volatiles derived from carotenoids (Vogel et al. 2010; Klee and Giovannoni 2011).
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 9 of 19    The formation of fatty acid volatiles, such as trans-2pentenal and cis-3-hexanal are based on lipoxygenase (LOX) oxidation and β-oxidation pathway of fatty acid (Chen et al. 2004).
+The LOX enzyme catalyzes unsaturated fatty acid to hydroperoxide and then to aldehydes and esters substance under the regulation of hydroperoxide lyase (HPL), alcohol dehydrogenase and alcohol acyltransferase (AAT).
+Moreover, fatty acid can be cata                                  lyzed to acetic acid, butyric acid and caproic acid in β oxidation reaction, and then deoxygenize to alcohols and then synthesize esters under the action of AAT, whose activity is attribute to the difference of the ester volatiles content of the tomato fruits (Solanum lycopersicum) and its closely related species S. pennellii (Goulet et al. 2015).
+Moreover, some lipases which can cleave fatty
+[acids from the glycerol backbone of acylglycerols signifi-](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/glyceride) cantly affect the fatty acid-derived volatile levels (Garbowicz et al. 2018).
+Recently, Li et al. (2020a) have identified that LIP8 is highly associated with accumulation of short-chain fatty acid-VOCs (C5 and C6) in tomato fruit by the metabolite-based genome-wide association study.
+The enzyme assay confirmed that LIP8 can cleave 18:2 and 18:3 acyl groups from glycerolipids and several fruit short-chain fatty acid-VOCs are significantly decreased in LIP8 CRISPR-edited mutant.
+Amino acid derived volatiles mainly use branched chain amino acids (BCAAs) and aromatic amino acids as precursors to synthesize branched chain and phenylpropanoid volatiles.
+In tomato fruit, α-keto acid intermediate in BCAAs catabolism is the direct precursors for the branched chain flavor volatiles and the glycoconjugation reaction plays an important role in the emission of phenylpropanoid volatiles from ripening tomato fruit (Tikunov et al. 2010; Kochevenko et al. 2012).
+Moreover, AADC2 (aromatic amino acid decarboxylases 2) and FLORAL4 (a 3-methyl-2-oxobutanoate dehydrogenase) has been confirmed acting as an important regulator of phenylalanine-derived volatiles such as 2-phenylethanol, phenylacetaldehyde and 1-nitro-2-phenylethane (Tieman et al. 2006; Tikunov et al. 2020).
+Terpenoid volatiles are synthesized from the condensation of two C5 components, isopentenyl diphosphate and dimethyl allyl diphosphate (Abbas et al. 2017).
+Based on the carbon skeletons and chemical structure, terpenoid volatiles are divided into isoprene-, monoterpeneand sesquiterpene- derived volatiles and all of them share the common core biosynthesis pathway in plant.
+To increase the terpenoid volatiles content, the heterologous expressed S-linalool synthase (LIS) gene of Clarkia breweri was found to significantly induce the accumulation of monoterpenes compared to control tomato fruits (Lewinsohn et al. 2001).
+Moreover, modified the early plastidial terpenoid pathway by expressing the Ocimum basilicum geraniol synthase gene can    significantly induced the monoterpene accumulation (Davidovich-Rikanati et al. 2007).
+Recently, the biochemical and in silicon analysis has identified the 34 terpene synthase (TPS) genes in tomato genome which contain one isoprene synthase, 10 monoterpene synthases, 17 sesquiterpene synthases and six diterpene synthases as the results of expansions in each clade of the TPS gene family (Zhou and Pichersky 2020).
+Besides the important functions as colorants and nutrients, carotenoids also act as the vital precursors for important volatile flavor compounds, such as β-ionone and pseudoionone (Vogel et al. 2010).
+The production of carotenoid-derived volatiles occurring the nonenzymatic oxidative cleavage of various linear and cyclic carotenoids or by the cleavage action of carotenoid dioxygenase.
+In tomato, two carotenoid cleavage dioxygenase 1 enzymes (CCD1A and CCD1B) showed differences in their activity towards different substrates and in their double bond preferences.
+Among them, CCD1B has a more relaxed enzyme specificity which can cleave the C9′–C10′, C13–C14 and C11′–C12′ double bonds of 9cis-β-carotene and higher expression in tomato fruits which indicated it is the more active enzyme than that of CCD1A (Simkin et al. 2004; Ilg et al. 2014).
+As the representative solanum alkaloids, steroidal glycoalkaloids (SGAs) are a series of cholesterol-derived molecules and act as dual function in tomato fruit.
+The  most abundant of the SGAs in immature fruit, αtomatine, is a toxic chemical to a variety of fungi, insects and human while esculeosides such as esculeogenin A in mature fruit is the health-promoting chemical which can reduce the atherogenesis (Chan Jr and Tam 1985; Fujiwara et al. 2007; Huang et al. 2015).
+During the ripening process, the toxic α-tomatine is transformed to the nonbitter and non-toxic esculeosides, which is catalyzed by several GLYCOALKALOID METABOLISM genes (GAMEs), such as GAME 1/2/4/5/6/11/12/17/18/31 for the hydroxylation, acetylation and glycosylation reaction of detoxication pathway of α-tomatine (Itkin et al. 2011; Itkin et al. 2013; Alseekh et al. 2015; Cardenas et al. 2016; Cardenas et al. 2019; Szymanski et al. 2020).
+Moreover, based on the fine mapping method, a glycoalkaloid transporter, GORKY, has been identified which can transport α-tomatine from the store site (vacuole) to catalyzation site (cytosol) to promote the detoxication reaction (Kazachkova et al. 2021).
+Moreover, as the insecticidal metabolites found in trichome in the Solanaceae, acyl-sugars are glycolipids containing two core parts: sugar cores (such as sucrose, glucose and inositol-derived disaccharide) and acyl esters chains lengths from C2 to C20 at different positions on the sugar cores (Fan et al. 2019).
+Based on the analysis of the isogenic introgression lines (ILs) and backcross introgression lines (BILs), three acyl-sucrose   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 10 of 19    acyltransferases (ASATs) of acyl-sugar biosynthesis pathway have been cloned (Schilmiller et al. 2012; Schilmiller et al. 2015).
+Besides these three enzyme, another ASAT and an amino acid biosynthetic enzymes, isopropylmalate synthase like 3 (IPMS3) are also involved in the acyl-sugar biosynthesis (Ning et al. 2015; Fan et al. 2016).
+The detailed analysis indicates that the diversity of these genes cause the various acyl-sugar biosynthetic pathway between the different species: the truncation at the C-terminus of IPMS3 allele in S. pennellii LA0716 results in predominant accumulation of acylsugars containing isobutyryl (isoC4), the key amino acid substitution of ASAT3 (Tyr-41-Cys) change the enzyme characteristic which cause the acyl-sugar differences between S. lycopersicum and S. habrochaites (Ning et al. 2015; Schilmiller et al. 2015).
+Regulation of fruit quality metabolism In recent decades, after the comprehensive analysis of the enzymes that are directly involved in the metabolite pathway of fruit quality, the transcriptional, epigenetic and post-translational regulation mechanisms have become a hot topic of research (Lu et al. 2018; Wang et al. 2020).
+Based on the fruitENCODE data which contains 361  transcriptome, 71 accessible chromatin, 147 histone and 45 DNA methylation profiles, Lu et al. (2018) found tomato fruit ripening is under the regulation of MADStype transcriptional feedback circuits.
+As one of the most famous MADS family member, the mutant of RIN has been comprehensively investigated about its ripening-related phenomena in the past a half-century.
+Its fruit significantly lack the ethylene burst and as such neither changes color nor soften (Robinson 1968;
+Vrebalov et al. 2002; Ito et al. 2017).
+Although RIN may be not required for the initiation of ripening, lots of research have demonstrated that several ripening associated pathways, such as the ethylene, carotenoid, cell wall and secondary metabolism pathway, are under the regulation of RIN.
+The large-scale analysis of ChIP-chip and transcriptome confirmed the RIN function on ripening through the direct binding and activation of the key ripening-related structural and regulator genes, ACS2/4, SGR1, PSY, Cel2, EXP1, PAL1, C4H, LoxC, AAT1, CNR, NOR, AP2a and itself (Fujisawa et al. 2012; Fujisawa et al. 2013; Irfan et al. 2016).
+Moreover, as MADS-box proteins usually function with other MADSs and act as multimers to regulate certain pathways, RIN can interact with other MADS-box transcription factors (such as FUL1/2 and TAGL1) to co-regulate ripening processes (Honma and Goto 2001; Shima et al. 2013).
+In detail, the TAGL1 and FUL1/FUL2 knock-down mutant exhibited a significantly decreased ethylene burst and producing yellow-orange fruit with low carotenoid levels (Vrebalov et al. 2009; Shima et al. 2014;
+Gimenez et al. 2015).
+Besides the above mentioned transcription factors, recently, some novel MADS transcription factors, such as CMB1, TDR4, MBP8 and MBP15 have been demonstrated to act as the important regulators affecting pigmentation, secondary metabolism or cell wall metabolism further confirmed the central function of  MADS transcription factors in the tomato fruit ripening process (Yin et al. 2017; Yin et al. 2018; Zhang et al. 2018a; Zhao et al. 2019).
+As the fruit is developed from the floral organ and plant-specific NAC (no apical meristem (NAM), Arabidopsis transcription activator factor 1/2 (ATAF1/2) and Cup-shaped cotyledon (CUC2))
+transcription factors play important roles in Arabidopsis senescence and floral development, their orthologous genes are also acting as vital regulators of fruit ripening following neofunctionalisation or repurposing of pre-existing genes (Lu et al. 2018).
+For example, NAP2, the tomato putative ortholog of AtNAP which is the core regulator of leaf senescence (Guo and Gan 2006), can directly regulate the gene expression of abscisic acid biosynthesis and affect the pigmentation and softening of tomato fruits (Kou et al. 2018; Ma et al. 2018).
+Moreover, the finemapping result of the non-ripening (nor) mutant indicated that its delayed ripening phenotype is attributed to the early termination of a NAC family TF protein translation (NOR).
+The truncated 186-amino-acid protein (NOR186) can compete with the wild type NOR for the accessibility to bind the promoters of GGPPS2 and PL which are involved in the carotenoid biosynthesis and cell wall modification (Gao et al. 2020).
+Based on the systematically analysis of fruit-expressed NACs function by Virus-Induced Gene Silencing (VIGS), NOR-like1 which exhibits 62.84% amino acid homology with NOR, is identified to be involved in fruit ripening.
+The ripening initiation of its knock-out lines is significantly delayed by 14 days.
+RNA-sequencing profiling and chromatin immunoprecipitation-quantitative PCR (ChIP-qPCR) analysis further confirmed that NOR-like1 can directly bind to the promoters and activate the expression of ACS2, ACS4, GGPPS2, SGR1, PG2a, PL, CEL2, and EXP1 (Gao et al. 2018b).
+Additionally, NAC transcription factors can also affect the ripening-related hormones biosynthesis: the knock-down fruit of NAC4 exhibit the repression of ethylene biosynthesis and in the NAC1overexpressing tomato fruit, ethylene synthesis-related genes is downregulated while the ABA biosynthesis pathway is induced (Ma et al. 2014;
+Zhu et al. 2014).
+Although cultivated tomato fruit do-not usually accumulate anthocyanin, three loci Anthocyanin fruit (Aft), atroviolacium (atv) and Aubergine (Abg) can significantly induce the anthocyanins accumulation in cultivar fruit after the introgression from wild tomato S. chilense, S. cheesmaniae and S. lycopersicoides, respectively (Jones   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 11 of 19    et al. 2003; Cao et al. 2017).
+Based on fine-mapping analysis, an R2R3-MYB transcription factor, AN2-like is responsible for the Aft phenotype and acts as an activator of anthocyanin biosynthesis.
+Another R3-MYB protein, MYB-ATV is responsible for the atv phenotype and can competitively interact with bHLH factors (AN1 and JAF13) of MBW complex, which acts as repressor of anthocyanin synthesis (Colanero et al. 2018).
+Recently, Colanero et al. (2020) reported that the alternative splicing of AN2-like allele represses the translation of the functional MYB protein, which finally contributes to the lack of anthocyanin pigmentation phenotype in cultivated tomato.
+Moreover, three other R2R3-MYB transcription factors, ANT1, ANT1-like and AN2 are located around Aft loci and the overexpression of AN2 and ANT1 can also significantly accumulate anthocyanin in cultivar tomato (Schreiber et al. 2012; Zhi et al. 2020).
+Besides the function on anthocyanin biosynthesis, MYB family transcription factors also act as important regulators of other metabolisms.
+In AN2-OE fruits, the expression of volatile aroma genes (LOXC, AADC2 and TPS) are significantly induced, which attribute to the high accumulation of aroma volatiles, such as aldehyde, phenylpropanoid-derived and terpene volatiles (Jian et al. 2019).
+Recently, the functional characteristic of MYB72 further confirms that the MYB family can not only affect the carotenoid accumulation and chromoplast biogenesis through dual regulation of POR, CHLH, TKN2, PSY, Z-ISO and LCYB gene but also negatively regulate flavonoids and phenolic acids accumulation by repressing 4CL, CHS1 and CHS2
+(Wu et al. 2020).
+Moreover, several other transcription factor families such as WD40 (AN11), ERFs (AP2a, ERF.B3 and ERF.G3like), GRAS (GRAS38), ABFs (AREB1), ARFs (ARF6A, ARF4 and ARF10), BLHs (BL4), bHLHs (GL3, TT8, PRE2 and bHLH114), bZIPs (bZIP1) and HD-zip (HZ24) also play important roles in the ripening regulation processes.
+As the other important components of MBW complex for anthocyanin biosynthesis, AN11, a tomato WD40 protein can interact with a bHLH transcription factor TT8 corresponded to the ah (Hoffman's anthocyaninless) locus to regulate anthocyanin and flavonoid biosynthesis (Qiu et al. 2016; Gao et al. 2018a).
+The softening process which results from cell wall degradation is under the high order regulation of AP2a, GRAS38, ARF4 and BL4 transcription factors (Karlova et al. 2011; Sagar et al. 2013; Shinozaki et al. 2018; Yan et al. 2020a).
+Through the regulation of PSY1, PDS and ZDS, the fruit color of PRE2 and ERF.B3 transgenic fruits are dramatically changed (Liu et al. 2014; Zhu et al. 2017).
+Recently, based on the MicroTom Metabolic Network, two novel transcription factors, ERF.G3-like and bHLH114, are identified to be involved in the flavonoid and SGA metabolism, respectively (Li et al. 2020b).
+Given that epigenetic markers such as DNA methylation affect gene expression and act as an important regulator of Arabidopsis senescence and flower development (Sung et al. 2006; Li et al. 2020c), Zhong et al. (2013) found that the methyltransferase inhibitor, 5-azacytidine can accelerate the tomato ripening process.
+Moreover, the fruitENCODE data indicate that the core MADS-type regulation circuit genes of tomato ripening is suppressed by the DNA hypermethylation and H3K27me3 in the promoter and gene body of the core genes at the immature fruit stage while is demethylated and activated in ripening fruit tissues (Lu et al. 2018).
+Tomato Cnr is another wellknown mutant.
+It resulted from a spontaneous epigenetic change occurring due to the high level of methylation of a promoter causing a low expression of CNR (Manning et al. 2006).
+Similarly, in the Vitamin E pathway, the differential methylation of a SINE retrotransposon located in the promoter the causal gene, 2-methyl-6-phytylquinol methyltransferase (VTE3 (1)) of mQTL9-2-6 affected its expression and then cause the variation of vitamin E among the population (Quadrana et al. 2014).
+Moreover, besides the repressive regulation of trimethylation of histone H3 at Lys27 (H3K27me3) (Kit et al. 2010; Boureau et al. 2016; Lu et al. 2018), histone acetylation which act as gene activator is also involved in the tomato ripening especially carotenoid biosynthesis by the activation of histone deacetylase 3 (HDT3) while repression of histone deacetylase 1/3 (HDA1/3) (Guo et al. 2017b;
+Guo et al. 2017a; Guo et al. 2018).
+Post-translational regulations (such as ubiquitination, oxidation, glycosylation and phosphorylation) of the regulators and structural ripening-related proteins are also of considerable importance for fruit metabolism.
+The ubiquitin-proteasome system-mediated proteolysis is a crucial protein degradation pathway in eukaryotes.
+GLK2 which positively regulates the plastid level and the pigment accumulation, is a substrate of the CUL4DDB1-DET1 ubiquitin ligase complex for the proteasome degradation (Tang et al. 2016).
+Recently, Wang et al. (2020) found that tomato PSY1 contains two ubiquitinated lysine residues and its precursor protein can interact with Plastid Protein Sensing RING E3 ligase 1 (PPSR1) to mediate its degradation via ubiquitination.
+Moreover, based on the iodoacetyl tandem mass tag (iodoTMT)-based redox proteomic approach, the oxidation levels of polygalacturonase 2A and 1aminocyclopropane-1-carboxylate oxidase-like protein (E8) are significantly changed in parallel with the reactive oxygen species (ROS) fluctuate during fruit ripening, which supply novel regulation mechanisms of ROS on the of tomato ripening (Wang et al. 2021).
+As the glycosylation and phosphorylation are remarkable modification to produce the functional enzyme, N-glycosylation of tomato TIV-1 and Pectinesterase 1 is important for   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 12 of 19    its enzyme activity and protein stability and the phosphorylation of sucrose synthase, hexose and CDKA directly affect the sugar metabolite and fruit development (Roessner-Tunali et al. 2003; Anguenot et al. 2006; Gonzalez et al. 2007;
+Tauzin et al. 2014; Zhang et al. 2020).
+Although many of the major pathways and the genes involved in fruit quality related metabolite pathways have been identified, the branched pathways and the associated genes are not yet fully analyzed.
+In recent decades, a large amount of researches has indicated that the weighted gene correlation network analysis is a powerful method to explore the novel enzymes, potential  – partners in protein protein interactions (PPIs) and regulation of aspects of metabolism (Shoemaker et al. 2007; Fukushima et al. 2012; Mandal et al. 2020).
+Therefore, we constructed the gene co-expression network of the presentative genes (PSY for carotenoid, SGR for chlorophyll, PL for cell wall, CHS1 for secondary metabolite) based on the high-resolution spatiotemporal transcriptome data of tomato fruit development and ripening (Luo et al. 2013; Espana et al. 2014; Yang et al. 2017; Shinozaki et al. 2018; Jian et al. 2019; Segado et al. 2020; Xiong et al. 2020)
+(Table 2).
+Given that SGR and PSY are the important proteins involved in pigment metabolism and the former research report that SGR protein can interact with PSY, SGR and PSY are in the same co-expression network and show a high correlation (coefficient =0.78).
+Moreover, both of them exhibited high correlation with several gene involved   Table 2 Co-expression genes of presentative genes.
+in carotenoid biosynthesis, such as carotenoid isomerase (CRTISO, Solyc10g081650), 15-cis-ζ-carotene isomerase (Z-ISO, Solyc12g098710) and lycopene beta/epsilon cyclase (Solyc01g102950) (Table 1).
+For the cell wall metabolism, PL is chosen as the guide genes to construct the coexpression network.
+The results indicated that beta-dxylosidase (XYL1, Solyc10g047030), Expansin 1(EXP1, Solyc06g051800), Cellulase2 (Cel2, Solyc09g010210) and beta-galactosidase 4 (TBG4, Solyc12g008840) exhibit high co-expression relation with PL (Table 1).
+Among the genes identified by the co-expression network, some of them such as CRTISO, XYL1, EXP1, Cel2 and TBG4 have previously been mentioned to be involved in tomato ripening process (Brummell et al. 1999; Isaacson et al. 2002; Smith et al. 2002; Flors et al. 2007; Zhang et al. 2018b; Li et al. 2019), which further confirms the power of the coexpression network analysis.
+Besides these genes, Z-ISO and Solyc01g102950 will be the valuable candidate genes for assessing their function in carotenoid metabolism.
+Furthermore, because the enzymes of each metabolism are largely located in the same site in the cell (for example SGR, PSY, CRTISO, Z-ISO and Solyc01g102950 are all located in plastid), the high co-expression of them also indicates the possibility they may interact with each other to form a complex.
+As CHS1 is the important gene catalyzed the first committed step of the multibranched flavonoid pathway, the co-expression network of CHS1 has been constructed.
+The result indicates that the key gene of the    Presentative Coexpressed Gene name coefficient Presentative Coexpressed Gene name coefficient  genes gene genes gene   PSY1 Solyc05g012020 RIN 0.96 CHS1 Solyc11g013110 FLS6 0.93   Solyc10g081650 CRTISO 0.95 Solyc10g078240 C3H 0.81   Solyc12g098710 Z-ISO 0.83 Solyc12g088460 F3′H-like 0.80   Solyc08g080090 SGR 0.78 Solyc01g096670
+C3′H 0.74   Solyc01g102950 Lycopene beta/epsilon 0.77 Solyc02g083860 flavanone 3-hydroxylase 0.91 cyclase   Solyc03g097030
+4CL 0.74   SGR Solyc12g017250 PSBR 0.88 Solyc03g097170 Cinnamoyl-CoA reductase 0.69   Solyc12g098710 Z-ISO 0.83 Solyc03g115220 F3′H 0.94   Solyc03g031860 PSY 0.78 Solyc03g117600
+HCT 0.74   Solyc10g081650 CRTISO 0.67 Solyc04g080550 Phenylcoumaran benzylic ether 0.78 reductase   Solyc05g052240 CHI2 0.87   PL Solyc05g012020 RIN 0.884 Solyc05g053550 CHS2 0.92   Solyc10g047030 LEXYL1 0.85 Solyc08g076790 Cinnamoyl-CoA reductase 0.73   Solyc06g051800 LeEXP1 0.69 Solyc09g007910 PAL5 0.64   Solyc09g010210 Cel2 0.66 Solyc09g007920 PAL1 0.75   Solyc12g008840 TBG4 0.55 Solyc09g059170 flavonoid glycosyltransferase 0.72  genes   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 13 of 19    multibranched pathway, such as PAL4 (Solyc09g007920), CHS2 (Solyc05g053550), FLS1 (Solyc11g013110), F3H (Solyc02g083860), F3′H (Solyc03g115220) and CHIL (Solyc05g052240), are highly co-expressed with CHS1 (coefficient=0.75, 0.92, 0.93, 0.91, 0.94 and 0.87, respectively).
+This phenomenon further confirm that phenylpropanoid pathway may be under a global regulation mechanism, such as the transcriptional regulation of MYB12 (Fernandez-Moreno et al. 2016).
+Conclusions and Future perspectives As the identification of the genes involved in ripening related metabolic pathway is rate-limiting step to improve fruit quality, fruit researcher have paid huge of attention on it and try to accelerate it through different methods.
+The traditional fine-mapping strategy have identified lots of key genes of the fruit quality related metabolite change, which supply the perfect guide genes for weighted gene correlation network analysis.
+In future, owing to the less cost of sequencing, the combination of the traditional fine-mapping strategy, next generation sequence and new analysis methods, such as weighted gene correlation network analysis, will accelerate the identification of the novel gene to comprehensively illuminate the metabolite change and regulation mechanism of tomato fruit ripening.
+For each gene, the publications which confirmed the gene function by transgenesis or genetic analysis have been listed in the table.
+Pearson correlation coefficients were calculated via the  function corAndPvalue from the WGCNA package (Langfelder and Horvath 2008) using the published gene expression levels of different fruit stages (Shinozaki et al. 2018).
+Abbreviations  PAO:
+Pheophorbide a monooxygenase; PPH: Pheophytin pheophorbide hydrolase; Chl: Chlorophyll; SGR: STAY-GREEN; Chl a: Chlorophyll a; Phein a: Pheophytin a; Chlide a: Chlorophyllide a; Pheide a: Pheophorbide a; RCC: Red chlorophyll catabolite; FCC: Fluorescent chlorophyll catabolite; NCCs: Nonfluorescent chlorophyll catabolites; GGPP:
+Geranyl geranyl pyrophosphate; PSY: Phytoene synthase; PDS: Phytoene desaturase; Z-ISO: ζcarotene isomerase; ZDS: ζ-carotene desaturase; CRTISO: Carotenoid isomerase; LCYB:
+Lycopene beta cyclase; LCYE: Lycopene epsilon cyclase; BCH: β-carotene hydroxylase; ZEP: Zeaxanthin epoxidase; NSY:
+Neoxanthin synthase; CCD1: Carotenoid cleavage dioxygenase1; PME: Pectin methyl esterase; RG: Rhamnogalacturonase; PG:
+Polygalacturonase; PL: Pectate lyase; SWEET:
+Sugars Will Eventually be Exported Transporters; SUT: Sugar transporters; SPS: Sucrose-phosphate synthase; SS: Sucrose synthase; Ivr: Invertase; UDPG: Uridine diphosphate glucose; PEPC:
+Phosphoenolpyruvate carboxylase; OAA: Oxaloacetate; CS: Citrate synthase; ALMT9: Al-ACTIVATED MALATE TRANSPORTER9; ACO-1: Aconitase-1; ICDH1: Isocitrate dehydrogenase 1; MDH: Malate dehydrogenase; PAL: Phenylalanine ammonia-lyase; C4H:
+Cinnamate 4-hydroxylase; 4CL: 4coumarate CoA ligase; CHS: Chalcone synthase; CHI: Chalcone isomerase; F3H:
+Flavanone 3-hydroxylase; DHK: Dihydrokaempferol; DHQ: Dihydroquercetin; F3′H: Flavonoid 3′-hydroxylase; FLS:
+Flavonol synthase; F3GlcT:
+Flavonoid-3-O-glycosyltransferase; F3'5'H:
+Flavonoid 3'5'hydroxylases; DHM: Dihydromyricetin; DFR:
+Dihydroflavonol 4-reductase; ANS:
+Anthocyanin synthase; OMTs: O-methyltransferases; UFGT:
+UDP glucose flavonoid 3-O-glucosyl transferase; LOX: Lipoxygenase; HPL:
+Hydroperoxide lyase; AAT: Alcohol acyltransferase; BCAAs: Branched chain amino acids;    LIS: S-linalool synthase; AADC2: Aromatic amino acid decarboxylase 2; GAME:
+GlycoAlkaloid metabolism; TPS: Terpene synthase; SGAs: Steroidal glycoalkaloids; IPMS3: Isopropylmalate synthase like 3; NAC:
+No apical meristem (NAM), Arabidopsis transcription activator factor 1/2 (ATAF1/2); Aft:
+Anthocyanin fruit; atv: Atroviolacium; Abg: Aubergine; DAHPS: 3-deoxy-7phosphoheptulonate synthase; HAD: Histone deacetylase;
+HDT: Histone deacetylase; PPSR1: Plastid Protein Sensing RING E3 ligase 1; ROS: Reactive  – oxygen species; PPI:
+Protein protein interactions; VOCs: Volatile organic compounds   Acknowledgements We apologize to researchers whose works are not properly reviewed here because of space limitation.
+Authors’ contributions  F.Z. and A.R.F wrote the manuscript.
+W.W., Y.C. and A.R.F revised the manuscript.
+All authors read and approved the final manuscript.
+Funding F.Z and Y.C. acknowledge funding of the National Key R&D Program of China (2018YFD1000200), A.R.F. acknowledge funding of the PlantaSYST project by the European Union's Horizon 2020 Research and Innovation Programme (SGA-CSA no. 664621 and no. 739582 under FPA no. 664620).
+Availability of data and materials Not applicable.
+Declarations   Ethics approval and consent to participate Not applicable.
+Consent for publication Not applicable.
+Competing interests The authors declare that they have no competing interests.
+Author details 1 National R&D Center for Citrus Preservation, Key Laboratory of Horticultural Plant Biology, Ministry of Education, Huazhong Agricultural University, Wuhan 430070, China.
+[2] Max-Planck-Institut für Molekulare Pflanzenphysiologie, Am Mühlenberg 1, 14476 Potsdam, Golm, Germany.
+Received: 18 August 2021 Accepted: 12 January 2022   References  Abbas F, Ke Y, Yu R, Yue Y, Amanullah S, Jahangir MM, et al.
+Volatile terpenoids: multiple functions, biosynthesis, modulation and manipulation by genetic [engineering.
+Planta.
+2017;246(5):803–16. https://doi.org/10.1007/s00425-017-2](https://doi.org/10.1007/s00425-017-2749-x)
+[749-x.](https://doi.org/10.1007/s00425-017-2749-x)  Alseekh S, Ofner I, Liu Z, Osorio S, Vallarino J, Last RL, et al.
+Quantitative trait loci analysis of seed-specialized metabolites reveals seed-specific flavonols and differential regulation of glycoalkaloid content in tomato.
+Plant J. 2020;103(6):
+[2007–24.
+https://doi.org/10.1111/tpj.14879.](https://doi.org/10.1111/tpj.14879)
+Alseekh S, Tohge T, Wendenberg R, Scossa F, Omranian N, Li J, et al.
+Identification and mode of inheritance of quantitative trait loci for secondary [metabolite abundance in tomato.
+Plant Cell. 2015;27(3):485–512. https://doi.](https://doi.org/10.1105/tpc.114.132266)
+[org/10.1105/tpc.114.132266.](https://doi.org/10.1105/tpc.114.132266) Andersen OM, Markham KR.
+Flavonoids: chemistry, biochemistry and applications: CRC press; 2005.
+Andrew G, Belzile F, Yoder JI.
+Complementation of the Tomato anthocyanin without (aw) Mutant Using the Dihydroflavonol 4-Reductase Gene.
+Plant [Physiol.
+1994;105(2):491–6.
+https://doi.org/10.1104/pp.105.2.491.](https://doi.org/10.1104/pp.105.2.491) Anguenot R, Nguyen-Quoc B, Yelle S, Michaud D. Protein phosphorylation and membrane association of sucrose synthase in developing tomato fruit.
+Plant [Physiol Biochem.
+2006;44(5-6):294–300. https://doi.org/10.1016/j.plaphy.2006.](https://doi.org/10.1016/j.plaphy.2006.06.009)
+[06.009.](https://doi.org/10.1016/j.plaphy.2006.06.009)
+Ballester AR, Molthoff J, de Vos R, Hekkert B, Orzaez D, Fernandez-Moreno JP, et al.
+Biochemical and molecular analysis of pink tomatoes: deregulated   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 14 of 19    expression of the gene encoding transcription factor SlMYB12 leads to pink [tomato fruit color.
+Plant Physiol.
+2010;152(1):71–84.
+https://doi.org/10.1104/](https://doi.org/10.1104/pp.109.147322)
+[pp.109.147322.](https://doi.org/10.1104/pp.109.147322) Barry CS, McQuinn RP, Chung MY, Besuden A, Giovannoni JJ.
+Amino acid substitutions in homologs of the STAY-GREEN protein are responsible for the green-flesh and chlorophyll retainer mutations of tomato and pepper.
+Plant [Physiol.
+2008;147(1):179–87.
+https://doi.org/10.1104/pp.108.118430.](https://doi.org/10.1104/pp.108.118430) Bartley GE, Scolnik PA. cDNA cloning, expression during development, and genome mapping of PSY2, a second tomato gene encoding phytoene
+[synthase.
+J Biol Chem.
+1993;268(34):25718–21.
+https://doi.org/10.1016/S0021-](https://doi.org/10.1016/S0021-9258(19)74448-2)
+[9258(19)74448-2.](https://doi.org/10.1016/S0021-9258(19)74448-2) Bastias A, Yanez M, Osorio S, Arbona V, Gomez-Cadenas A, Fernie AR, et al.
+The transcription factor AREB1 regulates primary metabolic pathways in tomato
+[fruits.
+J Exp Bot. 2014;65(9):2351–63.
+https://doi.org/10.1093/jxb/eru114.](https://doi.org/10.1093/jxb/eru114)
+Bauchet G, Grenier S, Samson N, Segura V, Kende A, Beekwilder J, et al.
+Identification of major loci and genomic regions controlling acid and volatile content in tomato fruit: implications for flavor improvement.
+New Phytol.
+[2017;215(2):624–41. https://doi.org/10.1111/nph.14615.](https://doi.org/10.1111/nph.14615) Beauvoit BP, Colombie S, Monier A, Andrieu MH, Biais B, Benard C, et al.
+Modelassisted analysis of sugar metabolism throughout tomato fruit development reveals enzyme and carrier properties in relation to vacuole expansion.
+Plant [Cell. 2014;26(8):3224–42. https://doi.org/10.1105/tpc.114.127761.](https://doi.org/10.1105/tpc.114.127761)
+Berghold J, Eichmuller C, Hortensteiner S, Krautler B. Chlorophyll breakdown in tobacco: on the structure of two nonfluorescent chlorophyll catabolites.
+[Chem Biodivers.
+2004;1(4):657–68.
+https://doi.org/10.1002/cbdv.200490057.](https://doi.org/10.1002/cbdv.200490057)
+Bergougnoux V. The history of tomato: from domestication to biopharming.
+[Biotechnol Adv. 2014;32(1):170–89. https://doi.org/10.1016/j.biotechadv.2](https://doi.org/10.1016/j.biotechadv.2013.11.003)
+[013.11.003.](https://doi.org/10.1016/j.biotechadv.2013.11.003)
+Bird CR, Ray JA, Fletcher JD, Boniwell JM, Bird AS, Teulieres C, et al.
+Using Antisense Rna to Study Gene-Function-Inhibition of Carotenoid Biosynthesis [in Transgenic Tomatoes.
+Bio-Technology.
+1991;9(7):635–9.
+https://doi.org/10.1](https://doi.org/10.1038/nbt0791-635)
+[038/nbt0791-635.](https://doi.org/10.1038/nbt0791-635)  Boureau L, How-Kit A, Teyssier E, Drevensek S, Rainieri M, Joubes J, et al.
+A CURLY LEAF homologue controls both vegetative and reproductive development of [tomato plants.
+Plant Mol Biol.
+2016;90(4-5):485–501.
+https://doi.org/10.1007/](https://doi.org/10.1007/s11103-016-0436-0)
+[s11103-016-0436-0.](https://doi.org/10.1007/s11103-016-0436-0)  Bouvier F, D'Harlingue A, Backhaus RA, Kumagai MH, Camara B. Identification of neoxanthin synthase as a carotenoid cyclase paralog.
+Eur J Biochem.
+2000;
+[267(21):6346–52.
+https://doi.org/10.1046/j.1432-1327.2000.01722.x.](https://doi.org/10.1046/j.1432-1327.2000.01722.x)
+Brog YM, Osorio S, Yichie Y, Alseekh S, Bensal E, Kochevenko A, et al.
+A Solanum neorickii introgression population providing a powerful complement to the extensively characterized Solanum pennellii population.
+Plant J. 2019;97(2): [391–403. https://doi.org/10.1111/tpj.14095.](https://doi.org/10.1111/tpj.14095) Brummell DA, Harpster MH, Civello PM, Palys JM, Bennett AB, Dunsmuir P. Modification of expansin protein abundance in tomato fruit alters softening and cell wall polymer metabolism during ripening.
+Plant Cell. 1999;11(11): [2203–16. https://doi.org/10.1105/tpc.11.11.2203.](https://doi.org/10.1105/tpc.11.11.2203) Butelli E, Titta L, Giorgio M, Mock HP, Matros A, Peterek S, et al.
+Enrichment of tomato fruit with health-promoting anthocyanins by expression of select [transcription factors.
+Nat Biotechnol. 2008;26(11):1301–8.
+https://doi.org/10.1](https://doi.org/10.1038/nbt.1506)
+[038/nbt.1506.](https://doi.org/10.1038/nbt.1506)
+Cao X, Qiu ZK, Wang XT, Van Giang T, Liu XL, Wang J, et al.
+A putative R3 MYB repressor is the candidate gene underlying atroviolacium, a locus for anthocyanin pigmentation in tomato fruit.
+J Exp Bot.
+2017;68(21-22):5745–58.
+[https://doi.org/10.1093/jxb/erx382.](https://doi.org/10.1093/jxb/erx382) Cardenas PD, Sonawane PD, Heinig U, Jozwiak A, Panda S, Abebie B, et al.
+Pathways to defense metabolites and evading fruit bitterness in genus Solanum evolved through 2-oxoglutarate-dependent dioxygenases.
+Nat
+[Commun.
+2019;10(1):5169.
+https://doi.org/10.1038/s41467-019-13211-4.](https://doi.org/10.1038/s41467-019-13211-4)
+Cardenas PD, Sonawane PD, Pollier J, Vanden Bossche R, Dewangan V, Weithorn E, et al.
+GAME9 regulates the biosynthesis of steroidal alkaloids and upstream isoprenoids in the plant mevalonate pathway.
+Nat Commun.
+2016;7(1):10654.
+[https://doi.org/10.1038/ncomms10654.](https://doi.org/10.1038/ncomms10654) Carrari F, Baxter C, Usadel B, Urbanczyk-Wochniak E, Zanor MI, Nunes-Nesi A, et al.
+Integrated analysis of metabolite and transcript levels reveals the metabolic shifts that underlie tomato fruit development and highlight regulatory aspects of metabolic network behavior.
+Plant Physiol.
+2006;142(4): [1380–96. https://doi.org/10.1104/pp.106.088534.](https://doi.org/10.1104/pp.106.088534)
+Carrari F, Fernie AR.
+Metabolic regulation underlying tomato fruit development.
+J
+[Exp Bot.
+2006;57(9):1883–97.
+https://doi.org/10.1093/jxb/erj020.](https://doi.org/10.1093/jxb/erj020)    Carrari F, Nunes-Nesi A, Gibon Y, Lytovchenko A, Loureiro ME, Fernie AR.
+Reduced expression of aconitase results in an enhanced rate of photosynthesis and marked shifts in carbon partitioning in illuminated leaves [of wild species tomato.
+Plant Physiol.
+2003;133(3):1322–35.
+https://doi.org/1](https://doi.org/10.1104/pp.103.026716)
+[0.1104/pp.103.026716.](https://doi.org/10.1104/pp.103.026716) Cazzonelli CI, Pogson BJ.
+Source to sink: regulation of carotenoid biosynthesis in [plants.
+Trends Plant Sci. 2010;15(5):266–74. https://doi.org/10.1016/j.tplants.2](https://doi.org/10.1016/j.tplants.2010.02.003)
+[010.02.003.](https://doi.org/10.1016/j.tplants.2010.02.003)  Centeno DC, Osorio S, Nunes-Nesi A, Bertolo AL, Carneiro RT, Araujo WL, et al.
+Malate plays a crucial role in starch metabolism, ripening, and soluble solid content of tomato fruit and affects postharvest softening.
+Plant Cell. 2011;
+[23(1):162–84. https://doi.org/10.1105/tpc.109.072231.](https://doi.org/10.1105/tpc.109.072231)
+Chan H Jr, Tam S. Toxicity of α-tomatine to larvae of the Mediterranean fruit fly
+[(Diptera: Tephritidae).
+J Econ Entomol.
+1985;78(2):305–7. https://doi.org/10.1](https://doi.org/10.1093/jee/78.2.305)
+[093/jee/78.2.305.](https://doi.org/10.1093/jee/78.2.305)
+Chen G, Hackett R, Walker D, Taylor A, Lin Z, Grierson D. Identification of a specific isoform of tomato lipoxygenase (TomloxC) involved in the generation of fatty acid-derived flavor compounds.
+Plant Physiol.
+2004;136(1):
+[2641–51.
+https://doi.org/10.1104/pp.104.041608.](https://doi.org/10.1104/pp.104.041608)
+Chen GP, Wilson ID, Kim SH, Grierson D. Inhibiting expression of a tomato ripening-associated membrane protein increases organic acids and reduces [sugar levels of fruit.
+Planta.
+2001;212(5-6):799–807. https://doi.org/10.1007/](https://doi.org/10.1007/s004250000431)
+[s004250000431.](https://doi.org/10.1007/s004250000431)  Chen L, Li W, Li Y, Feng X, Du K, Wang G, et al.
+Identified trans-splicing of YELLOW-FRUITED TOMATO 2 encoding the PHYTOENE SYNTHASE 1 protein alters fruit color by map-based cloning, functional complementation and [RACE.
+Plant Mol Biol.
+2019a;100(6):647–58. https://doi.org/10.1007/s11103-01](https://doi.org/10.1007/s11103-019-00886-y)
+[9-00886-y.](https://doi.org/10.1007/s11103-019-00886-y) Chen L, Meng J, He XL, Zhang M, Luan YS.
+Solanum lycopersicum microRNA1916 targets multiple target genes and negatively regulates the immune response [in tomato.
+Plant Cell Environ.
+2019b;42(4):1393–407. https://doi.org/10.1111/](https://doi.org/10.1111/pce.13468)
+[pce.13468.](https://doi.org/10.1111/pce.13468) Chen L-Q, Qu X-Q, Hou B-H, Sosso D, Osorio S, Fernie AR, et al.
+Sucrose Efflux Mediated by SWEET Proteins as a Key Step for Phloem Transport.
+Science.
+[2012;335(6065):207–11. https://doi.org/10.1126/science.1213351.](https://doi.org/10.1126/science.1213351) Colanero S, Perata P, Gonzali S.
+The atroviolacea Gene Encodes an R3-MYB Protein Repressing Anthocyanin Synthesis in Tomato Plants.
+Front Plant Sci.
+[2018;9(830):830. https://doi.org/10.3389/fpls.2018.00830.](https://doi.org/10.3389/fpls.2018.00830)
+Colanero S, Tagliani A, Perata P, Gonzali S. Alternative Splicing in the Anthocyanin Fruit Gene Encoding an R2R3 MYB Transcription Factor Affects Anthocyanin
+[Biosynthesis in Tomato Fruits.
+Plant Commun.
+2020;1(1):100006. https://doi.](https://doi.org/10.1016/j.xplc.2019.100006)
+[org/10.1016/j.xplc.2019.100006.](https://doi.org/10.1016/j.xplc.2019.100006)
+Colliver S, Bovy A, Collins G, Muir S, Robinson S, de Vos CHR, et al.
+Improving the nutritional content of tomatoes through reprogramming their flavonoid [biosynthetic pathway.
+Phytochem Rev. 2002;1(1):113–23. https://doi.org/10.1](https://doi.org/10.1023/a:1015848724102)
+[023/a:1015848724102.](https://doi.org/10.1023/a:1015848724102)  Dali N, Michaud D, Yelle S. Evidence for the involvement of sucrose phosphate synthase in the pathway of sugar accumulation in sucrose-accumulating [tomato fruits.
+Plant Physiol.
+1992;99(2):434–8.
+https://doi.org/10.1104/pp.](https://doi.org/10.1104/pp.99.2.434)
+[99.2.434.](https://doi.org/10.1104/pp.99.2.434)
+D'Aoust MA, Yelle S, Nguyen-Quoc B. Antisense inhibition of tomato fruit sucrose synthase decreases fruit setting and the sucrose unloading capacity of [young fruit.
+Plant Cell.
+1999;11(12):2407–18. https://doi.org/10.1105/](https://doi.org/10.1105/tpc.11.12.2407)
+[tpc.11.12.2407.](https://doi.org/10.1105/tpc.11.12.2407)
+Davidovich-Rikanati R, Sitrit Y, Tadmor Y, Iijima Y, Bilenko N, Bar E, et al.
+Enrichment of tomato flavor by diversion of the early plastidial terpenoid
+[pathway.
+Nat Biotechnol. 2007;25(8):899–901.
+https://doi.org/10.1038/](https://doi.org/10.1038/nbt1312)
+[nbt1312.](https://doi.org/10.1038/nbt1312)
+Diretto G, Frusciante S, Fabbri C, Schauer N, Busta L, Wang Z, et al. J KCR, Fernie AR et al. Manipulation of beta-carotene levels in tomato fruits results in increased ABA content and extended shelf life.
+Plant Biotechnol J. 2020;18(5): [1185–99. https://doi.org/10.1111/pbi.13283.](https://doi.org/10.1111/pbi.13283) Dominguez M, Dugas E, Benchouaia M, Leduque B, Jimenez-Gomez JM, Colot V, et al.
+The impact of transposable elements on tomato diversity.
+Nat
+[Commun.
+2020;11(1):4058. https://doi.org/10.1038/s41467-020-17874-2.](https://doi.org/10.1038/s41467-020-17874-2)
+Dong T, Hu Z, Deng L, Wang Y, Zhu M, Zhang J, et al.
+A tomato MADS-box transcription factor, SlMADS1, acts as a negative regulator of fruit ripening.
+[Plant Physiol.
+2013;163(2):1026–36. https://doi.org/10.1104/pp.113.224436.](https://doi.org/10.1104/pp.113.224436)
+Espana L, Heredia-Guerrero JA, Reina-Pinto JJ, Fernandez-Munoz R, Heredia A, Dominguez E. Transient silencing of CHALCONE SYNTHASE during fruit   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 15 of 19    ripening modifies tomato epidermal cells and cuticle properties.
+Plant [Physiol.
+2014;166(3):1371–86.
+https://doi.org/10.1104/pp.114.246405.](https://doi.org/10.1104/pp.114.246405)
+Fan P, Leong BJ, Last RL.
+Tip of the trichome: evolution of acylsugar metabolic
+[diversity in Solanaceae.
+Curr Opin Plant Biol.
+2019;49:8–16. https://doi.org/1](https://doi.org/10.1016/j.pbi.2019.03.005)
+[0.1016/j.pbi.2019.03.005.](https://doi.org/10.1016/j.pbi.2019.03.005)
+Fan P, Miller AM, Schilmiller AL, Liu X, Ofner I, Jones AD, et al.
+In vitro reconstruction and analysis of evolutionary variation of the tomato  – acylsucrose metabolic network.
+Proc Natl Acad Sci U S A. 2016;113(2):E239 [48. https://doi.org/10.1073/pnas.1517930113.](https://doi.org/10.1073/pnas.1517930113)
+Fernandez-Moreno J-P, Tzfadia O, Forment J, Presa S, Rogachev I, Meir S, et al.
+Characterization of a New Pink-Fruited Tomato Mutant Results in the  Identification of a Null Allele of the SlMYB12 Transcription Factor.
+Plant [Physiol.
+2016;171(3):1821–36. https://doi.org/10.1104/pp.16.00282.](https://doi.org/10.1104/pp.16.00282) Fernie AR, Bachem CWB, Helariutta Y, Neuhaus HE, Prat S, Ruan YL, et al.
+Synchronization of developmental, molecular and metabolic aspects of [source-sink interactions.
+Nat Plants.
+2020;6(2):55–66.
+https://doi.org/10.1038/](https://doi.org/10.1038/s41477-020-0590-x)
+[s41477-020-0590-x.](https://doi.org/10.1038/s41477-020-0590-x)  Flors V, Leyva Mde L, Vicedo B, Finiti I, Real MD, Garcia-Agustin P, et al.
+Absence of the endo-beta-1,4-glucanases Cel1 and Cel2 reduces susceptibility to [Botrytis cinerea in tomato.
+Plant J. 2007;52(6):1027–40.
+https://doi.org/1](https://doi.org/10.1111/j.1365-313X.2007.03299.x)
+[0.1111/j.1365-313X.2007.03299.x.](https://doi.org/10.1111/j.1365-313X.2007.03299.x) Fridman E, Pleban T, Zamir D. A recombination hotspot delimits a wild-species quantitative trait locus for tomato sugar content to 484 bp within an [invertase gene.
+Proc Natl Acad Sci U S A. 2000;97(9):4718–23.
+https://doi.](https://doi.org/10.1073/pnas.97.9.4718)
+[org/10.1073/pnas.97.9.4718.](https://doi.org/10.1073/pnas.97.9.4718) Fujisawa M, Nakano T, Shima Y, Ito Y.
+A large-scale identification of direct targets of the tomato MADS box transcription factor RIPENING INHIBITOR reveals the [regulation of fruit ripening.
+Plant Cell.
+2013;25(2):371–86.
+https://doi.org/10.11](https://doi.org/10.1105/tpc.112.108118)
+[05/tpc.112.108118.](https://doi.org/10.1105/tpc.112.108118) Fujisawa M, Shima Y, Higuchi N, Nakano T, Koyama Y, Kasumi T, et al.
+Direct targets of the tomato-ripening regulator RIN identified by transcriptome and chromatin immunoprecipitation analyses.
+Planta.
+2012;235(6):1107–22.
+[https://doi.org/10.1007/s00425-011-1561-2.](https://doi.org/10.1007/s00425-011-1561-2)
+Fujiwara Y, Kiyota N, Hori M, Matsushita S, Iijima Y, Aoki K, et al.
+Esculeogenin A, a new tomato sapogenol, ameliorates hyperlipidemia and atherosclerosis in ApoE-deficient mice by inhibiting ACAT.
+Arterioscler Thromb Vasc Biol. 2007;
+[27(11):2400–6. https://doi.org/10.1161/ATVBAHA.107.147405.](https://doi.org/10.1161/ATVBAHA.107.147405)
+Fukushima A, Nishizawa T, Hayakumo M, Hikosaka S, Saito K, Goto E, et al.
+Exploring tomato gene functions based on coexpression modules using graph clustering and differential coexpression approaches.
+Plant Physiol.
+[2012;158(4):1487–502. https://doi.org/10.1104/pp.111.188367.](https://doi.org/10.1104/pp.111.188367)
+Galpaz N, Ronen G, Khalfa Z, Zamir D, Hirschberg J. A chromoplast-specific carotenoid biosynthesis pathway is revealed by cloning of the tomato white[flower locus.
+Plant Cell. 2006;18(8):1947–60.
+https://doi.org/10.1105/tpc.105.03](https://doi.org/10.1105/tpc.105.039966)
+[9966.](https://doi.org/10.1105/tpc.105.039966)
+Galpaz N, Wang Q, Menda N, Zamir D, Hirschberg J. Abscisic acid deficiency in the tomato mutant high-pigment 3 leading to increased plastid number and [higher fruit lycopene content.
+Plant J. 2008;53(5):717–30. https://doi.org/1](https://doi.org/10.1111/j.1365-313X.2007.03362.x)
+[0.1111/j.1365-313X.2007.03362.x.](https://doi.org/10.1111/j.1365-313X.2007.03362.x) Gamrasni D, Erov M, Saar L, Raz A, Glikman M, Sonawane PD, et al.
+The isocitrate dehydrogenase 1 gene is associated with the climacteric response in tomato
+[fruit ripening.
+Postharvest Biol Tec. 2020;166:111219.
+https://doi.org/10.1016/j.](https://doi.org/10.1016/j.postharvbio.2020.111219)
+[postharvbio.2020.111219.](https://doi.org/10.1016/j.postharvbio.2020.111219)
+Gao L, Gonda I, Sun H, Ma Q, Bao K, Tieman DM, et al.
+The tomato pan-genome uncovers new genes and a rare allele regulating fruit flavor.
+Nat Genet. 2019;
+[51(6):1044–51. https://doi.org/10.1038/s41588-019-0410-2.](https://doi.org/10.1038/s41588-019-0410-2)
+Gao Y, Liu J, Chen Y, Tang H, Wang Y, He Y, et al.
+Tomato SlAN11 regulates flavonoid biosynthesis and seed dormancy by interaction with bHLH
+[proteins but not with MYB proteins.
+Hortic Res.
+2018a;5(1):27. https://doi.](https://doi.org/10.1038/s41438-018-0032-3)
+[org/10.1038/s41438-018-0032-3.](https://doi.org/10.1038/s41438-018-0032-3) Gao Y, Wei W, Fan Z, Zhao X, Zhang Y, Jing Y, et al.
+Re-evaluation of the nor mutation and the role of the NAC-NOR transcription factor in tomato fruit [ripening.
+J Exp Bot. 2020;71(12):3560–74.
+https://doi.org/10.1093/jxb/eraa131.](https://doi.org/10.1093/jxb/eraa131) Gao Y, Wei W, Zhao X, Tan X, Fan Z, Zhang Y, et al.
+A NAC transcription factor, NOR-like1, is a new positive regulator of tomato fruit ripening.
+Hortic Res.
+[2018b;5(1):75.
+https://doi.org/10.1038/s41438-018-0111-5.](https://doi.org/10.1038/s41438-018-0111-5)
+Garbowicz K, Liu Z, Alseekh S, Tieman D, Taylor M, Kuhalskaya A, et al.
+Quantitative Trait Loci Analysis Identifies a Prominent Gene Involved in the Production of Fatty Acid-Derived Flavor Volatiles in Tomato.
+Mol Plant.
+2018; [11(9):1147–65.
+https://doi.org/10.1016/j.molp.2018.06.003.](https://doi.org/10.1016/j.molp.2018.06.003)
+Gautier H, Diakou-Verdin V, Benard C, Reich M, Buret M, Bourgaud F, et al.
+How does tomato quality (sugar, acid, and nutritional quality) vary with ripening stage, temperature, and irradiance?
+J Agric Food Chem.
+2008;56(4):1241–50.
+[https://doi.org/10.1021/jf072196t.](https://doi.org/10.1021/jf072196t) Gimenez E, Dominguez E, Pineda B, Heredia A, Moreno V, Lozano R, et al.
+Transcriptional Activity of the MADS Box ARLEQUIN/TOMATO AGAMOUS-LIKE1 Gene Is Required for Cuticle Development of Tomato Fruit.
+Plant Physiol.
+[2015;168(3):1036–48. https://doi.org/10.1104/pp.15.00469.](https://doi.org/10.1104/pp.15.00469) Giovannoni JJ.
+Fruit ripening mutants yield insights into ripening control.
+Curr
+[Opin Plant Biol.
+2007;10(3):283–9. https://doi.org/10.1016/j.pbi.2007.04.008.](https://doi.org/10.1016/j.pbi.2007.04.008)
+Gomez Roldan MV, Outchkourov N, van Houwelingen A, Lammers M. Romero de la Fuente I, Ziklo N, Aharoni A, Hall RD, Beekwilder J. An O-methyltransferase modifies accumulation of methylated anthocyanins in seedlings of tomato.
+[Plant J. 2014;80(4):695–708.
+https://doi.org/10.1111/tpj.12664.](https://doi.org/10.1111/tpj.12664) Gonzalez N, Gevaudant F, Hernould M, Chevalier C, Mouras A.
+The cell cycleassociated protein kinase WEE1 regulates cell size in relation to endoreduplication in developing tomato fruit.
+Plant J. 2007;51(4):642–55.
+[https://doi.org/10.1111/j.1365-313X.2007.03167.x.](https://doi.org/10.1111/j.1365-313X.2007.03167.x) Gonzali S, Mazzucato A, Perata P. Purple as a tomato: towards high anthocyanin [tomatoes.
+Trends Plant Sci.
+2009;14(5):237–41.
+https://doi.org/10.1016/j.tpla](https://doi.org/10.1016/j.tplants.2009.02.001)
+[nts.2009.02.001.](https://doi.org/10.1016/j.tplants.2009.02.001)  Goulao LF, Oliveira CM.
+Cell wall modifications during fruit ripening: when a fruit [is not the fruit.
+Trends Food Sci Tech.
+2008;19(1):4–25. https://doi.org/10.101](https://doi.org/10.1016/j.tifs.2007.07.002)
+[6/j.tifs.2007.07.002.](https://doi.org/10.1016/j.tifs.2007.07.002) Goulet C, Kamiyoshihara Y, Lam NB, Richard T, Taylor MG, Tieman DM, et al.
+Divergence in the enzymatic activities of a tomato and Solanum pennellii alcohol acyltransferase impacts fruit volatile ester composition.
+Mol Plant.
+[2015;8(1):153–62. https://doi.org/10.1016/j.molp.2014.11.007.](https://doi.org/10.1016/j.molp.2014.11.007) Guillet C, Aboul-Soud MA, Le Menn A, Viron N, Pribat A, Germain V, et al.
+Regulation of the fruit-specific PEP carboxylase SlPPC2 promoter at early [stages of tomato fruit development.
+PLoS
+One.
+2012;7(5):e36795.
+https://doi.](https://doi.org/10.1371/journal.pone.0036795)
+[org/10.1371/journal.pone.0036795.](https://doi.org/10.1371/journal.pone.0036795)
+Guo JE, Hu Z, Li F, Zhang L, Yu X, Tang B, et al.
+Silencing of histone deacetylase SlHDT3 delays fruit ripening and suppresses carotenoid accumulation in [tomato.
+Plant Sci.
+2017a;265:29–38.
+https://doi.org/10.1016/j.plantsci.2017.09.](https://doi.org/10.1016/j.plantsci.2017.09.013)
+[013.](https://doi.org/10.1016/j.plantsci.2017.09.013)
+Guo JE, Hu Z, Yu X, Li A, Li F, Wang Y, et al.
+A histone deacetylase gene, SlHDA3, acts as a negative regulator of fruit ripening and carotenoid accumulation.
+[Plant Cell Rep. 2018;37(1):125–35.
+https://doi.org/10.1007/s00299-017-2211-3.](https://doi.org/10.1007/s00299-017-2211-3)
+Guo JE, Hu Z, Zhu M, Li F, Zhu Z, Lu Y, et al.
+The tomato histone deacetylase SlHDA1 contributes to the repression of fruit ripening and carotenoid [accumulation.
+Sci Rep. 2017b;7(1):7930.
+https://doi.org/10.1038/s41598-017-](https://doi.org/10.1038/s41598-017-08512-x)
+[08512-x.](https://doi.org/10.1038/s41598-017-08512-x)  Guo Y, Gan S. AtNAP, a NAC family transcription factor, has an important role in [leaf senescence.
+Plant J. 2006;46(4):601–12.
+https://doi.org/10.1111/j.1365-313](https://doi.org/10.1111/j.1365-313X.2006.02723.x)
+[X.2006.02723.x.](https://doi.org/10.1111/j.1365-313X.2006.02723.x)
+Guyer L, Hofstetter SS, Christ B, Lira BS, Rossi M, Hörtensteiner S.
+Different Mechanisms Are Responsible for Chlorophyll Dephytylation during Fruit Ripening and Leaf Senescence in Tomato.
+Plant Physiol.
+2014;166(1):44–56.
+[https://doi.org/10.1104/pp.114.239541.](https://doi.org/10.1104/pp.114.239541)
+Hackel A, Schauer N, Carrari F, Fernie AR, Grimm B, Kuhn C. Sucrose transporter LeSUT1 and LeSUT2 inhibition affects tomato fruit development in different [ways.
+Plant J. 2006;45(2):180–92.
+https://doi.org/10.1111/j.1365-313X.2005.02](https://doi.org/10.1111/j.1365-313X.2005.02572.x)
+[572.x.](https://doi.org/10.1111/j.1365-313X.2005.02572.x)  Hirschberg J. Carotenoid biosynthesis in flowering plants.
+Curr Opin Plant Biol.
+[2001;4(3):210–8.
+https://doi.org/10.1016/s1369-5266(00)00163-1.](https://doi.org/10.1016/s1369-5266(00)00163-1) Honma T, Goto K. Complexes of MADS-box proteins are sufficient to convert [leaves into floral organs.
+Nature.
+2001;409(6819):525–9. https://doi.org/10.103](https://doi.org/10.1038/35054083)
+[8/35054083.](https://doi.org/10.1038/35054083)  Horie Y, Ito H, Kusaba M, Tanaka R, Tanaka A. Participation of chlorophyll b reductase in the initial step of the degradation of light-harvesting chlorophyll a/b-protein complexes in Arabidopsis.
+J Biol Chem.
+2009;284(26):
+[17449–56.
+https://doi.org/10.1074/jbcM109008912.](https://doi.org/10.1074/jbcM109008912) Hu T, Ye J, Tao P, Li H, Zhang J, Zhang Y, et al.
+The tomato HD-Zip I transcription factor SlHZ24 modulates ascorbate accumulation through positive regulation [of the D-mannose/L-galactose pathway.
+Plant J. 2016;85(1):16–29.
+https://doi.](https://doi.org/10.1111/tpj.13085)
+[org/10.1111/tpj.13085.](https://doi.org/10.1111/tpj.13085) Huang H, Chen S, Van Doren J, Li D, Farichon C, He Y, et al. α-Tomatine inhibits growth and induces apoptosis in HL-60 human myeloid leukemia cells.
+Mol
+[Med Rep. 2015;11(6):4573–8.
+https://doi.org/10.3892/mmr.2015.3238.](https://doi.org/10.3892/mmr.2015.3238)
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 16 of 19    Ilg A, Bruno M, Beyer P, Al-Babili S. Tomato carotenoid cleavage dioxygenases 1A and 1B: Relaxed double bond specificity leads to a plenitude of dialdehydes,  – mono-apocarotenoids and isoprenoid volatiles.
+FEBS Open Bio.
+2014;4:584
+[93.
+https://doi.org/10.1016/j.fob.2014.06.005.](https://doi.org/10.1016/j.fob.2014.06.005) Irfan M, Ghosh S, Meli VS, Kumar A, Kumar V, Chakraborty N, et al.
+Fruit Ripening Regulation of alpha-Mannosidase Expression by the MADS Box Transcription Factor RIPENING INHIBITOR and Ethylene.
+Front Plant Sci. 2016;7(10):10.
+[https://doi.org/10.3389/fpls.2016.00010.](https://doi.org/10.3389/fpls.2016.00010) Isaacson T, Ronen G, Zamir D, Hirschberg J. Cloning of tangerine from tomato reveals a carotenoid isomerase essential for the production of beta-carotene [and xanthophylls in plants.
+Plant Cell.
+2002;14(2):333–42. https://doi.org/10.11](https://doi.org/10.1105/tpc.010303)
+[05/tpc.010303.](https://doi.org/10.1105/tpc.010303) Itkin M, Heinig U, Tzfadia O, Bhide AJ, Shinde B, Cardenas PD, et al.
+Biosynthesis of antinutritional alkaloids in solanaceous crops is mediated by clustered [genes.
+Science.
+2013;341(6142):175–9. https://doi.org/10.1126/science.124023](https://doi.org/10.1126/science.1240230)
+[0.](https://doi.org/10.1126/science.1240230)  Itkin M, Rogachev I, Alkan N, Rosenberg T, Malitsky S, Masini L, et al.
+GLYCOALKALOID METABOLISM1 is required for steroidal alkaloid glycosylation and prevention of phytotoxicity in tomato.
+Plant Cell. 2011;
+[23(12):4507–25. https://doi.org/10.1105/tpc.111.088732.](https://doi.org/10.1105/tpc.111.088732)
+Ito Y, Nishizawa-Yokoi A, Endo M, Mikami M, Shima Y, Nakamura N, et al. Reevaluation of the rin mutation and the role of RIN in the induction of  [tomato ripening.
+Nat Plants.
+2017;3(11):866–74.
+https://doi.org/10.1038/s414](https://doi.org/10.1038/s41477-017-0041-5)
+[77-017-0041-5.](https://doi.org/10.1038/s41477-017-0041-5)  Jian W, Cao H, Yuan S, Liu Y, Lu J, Lu W, et al. SlMYB75, an MYB-type transcription factor, promotes anthocyanin accumulation and enhances volatile aroma
+[production in tomato fruits.
+Hortic Res.
+2019;6(1):22. https://doi.org/10.1038/](https://doi.org/10.1038/s41438-018-0098-y)
+[s41438-018-0098-y.](https://doi.org/10.1038/s41438-018-0098-y) Jiang F, Lopez A, Jeon S, de Freitas ST, Yu Q, Wu Z, et al.
+Disassembly of the fruit cell wall by the ripening-associated polygalacturonase and expansin [influences tomato cracking.
+Hortic Res.
+2019;6(1):17. https://doi.org/10.1038/](https://doi.org/10.1038/s41438-018-0105-3)
+[s41438-018-0105-3.](https://doi.org/10.1038/s41438-018-0105-3)  Jin Y, Ni DA, Ruan YL.
+Posttranslational elevation of cell wall invertase activity by silencing its inhibitor in tomato delays leaf senescence and increases seed [weight and fruit hexose level.
+Plant Cell. 2009;21(7):2072–89. https://doi.org/1](https://doi.org/10.1105/tpc.108.063719)
+[0.1105/tpc.108.063719.](https://doi.org/10.1105/tpc.108.063719) Jones CM, Mes P, Myers JR. Characterization and inheritance of the Anthocyanin [fruit (Aft) tomato.
+J Hered.
+2003;94(6):449–56.
+https://doi.org/10.1093/jhered/](https://doi.org/10.1093/jhered/esg093)
+[esg093.](https://doi.org/10.1093/jhered/esg093)
+Kang J-H, McRoberts J, Shi F, Moreno JE, Jones AD, Howe GA.
+The Flavonoid Biosynthetic Enzyme Chalcone Isomerase Modulates Terpenoid Production in [Glandular Trichomes of Tomato.
+Plant Physiol.
+2014;164(3):1161–74.
+https://](https://doi.org/10.1104/pp.113.233395)
+[doi.org/10.1104/pp.113.233395.](https://doi.org/10.1104/pp.113.233395) Karlova R, Rosin FM, Busscher-Lange J, Parapunova V, Do PT, Fernie AR, et al.
+Transcriptome and metabolite profiling show that APETALA2a is a major [regulator of tomato fruit ripening.
+Plant Cell.
+2011;23(3):923–41.
+https://doi.](https://doi.org/10.1105/tpc.110.081273)
+[org/10.1105/tpc.110.081273.](https://doi.org/10.1105/tpc.110.081273) Karniel U, Koch A, Zamir D, Hirschberg J. Development of zeaxanthin-rich tomato fruit through genetic manipulations of carotenoid biosynthesis.
+Plant
+[Biotechnol J. 2020;18(11):2292–303. https://doi.org/10.1111/pbi.13387.](https://doi.org/10.1111/pbi.13387) Kazachkova Y, Zemach I, Panda S, Bocobza S, Vainer A, Rogachev I, et al.
+The GORKY glycoalkaloid transporter is indispensable for preventing tomato
+[bitterness.
+Nat Plants.
+2021;7(4):468–80.
+https://doi.org/10.1038/s41477-021-](https://doi.org/10.1038/s41477-021-00865-6)
+[00865-6.](https://doi.org/10.1038/s41477-021-00865-6)  Kim J, Matsuba Y, Ning J, Schilmiller AL, Hammar D, Jones AD, et al.
+Analysis of natural and induced variation in tomato glandular trichome flavonoids identifies a gene not present in the reference genome.
+Plant Cell.
+2014;26(8): [3272–85.
+https://doi.org/10.1105/tpc.114.129460.](https://doi.org/10.1105/tpc.114.129460)
+Kit AH, Boureau L, Stammitti-Bert L, Rolin D, Teyssier E, Gallusci P. Functional analysis of SlEZ1 a tomato Enhancer of zeste (E(z)) gene demonstrates a role [in flower development.
+Plant Mol Biol.
+2010;74(3):201–13. https://doi.org/10.1](https://doi.org/10.1007/s11103-010-9657-9)
+[007/s11103-010-9657-9.](https://doi.org/10.1007/s11103-010-9657-9)  Klann EM, Hall B, Bennett AB.
+Antisense acid invertase (TIV1) gene alters soluble sugar composition and size in transgenic tomato fruit.
+Plant Physiol. 1996;
+[112(3):1321–30. https://doi.org/10.1104/pp.112.3.1321.](https://doi.org/10.1104/pp.112.3.1321) Klee HJ, Giovannoni JJ.
+Genetics and control of tomato fruit ripening and quality [attributes.
+Annu Rev Genet.
+2011;45:41–59.
+https://doi.org/10.1146/annurev-](https://doi.org/10.1146/annurev-genet-110410-132507)
+[genet-110410-132507.](https://doi.org/10.1146/annurev-genet-110410-132507)
+Ko H-Y, Ho L-H, Neuhaus HE, Guo W-J. SlSWEET15 exports sucrose from phloem and seed coat in tomato to supply carbon for fruit and seed development.
+[bioRxiv.
+2020.
+https://doi.org/10.1101/2020.11.09.374827.](https://doi.org/10.1101/2020.11.09.374827)    Kochevenko A, Araujo WL, Maloney GS, Tieman DM, Do PT, Taylor MG, et al.
+Catabolism of branched chain amino acids supports respiration but not [volatile synthesis in tomato fruits.
+Mol Plant.
+2012;5(2):366–75. https://doi.](https://doi.org/10.1093/mp/ssr108)
+[org/10.1093/mp/ssr108.](https://doi.org/10.1093/mp/ssr108)
+Kou XH, Zhao YN, Wu C, Jiang BL, Zhang Z, Rathbun JR, et al.
+SNAC4 and SNAC9 transcription factors show contrasting effects on tomato carotenoids [biosynthesis and softening.
+Postharvest Biol Tec. 2018;144:9–19.
+https://doi.](https://doi.org/10.1016/j.postharvbio.2018.05.008)
+[org/10.1016/j.postharvbio.2018.05.008.](https://doi.org/10.1016/j.postharvbio.2018.05.008) Langfelder P, Horvath S. WGCNA: an R package for weighted correlation network [analysis.
+BMC Bioinformatics.
+2008;9(1):559.
+https://doi.org/10.1186/1471-21](https://doi.org/10.1186/1471-2105-9-559)
+[05-9-559.](https://doi.org/10.1186/1471-2105-9-559)  Lewinsohn E, Schalechet F, Wilkinson J, Matsui K, Tadmor Y, Nam KH, et al.
+Enhanced levels of the aroma and flavor compound S-linalool by metabolic engineering of the terpenoid pathway in tomato fruits.
+Plant Physiol. 2001; [127(3):1256–65.
+https://doi.org/10.1104/pp.010293.](https://doi.org/10.1104/pp.010293)
+Li L, Zhao Y, McCaig BC, Wingerd BA, Wang J, Whalon ME, et al.
+The Tomato Homolog of CORONATINE-INSENSITIVE1 Is Required for the Maternal Control of Seed Maturation, Jasmonate-Signaled Defense Responses, and Glandular [Trichome Development.
+Plant Cell.
+2004;16(1):126–43. https://doi.org/10.11](https://doi.org/10.1105/tpc.017954)
+[05/tpc.017954.](https://doi.org/10.1105/tpc.017954) Li S, Chen K, Grierson D. A critical evaluation of the role of ethylene and MADS transcription factors in the network controlling fleshy fruit ripening.
+New [Phytol.
+2019;221(4):1724–41.
+https://doi.org/10.1111/nph.15545.](https://doi.org/10.1111/nph.15545)
+Li X, Tieman D, Liu Z, Chen K, Klee HJ.
+Identification of a lipase gene with a role in tomato fruit short-chain fatty acid-derived flavor volatiles by genome-wide [association.
+Plant J. 2020a;104(3):631–44.
+https://doi.org/10.1111/tpj.14951.](https://doi.org/10.1111/tpj.14951) Li Y, Chen Y, Zhou L, You S, Deng H, Chen Y, et al.
+MicroTom Metabolic Network: Rewiring Tomato Metabolic Regulatory Network throughout the Growth [Cycle.
+Mol Plant.
+2020b;13(8):1203–18.
+https://doi.org/10.1016/j.molp.2020.06.](https://doi.org/10.1016/j.molp.2020.06.005)
+[005.](https://doi.org/10.1016/j.molp.2020.06.005)
+Li Z, Kim JH, Kim J, Lyu JI, Zhang Y, Guo H, et al.
+ATM suppresses leaf senescence triggered by DNA double-strand break through epigenetic control of  – senescence-associated genes in Arabidopsis.
+New Phytol.
+2020c;227(2):473
+[84. https://doi.org/10.1111/nph.16535.](https://doi.org/10.1111/nph.16535) Liu M, Diretto G, Pirrello J, Roustan JP, Li Z, Giuliano G, et al.
+The chimeric repressor version of an Ethylene Response Factor (ERF) family member, SlERF.B3, shows contrasting effects on tomato fruit ripening.
+New Phytol.
+2014;
+[203(1):206–18.
+https://doi.org/10.1111/nph.12771.](https://doi.org/10.1111/nph.12771) Lu P, Yu S, Zhu N, Chen YR, Zhou B, Pan Y, et al.
+Genome encode analyses reveal the basis of convergent evolution of fleshy fruit ripening.
+Nat Plants.
+2018; [4(10):784–91.
+https://doi.org/10.1038/s41477-018-0249-z.](https://doi.org/10.1038/s41477-018-0249-z)
+Luo Z, Zhang J, Li J, Yang C, Wang T, Ouyang B, et al.
+A STAY-GREEN protein SlSGR1 regulates lycopene and beta-carotene accumulation by interacting directly with SlPSY1 during ripening processes in tomato.
+New Phytol. 2013;
+[198(2):442–52. https://doi.org/10.1111/nph.12175.](https://doi.org/10.1111/nph.12175)
+Ma N, Feng H, Meng X, Li D, Yang D, Wu C, et al.
+Overexpression of tomato SlNAC1 transcription factor alters fruit pigmentation and softening.
+BMC
+[Plant Biol.
+2014;14(1):351.
+https://doi.org/10.1186/s12870-014-0351-y.](https://doi.org/10.1186/s12870-014-0351-y) Ma X, Zhang Y, Tureckova V, Xue GP, Fernie AR, Mueller-Roeber B, et al.
+The NAC Transcription Factor SlNAP2 Regulates Leaf Senescence and Fruit Yield in [Tomato.
+Plant Physiol.
+2018;177(3):1286–302. https://doi.org/10.1104/pp.18.](https://doi.org/10.1104/pp.18.00292)
+[00292.](https://doi.org/10.1104/pp.18.00292)  Mageroy MH, Tieman DM, Floystad A, Taylor MG, Klee HJ.
+A Solanum lycopersicum catechol-O-methyltransferase involved in synthesis of the flavor [molecule guaiacol.
+Plant J. 2012;69(6):1043–51.
+https://doi.org/10.1111/j.13](https://doi.org/10.1111/j.1365-313X.2011.04854.x)
+[65-313X.2011.04854.x.](https://doi.org/10.1111/j.1365-313X.2011.04854.x)  Maloney GS, DiNapoli KT, Muday GK.
+The anthocyanin reduced Tomato Mutant Demonstrates the Role of Flavonols in Tomato Lateral Root and Root Hair
+[Development.
+Plant Physiol.
+2014;166(2):614–31. https://doi.org/10.1104/](https://doi.org/10.1104/pp.114.240507)
+[pp.114.240507.](https://doi.org/10.1104/pp.114.240507) Malundo TMM, Shewfelt RL, Scott JW.
+Flavor Quality of Fresh Tomato (Lycopersicon-Esculentum Mill) as Affected by Sugar and Acid Levels.
+[Postharvest Biol Tec.
+1995;6(1-2):103–10. https://doi.org/10.1016/0925-5214(94](https://doi.org/10.1016/0925-5214(94)00052-T)
+[)00052-T.](https://doi.org/10.1016/0925-5214(94)00052-T) Mandal S, Ji W, McKnight TD.
+Candidate Gene Networks for Acylsugar Metabolism and Plant Defense in Wild Tomato Solanum pennellii.
+Plant Cell.
+[2020;32(1):81–99.
+https://doi.org/10.1105/tpc.19.00552.](https://doi.org/10.1105/tpc.19.00552) Manning K, Tor M, Poole M, Hong Y, Thompson AJ, King GJ, et al.
+A naturally occurring epigenetic mutation in a gene encoding an SBP-box transcription [factor inhibits tomato fruit ripening.
+Nat Genet.
+2006;38(8):948–52.
+https://](https://doi.org/10.1038/ng1841)
+[doi.org/10.1038/ng1841.](https://doi.org/10.1038/ng1841)
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 17 of 19    McQuinn RP, Gapper NE, Gray AG, Zhong S, Tohge T, Fei Z, et al. Manipulation of ZDS in tomato exposes carotenoid- and ABA-specific effects on fruit [development and ripening.
+Plant Biotechnol J. 2020;18(11):2210–24.
+https://](https://doi.org/10.1111/pbi.13377)
+[doi.org/10.1111/pbi.13377.](https://doi.org/10.1111/pbi.13377) Meng C, Zhang S, Deng YS, Wang GD, Kong FY.
+Overexpression of a tomato flavanone 3-hydroxylase-like protein gene improves chilling tolerance in [tobacco.
+Plant Physiol Biochem.
+2015;96:388–400. https://doi.org/10.1016/j.pla](https://doi.org/10.1016/j.plaphy.2015.08.019)
+[phy.2015.08.019.](https://doi.org/10.1016/j.plaphy.2015.08.019) Miedes E, Herbers K, Sonnewald U, Lorences EP.
+Overexpression of a cell wall enzyme reduces xyloglucan depolymerization and softening of transgenic [tomato fruits.
+J Agric Food Chem.
+2010;58(9):5708–13.
+https://doi.org/10.1](https://doi.org/10.1021/jf100242z)
+[021/jf100242z.](https://doi.org/10.1021/jf100242z) Millar DJ, Long M, Donovan G, Fraser PD, Boudet AM, Danoun S, et al.
+Introduction of sense constructs of cinnamate 4-hydroxylase (CYP73A24) in transgenic tomato plants shows opposite effects on flux into stem lignin and [fruit flavonoids.
+Phytochemistry.
+2007;68(11):1497–509. https://doi.org/10.101](https://doi.org/10.1016/j.phytochem.2007.03.018)
+[6/j.phytochem.2007.03.018.](https://doi.org/10.1016/j.phytochem.2007.03.018) Naing AH, Kyu SY, Pe PPW, Park KI, Lee JM, Lim KB, et al.
+Silencing of the phytoene desaturase (PDS) gene affects the expression of fruit-ripening [genes in tomatoes.
+Plant Methods.
+2019;15(1):110. https://doi.org/10.1186/s13](https://doi.org/10.1186/s13007-019-0491-z)
+[007-019-0491-z.](https://doi.org/10.1186/s13007-019-0491-z)  Neuman H, Galpaz N, Cunningham FX Jr, Zamir D, Hirschberg J.
+The tomato mutation nxd1 reveals a gene necessary for neoxanthin biosynthesis and demonstrates that violaxanthin is a sufficient precursor for abscisic acid [biosynthesis.
+Plant J. 2014;78(1):80–93.
+https://doi.org/10.1111/tpj.12451.](https://doi.org/10.1111/tpj.12451)
+Ning J, Moghe GD, Leong B, Kim J, Ofner I, Wang Z, et al.
+A Feedback-Insensitive Isopropylmalate Synthase Affects Acylsugar Composition in Cultivated and [Wild Tomato.
+Plant Physiol.
+2015;169(3):1821–35.
+https://doi.org/10.1104/pp.1](https://doi.org/10.1104/pp.15.00474)
+[5.00474.](https://doi.org/10.1104/pp.15.00474)
+Nukumizu Y, Wada T, Tominaga-Wada R. Tomato (Solanum lycopersicum) homologs of TRIPTYCHON (SlTRY) and GLABRA3 (SlGL3) are involved in [anthocyanin accumulation.
+Plant Signal Behav.
+2013;8(7):e24575.
+https://doi.](https://doi.org/10.4161/psb.24575)
+[org/10.4161/psb.24575.](https://doi.org/10.4161/psb.24575)
+Odanaka S, Bennett AB, Kanayama Y. Distinct physiological roles of fructokinase isozymes revealed by gene-specific suppression of Frk1 and Frk2 expression [in tomato.
+Plant Physiol.
+2002;129(3):1119–26.
+https://doi.org/10.1104/pp.](https://doi.org/10.1104/pp.000703)
+[000703.](https://doi.org/10.1104/pp.000703)
+Olsen KM, Hehn A, Jugde H, Slimestad R, Larbat R, Bourgaud F, et al.
+Identification and characterisation of CYP75A31, a new flavonoid 3'5’hydroxylase, isolated from Solanum lycopersicum.
+BMC Plant Biol.
+2010;10(1): [21. https://doi.org/10.1186/1471-2229-10-21.](https://doi.org/10.1186/1471-2229-10-21)
+Payasi A, Mishra NN, Chaves ALS, Singh R. Biochemistry of fruit softening: an [overview.
+Physiol Mol Biol Plants.
+2009;15(2):103–13.
+https://doi.org/10.1007/](https://doi.org/10.1007/s12298-009-0012-z)
+[s12298-009-0012-z.](https://doi.org/10.1007/s12298-009-0012-z)  Perez de Souza L, Garbowicz K, Brotman Y, Tohge T, Fernie AR.
+The Acetate Pathway Supports Flavonoid and Lipid Biosynthesis in Arabidopsis.
+Plant [Physio.
+2019;182(2):857–69. https://doi.org/10.1104/pp.19.00683.](https://doi.org/10.1104/pp.19.00683) Perini MA, Sin IN, Villarreal NM, Marina M, Powell A, Martinez GA, et al.
+Overexpression of the carbohydrate binding module from Solanum lycopersicum expansin 1 (Sl-EXP1) modifies tomato fruit firmness and Botrytis [cinerea susceptibility.
+Plant Physiol Biochem.
+2017;113:122–32. https://doi.](https://doi.org/10.1016/j.plaphy.2017.01.029)
+[org/10.1016/j.plaphy.2017.01.029.](https://doi.org/10.1016/j.plaphy.2017.01.029) Petreikov M, Shen S, Yeselson Y, Levin I, Bar M, Schaffer AA.
+Temporally extended gene expression of the ADP-Glc pyrophosphorylase large subunit (AgpL1) leads to increased enzyme activity in developing tomato fruit.
+Planta.
+2006;
+[224(6):1465–79.
+https://doi.org/10.1007/s00425-006-0316-y.](https://doi.org/10.1007/s00425-006-0316-y) Pruzinska A, Anders I, Aubry S, Schenk N, Tapernoux-Luthi E, Muller T, et al.
+In vivo participation of red chlorophyll catabolite reductase in chlorophyll [breakdown.
+Plant Cell.
+2007;19(1):369–87.
+https://doi.org/10.1105/tpc.106.](https://doi.org/10.1105/tpc.106.044404)
+[044404.](https://doi.org/10.1105/tpc.106.044404)
+Pruzinska A, Tanner G, Anders I, Roca M, Hortensteiner S. Chlorophyll breakdown: pheophorbide a oxygenase is a Rieske-type iron-sulfur protein, encoded by the accelerated cell death 1 gene.
+Proc Natl Acad Sci U S A. 2003;100(25):
+[15259–64. https://doi.org/10.1073/pnas.2036571100.](https://doi.org/10.1073/pnas.2036571100)
+Qin G, Zhu Z, Wang W, Cai J, Chen Y, Li L, et al.
+A Tomato Vacuolar Invertase Inhibitor Mediates Sucrose Metabolism and Influences Fruit Ripening.
+Plant [Physiol.
+2016;172(3):1596–611. https://doi.org/10.1104/pp.16.01269.](https://doi.org/10.1104/pp.16.01269) Qiu Z, Wang X, Gao J, Guo Y, Huang Z, Du Y. The Tomato Hoffman's Anthocyaninless Gene Encodes a bHLH Transcription Factor Involved in Anthocyanin Biosynthesis That Is Developmentally Regulated and Induced by    [Low Temperatures. PLoS
+One.
+2016;11(3):e0151067. https://doi.org/10.1371/](https://doi.org/10.1371/journal.pone.0151067)
+[journal.pone.0151067.](https://doi.org/10.1371/journal.pone.0151067)
+Quadrana L, Almeida J, Asis R, Duffy T, Dominguez PG, Bermudez L, et al.
+Natural occurring epialleles determine vitamin E accumulation in tomato fruits.
+Nat
+[Commun.
+2014;5(1):3027.
+https://doi.org/10.1038/ncomms5027.](https://doi.org/10.1038/ncomms5027)
+Rigano MM, Raiola A, Docimo T, Ruggieri V, Calafiore R, Vitaglione P, et al.
+Metabolic and Molecular Changes of the Phenylpropanoid Pathway in Tomato (Solanum lycopersicum) Lines Carrying Different Solanum pennellii
+[Wild Chromosomal Regions.
+Front Plant Sci.
+2016;7(1484):1484.
+https://doi.](https://doi.org/10.3389/fpls.2016.01484)
+[org/10.3389/fpls.2016.01484.](https://doi.org/10.3389/fpls.2016.01484)
+Robinson R. Ripening inhibitor: a gene with multiple effects on ripening.
+Rep Tomato Genet Coop.
+1968;18:36–7.
+Roessner-Tunali U, Hegemann B, Lytovchenko A, Carrari F, Bruedigam C, Granot D, et al.
+Metabolic profiling of transgenic tomato plants overexpressing hexokinase reveals that the influence of hexose phosphorylation diminishes [during fruit development.
+Plant Physiol.
+2003;133(1):84–99. https://doi.org/1](https://doi.org/10.1104/pp.103.023572)
+[0.1104/pp.103.023572.](https://doi.org/10.1104/pp.103.023572) Ronen G, Cohen M, Zamir D, Hirschberg J. Regulation of carotenoid biosynthesis during tomato fruit development: expression of the gene for lycopene epsilon-cyclase is down-regulated during ripening and is elevated in the [mutant Delta.
+Plant J. 1999;17(4):341–51.
+https://doi.org/10.1046/j.1365-313X.1](https://doi.org/10.1046/j.1365-313X.1999.00381.x)
+[999.00381.x.](https://doi.org/10.1046/j.1365-313X.1999.00381.x)  Sagar M, Chervin C, Mila I, Hao Y, Roustan JP, Benichou M, et al. SlARF4, an auxin response factor involved in the control of sugar metabolism during tomato
+[fruit development.
+Plant Physiol.
+2013;161(3):1362–74. https://doi.org/10.11](https://doi.org/10.1104/pp.113.213843)
+[04/pp.113.213843.](https://doi.org/10.1104/pp.113.213843) Sagor GH, Berberich T, Tanaka S, Nishiyama M, Kanayama Y, Kojima S, et al.
+A novel strategy to produce sweeter tomato fruits with high sugar contents by fruit-specific expression of a single bZIP transcription factor gene.
+Plant
+[Biotechnol J. 2016;14(4):1116–26.
+https://doi.org/10.1111/pbi.12480.](https://doi.org/10.1111/pbi.12480) Sakuraba Y, Kim D, Kim YS, Hortensteiner S, Paek NC.
+Arabidopsis STAYGREENLIKE (SGRL) promotes abiotic stress-induced leaf yellowing during vegetative [growth.
+FEBS Lett.
+2014;588(21):3830–7. https://doi.org/10.1016/j.febslet.2014.](https://doi.org/10.1016/j.febslet.2014.09.018)
+[09.018.](https://doi.org/10.1016/j.febslet.2014.09.018)
+Sakuraba Y, Schelbert S, Park SY, Han SH, Lee BD, Andres CB, et al.
+STAY-GREEN and chlorophyll catabolic enzymes interact at light-harvesting complex II for chlorophyll detoxification during leaf senescence in Arabidopsis.
+Plant Cell.
+[2012;24(2):507–18. https://doi.org/10.1105/tpc.111.089474.](https://doi.org/10.1105/tpc.111.089474)
+Schelbert S, Aubry S, Burla B, Agne B, Kessler F, Krupinska K, et al.
+Pheophytin pheophorbide hydrolase (pheophytinase) is involved in chlorophyll breakdown during leaf senescence in Arabidopsis.
+Plant Cell.
+2009;21(3):767– [85. https://doi.org/10.1105/tpc.108.064089.](https://doi.org/10.1105/tpc.108.064089)
+Schijlen EG, de Vos CH, Martens S, Jonker HH, Rosin FM, Molthoff JW, et al.
+RNA interference silencing of chalcone synthase, the first step in the flavonoid biosynthesis pathway, leads to parthenocarpic tomato fruits.
+Plant Physiol.
+[2007;144(3):1520–30. https://doi.org/10.1104/pp.107.100305.](https://doi.org/10.1104/pp.107.100305)
+Schilmiller AL, Charbonneau AL, Last RL.
+Identification of a BAHD acetyltransferase that produces protective acyl sugars in tomato trichomes.
+[Proc Natl Acad Sci U S A. 2012;109(40):16377–82.
+https://doi.org/10.1073/pna](https://doi.org/10.1073/pnas.1207906109)
+[s.1207906109.](https://doi.org/10.1073/pnas.1207906109)  Schilmiller AL, Moghe GD, Fan P, Ghosh B, Ning J, Jones AD, et al.
+Functionally divergent alleles and duplicated Loci encoding an acyltransferase contribute to acylsugar metabolite diversity in Solanum trichomes.
+Plant Cell.
+2015;27(4): [1002–17.
+https://doi.org/10.1105/tpc.15.00087.](https://doi.org/10.1105/tpc.15.00087) Schmidt A, Li C, Shi F, Jones AD, Pichersky E. Polymethylated myricetin in trichomes of the wild tomato species Solanum habrochaites and characterization of trichome-specific 3'/5'- and 7/4'-myricetin O[methyltransferases.
+Plant Physiol.
+2011;155(4):1999–2009.
+https://doi.org/10.11](https://doi.org/10.1104/pp.110.169961)
+[04/pp.110.169961.](https://doi.org/10.1104/pp.110.169961) Schreiber G, Reuveni M, Evenor D, Oren-Shamir M, Ovadia R, Sapir-Mir M, et al.
+ANTHOCYANIN1 from Solanum chilense is more efficient in accumulating anthocyanin metabolites than its Solanum lycopersicum counterpart in association with the ANTHOCYANIN FRUIT phenotype of tomato.
+Theor Appl
+[Genet.
+2012;124(2):295–307. https://doi.org/10.1007/s00122-011-1705-6.](https://doi.org/10.1007/s00122-011-1705-6) Segado P, Heredia-Guerrero JA, Heredia A, Dominguez E. Cutinsomes and CUTIN SYNTHASE1 Function Sequentially in Tomato Fruit Cutin Deposition.
+Plant [Physiol.
+2020;183(4):1622–37.
+https://doi.org/10.1104/pp.20.00516.](https://doi.org/10.1104/pp.20.00516)
+Shammai A, Petreikov M, Yeselson Y, Faigenboim A, Moy-Komemi M, Cohen S, et al. Natural genetic variation for expression of a SWEET transporter among wild species of Solanum lycopersicum (tomato) determines the hexose   Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 18 of 19
+[composition of ripening tomato fruit.
+Plant J. 2018;96(2):343–57. https://doi.](https://doi.org/10.1111/tpj.14035)
+[org/10.1111/tpj.14035.](https://doi.org/10.1111/tpj.14035)
+Shima Y, Fujisawa M, Kitagawa M, Nakano T, Kimbara J, Nakamura N, et al.
+Tomato FRUITFULL homologs regulate fruit ripening via ethylene [biosynthesis.
+Biosci Biotechnol Biochem.
+2014;78(2):231–7. https://doi.org/1](https://doi.org/10.1080/09168451.2014.878221)
+[0.1080/09168451.2014.878221.](https://doi.org/10.1080/09168451.2014.878221)  Shima Y, Kitagawa M, Fujisawa M, Nakano T, Kato H, Kimbara J, et al.
+Tomato FRUITFULL homologues act in fruit ripening via forming MADS-box transcription factor complexes with RIN.
+Plant Mol Biol.
+2013;82(4-5):427–38.
+[https://doi.org/10.1007/s11103-013-0071-y.](https://doi.org/10.1007/s11103-013-0071-y) Shinozaki Y, Nicolas P, Fernandez-Pozo N, Ma Q, Evanich DJ, Shi Y, et al.
+Highresolution spatiotemporal transcriptome mapping of tomato fruit [development and ripening.
+Nat Commun.
+2018;9(1):364.
+https://doi.org/10.1](https://doi.org/10.1038/s41467-017-02782-9)
+[038/s41467-017-02782-9.](https://doi.org/10.1038/s41467-017-02782-9)  Shoemaker BA, Panchenko AR.
+Deciphering protein-protein interactions.
+Part I. Experimental techniques and databases.
+PLoS
+Comput Biol.
+2007;3(3):e42.
+[https://doi.org/10.1371/journal.pcbi.0030042.](https://doi.org/10.1371/journal.pcbi.0030042) Simkin AJ, Schwartz SH, Auldridge M, Taylor MG, Klee HJ.
+The tomato carotenoid cleavage dioxygenase 1 genes contribute to the formation of the flavor volatiles beta-ionone, pseudoionone, and geranylacetone.
+Plant J. 2004;40(6): [882–92.
+https://doi.org/10.1111/j.1365-313X.2004.02263.x.](https://doi.org/10.1111/j.1365-313X.2004.02263.x) Smith CJ, Watson CF, Morris PC, Bird CR, Seymour GB, Gray JE, et al.
+Inheritance and effect on ripening of antisense polygalacturonase genes in transgenic [tomatoes.
+Plant Mol Biol.
+1990;14(3):369–79.
+https://doi.org/10.1007/BF0002](https://doi.org/10.1007/BF00028773)
+[8773.](https://doi.org/10.1007/BF00028773)  Smith DL, Abbott JA, Gross KC.
+Down-regulation of tomato beta-galactosidase 4 results in decreased fruit softening.
+Plant Physiol.
+2002;129(4):1755–62.
+[https://doi.org/10.1104/pp.011025.](https://doi.org/10.1104/pp.011025) Stigliani AL, Giorio G, D'Ambrosio C. Characterization of P450 Carotenoid β- and ε-Hydroxylases of Tomato and Transcriptional Regulation of Xanthophyll  – Biosynthesis in Root, Leaf.
+Petal and Fruit Plant Cell Physiol.
+2011;52(5):851
+[65. https://doi.org/10.1093/pcp/pcr037.](https://doi.org/10.1093/pcp/pcr037) Sung S, He Y, Eshoo TW, Tamada Y, Johnson L, Nakahigashi K, et al.
+Epigenetic maintenance of the vernalized state in Arabidopsis thaliana requires LIKE [HETEROCHROMATIN PROTEIN 1.
+Nat Genet.
+2006;38(6):706–10. https://doi.](https://doi.org/10.1038/ng1795)
+[org/10.1038/ng1795.](https://doi.org/10.1038/ng1795)
+Szymanski J, Bocobza S, Panda S, Sonawane P, Cardenas PD, Lashbrooke J, et al.
+Analysis of wild tomato introgression lines elucidates the genetic basis of transcriptome and metabolome variation underlying fruit traits and [pathogen response.
+Nat Genet.
+2020;52(10):1111–21.
+https://doi.org/10.1038/](https://doi.org/10.1038/s41588-020-0690-6)
+[s41588-020-0690-6.](https://doi.org/10.1038/s41588-020-0690-6)  Tang X, Miao M, Niu X, Zhang D, Cao X, Jin X, et al.
+Ubiquitin-conjugated degradation of golden 2-like transcription factor is mediated by CUL4-DDB1based E3 ligase complex in tomato.
+New Phytol.
+2016;209(3):1028–39.
+[https://doi.org/10.1111/nph.13635.](https://doi.org/10.1111/nph.13635) Tateishi A, Kamiyoshihara Y, Matsuno J, Miyohashi F, Shiba H, Kanayama Y, et al.
+Heterologous expression of tomato glycoside hydrolase family 3 alpha-Larabinofuranosidase/beta-xylosidases in tobacco suspension cultured cells and synergic action of a family 51 isozyme under antisense suppression of the [enzyme.
+Physiol Plant.
+2014;150(2):238–51. https://doi.org/10.1111/ppl.12079.](https://doi.org/10.1111/ppl.12079)
+Tauzin AS, Sulzenbacher G, Lafond M, Desseaux V, Reca IB, Perrier J, et al.
+Functional characterization of a vacuolar invertase from Solanum  lycopersicum: post-translational regulation by N-glycosylation and a [proteinaceous inhibitor.
+Biochimie.
+2014;101:39–49.
+https://doi.org/10.1016/j.](https://doi.org/10.1016/j.biochi.2013.12.013)
+[biochi.2013.12.013.](https://doi.org/10.1016/j.biochi.2013.12.013)
+The Tomato Genome Sequencing Consortium.
+The tomato genome sequence provides insights into fleshy fruit evolution.
+Nature.
+2012;485(7400):635–41.
+[https://doi.org/10.1038/nature11119.](https://doi.org/10.1038/nature11119) Tieman D, Taylor M, Schauer N, Fernie AR, Hanson AD, Klee HJ.
+Tomato aromatic amino acid decarboxylases participate in synthesis of the flavor volatiles 2phenylethanol and 2-phenylacetaldehyde.
+Proc Natl Acad Sci U S A. 2006; [103(21):8287–92. https://doi.org/10.1073/pnas.0602469103.](https://doi.org/10.1073/pnas.0602469103) Tieman D, Zeigler M, Schmelz E, Taylor MG, Rushing S, Jones JB, et al.
+Functional analysis of a tomato salicylic acid methyl transferase and its role in synthesis [of the flavor volatile methyl salicylate.
+Plant J. 2010;62(1):113–23.
+https://doi.](https://doi.org/10.1111/j.1365-313X.2010.04128.x)
+[org/10.1111/j.1365-313X.2010.04128.x.](https://doi.org/10.1111/j.1365-313X.2010.04128.x)
+Tikunov YM, de Vos RC, Gonzalez Paramas AM, Hall RD, Bovy AG.
+A role for differential glycoconjugation in the emission of phenylpropanoid volatiles from tomato fruit discovered using a metabolic data fusion approach.
+Plant [Physiol. 2010;152(1):55–70. https://doi.org/10.1104/pp.109.146670.](https://doi.org/10.1104/pp.109.146670)
+Tikunov YM, Roohanitaziani R, Meijer-Dekens F, Molthoff J, Paulo J, Finkers R, et al.
+The genetic and functional analysis of flavor in commercial tomato: the FLORAL4 gene underlies a QTL for floral aroma volatiles in tomato fruit.
+Plant [J. 2020;103(3):1189–204.
+https://doi.org/10.1111/tpj.14795.](https://doi.org/10.1111/tpj.14795) Tohge T, Alseekh S, Fernie AR.
+On the regulation and function of secondary metabolism during fruit development and ripening.
+J Exp Bot.
+2014;65(16):
+[4599–611.
+https://doi.org/10.1093/jxb/ert443.](https://doi.org/10.1093/jxb/ert443) Tohge T, de Souza LP, Fernie AR.
+Current understanding of the pathways of  – flavonoid biosynthesis in model and crop plants.
+J Exp Bot.
+2017;68(15):4013
+[28. https://doi.org/10.1093/jxb/erx177.](https://doi.org/10.1093/jxb/erx177) Tohge T, Scossa F, Wendenburg R, Frasse P, Balbo I, Watanabe M, et al.
+Exploiting Natural Variation in Tomato to Define Pathway Structure and Metabolic Regulation of Fruit Polyphenolics in the Lycopersicum Complex.
+Mol Plant.
+[2020;13(7):1027–46.
+https://doi.org/10.1016/j.molp.2020.04.004.](https://doi.org/10.1016/j.molp.2020.04.004) Tohge T, Zhang Y, Peterek S, Matros A, Rallapalli G, Tandron YA, et al.
+Ectopic expression of snapdragon transcription factors facilitates the identification of genes encoding enzymes of anthocyanin decoration in tomato.
+Plant J. 2015; [83(4):686–704. https://doi.org/10.1111/tpj.12920.](https://doi.org/10.1111/tpj.12920) Vogel JT, Tieman DM, Sims CA, Odabasi AZ, Clark DG, Klee HJ.
+Carotenoid content impacts flavor acceptability in tomato (Solanum lycopersicum).
+J Sci [Food Agric.
+2010;90(13):2233–40. https://doi.org/10.1002/jsfa.4076.](https://doi.org/10.1002/jsfa.4076)
+Vrebalov J, Pan IL, Arroyo AJM, McQuinn R, Chung M, Poole M, et al.
+Fleshy Fruit Expansion and Ripening Are Regulated by the Tomato SHATTERPROOF Gene [TAGL1.
+Plant Cell. 2009;21(10):3041–62.
+https://doi.org/10.1105/tpc.109.06693](https://doi.org/10.1105/tpc.109.066936)
+[6.](https://doi.org/10.1105/tpc.109.066936)  Vrebalov J, Ruezinsky D, Padmanabhan V, White R, Medrano D, Drake R, et al.
+A MADS-box gene necessary for fruit ripening at the tomato ripening-inhibitor [(rin) locus.
+Science.
+2002;296(5566):343–6. https://doi.org/10.1126/science.1](https://doi.org/10.1126/science.1068181)
+[068181.](https://doi.org/10.1126/science.1068181)
+Wang P, Wang Y, Wang W, Chen T, Tian S, Qin G. Ubiquitination of phytoene synthase 1 precursor modulates carotenoid biosynthesis in tomato.
+Commun
+[Biol. 2020;3(1):730.
+https://doi.org/10.1038/s42003-020-01474-3.](https://doi.org/10.1038/s42003-020-01474-3)
+Wang PW, Li XJ, Wang YY, Wang WH, Tian SP, Qin GZ.
+Redox proteomic analysis reveals the involvement of oxidative post-translational modification in [tomato fruit ripening.
+Postharvest Biol Tec. 2021;178:111556. https://doi.org/1](https://doi.org/10.1016/j.postharvbio.2021.111556)
+[0.1016/j.postharvbio.2021.111556.](https://doi.org/10.1016/j.postharvbio.2021.111556) Weise A, Barker L, Kuhn C, Lalonde S, Buschmann H, Frommer WB, et al.
+A new subfamily of sucrose transporters, SUT4, with low affinity/high capacity localized in enucleate sieve elements of plants.
+Plant Cell. 2000;12(8):1345–55.
+[https://doi.org/10.1105/tpc.12.8.1345.](https://doi.org/10.1105/tpc.12.8.1345) Wen B, Strom A, Tasker A, West G, Tucker GA.
+Effect of silencing the two major tomato fruit pectin methylesterase isoforms on cell wall pectin metabolism.
+[Plant Biol (Stuttg).
+2013;15(6):1025–32.
+https://doi.org/10.1111/j.1438-8677.2](https://doi.org/10.1111/j.1438-8677.2012.00714.x)
+[012.00714.x.](https://doi.org/10.1111/j.1438-8677.2012.00714.x)  Wen B, Zhang F, Wu X, Li H. Characterization of the Tomato (Solanum lycopersicum)
+Pectin Methylesterases: Evolution.
+Activity of Isoforms and [Expression During Fruit Ripening Front Plant Sci. 2020;11:238.
+https://doi.](https://doi.org/10.3389/fpls.2020.00238)
+[org/10.3389/fpls.2020.00238.](https://doi.org/10.3389/fpls.2020.00238)
+Whitney SE, Gidley MJ, McQueen-Mason SJ.
+Probing expansin action using [cellulose/hemicellulose composites.
+Plant J. 2000;22(4):327–34.
+https://doi.](https://doi.org/10.1046/j.1365-313x.2000.00742.x)
+[org/10.1046/j.1365-313x.2000.00742.x.](https://doi.org/10.1046/j.1365-313x.2000.00742.x)
+Wu M, Xu X, Hu X, Liu Y, Cao H, Chan H, et al.
+SlMYB72 Regulates the Metabolism of Chlorophylls, Carotenoids, and Flavonoids in Tomato Fruit.
+[Plant Physiol.
+2020;183(3):854–68.
+https://doi.org/10.1104/pp.20.00156.](https://doi.org/10.1104/pp.20.00156)
+Xiong C, Xie Q, Yang Q, Sun P, Gao S, Li H, et al. WOOLLY, interacting with MYB transcription factor MYB31, regulates cuticular wax biosynthesis by [modulating CER6 expression in tomato.
+Plant J. 2020;103(1):323–37.
+https://](https://doi.org/10.1111/tpj.14733)
+[doi.org/10.1111/tpj.14733.](https://doi.org/10.1111/tpj.14733) Yan F, Gao Y, Pang X, Xu X, Zhu N, Chan H, et al. BEL1-LIKE HOMEODOMAIN4 regulates chlorophyll accumulation, chloroplast development, and cell wall
+[metabolism in tomato fruit.
+J Exp Bot.
+2020a;71(18):5549–61.
+https://doi.org/1](https://doi.org/10.1093/jxb/eraa272)
+[0.1093/jxb/eraa272.](https://doi.org/10.1093/jxb/eraa272)
+Yan S, Chen N, Huang Z, Li D, Zhi J, Yu B, et al.
+Anthocyanin Fruit encodes an R2R3-MYB transcription factor, SlAN2-like, activating the transcription of SlMYBATV to fine-tune anthocyanin content in tomato fruit.
+New Phytol.
+[2020b;225(5):2048–63. https://doi.org/10.1111/nph.16272.](https://doi.org/10.1111/nph.16272) Yang L, Huang W, Xiong F, Xian Z, Su D, Ren M, et al.
+Silencing of SlPL, which encodes a pectate lyase in tomato, confers enhanced fruit firmness, prolonged shelf-life and reduced susceptibility to grey mould.
+Plant
+[Biotechnol J. 2017;15(12):1544–55.
+https://doi.org/10.1111/pbi.12737.](https://doi.org/10.1111/pbi.12737)
+Zhu et al.
+Molecular Horticulture       (2022) 2:2 Page 19 of 19   Yang M, Zhu S, Jiao B, Duan M, Meng Q, Ma N, et al. SlSGRL, a tomato SGR-like protein, promotes chlorophyll degradation downstream of the ABA signaling [pathway.
+Plant Physiol Biochem.
+2020;157:316–27. https://doi.org/10.1016/j.](https://doi.org/10.1016/j.plaphy.2020.10.028)
+[plaphy.2020.10.028.](https://doi.org/10.1016/j.plaphy.2020.10.028)
+Ye J, Wang X, Hu T, Zhang F, Wang B, Li C, et al.
+An InDel in the Promoter of AlACTIVATED MALATE TRANSPORTER9 Selected during Tomato Domestication Determines Fruit Malate Contents and Aluminum Tolerance.
+Plant Cell. 2017; [29(9):2249–68. https://doi.org/10.1105/tpc.17.00211.](https://doi.org/10.1105/tpc.17.00211) Yin W, Hu Z, Cui B, Guo X, Hu J, Zhu Z, et al.
+Suppression of the MADS-box gene SlMBP8 accelerates fruit ripening of tomato (Solanum lycopersicum).
+Plant [Physiol Biochem.
+2017;118:235–44. https://doi.org/10.1016/j.plaphy.2017.06.01](https://doi.org/10.1016/j.plaphy.2017.06.019)
+[9.](https://doi.org/10.1016/j.plaphy.2017.06.019)  Yin W, Yu X, Chen G, Tang B, Wang Y, Liao C, et al.
+Suppression of SlMBP15 Inhibits Plant Vegetative Growth and Delays Fruit Ripening in Tomato.
+Front
+[Plant Sci.
+2018;9(938):938.
+https://doi.org/10.3389/fpls.2018.00938.](https://doi.org/10.3389/fpls.2018.00938)
+Ying S, Su M, Wu Y, Zhou L, Fu R, Li Y, et al.
+Trichome regulator SlMIXTA-like directly manipulates primary metabolism in tomato fruit.
+Plant Biotechnol J. [2020;18(2):354–63.
+https://doi.org/10.1111/pbi.13202.](https://doi.org/10.1111/pbi.13202) Yuan Y, Mei L, Wu M, Wei W, Shan W, Gong Z, et al. SlARF10, an auxin response factor, is involved in chlorophyll and sugar accumulation during tomato fruit [development.
+J Exp Bot.
+2018;69(22):5507–18.
+https://doi.org/10.1093/jxb/ery328.](https://doi.org/10.1093/jxb/ery328)
+Yuan Y, Xu X, Gong Z, Tang Y, Wu M, Yan F, et al.
+Auxin response factor 6A regulates photosynthesis, sugar accumulation, and fruit development in [tomato.
+Hortic Res.
+2019;6(1):85. https://doi.org/10.1038/s41438-019-0167-x.](https://doi.org/10.1038/s41438-019-0167-x) Zanor MI, Osorio S, Nunes-Nesi A, Carrari F, Lohse M, Usadel B, et al.
+RNA interference of LIN5 in tomato confirms its role in controlling Brix content, uncovers the influence of sugars on the levels of fruit hormones, and demonstrates the importance of sucrose cleavage for normal fruit [development and fertility.
+Plant Physiol.
+2009;150(3):1204–18. https://doi.](https://doi.org/10.1104/pp.109.136598)
+[org/10.1104/pp.109.136598.](https://doi.org/10.1104/pp.109.136598) Zhang J, Hu Z, Yao Q, Guo X, Nguyen V, Li F, et al.
+A tomato MADS-box protein, SlCMB1, regulates ethylene biosynthesis and carotenoid accumulation during fruit [ripening.
+Sci Rep. 2018a;8(1):3413.
+https://doi.org/10.1038/s41598-018-21672-8.](https://doi.org/10.1038/s41598-018-21672-8)
+Zhang L, Zhu M, Ren L, Li A, Chen G, Hu Z.
+The SlFSR gene controls fruit shelf-life [in tomato.
+J Exp Bot.
+2018b;69(12):2897–909.
+https://doi.org/10.1093/jxb/](https://doi.org/10.1093/jxb/ery116)
+[ery116.](https://doi.org/10.1093/jxb/ery116) Zhang X, Tang H, Du H, Liu Z, Bao Z, Shi Q. Comparative N-glycoproteome analysis provides novel insights into the regulation mechanism in tomato (Solanum lycopersicum L.)
+During fruit ripening process.
+Plant Sci. 2020;293: [110413. https://doi.org/10.1016/j.plantsci.2020.110413.](https://doi.org/10.1016/j.plantsci.2020.110413)
+Zhao X, Yuan X, Chen S, Fu DQ, Jiang CZ.
+Metabolomic and Transcriptomic Analyses Reveal That a MADS-Box Transcription Factor TDR4 Regulates
+[Tomato Fruit Quality.
+Front Plant Sci.
+2019;10(792):792. https://doi.org/10.33](https://doi.org/10.3389/fpls.2019.00792)
+[89/fpls.2019.00792.](https://doi.org/10.3389/fpls.2019.00792)
+Zhi J, Liu X, Li D, Huang Y, Yan S, Cao B, et al. CRISPR/Cas9-mediated SlAN2 mutants reveal various regulatory models of anthocyanin biosynthesis in [tomato plant.
+Plant Cell Rep. 2020;39(6):799–809.
+https://doi.org/10.1007/s002](https://doi.org/10.1007/s00299-020-02531-1)
+[99-020-02531-1.](https://doi.org/10.1007/s00299-020-02531-1)  Zhong S, Fei Z, Chen YR, Zheng Y, Huang M, Vrebalov J, et al.
+Single-base resolution methylomes of tomato fruit development reveal epigenome modifications associated with ripening.
+Nat Biotechnol.
+2013;31(2):154–9.
+[https://doi.org/10.1038/nbt.2462.](https://doi.org/10.1038/nbt.2462) Zhou F, Pichersky E.
+The complete functional characterisation of the terpene [synthase family in tomato.
+New Phytol.
+2020;226(5):1341–60. https://doi.org/1](https://doi.org/10.1111/nph.16431)
+[0.1111/nph.16431.](https://doi.org/10.1111/nph.16431) Zhu G, Wang S, Huang Z, Zhang S, Liao Q, Zhang C, et al.
+Rewiring of the Fruit
+[Metabolome in Tomato Breeding.
+Cell.
+2018;172(1-2):249–61 e212.
+https://](https://doi.org/10.1016/j.cell.2017.12.019)
+[doi.org/10.1016/j.cell.2017.12.019.](https://doi.org/10.1016/j.cell.2017.12.019) Zhu M, Chen G, Zhou S, Tu Y, Wang Y, Dong T, et al.
+A new tomato NAC (NAM/ ATAF1/2/CUC2) transcription factor, SlNAC4, functions as a positive regulator of fruit ripening and carotenoid accumulation.
+Plant Cell Physiol.
+2014;55(1): [119–35.
+https://doi.org/10.1093/pcp/pct162.](https://doi.org/10.1093/pcp/pct162) Zhu Z, Chen G, Guo X, Yin W, Yu X, Hu J, et al. Overexpression of SlPRE2, an atypical bHLH transcription factor, affects plant morphology and fruit
+[pigment accumulation in tomato.
+Sci Rep. 2017;7(1):5786. https://doi.org/10.1](https://doi.org/10.1038/s41598-017-04092-y)
+[038/s41598-017-04092-y.](https://doi.org/10.1038/s41598-017-04092-y)   Publisher’s Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.

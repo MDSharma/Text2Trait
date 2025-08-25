@@ -1,0 +1,556 @@
+# b r i e f
+c o m m u
+n i c at i o n s   ## Genetic improvement of tomato by targeted control of fruit softening  **Selman Uluisik** **
+[1]** **, Natalie H Chapman** **
+[1]** **,** **Rebecca Smith
+** **
+[1,10]** **, Mervin Poole** **
+[2]** **, Gary Adams** **
+[1,3]** **,** **Richard B Gillis** **[1,3]** **, Tabot M D Besong** **
+[1,10]** **,** **Judith Sheldon** **
+[4]** **, Suzy Stiegelmeyer** **
+[5,10]** **, Laura Perez
+** **
+[6]** **,**
+**Nurul Samsulrizal** **
+[1]** **, Duoduo Wang** **
+[1]** **, Ian D Fisk** **
+[1]** **,**
+**Ni Yang
+** **
+[1]** **, Charles Baxter** **
+[4]** **, Daniel Rickett** **
+[4]** **,**
+**Rupert Fray** **
+[1]** **, Barbara Blanco-Ulate** **
+[7]** **,
+Ann L T Powell** **
+[7]** **,** **Stephen E Harding** **
+[1]** **, Jim Craigon
+** **
+[1]** **, Jocelyn K C Rose** **
+[8]** **,** **Eric A Fich** **
+[8]** **, Li Sun
+** **
+[9]** **, David S Domozych** **
+[9]** **,** **Paul D Fraser** **
+[6]** **, Gregory A Tucker** **[1]** **, Don Grierson
+** **
+[1]** **&** **Graham B Seymour** **
+[1]**   **Controlling the rate of softening to extend shelf life was** **a key target for researchers engineering genetically** **modified (GM) tomatoes in the 1990s, but only modest** **improvements were achieved.
+Hybrids grown nowadays** **contain ‘non-ripening mutations’ that slow ripening and** **improve shelf life, but adversely affect flavor and color.
+** **We report substantial, targeted control of tomato softening,** **without affecting other aspects of ripening, by silencing** **a gene encoding a pectate lyase.
+**   Tomato ( _Solanum lycopersicum_ ) is the fourth most important com­ mercial crop in the world in terms of global net production value, estimated at more than $50 billion [1] .
+Tomatoes form an important part of the human diet, as they are a source of minerals, vitamins and phytochemicals.
+Tomato breeders use the _ripening inhibitor_ ( _rin_ ) mutation
+[2,3] to confer the long shelf life that is vital for the supply chain.
+Hybrids haboring _rin_ produce firm fruits that ripen slowly [4], but they often have poor flavor, fail to develop full color and have reduced nutritional value.
+Targeted control over ripening-related texture changes would ideally deliver all of the benefits of long shelf life, improved transportability and disease resistance, without nega­ tive consequences for color, aroma and taste.
+We report that a tomato pectate lyase ( _PL_ ) gene is crucial for fruit softening and that silenc­ ing this _PL_ alters texture without affecting other aspects of ripening.
+These findings provide insights into the mechanisms of cell wall remodeling in tomato.
+Softening in tomato fruit involves disassembly of polysacchariderich cell walls, a reduction in cell-to-cell adhesion and changes in cuticle properties that affect water loss [5,6] .
+The precise mechanism of softening, and the importance of each factor, has been the subject of decades of research, but has remained elusive.
+Sequencing the tomato genome revealed more than 50 structural genes encoding known, or putative, cell-wall-modifying proteins that are expressed in developing and ripening fruits [7] .
+Of these, polygalacturonase (PG), pectin methyl esterase, β-galactanase and expansin were highly expressed during the ripening process, and all have been investigated as candidates for promoting changes in texture.
+However, silencing their expression in transgenic tomato lines has yielded very small or no detectable changes in fruit softening [8–15] .
+Silencing of a strawberry gene encoding a PL, using an antisense approach, was shown to reduce fruit softening [16] .
+However, the role of PL in tomato has never been investigated in any detail, probably because early attempts to detect PL enzyme activity were unsuc­ cessful [17] .
+Using RT-qPCR we found five _PL_ genes that are expressed in Ailsa Craig tomato fruits, but only one allele (Solyc03g111690) that was expressed at a high level during ripening ( **Supplementary** **Fig. 1** ).
+Transgenic tomato (cv Ailsa Craig) lines containing a 35SøRNAi construct targeting this _PL_ gene were generated.
+_
+PL_ øRNAi fruits had reduced _PL_ expression ( **Fig.
+1a** ), enzyme activity, ( **Fig.
+1b
+** ) and significantly (F test; _
+P_ < 0.001) increased fruit firmness compared with the control azygous wild-type line ( **Fig.
+1c,d** and **Supplementary** **Fig. 2** ).
+These fruits also retained their integrity following storage for 14 d at 20 °C, indicating potential for improved shelf life ( **Fig.
+1e** ).
+The increase in fruit firmness in the _PL_ øRNAi lines was substantial  when compared with the effects on texture found when other tomato cell wall remodeling genes, including _PG_, have been downregulated [10–15] ( **Supplementary Fig. 3** ).
+Silencing _PL_ resulted in changes in fruit firmness with no obvi­ ous effects on either yield or weight, ethylene biosynthesis, color or total soluble solids compared to the controls (F test; _P_ - 0.05)
+( **Supplementary Fig.
+4** ).
+No significant changes were found in silenced fruits for measurements of metabolites that influence fruit  color, taste or aroma compared with the azygous wild-type control ( **Supplementary Table 1**, **Supplementary Figs.
+2** and **5** ).
+The expres­ sion of fewer than 120 of ~15,500 genes were altered in transcriptomes of the _PL_ øRNAi fruits in the orange and red ripe stages compared with the azygous control ( **Supplementary Tables 2–7** and **Supplementary** **Fig. 6** ).
+In addition to reduction in _PL_ expression, _PROTODERMAL_    1 School of Biosciences, University of Nottingham, Sutton Bonington Campus, Loughborough, UK. 2 Heygates Ltd, Bugbrooke Mills, Bugbrooke, UK.
+3 School of Health Sciences, The University of Nottingham, Queen’s Medical Centre, Nottingham, UK.
+[4] Syngenta Seeds, Jealott’s Hill International Research Station, Bracknell, UK.
+[5] Syngenta Crop Protection, Research Triangle Park, North Carolina, USA.
+[6] School of Biological Sciences, Royal Holloway University of London, Egham Hill, UK.
+[7] Plant Sciences Department, University of California, Davis, California, USA.
+[8] Plant Biology Section, School of Integrative Plant Science, Cornell University, Ithaca, New York, USA.
+[9] Department of Biology and Skidmore Microscopy Imaging Center, Skidmore College, Saratoga Springs, New York, USA.
+10 Present addresses: Valley Produce, Springalls Farm, Reading, UK (R.S.); Physical Sciences and Engineering Division, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia (T.M.D.B.); Q
+[2] Solutions, EA Genomics, Morrisville, North Carolina, USA (S.S.).
+Correspondence should be adddressed to G.B.S. (graham.seymour@nottingham.ac.uk).
+[Received 9 November 2015; accepted 11 May 2016; published online 25 July 2016; corrected after print 14 September 2016; doi:10.1038/nbt.3602](http://dx.doi.org/10.1038/nbt.3602)   **950** VOLUME 34 NUMBER 9 SEPTEMBER 2016 **nature biotechnology**   b r i e f c o m m u
+n i c at i o n s    **a** 3.0 0.02 PL **b**    0.35   0.3   0.25   0.2   0.15   0.1   0.05    **c**   **d**    120   100   80   60   40   20   0   180   160   140   120   100   80   60   40   20   0    PL    **a** WT _PL_ ::RNAi    3.0      0.02      2.5   2.0   1.5   1.0   0.5        0 0  MG BR BR4 BR7 WT    0    MG BR BR4 BR7    PL    Ripening stage    3.5   3   2.5   2   1.5   1   0.5   0    **c**    4   3.5   3   2.5   2   1.5   1   0.5   0   |40 µm 35 µm<br>17 µm 11 µm|Col2| |---|---| |||    MG BR BR4 BR7    **d**            COS
+[488]   Calcofluor   Merge   **b**    MG BR BR4 BR7    Ripening stage (outer pericarp)
+Ripening stage (inner pericarp)   **e**        **Figure 1** Silencing pectate lyase (PL) inhibits tomato fruit softening and could increase shelf life.
+( **a** )
+Levels of _PL_ mRNA in control azygous Ailsa Craig (WT) and transgenic _PL_ øRNAi fruit at mature green (MG), breaker (BR), breaker + 4 d (BR4) and breaker + 7 d (BR7).
+_
+PL_ transcript levels in the RNAi line are plotted on a different scale from WT.
+( **b** )
+PL enzyme activity from cell wall BR7 extracts in WT and _PL_ øRNAi shown as the difference in OD at 232 nm.
+( **c**, **d** )
+Outer ( **c** ) and inner ( **d** ) pericarp fruit firmness as determined by maximum load measurements at various stages of ripening in azygous wild-type control (WT, orange bars) and _PL_ øRNAi
+(green bars) fruits.
+For **a** and **b**, error bars are s.e.m., based on three individual fruits of each genotype (shown as dots).
+For **c**, where there were more fruits ( _n_ = 26 WT-MG, 12 WT-BR, 8 WT-BR4, 11 WT-BR7 and 24 PL-MG, 25 PL-BR, 26 PL-BR4, 23 PL-BR7), dots represent plant means.
+*** _
+P_ < 0.001 (F test), significant differences in pericarp texture.
+N, newton.
+( **e** )
+WT Ailsa Craig and _PL_ øRNAi fruits harvested at BR7 were stored at room temperature for 14 d. Scale bars, 1 cm.
+_FACTOR 2-like_ (Solyc06g035940) and _CER1_ (Solyc03g065250) were upregulated ( **Supplementary Tables 3–6** ).
+Both genes encode pro­ teins likely involved in regulating epidermal and cuticle development, which might influence water loss and fruit shelf life
+[18,19] .
+However, the cuticle waxes of _PL_ øRNAi and control fruits were not significantly different ( **Supplementary Fig. 7** ).
+We examined the cell walls of wild-type and _PL_ øRNAi fruits with light and transmission electron microscopy ( **Fig.
+2** ).
+Using a chitin oli­ gosaccharide probe [20], COS [488], which recognizes pectins with regions    **Figure 2** The mechanism of PL action.
+( **a** )
+Detection of demethylesterified homogalacturonan (white arrows) in pericarp cell walls of azygous (WT) and _PL_ øRNAi BR7 with a chitosan oligosaccharide COS
+[488] pectin probe and calcofluor white for imaging cellulose.
+Panels show separate labeling and merged images, including enlarged view of tricellular junction area.
+( **b** ) TEM images (left) showing parenchyma cells (PC) from the RNAi line with a tricellular junction (TCJ).
+A higher magnification view (right) showing fibrous material (black arrows) within tricellular junction labeled with JIM5.
+( **c**, **d** )
+Levels of water-soluble pectins (measured as uronic acids) extracted from cell wall preparations ( **c** ) and the weight average molecular weight of these pectins ( **d** ) from red ripe BR7 control azygous WT (orange) and _PL_ øRNAi fruits (green).
+Error bars are s.e.m, with measurements based on three individual fruits of each genotype (shown as dots).
+* _
+P_ < 0.05 (two-tailed _t_ -test).
+CWM, cell wall material.
+of de-esterified homogalacturonans (HGs), we observed increased labeling density in the tricellular junction zones of _PL_ øRNAi
+fruit pericarp parenchyma cells compared with the wild type ( **Fig.
+2a** ).
+Linear low-ester HGs are concentrated in these tricellular regions and are also present in the middle lamellae of plant cells [21,22] .
+It is thought that tricellular junction zones are reinforced with these poly­ mers because the biomechanical stresses that drive cell separation are concentrated at the cell corners [21] .
+Our data indicate that tricel­  lular junctions are major sites of PL action.
+Immunogold localization of de-esterified HG using a monoclonal antibody against demeth­ ylesterified homogalacturonan (JIM5) revealed increased density labeling in the cell walls of the _PL_ øRNAi
+lines compared with the wild type ( **Supplementary Fig. 8** ).
+Notably, JIM5 labeled ‘fibrous’ material in the tricellular junction zones of the parenchyma cells of the _PL_ øRNAi fruits ( **Fig.
+2b** ).
+The immunoreactivity of the fibrous material suggests that these fibers might represent aggregates of crosslinked HGs
+[22] .
+_
+PL_ -silenced fruits also had reduced amounts of  water soluble pectins (WSP) ( **Fig.
+2c** ), suggesting that more of the pectins in the transgenic fruit walls were covalently associated with the wall matrix.
+Additionally, the WSP fraction from the _PL_ øRNAi fruit had a significantly ( _t_ -test; _P_ < 0.05) higher average molecular    **nature biotechnology** VOLUME 34 NUMBER 9 SEPTEMBER 2016 **951**   b r i e f c o m m u
+n i c at i o n s   weight (~150 kDa)
+than that from the control (~88 kDa) ( **Fig.
+2d
+** ).
+The molecular weights of the extracted WSP pectins from the _PL_ øRNAi fruit were similar to those previously reported from unripe tomato fruits [10] .
+To summarize, our findings indicate that PL activity breaks down crosslinked HG polymers in both tricellular junctions and the middle lamella, thereby enabling the pectic polysaccharides in the cell wall to be further degraded by enzymes such as polygalac­ turonase
+[10], resulting in rapid fruit softening.
+By texture analysis of a mapping population derived from a tomato wild species introgression line, IL3-4 (ref. 23), we show that the _PL_ targeted in our experiments resides under a major quantitative trait locus (QTL) for firm fruit texture ( **Supplementary Figs.
+9** and **10** ).
+Our findings show, to our knowledge for the first time, that specific control over tomato softening can be achieved without detrimental effects on other aspects of ripening, and provide a strategy for breed­ ing tomatoes with an extended shelf life, while maintaining optimum flavor.
+The _PL_ øRNAi fruits also provide insights into the mechanism of tomato cell-wall remodeling during ripening.
+Taste tests will be needed to discover whether flavor of _PL_ -silenced fruits is affected, but this would best be done using elite lines
+[24] .
+Modulating _PL_ expression using natural variation, TILLING (targeting induced local lesions in genomes) or a genome-editing approach could bring the product to market.
+Indeed, initial experiments with CRISPR–Cas9-induced mutations in PL in transgenic tomato lines confirm the effectiveness of CRISPR-edited alleles to alter firmness without affecting other aspects of ripening ( **Supplementary Fig.
+11** ).
+**Methods**  Methods and any associated references are available in the [online](http://dx.doi.org/10.1038/nbt.3602)
+[version of the paper.](http://dx.doi.org/10.1038/nbt.3602)   **Accession codes.
+**
+RNASeq Fastq files in European Nucleotide Archive: [PRJEB13836.](http://www.ebi.ac.uk/ena/data/view/PRJEB13836)   _
+[Note: Any Supplementary Information and Source Data files are available in the online](http://dx.doi.org/10.1038/nbt.3602)_ _
+[version of the paper.](http://dx.doi.org/10.1038/nbt.3602)_   **Acknowledgments** S.U. was funded by Ministry of Education of the Turkish Republic.
+The work was partly funded by BBSRC and Syngenta Seeds Ltd. through BBSRC ‘stand-alone LINK’ grants to P.D.F. and G.B.S. (BB/J015598/1 and BB/J016071/1).
+As part of the BBSRC grant, Syngenta staff (J.S., S.S., C.B. and D.R.) provided support with generating the transgenic plants, the bioinformatics analysis, the microscopy and writing the paper.
+G.B.S. and P.D.F. acknowledge support from EU project FP6 EUSOL and the European Cooperation in Science and Technology (COST) Action FA1106.
+D.D. was funded by US National Science Foundation grants NSF-MRI    1337280 and NSF-MRI 0922805.
+B.B.-U. and A.L.T.P. were funded by US National Science Foundation grants IOS 0957264 and IOS 0544504.
+J.R. was funded by a grant (IOS-1339287) from the Plant Genome Research Program of the US National Science Foundation.
+We acknowledge Syngenta Crop Protection, Research Triangle Park, North Carolina, USA, M. Franco for cDNA library preparation and J. Ni for RNASeq quality checks, read alignment and gene counting.
+We acknowledge J. Jones, V. Nekrasov and S. Kamoun, T.S.L. and The Gatsby Charitable Foundation for provision of the CRISPR–Cas 9 vectors.
+We also thank M. Bennett and J. Labavitch for useful discussions.
+COS [488] was kindly provided by J. Mravec and W.G.T. Willats of the Department of Plant and Environmental Sciences of the University of Copenhagen.
+**AUTHOR CONTRIBUTIONS**  S.U., N.H.C., R.S., M.P., G.A., R.B.G., T.M.D.B., J.S., S.S., N.S., D.W., L.P., I.D.F., N.Y., B.B.-U., E.A.F., L.S., and D.S.D. performed the experiments and data analysis, and J.C. did the statistical analysis.
+G.B.S. conceived and directed the project and G.B.S., J.C., D.G., C.B., D.R., R.F., A.L.T.P., S.E.H., P.D.F., G.A.T., and J.K.C.R. wrote the manuscript.
+**COMPETING FINANCIAL INTERESTS**
+[The authors declare competing financial interests: details are available in the online](http://dx.doi.org/10.1038/nbt.3602)
+[version of the paper.](http://dx.doi.org/10.1038/nbt.3602)
+[Reprints and permissions information is available online at http://www.nature.com/](http://www.nature.com/reprints/index.html)
+[reprints/index.html.](http://www.nature.com/reprints/index.html)   1.
+Vincent, H. _et al._ _
+Biol.
+Conserv.
+_
+**167**, 265–275 (2013).
+2. Robinson, R.W. & Tomes, M.L. _Genet.
+Coop.
+_
+**18**, 36–37 (1968).
+3. Vrebalov, J. _et al._ _
+Science_ **296**, 343–346 (2002).
+4. Kitagawa, M. _et al._ _Physiol.
+Plant.
+_
+**123**, 331–338 (2005).
+5. Seymour, G.B., Østergaard, L., Chapman, N.H., Knapp, S. & Martin, C. _Annu.
+Rev._  _Plant Biol.
+_
+**64**, 219–241 (2013).
+6. Martin, L.B.B. & Rose, J.K.C. _J. Exp.
+Bot._
+**65**, 4639–4651 (2014).
+7.
+The Tomato Genome Consortium.
+_
+Nature_ **485**, 635–641 (2012).
+8.
+Smith, C.J.S. _et al._ _
+Nature_ **334**, 724–726 (1988).
+9.
+Sheehy, R.E., Kramer, M. & Hiatt, W.R. _Proc.
+Natl.
+Acad.
+Sci.
+USA_ **85**, 8805–8809  (1988).
+10.
+Smith, C.J.S. _et al._ _
+Plant Mol.
+Biol.
+_
+**14**, 369–379 (1990).
+11.
+Tieman, D.M., Harriman, R.W., Ramamohan, G. & Handa, A.K. _Plant Cell_ **4**,  667–679 (1992).
+12.
+Tieman, D.M. & Handa, A.K. _Plant Physiol.
+_
+**106**, 429–436 (1994).
+13.
+Hall, L.N. _et al._ _
+Plant J._ **3**, 121–129 (1993).
+14.
+Smith, D.L., Abbott, J.A. & Gross, K.C. _Plant Physiol._
+**129**, 1755–1762 (2002).
+15.
+Brummell, D.A. _et al._ _
+Plant Cell_ **11**, 2203–2216 (1999).
+16.
+Jiménez-Bermúdez, S. _et al._ _
+Plant Physiol.
+_
+**128**, 751–759 (2002).
+17.
+Besford, R.T. & Hobson, G.E. _Phytochemistry_ **11**, 2201–2205 (1972).
+18.
+Abe, M., Katsumata, H., Komeda, Y. & Takahashi, T. _Development_ **130**, 635–643  (2003).
+19.
+Yeats, T.H. & Rose, J.K.C. _Plant Physiol._
+**163**, 5–20 (2013).
+20.
+Mravec, J. _et al._ _
+Development_ **141**, 4841–4850 (2014).
+21.
+Willats, W.G.T. _et al._ _
+J. Biol.
+Chem.
+_
+**276**, 19404–19413 (2001).
+22.
+Jarvis, M.C., Briggs, S.P.H. & Knox, J.P. _Plant Cell Environ._
+**26**, 977–989  (2003).
+23.
+Eshed, Y. & Zamir, D. _Euphytica_ **79**, 175–179 (1994).
+24.
+Causse, M. _et al._ _
+J. Fd.
+Sci._ **75**, S531–S541 (2010).
+**952** VOLUME 34 NUMBER 9 SEPTEMBER 2016 **nature biotechnology**   **ONLINE METHODS**  **Plant material.
+**
+All tomato lines were grown in the UK under standard glass­ house conditions of 16-h days, day temperature of 20 °C, and night tem­ perature of 18 °C, with supplemental lighting where required.
+At least three plants from each genotype were grown in “Pro C” coarse potting compost (Levington) in 7.5 l pots with irrigation supplemented with Vitax 214 with pot locations randomized throughout the glasshouse.
+Fruit were tagged at the first sign of color (breaker) and harvested for physical, biochemical and molecular evaluation at various days post breaker, for example, breaker + 4 d (orange ripe) and breaker + 7 d (red ripe).
+_
+S. lycopersicum_ cv M82, and the _S. pennellii_ introgression lines (ILs)
+[23] were obtained from the Tomato Genetics Resource [Centre, Davis, USA (http://tgrc.ucdavis.edu/).
+The M82 × IL3-4 F](http://tgrc.ucdavis.edu/) 2 mapping population was generated in the current study.
+_
+S. lycopersicum_ cv Ailsa Craig was used to generate the pectate lyase (PL) RNAi lines.
+Plant material was collected and immediately frozen in liquid nitrogen and stored at −80 °C for the molecular analyses.
+**Generation of transgenic pectate lyase (PL) lines.
+**
+The full-length sequence of _PL_ (Solyc03g111690.2) was obtained from [http://www.solgenomics.net.](http://www.solgenomics.net) The _PL_ gene-specific fragment for RNAi was amplified from breaker fruit cDNA (primers in **Supplementary Table 8** ).
+Gateway cloning (Invitrogen) was used with the plasmid pK7GWIWG2, which has the 35S promoter, as a destination vector.
+Transgenic tomato plants (cv.
+Ailsa Craig) were obtained through the University of California (The Ralph M. Parsons Foundation, Plant Transformation Facility).
+Plantlets were confirmed as harboring the appropriate transgene by PCR.
+Single integration events and homozygous lines were selected by quantitative PCR.
+**Genetic mapping of the fruit texture QTL on IL3-4.*
+*
+A total of 3,000 M82 × IL3-4 F 2 seedlings were screened using a combination of Taqman probes and cleaved amplified polymorphic sequences designed to markers TG599, TG42 and CT243 that delineated and occurred within the IL3-4 introgres­
+[sion (https://solgenomics.net) to allow for the identification of recombinants.](https://solgenomics.net)
+A total of 96 recombinant individuals were identified and these were grown to fruiting, and ten fruits per line were tagged at the breaker stage, harvested after 7 d and assessed for weight, color, texture, and % Brix (soluble sugars).
+The F 3 seeds from the recombinant lines were collected and the progeny screened to identify homozygous quantitative trait loci near isogenic lines (QTL-NILs).
+At least six fruit from each line were phenotyped for texture and color to derive the mapping interval containing the texture QTL; a summary of the key recom­ binants is shown in **Supplementary Figs. 9** and **10** .
+The sites of recombination in these QTL-NILs were defined by molecular markers using information from the tomato genome assembly (2.40V and 2.50V) on the Sol Genomics Network
+[Website (http://www.sgn.cornell.edu/) (](http://www.sgn.cornell.edu/) **Supplementary Table 8** ).
+**Physiochemical analysis.
+** Fruit color was measured using a Minolta Chroma Meter and % Brix by a hand held refractometer.
+For ethylene analysis, fruits were harvested and stored in sealed containers for 1 h. A 1 mL sample of head space was then used for ethylene determination by gas chromatography based on the method of Ward _et al._
+[25] .
+For shelf life determinations, fruits were har­ vested from the different lines at breaker +7 d stage and pooled (6–7 tomatoes) and held at room temperature.
+**Mechanical measurement of fruit texture.
+**
+The mechanical properties of fruit were investigated using probe penetration tests on 6-mm equatorial sections of the outer and inner pericarp.
+This followed the method described in Chapman _et al._
+[26] where a 1.6-mm flat-head cylindrical probe mounted on a 10 N load cell is driven into the tissue at a constant speed and for a specific distance, and the force required is then measured.
+The inner pericarp is defined by us as the cells between the vascular boundary, and the endodermis and the outer pericarp as those below the skin, but before the vascular boundary.
+**Determination of PL enzyme activity.
+**
+For preparation of the acetone insolu­ ble solids (AIS), 20 g of fresh pericarp (breaker + 7 d) was homogenised with cold 80% of acetone.
+The sample was washed with 100% acetone to remove all pigment and the powder left overnight to dry at room temperature.
+Then 40 mg of the AIS was stirred for 30 min in 1.9 mL of 8.5 M Tris-HCL at 20 °C.
+The samples were then centrifuged for 30 min at 14,000 r.p.m., and the absorbance of clear supernatant was measured at 232 nm, for deter­ mination of the level of reaction products with double bonds released as a result of PL activity [27,28] .
+**DNA and RNA extraction.
+** DNA was extracted from leaf material using the DNAeasy Plant Mini Kit (Qiagen) according to the manufacturer’s instruc­ tions.
+For RNA extraction the RNeasy Plant Mini Kit (Qiagen) was used for samples up to breaker + 4 d and the RiboPure RNA Purification Kit (Life Technologies) was used for red ripe fruits.
+RNA was treated with RNase-free DNase (Qiagen) according to the manufacturer’s instructions.
+The concen­ tration of RNA was determined using an Agilent Bioanalyser 2100 (Agilent Technologies).
+First-strand complementary DNA (cDNA) was synthesized from 0.5 µg of total RNA using 0.5 µg of random hexamers (Promega) in a 15-µL volume and incubated at 70 °C for 5 min, followed by the addi­ tion of 0.5 mm deoxyribonucleotide triphosphates (Promega), 25 units of RNase inhibitor (Promega), 5 µL of Moloney Murine Leukemia Virus reverse transcriptase (MMLV) buffer X5 (Promega), 1 µL of MMLV reverse tran­ scriptase (Promega), and made up to 25 µL with distilled water.
+The mixture was incubated at 25 °C for 10 min, followed by 42 °C for 1 h.  RT qPCR was used to determine expression levels of PL.
+Three fruits at each stage of ripeness from each line were taken at the different developmental stages.
+Primers and dual-labeled fluorescent probes (5′FAM and 3′TAMRA)
+[were designed using Primer3 (http://bioinfo.ut.ee/primer3-0.4.0/).
+The PCR](http://bioinfo.ut.ee/primer3-0.4.0/) reaction contained a 5-mL cDNA pool, 7.5 µL of 2X LightCycler480 Probe Master (Roche Applied Science), 10 mM forward primer, 10 mM reverse primer, and 10 mM probe in a final volume of 15 µL. Elongation factor gene primers were included in each reaction as an internal standard.
+Standard curves for each gene were run concurrently.
+TaqMan quantitative RT-PCR was run on a LightCycler480 System (Roche Applied Science); PCR conditions consisted of an initial denaturation step at 95 °C for 10 min, followed by 45 cycles of 95 °C for 10 s, 60 °C for 50 s, 72 °C for 1 s, and a final cooling step of 40 °C for 10 min.
+Standard curves were used to calculate relative mRNA concentrations from  crossing point values using absolute quantification with LightCycler480 soft­ ware release 1.5 (Roche Applied Science) and normalized to the reference gene EF ( **Supplementary Table 8** ).
+**RNASeq analysis.
+** RNA was prepared as described above.
+The resulting cDNA was cleaned using Ampure XP magnetic beads.
+It was fragmented to about 400 bp using a Covaris S2 instrument and ligated to adapters using an Apollo 324 instrument and PrepX ILM DNA Library Kit.
+PCR amplification was per­ formed using KAPA HiFi HotStart ReadyMix (2X).
+Six samples were pooled per lane and sequenced using an Illumina HiSeq to generate 100-nucleotide single-end sequence reads.
+After quality assessment by FastQC [29], untrimmed reads were aligned to the ITAG 2.3 tomato reference genome using Tophat version 2.0.12 (ref. 30) with Bowtie2 version 2.2.3 (ref. 31), i.e., tophat –N 6 –g 6 –no-novel-juncs.
+On average, 92% of the reads aligned per sample.
+Reads aligned to annotated regions were counted using an in-house gene-counting algorithm.
+Gene counts were then normalized using the R Bioconductor package EDASeq version 2.0.0 normalizing between lanes [32] .
+Differentially expressed genes were determined by the R Bioconductor package edgeR version 3.8.4 (ref. 33).
+To control the family-wise error rate, _P_ values were adjusted for multiple comparisons using the Benjamini-Hochberg method producing an adjusted _P_ -value or false-discovery rate (FDR).
+An FDR < 0.05 was considered statistically significant.
+Genes were considered to be dif­ ferentially expressed if they had an FDR < 0.05 and a log 2 fold-change greater than 1 or less than −1 (fold change of 2).
+The gene ontology (GO) term enrichment process used GO terms extracted [from the Gramene BioMart, http://ensembl.gramene.org/biomart/martview, as](http://ensembl.gramene.org/biomart/martview) of November 7, 2014.
+The R Bioconductor package goseq version 1.18.0 (ref. 34) was used to perform GO enrichment analysis on differentially expressed genes from the downloaded terms correcting for gene length bias.
+RNASeq Fastq files deposited in European Nucleotide Archive accession number PRJEB13836
+[(http://www.ebi.ac.uk/ena/data/view/PRJEB13836).](http://www.ebi.ac.uk/ena/data/view/PRJEB13836)    doi:10.1038/nbt.3602 **nature biotechnology**   **Metabolite analysis.
+**
+Extraction and analysis of carotenoids.
+Carotenoids and tocopherols were extracted from freeze-dried fruit.
+Extractions were made from sample powder (10 mg) in 1.5 mL centrifuge tubes.
+Metabolites were extracted by the addition of chloroform and methanol (2:1).
+Samples were stored for 20 min on ice.
+Subsequently, water (1 vol.) was added.
+Samples were centrifuged for 5 min at top speed in a Heraeus Pico21 centrifuge (Thermo Scientific).
+The organic phase, containing the pigment extract, was placed in a fresh centrifuge tube and the aqueous phase re-extracted with chloroform (× 2 by volume).
+Organic phases were pooled and dried using the Genevac EZ.
+Dried samples were stored at −20 °C and dissolved in ethyl acetate before chromatographic analysis.
+Carotenoids were separated and identified by Ultra High Performance Liquid Chromatography with photo diode array detection (UPLC-PDA).
+An Acquity UPLC (Waters) was used with a BEH C18 column (2.1 × 100 mm, 1.7 µm) with a BEH C18 VanGuard pre-column (2.1 × 50 mm, 1.7 µm).
+The mobile phase used was A: MeOH/H2O (50/50) and B: ACN (acetonitrile)/ethyl acetate (75:25).
+All solvents used were HPLC grade and filtered before use through a 0.2-µm filter.
+The gradient was 30% A: 70% B for 0.5 min and then stepped to 0.1% A:99.9% B for 5.5 min and then to 30% A:70% B for the last 2 min. Column temperature was maintained at 30 °C and the temperature samples at 8 °C.
+Online scanning across the UV/Vis range was performed in a continuous manner from 250 to 600 nm, using an extended-wavelength PDA (Waters).
+Carotenoids were quantified from dose-response curves.
+The HPLC separation, detection and quantification of carotenoids, tocopherols and chlorophylls have been described in detail previously [35] .
+**Extraction and analysis of intermediary metabolites.
+**
+Frozen material was freeze-dried and ground to a fine powder by using a tissue lyser (Qiagen).
+Then, 10 mg of powder was extracted with 1 mL of 50% methanol for 20 min at room temperature and shaking.
+1 mL of chloroform was then added and centrifuged at top speed for 3 min to allow phase separation.
+20 µL of the polar phase containing intermediary metabolites was transferred to an HPLC glass vial and spiked with 10 µL of the internal standard solution (1 mg/mL of ribitol in methanol).
+Samples were taken to dryness using a vacuum centrifuge Genevac EZ.27 and stored at −20 °C until derivatisation and analysis.
+Dried samples were derivatised to their methoxymated and silylated forms [36] .
+First, 30 µL of methoxyamine hydrochloride (20 mg/mL in pyridine anhydrous) was added to samples and incubated at 40 °C for 1 h. Following this reaction, samples were treated with 70 µL of MSTFA and heated at 40 °C for 2 h. 1 µl of the final solution was injected into a 7890B gas chromatograph online with a 5977A mass spectrometer (Agilent Technologies, Palo Alto, California, US).
+Metabolites were separated in a DB-5MS 30 m × 250 µm × 0.25 µm column (J&W Scientific, Folsom, California, US) equipped with a 10 m guard column and using a temperature gradient ranging from 70° to 320 °C at 5 °C/min. Helium was employed as the carrier gas and the flow rate was set at 1 mL/min.
+The inlet was heated to 280 °C and the mass spectrometer transfer line to 250 °C.
+A mixture of n-alkanes ranging from 8 to 32 car­ bons was used for retention index external calibration.
+Levels of metabolites  analyzed by gas chromatography (GC)–MS were quantified relative to the internal standard and corrected by dried weight of biomass.
+AMDIS ver­ sion 2.71 of the software was used for peak deconvolution and identification of metabolites [37] .
+**Determination of cuticular wax levels.
+**
+Analysis of the cuticular waxes of the ripe fruits of control and _PL_ øRNAi lines was carried out as described [38] .
+Briefly, sections of peel were collected from red ripe breaker + 7 d stage azygous wild-type control and _PL_ øRNAi
+transgenic tomato fruit, scraped to remove as much cellular material as possible, then air-dried.
+Wax was extracted from the peels by placing the peels in a beaker with ~100 mL of chloroform containing 100 µg of tetracosane as an internal standard, and swirling for 2 min.
+The peels were then taped flat and scanned to determine their surface area.
+The wax extract was concentrated by air drying and filtered through chloroform-rinsed filter paper (VWR).
+An aliquot of each wax sample was dried by heating at 40 °C under a stream of N 2, then derivatized with equal parts pyridine (EMD Millipore) and BSTFA ( _N_, _O_ -bis(trimethylsilyl)trifluoroacetamide) (Sigma) for 30 min at 70 °C, dried again by heating under N 2, and resuspended in 100 µL of chloroform.
+The samples were analyzed by gas chromatography using an    Agilent GC 6850 with a Flame Ionization Detector.
+Compound identification was made based on comparisons of retention times with standards and also by performing GC–MS analysis of two of the samples using an Agilent GC 6890 coupled to a JOEL GC MATE II mass spectrometer.
+Levels of each wax compound were normalized to the internal standard and the surface area of the peels.
+**Measurement of volatile compounds.
+** Determination of volatile compounds followed the method developed from Buttery _et al._
+[39] .
+Samples were kept at −80 °C and each sample was defrosted and allowed 30 min to equilibrate before GC–MS analysis.
+Volatiles were collected using SPME Fibers (50/30 µm DVB/CAR/PDMS, Supelco, Sigma-Aldrich, UK) and separated and analyzed by GC–MS using a ZB-WAX Capillary GC Column (30 m, 0.25 mm I.D., 1.00-µm film thickness) on a Trace 1300 series GC coupled with the SingleQuadrupole Mass Spectrometer (Thermo Fisher Scientific, Hemel Hempstead, UK).
+Volatiles were identified by comparison of each mass spectrum with spectra in reference collections (Microsoft WindowsTM Version 2.0 of the NIST Mass Spectral Search Program for the NIST/EPA/NIH Mass Spectral Library).
+**Cell wall analysis.
+**
+For the preparation of a crude cell wall material (CWM), fresh tomato pericarp (40 g) was peeled, cubed and boiled in 95% EtOH (100 mL) at 80 °C for 30 min.
+The sample was cooled to room temperature, homogenised using a coffee grinder, then filtered through Miracloth and washed successively with hot 85% EtOH (200 mL), chloroform/methanol (1:1 v/v) (200 mL) and 100% acetone.
+The samples were then air dried over­ night.
+For fractionation of tomato CWM, 7.5 mg was placed into tube with 1.5 mL of dH 2 O.
+The sample was stirred 4 h at room temperature and then centrifuged for 20 min at 10,000 _g_ .
+The supernatant which contained the water soluble pectin was filtered through GF/A paper.
+The supernatant was made to a known volume (1.5 mL) using dH 2 O. Uronic acid assays were performed using the method of Blumenkrantz and Asboe-Hansen [40] .
+**Determination of pectin heterogeneity and molecular weights.
+**
+Polyuronide heterogeneity and molecular weights were determined as follows.
+The distribu­ tion of the sedimentation coefficients (heterogeneity) were determined from sedimentation velocity analytical ultracentrifugation (rotor speed of 45,000 r.p.m., at 20.0 °C in a Beckman (Palo Alto)
+Optima XL-I win interference optics) and a loading concentration of 0.3 mg/mL to minimize any non-ide­ ality effects.
+The data was analyzed using the SEDFIT procedure of Dam & Schuck [41], and showed all pectin samples to be very polysdisperse with material extending to at least 8S and as high as 17S in some cases.
+To obtain the (weight average) molecular weights, sedimentation equilibrium experiments (on the same equipment) were then undertaken on samples from three separate fruits from each treatment at a rotor speed of 15,000 r.p.m., other conditions the same, and data analyzed using the SEDFIT-MSTAR procedure of Schuck, Harding and co-workers [42] to estimate the weight average molar masses for pectic polysaccharides.
+**Immunocytochemistry.
+** Tomato fruit were harvested at breaker + 7 d and 2-mm cubes of pericarp tissue were fixed in 0.1 M sodium cacodylate buffer, 2% paraformaldehyde, pH6.9 overnight at 4 °C.
+The tissue samples were then dehydrated through an ethanol series and embedded in LR white resin before sectioning.
+_
+Light microscopy/COS_ _
+[488]_ _labeling.
+_
+0.5-µm sections were cut using a diamond knife (Diatome, USA) on a Leica ultramicrotome and collected onto the wells of 10-welled immunoslides (Electron Microscopy Sciences, Ft. Washington, PA, USA) coated with poly-l-lysine (Sigma Chemical; St. Louis, MO, USA).
+After drying at room temperature for 2 h, the sections were incubated for 30 min in 50 mM MES buffer (pH 5.7), labeled with COS [488] diluted 1/1,000 in MES buffer for 90 min in the dark at room temperature (COS [488] was kindly pro­ vided by Jozef Mravec and William G. T. Willats of the Department of Plant and Environmental Sciences of the University of Copenhagen) and subse­ quently washed three times with MES buffer.
+The sections were subsequently labeled for 2 min in 1 µg/mL Calcofluor dissolved in deionized water and washed three times with deionized water.
+The sections were covered with a  coverslip and viewed with an Olympus Fluoview 1200 confocal laser scanning    **nature biotechnology** doi:10.1038/nbt.3602   microscope.
+Merged images of COS [488] and Calcofluor labeling were obtained using the Olympus Fluoview 1200 software program.
+_
+Transmission electron microscopy (TEM).
+_ 60-nm sections were cut using a diamond knife with a Leica Ultramicrotome and collected on Formvar coated  nickel grids.
+The sections were then immunolabeled using JIM5 (Plant Probes, Leeds, UK) as described [43] .
+The sections were stained for 2 min in uranyl acetate, washed extensively with deionized water and dried before viewing on a Zeiss Libra 120 TEM.
+For control experiments, the primary antibody was eliminated from the labeling protocol.
+**Statistical analysis.
+**
+The mechanical measurements of fruit texture and other storage properties were analyzed as the dependant variables in linear mixed models, fitted using the restricted maximum liklihood (REML) routines in the Genstat 17 statistical package.
+The independent variables fitted as fixed effects were genotype and ripening stage, and the individual plants and fruits within plants were included as random effects in the model.
+The covariance model takes into account that measurements on fruits from the same plant were likely to be more highly correlated than those from different plants.
+It also ensured that the variation between plants of different genotypes was tested against the variation among plants of the same genotype and that the variation among fruits at different stages of ripening and its interaction with genotype was tested against the random variation among fruits of the same genotype.
+Where pre-planned comparisons between particular groups of genotypes were of interest this was achieved by including orthogonal contrasts describing these comparisons in the fixed effects to further partition the between genotype variation.
+For the QPCR analysis the method of Livak & Schmittgen
+[44] was used to account for differences in primer efficiency.
+**CRISPR/Cas9-induced mutations in PL in transgenic tomato lines.
+**
+Design of the target site for guide RNA (Cas9/sgRNA) used to edit the PL coding sequence and vectors used to generate the transgenic tomato lines followed the protocols described in Nekrasov _et al_ .
+[45] .
+Transformation of tomato cotyledons and subsequent regeneration of plants followed the method of Bird _et al._
+[46] .
+**Antibody validation.
+**
+[The JIM5 monoclonal antibody (http://www.plantprobes.](http://www.plantprobes.net/)
+[net/) that recognizes partially methyl-esterified epitopes of homogalacturonan](http://www.plantprobes.net/) has been validated on numerous plant species including tomato
+[47] .
+25.
+Ward, T.M. _et al._ _
+Isolation of Plant Growth Substances 4_ (Cambridge University  Press, 1978).
+26.
+Chapman, N.H. _et al._ _
+Plant Physiol.
+_
+**159**, 1644–1657 (2012).
+27.
+Marín-Rodríguez, M.C., Smith, D.L., Manning, K., Orchard, J. & Seymour, G.B.  _Plant Mol.
+Biol.
+_
+**51**, 851–857 (2003).
+28.
+Collmer, A., Ried, J.L. & Mount, M.S. _Methods Enzymol._
+**161**, 329–335  (1988).
+29.
+Andrews, S. FastQC:
+[http://www.bioinformatics.babraham.ac.uk/projects/fastqc](http://www.bioinformatics.babraham.ac.uk/projects/fastqc)  (2010).
+30.
+Trapnell, C., Pachter, L. & Salzberg, S.L. _Bioinformatics_ **25**, 1105–1111  (2009).
+31.
+Langmead, B. & Salzberg, S.L. _Nat.
+Methods_ **9**, 357–359 (2012).
+32.
+Risso, D., Schwartz, K., Sherlock, G. & Dudoit, S. _BMC Bioinformatics_ **12**, 480  (2011).
+33.
+Robinson, M.D., McCarthy, D.J. & Smyth, G.K. _Bioinformatics_ **26**, 139–140  (2010).
+34.
+Young, M.D., Wakefield, M.J., Smyth, G.K. & Oshlack, A. _Genome Biol.
+_
+**11**, R14  (2010).
+35.
+Halket, J.M. _et al._ _
+J. Exp.
+Bot._
+**56**, 219–243 (2005).
+36.
+Fraser, P.D., Pinto, M.E., Holloway, D.E. & Bramley, P.M. _Plant J._ **24**, 551–558  (2000).
+37.
+Perez-Fons, L. _et al._ _
+Sci.
+Rep._ **4**, 3859 (2014).
+38.
+Bolger, A. _et al._ _
+Nat.
+Genet.
+_
+**46**, 1034–1038 (2014).
+39.
+Buttery, R.G., Teranishi, R. & Ling, L.C. _J. Agric.
+Food Chem.
+_
+**35**, 540–544  (1987).
+40.
+Blumenkrantz, N. & Asboe-Hansen, G. _Anal.
+Biochem.
+_
+**54**, 484–489 (1973).
+41.
+Dam, J. & Schuck, P. _Methods Enzymol.
+_ **384**, 185–212 (2004).
+42.
+Schuck, P. _et al._ _
+Analyst (Lond.)
+_ **139**, 79–92 (2014).
+43.
+Domozych, D.S., Serfis, A., Kiemle, S.N. & Gretz, M.R. _Protoplasma_ **230**, 99–115  (2007).
+44.
+Livak, K.J. & Schmittgen, T.D. _Methods_ **25**, 402–408 (2001).
+45.
+Nekrasov, V., Staskawicz, B., Weigel, D., Jones, J.D. & Kamoun, S. _Nat.
+Biotechnol._
+**31**, 691–693 (2013).
+46.
+Bird, C. _et al._ _
+Plant Mol.
+Biol.
+_
+**11**, 651–662 (1988).
+47.
+Orfila, C. _et al._ _
+Plant Physiol.
+_
+**126**, 210–221 (2001).
+doi:10.1038/nbt.3602 **nature biotechnology**   E R R ATA
+A N D C O R R
+I G E N D A  ### erratum: stabilizing prospects for a universal flu vaccine   **Markus Elsner**  _**Nat.
+Biotechnol.
+**_ **33, 1043–1044 (2015); published online 8 October 2015; corrected after print 28 July 2016**   In the version of this article initially published, the name and title of the author, Markus Elsner, Senior Editor, was omitted.
+The error has been corrected in the HTML and PDF versions of the article.
+### erratum: Will europe toast Gm wheat for gluten sufferers?
+**Lucas Laursen**  _**Nat.
+Biotechnol.
+**_ **34, 369–371 (2016); published online 7 April 2016; corrected after print 8 June 2016**   In the version of this article initially published, on p.369, “European consumers” were said to account for “over €1.1 ($1.21) million” of the “nearly €1.9 million worldwide gluten-free food market”; in both cases the figure should have been in billions, not millions.
+In addition, the opening sentence said “This winter,” but should have read “Soon,” and on p.371, paragraph three, “at a General Mills facility earlier this year,” should have read “in 2015.”
+The errors have been corrected in the HTML and PDF versions of the article.
+### corrigendum: secure cloud computing for genomic data   **Somalee Datta, Keith Bettinger & Michael Snyder** _**Nat.
+Biotechnol.
+**_ **34, 588–591 (2016); published online 9 June 2016; corrected after print 11 August 2016**   In the version of this article initially published, the competing financial interests line should have been positive in the HTML as it was in the PDF (“The authors declare competing financial interests”).
+The statement “M.S. is a co-founder of Personalis and SensOmics and a member of the scientific advisory boards of Personalis, SensOmics and Genapsys” should also have appeared in the HTML.
+The errors have been corrected in the HTML and PDF versions of the article.
+### corrigendum: Genetic improvement of tomato by targeted control of fruit softening   **Selman Uluisik, Natalie H Chapman, Rebecca Smith, Mervin Poole, Gary Adams, Richard B Gillis, Tabot M D Besong, Judith Sheldon,** **Suzy Stiegelmeyer, Laura Perez, Nurul Samsulrizal, Duoduo Wang, Ian D Fisk, Ni Yang, Charles Baxter, Daniel Rickett, Rupert Fray,** **Barbara Blanco-Ulate, Ann L T Powell, Stephen E Harding, Jim Craigon, Jocelyn K C Rose, Eric A Fich, Li Sun, David S Domozych,** **Paul D Fraser, Gregory A Tucker, Don Grierson & Graham B Seymour** _**Nat.
+Biotechnol.
+**_
+**34, 950–952 (2016); published online 25 July 2016; corrected after print 14 September 2016**   In the version of this article initially published, the volume and page numbers for reference 46 were incorrect.
+The error has been corrected in the HTML and PDF versions of the article   **1072** VOLUME 34 NUMBER 10 OCTOBER 2016 **nature biotechnology**

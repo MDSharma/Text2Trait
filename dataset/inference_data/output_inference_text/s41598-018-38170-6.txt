@@ -1,0 +1,679 @@
+## **OPEN**  Received: 4 October 2018   Accepted: 19 December 2018   Published: xx xx xxxx    www.nature.com/scientificreports  # **Re-evaluation of transcription** **factor function in tomato fruit** **development and ripening with** **CRISPR/Cas9-mutagenesis**   **
+[Rufang Wang](http://orcid.org/0000-0002-7285-0878)
+** **
+[1,2]** **[, Eveline Carla da Rocha Tavano](http://orcid.org/0000-0001-5385-3267)
+** **[3]** **, Michiel Lammers** **
+[2]** **,** **Adriana Pinheiro Martinelli
+** **
+[3]** **, Gerco C. Angenent** **
+[1,2]** **& Ruud A. de Maagd** **
+[2]**   **Tomato (** _**Solanum lycopersicum**_ **) is a model for climacteric fleshy fruit ripening studies.
+Tomato ripening** **is regulated by multiple transcription factors together with the plant hormone ethylene and their** **downstream effector genes.
+Transcription Factors APETALA2a (AP2a), NON-RIPENING (NOR) and** **FRUITFULL (FUL1/TDR4 and FUL2/MBP7) were reported as master regulators controlling tomato** **fruit ripening.
+Their proposed functions were derived from studies of the phenotype of spontaneous** **mutants or RNAi knock-down lines rather than, as it appears now, actual** _**null**_ **mutants.
+To study TF** **function in tomato fruit ripening in more detail, we used CRISPR/Cas9-mediated mutagenesis to knock** **out the encoding genes, and phenotypes of these mutants are reported for the first time.
+While the** **earlier ripening, orange-ripe phenotype of** _**ap2a**_ **mutants was confirmed, the** _**nor null**_ **mutant exhibited** **a much milder phenotype than the spontaneous** _**nor**_ **mutant.
+Additional analyses revealed that the** **severe phenotype in the spontaneous mutant is caused by a dominant-negative allele.
+Our approach** **also provides new insight into the independent and overlapping functions of** _**FUL1**_ **and** _**FUL2**_ **.
+Single** **and combined** _**null**_ **alleles of** _**FUL1**_ **and** _
+**FUL2**_ **illustrate that these two genes have partially redundant** **functions in fruit ripening, but also unveil an additional role for** _**FUL2**_ **in early fruit development.
+**   Tomato ( _Solanum lycopersicum_ ) produces fleshy fruits, which are climacteric, i.e. displaying a burst in ethylene production during ripening.
+Its diploid genome, available genome sequence and relative ease of transformation make it the ideal model for studying fleshy fruit development and ripening.
+Biochemical and physiological processes during tomato fruit ripening result in changes in texture, colour and flavour.
+Together with ethylene, transcription factors (TFs) and their downstream effector genes regulate these changes [1] .
+RIPENING INHIBITOR (RIN), COLORLESS NON-RIPENING (CNR), TOMATO AGAMOUS-LIKE1 (TAGL1), APETALA2a (AP2a), NON-RIPENING (NOR) and FRUITFULL (FUL1 and FUL2) are major TFs regulating tomato fruit ripening, either by promoting or repressing this process
+[1] .
+RIN, TAGL1, and FRUITFULL1 and 2 are Minichromosome Maintenance (MCM1), AGAMOUS (AG), DEFICIENS (DEF) and Serum Response Element (SRF) (MADS) domain TFs [2][,][3], are highly expressed during the ripening stage and were reported as positive regulators of tomato fruit ripening [4][,][5] .
+MADS domain proteins often function as a dimer or tetramer for regulation [6] and interaction between RIN and TAGL1 or FUL was shown by yeast2-hybrid studies [7] .
+Tomato SQUAMOSA promoter-binding protein-like (SPL) transcription factor CNR is also an activator of tomato fruit ripening, involving in ethylene and lycopene biosynthesis.
+The spontaneous _Cnr_ mutant shows a colourless pericarp with strongly reduced ethylene production [8][,][9] .
+The tomato transcription factor AP2a is a member of the APETALA2/Ethylene Response Factor (AP2/ERF) family
+[10] .
+Using RNAi Chung _et al_ .
+[11] and Karlova _et al_ .
+[12] showed that the down regulation of _AP2a_ interfered with normal ripening in fruits, including decreased carotenoid production, but increased ethylene production resulting in early onset of fruit ripening and senescence.
+Thus, AP2a is a negative regulator of ethylene production, but a positive regulator of other ripening aspects such as chlorophyll degradation and carotenoid biosynthesis.
+A negative feedback loop of _AP2a_ and _CNR_ during ripening was reported, in which _AP2a_ was regulated by RIN,   1 Laboratory of Molecular Biology, Wageningen University, Wageningen, The Netherlands.
+2 Bioscience, Wageningen Plant Research, Wageningen, The Netherlands.
+[3] CENA, University of Sao Paulo, Piracicaba, Brazil.
+Correspondence
+[and requests for materials should be addressed to R.A.d.
+M. (email: ruud.demaagd@wur.nl)](mailto:ruud.demaagd@wur.nl)    Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 1   www.nature.com/scientificreports/   NOR and CNR, while AP2a itself negatively regulates _CNR_
+[12] .
+_
+AP2a_ is also a target of post-transcriptional regulation by miR172 [13] .
+NAC-NOR is a NAM, ATAF1/2 and CUC2 (NAC) domain transcription factor, containing the conserved NAC domain that functions in DNA binding as well as in dimerization with other NAC proteins
+[14][,][15] .
+There are 101 _NAC_ genes in tomato but, only three ( _NAC1_, _NAC_ 4 and _NAC-NOR_ ) were shown to be involved in regulation of fruit ripening so far [16][,][17] .
+NAC-NOR appeared to be the most strongly regulating activator based on the completely non-ripening phenotype of its spontaneous mutant [18] .
+In the spontaneous _nor_ mutant, a 2 bp deletion in the third exon of _NAC_                 - _NOR_ causes a frameshift, resulting in a truncated protein giving a strong non-ripening phenotype [19] .
+Tomato MADS domain transcription factors FUL1 and FUL2 are co-orthologs of _Arabidopsis_ FRUITFULL
+[20] .
+_
+FUL_ 2 is expressed in flowers and developing green fruits, and its expression increases during ripening.
+_
+FUL1_ expression is detectable in flowers, but in fruits it is much higher and specific for the ripening stage [20] .
+Yeast-2-hybrid protein interaction experiments showed that both could interact with RIN, which is also expressed during ripening, while FUL2 interacts with other MADS domain proteins as well [5][,][7] .
+RNAi experiments showed that _FUL1_ and _FUL2_ probably function redundantly in tomato fruit ripening
+[20][–][22] .
+Phenotypes of _FUL1/2_ RNAi fruits diverged between studies, showing an orange-ripe phenotype with reduced lycopene level and relatively normal ethylene production in one study [20], and almost green fruits with strongly reduced ethylene production in another [21][,][22] .
+In the absence of available spontaneous mutants Virus-induced Gene Silencing (VIGS) of gene expression and RNA interference (RNAi) have often been used for evaluating gene function.
+Both approaches however, may suffer from incomplete suppression of expression or lack of specificity for the targeted gene.
+Because RNAi silencing was the most popular tool in the past decades due to the relative ease of use [23], functional characterization of the gene of interest may have been imperfect in many cases.
+The action of Site-Specific Nucleases (SSN) allows targeted mutagenesis by utilizing the imperfect nature of double-strand DNA break (DSB) repair, creating mostly small INDELs which, when located in an open reading frame, can lead to frame-shifts resulting in loss-of-function alleles.
+Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/ CRISPR-associated protein 9 (Cas9) has rapidly gained popularity as the SSN of choice for mutagenesis due to its high efficiency and relative ease of use.
+It utilizes guideRNAs (gRNAs), which recognise the target sequence to direct the endonuclease Cas9 to cut there, causing a DSB [24] .
+Together with efficient modular cloning strategies such as Golden Gate cloning [25] it allows multiple gRNAs targeting more than one gene at the same time with high efficiency
+[26], and CRISPR/Cas9-mutagenesis has been successfully applied in many plant species, such as _Arabidopsis_, rice, maize and tomato
+[27] .
+Spontaneous mutants with fruit ripening phenotypes in tomato have been reported for decades and forward genetics studies have identified several of the underlying genes as encoding transcription factors, such as for the _rin_ and _nor_ mutants.
+These mutants have proven extremely valuable for both fundamental research as well as in applications.
+Yet, the availability of a larger set of alleles may improve our understanding of TF function further, as well as allow study of specific, true knock-out phenotypes where only RNAi studies were available before.
+Recently, by using CRISPR/Cas9-mediated mutagenesis _Ito et al_ . illustrated that the _rin_ phenotype is caused by the production of a fusion protein RIN-MC, rather than the mere loss of function of MADS-RIN
+[28] .
+After knocking out _RIN_ in a wild type background, fruit ripening was affected but not blocked as it was in the original _
+rin_ mutant
+[29], and ripening was partially restored by knocking out _
+RIN-MC_ in the _rin_ background.
+There are so far no spontaneous mutants of _AP2a_, _FUL1_ or _FUL2_ reported, and RNAi or VIGS phenotypes may only partially reflect the functions of these genes.
+In this study, by using CRISPR/Cas9-mutagenesis we generated genuine knock-out mutants of _AP2a_, _NAC_           - _NOR_, _FUL1_ and _FUL2_ (as well as the latter two combined) to further study their function in tomato fruit ripening.
+In this way we confirm the previously found function of _AP2a_, but demonstrate that the spontaneous _nor_ mutation represents a dominant-negative allele of _NAC-NOR_ because a _null_ allele has a milder phenotype.
+Moreover, true knock-out mutants of _FUL1_ and _FUL2_ allowed to differentiate between shared functions during ripening and a specific _FUL2_ function in early fruit development.
+**Results and Discussion**
+In order to obtain knock-out mutations in the selected transcription factor genes in tomato cv.
+Moneyberg, we have used binary vectors containing _SpCas9_ combined with 2 guideRNA-encoding expression cassettes.
+Two guides were used to target a single gene or, combining two guides, one for _FUL1_ and _FUL2_ each, to produce _ful1/ful2_ double mutants.
+In all cases, primary transformants were genotyped for targeted mutations, selected transformants were selfed and only homozygous or biallelic mutants were used for phenotyping.
+The locations of the targeted sites as well as the obtained ( _-cr_ ) alleles are shown in Fig.
+1 and Supplementary Fig.
+1.
+As can be seen in the latter, and since mutant alleles were derived from just one or two distinct guideRNAs, similar detrimental effects on the resulting protein functions were expected, and we selected those which were deemed representative for all similar mutations.
+Flowers were labelled at anthesis as 0 Days Post Anthesis (DPA) to record the time required to reach the Breaker (Br) stage, and ethylene production of fruits was measured at Breaker and Breaker + 5 days stages.   _**ap2a**_ **mutants initiate fruit ripening earlier, but do not fully ripen.
+** _AP2a_ (Solyc03g044300) was reported to be a negative regulator of tomato fruit ripening initiation based on RNAi suppression of expression
+[12], but true knock-out mutants were not available so far.
+The encoded protein of 401 amino acids contains two AP2 domains (amino acids 135 to 201 and 227 to 294), presumably involved in DNA binding [30] .
+By using two gRNAs, four alleles _ap2a-cr1_                   - _4_ were obtained with deletions in the first of 9 exons (Fig.
+1a and Supplementary Fig. 1a).
+We selected two lines with deletions most probably resulting in _null_ alleles.
+In _ap2a-cr1_ a 35 bp deletion joining the two gRNA-target sites is predicted to produce a peptide of 27 aa with no AP2 domains, while the 133 bp deletion in allele _ap2a-cr2_ extends to 67 nucleotides upstream of the start codon, and therefore no AP2a protein is   Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 2   www.nature.com/scientificreports/   **Figure 1.**
+Targets for CRISPR/CAS9 mutagenesis of tomato transcription factor genes, and resulting mutant alleles.
+( **a** )
+Mutations in _AP2a_ .
+Overview of the _AP2a_ gene and protein changes in knock-out mutants.
+sgRNA AP2a-t1 and AP2a-t2 located in the first exon were used.
+( **b** )
+Mutations in _NAC_                 - _NOR_ .
+Overview of the _NAC_                 _NOR_ gene and protein changes in the spontaneous _nor_ ( _nor-s_ ) and CRISPR alleles.
+sgRNA NOR-t1 and NOR-t6 were designed at the start and middle of the NAC domain for all mutagenesis experiments.
+( **c** )
+Mutations in _FUL1_ .
+_
+FUL1_ gene and protein changes in knock-out alleles.
+( **d** )
+Mutations in _FUL2_ .
+Overview of the _FUL2_ gene and protein changes in CRISPR alleles.
+Regions in orange, pink and red represent the AP2, NAC and MADS domain, respectively.
+Letters in red indicate spacer sequences and underlined are protospacer adjacent motifs (PAM).
+The start codon is indicated with red boxes.
+Numbers represent the location of the nucleotide in the coding sequence.
+A black diamond shows the single amino acid deletion in _ful2-cr2_ .
+expected to be produced (Fig. 1a).
+The 133 bp deletion in _ap2a-cr2_ extends into the 5′ UTR of _AP2a_, which does not necessarily affect its transcription.
+This mutation deletes the first start codon, as well as an alternative start codon at amino acid position 12.
+The next in-frame start codon at amino acid position 204 is located in exon 5 and 3′ of the first of two conserved AP2 domain-encoding regions and therefore even if used, unlikely to result in a functional protein.
+When compared to wild type fruits (Fig. 2a) pericarp of the two lines remained orange/brown (Fig.
+2b,c) 20 days after Breaker stage and did not become fully red (Supplementary Fig. 2a).
+Faster ripening was accompanied by earlier senescence: _ap2a-cr1_ and _ap2a-cr2_ fruits started to crack before 60 DPA while fruits from other mutants were still intact (Supplementary Fig. 2a).
+Fruits of the _ap2a_ mutants took only 39 to 41 days to reach Br stage in _ap2a-cr1_ and _ap2a-cr2_, respectively, significantly less than in wild type fruits (47 days) (Fig. 3a).
+This is consistent with the observed 7 days earlier colour change in RNAi fruits [11], confirming AP2a’s negative regulatory role in the initiation of tomato fruit ripening.
+Fruits of both _ap2_ knock-out mutants produced at least twice the wild type amount of ethylene at Br stage (Fig. 3b).
+The AP2 protein in _Arabidopsis_ is known to negatively regulate its own transcription by a feedback regulation [31] .
+While RNAi knock-down of expression usually reduces mRNA levels of the target gene with varying efficacy, remaining mRNA can still produce functional protein.
+Mutants producing no functional proteins, apart from giving a stronger phenotype also allow the exploration of positive or negative feedback autoregulation of the   Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 3   www.nature.com/scientificreports/   **Figure 2.**
+Phenotypes of mutant fruits.
+Fruits of homozygous mutants at 55 DPA.
+All mutants are in cv.
+Moneyberg except **(e)** which shows cv.
+Ailsa Craig _nor-s_ for comparison at an equivalent stage.
+Scale bar, 1 cm.
+protein on its own expression.
+This is exemplified by expression analysis of the tomato _AP2a_ mRNA in wild type and _ap2a-cr1_ and _-cr2_ fruits.
+As the mutations result in no functional protein production, mutant fruits display higher levels of _AP2a_ mRNA, indicating that similar to _Arabidopsis_ AP2, tomato AP2a protein negatively regulates its own transcription (Fig. 3c).
+The much higher ethylene production and faster ripening in _ap2a-cr1_ and _ap2a-cr2_ confirm AP2a’s negative role in both ethylene production as well as in initiation of tomato fruit ripening.
+Its positive regulatory role in ripening is shown by the orange/brown fruit colour resulting from a lack of lycopene production and a defect in chlorophyll degradation, consistent with the RNAi phenotype from Karlova _et al_ .
+[12] .
+**A** _**nor null**_ **mutant has a milder phenotype than the spontaneous** _**nor**_ **mutant.
+**
+Ripening defects in the spontaneous _nor_ mutant are likely due to a 2 bp deletion in the third exon of _NAC-NOR_ (Solyc10g006880), leading to a frame shift and a truncated protein of 186 amino acid (aa) versus 355 aa for the intact gene
+[32] .
+This truncation is located after the NAC domain, leaving the possibility that the truncated protein retains its dimerization and DNA-binding capacity.
+To knock out _NOR_ in cv.
+Moneyberg we designed two gRNAs for _NAC-NOR_ but found no edits at position t6.
+Two alleles at position t1 were obtained, _nor-cr1_ with a 1 bp deletion and _nor-cr3_ with a 2 bp deletion 5′ of the NAC-domain coding sequence (Fig.
+1b and Supplementary Fig. 1b)
+, both resulting in a frameshift and a protein predicted to contain only 17 aa of NAC-NOR and no conserved NAC domain (Fig. 1b).
+Homozygous _nor-cr1_ fruits initiated ripening later than wild type fruits (Fig. 2d) by 3 days on average (time to Br stage, Fig. 3a), but surprisingly progress of ripening was only partially affected, in contrast to being totally blocked as it is in the spontaneous mutant (Fig. 2e).
+Homozygous _nor-cr1_ exhibited an orange pericarp at 60 DPA, indicating that lycopene biosynthesis was affected.
+Colour change after Breaker in _nor-cr1_ was much slower than in wild type fruits and the pericarp remained orange until 70 DPA and beyond (Supplementary Fig. 2b).
+Ethylene production in _nor-cr1_ fruits at both Br and Br+ 5 d stages was significantly lower than in wild type fruits, possibly explaining the delayed initiation of ripening, but clearly higher than in spontaneous _nor_ mutant fruits, where no ethylene production was detectable in the time frame where normally ripening occurs (Fig. 3b).
+Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 4   www.nature.com/scientificreports/   **Figure 3.*
+* Differences in developmental and ripening processes of mutants compared to wild type.
+( **a** ) Time to initiation of ripening (Days Post Anthesis (DPA) to Breaker) of wild type and homozygous mutants.
+( **b** ) Ethylene production (ppm/g/h) for wild type and homozygous mutants at Br and Br+ 5 d stages and of the spontaneous _nor_ mutant at the equivalent stage.
+Values of five or six fruits were used.
+( **c** ) Relative _
+AP2a_ expression in two _ap2a_ knock-out lines.
+Error bars represent SE of means.
+( **d** )
+Diameter (cm), ( **e** ) Height (cm) and ( **f** )
+Weight ( **g** ) of wild type and homozygous _ful2_ mutant fruits.
+Values of eleven fruits for each genotype were used for ( **d** – **f** ).
+Asterisks show significant differences ( _P_ < 0.05).
+The _alcobaca_ ( _alc_ ) mutation, encoding a deleterious V106D substitution in the NAC domain is allelic to _nor_ and displays a weaker effect on ripening [33] .
+By CRISPR/Cas9-induced gene replacement Yu _et al_ .
+replaced thymine to adenine at position 317 of the _NAC-NOR_ coding sequencing, creating an _alc_ allele and confirming the long-shelf life character of _alc_
+[34] .
+Three Penjar accessions contain the _alc_ allele, while a fourth contains an early frame-shift and a truncated protein of 6 aa, which is similar to the _nor-cr1_ allele described here.
+Our _nor-cr1_ fruits displayed delayed ripening and an orange-ripe phenotype similar to that of _alc_ fruits.
+As the truncated protein in _nor-cr1_ contains no NAC domain this likely makes _nor-cr1_ a true _null_ allele.
+A transcriptional activation region located in the C-terminal region of NAC proteins is essential for activating transcription [35] .
+Candidates for interaction with NAC-NOR would be NAC-NOR itself forming homodimers or the two other tomato NAC proteins involved in ripening, NAC1 and NAC4, and such an interaction was demonstrated for NAC4
+[16] .
+The decreased ethylene production in _nor-cr1_ confirms that NAC-NOR, as a master regulator, is located upstream of ethylene biosynthesis and has a positive regulatory role.
+**The spontaneous** _**nor**_ **mutation produces a dominant-negative protein.
+**
+Ripening in the spontaneous _nor_ mutant, whose allele we shall from here on call _nor-s_ for convenience, is totally blocked but only partially so in _nor-cr1_ and _alc_ fruits.
+Therefore we hypothesize that the non-ripening phenotype in _nor-s_ is caused by the truncated protein functioning in a dominant-negative manner, where the protein product is able to interact with other NAC proteins and to bind DNA without transcriptionally activating its targets.
+This is reminiscent of the NAC TF SND1 in poplar, where an alternative splice variant retains the last intron and due to a premature stop forms a protein without an activation domain but with an almost intact NAC domain.
+This protein acts as a dominant-negative repressor of its downstream targets as well as of its own and family members’ expression
+[36] .
+This is also reminiscent of the situation with the _mads_                 - _rin_ allele blocking ripening, although there the newly formed RIN-MC fusion protein has a novel combination of expression and transcriptional activation not seen in a _rin_ knock-out line [28][,][37] .
+To further study this we introduced mutations 5′ of the location of the spontaneous mutation in _NOR_ in both the spontaneous _nor_ mutant as well as in the wild type Ailsa Craig background.
+Two alleles, _nor-scr1_ and _nor-scr2_ with a 1 bp deletion and insertion, respectively, were obtained in the spontaneous _nor-s_ mutant background, and one allele ( _nor-cr2_ ) with the same 1 bp insertion as _nor-scr2_ was obtained in wild type Ailsa Craig (Fig. 1b).
+Homozygous _nor-cr2_ caused an orange-ripe pericarp in Ailsa Craig fruits, and ripening in homozygous _nor-scr2_ and biallelic _nor-scr1_ / _nor-scr2_ mutants was similar to this (Fig. 4).
+Therefore we can conclude that the frameshift upstream of the spontaneous mutation precludes translation of the NAC domain and negates the dominant-negative function of the spontaneous mutant, which retained an intact NAC domain.
+Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 5   www.nature.com/scientificreports/   **Figure 4.**
+Phenotypes of homozygous mutant fruits.
+( **a** – *
+*e** ) Fruits at Br + 7 d and ( **f** – **j** )
+Br + 15 d of wild type Ailsa Craig, _nor-cr2_, _nor-scr2_, _nor-scr1/nor-scr2_ and the spontaneous _nor_ mutant (all in cv.
+Ailsa Craig background) at equivalent stages.
+Scale bar, 1 cm.
+A classical dominant- negative TF would still interact with the same regulatory DNA elements or form the same dimers as the wild type protein, but the activity of the dimer in a heterozygote would only be 25% compared to homozygous wild type thus giving a phenotype more similar to that of the homozygous mutant [38] .
+Heterozygous _nor-s_ mutants in cv.
+Rutgers have an intermediate phenotype, both in timing of ripening, carotene production, as well as in ethylene production during ripening [39] .
+This indicates that _nor-s_ ’ negative effect is dose-dependent.
+This suggests that _nor-s_ is a so-called _trans_ -acting dominant-negative allele having _inter_ locus interactions, rather than the classical _intra_ locus interaction
+[38] .
+The tomato NAC1 and NAC4 TFs (see previous section) would be obvious candidates for such intralocus interactions.   _**FUL1**_ **and** _**FUL2**_ **have overlapping functions during fruit ripening, but** _**FUL2**_ **has an additional** **role in fruit development.
+**
+Since tomato FUL1 (Solyc06g069430) and FUL2 (Solyc03g114830) are close paralogs, it was particularly challenging to achieve RNAi-mediated knock-down of expression in a specific as well as effective manner
+[20] .
+Use of a less specific RNAi construct might have led to knock-down of multiple homologous genes.
+Both studies reporting knock-down of tomato _FUL_ genes achieved knock-down of both concomitantly [21][,][40], but only relatively weak and not completely specific knock-down of each gene individually in another study [20] .
+These results suggest that _FUL1_ and _FUL2_ were functioning at least partially redundant in tomato fruit ripening, but were inconclusive about the relative roles of the two genes.
+We therefore generated both _ful1_ and _ful2_ single mutants as well as double mutants using CRISPR/Cas9.
+We obtained multiple knock-out alleles in both _FUL1_ and _FUL2_, alone or in combination.
+Double mutants were obtained with constructs containing sgRNAs for both genes.
+A _ful1_ single mutant line containing the _ful1-cr1_ allele with a 91 bp deletion, presumably caused by microhomology-directed repair of the double strand break, which completely deleted the second exon, produces a truncated protein of 62 aa consisting of the MADS domain only (Fig. 1c).
+The 1 bp deletion in mutant allele _ful1-cr2_ leads to a truncation at amino acid position 105 (Fig. 1c).
+Both alleles disable FUL1 function.
+In the _ful2_ single mutant, the _ful2-cr1_ allele has a 1 bp insertion in the middle of the MADS domain-encoding region resulting in a truncated protein with only 29 aa (Fig. 1d).
+A 3 bp deletion in _FUL2_ in the _ful2-cr2_ allele allows production of the entire protein minus one amino acid, arginine 25 in the middle of the extremely conserved MADS domain.
+This mutation is very likely to be deleterious to protein function, as further supported by analysis  − in the Provean protein website (Provean score: 12.037)
+[41] .
+Other obtained alleles are shown in Supplementary Fig.
+1c,d.
+We also checked the sequences of the corresponding parts in the non-target paralog for _FUL1_ and _FUL2_ (Supplementary Fig.
+1c,d) reciprocally but found no mutations there, demonstrating the high specificity of sgRNAs.
+There were no apparent differences in final overall fruit colour between _ful1-cr1_, _ful2-cr1_ and wild type fruits at 55 DPA (Fig.
+2a,f,g).
+However, in both double mutants (Fig. 2h,i) the pericarp stayed orange until 60 DPA (Supplementary Fig. 2a) and did not reach a red ripe colour as in the wild type fruits (Fig.
+2a and Supplementary Fig. 2a), which is similar to the phenotype observed for the RNAi _FUL1_ / _FUL2_ silenced lines in the study of Bemer _et al_ .
+[20] .
+Interestingly, we observed a phenotype in _ful2-cr_ mutants that had not been described before in the RNAi knock-down lines.
+In early stages of fruit development, superficial stripes lighter than the surrounding pericarp were visible at the bottom of homozygous _ful2-cr1_ fruits, but not in homozygous _ful1-cr1_ fruits, which became less distinguishable as fruits ripened (Figs 2g, 5a and Supplementary Fig.
+2c).
+Significantly lighter-pigmented stripes were also found at the bottom of all fruits in the two double mutants _ful1-cr2/ful2-cr2_ and _ful1-cr2/ful2-cr3_, which only changed from white to yellow around the time when wild type fruits are fully ripe (Figs 2h,i and 5a).
+These stripes were not only visible superficially, but also in the mesocarp of sections of both homozygous _ful1/ful2_ double mutants, making the pericarp at the bottom region and septum much lighter coloured than the rest of the fruit (Fig. 5b).
+Moreover, vertical, possibly suberized cracks in the surface of all _ful2_ mutant lines, including double mutant lines, were visible from the early stages of fruit development (Figs 2g–i and 5c,d).
+Additionally, the columella and placenta of _ful2_ and _ful1/ful2_ fruits remained white when fruits were fully ripe (Fig.
+5b,d).
+Besides, we noticed that fruits of all the mutants with a _ful2 null_ allele were more than 10 mm smaller than wild type fruits,   Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 6   www.nature.com/scientificreports/   **Figure 5.*
+*
+Details of fruit phenotypes and differences in _ful2_ mutants compared to wild type.
+( **a** )
+Bottom view of _ful2_ single and double mutants.
+Light coloured stripes only at the bottom of _ful2_ mutant fruits appear from early green fruit stage.
+( **b** )
+Longitudinally sliced fruits of _ful2 null_ mutants with light coloured-pericarp at the bottom of fruits.
+( **c** )
+Details of cracks in _ful2_ mutants.
+Cracks in all _ful2_ mutants at unripe (top), including details (middle) and ripe (bottom) stage.
+Black arrows indicate cracks in unripe fruits.
+( **d** )
+Latitudinally sliced fruits of _ful2_ mutants.
+Boxed regions are enlarged in the lower row.
+Scale bar, 1 cm.
+both in diameter and in height (Fig.
+3d,e) and almost half the weight of wild type fruits (Fig. 3f).
+Also there was a significant effect of _ful2_ on time to onset of ripening (Br stage).
+It took 46 days in _ful1-cr1_ and only 43 days from anthesis to Breaker in _ful2-cr1_ fruits, significantly less than in wild type fruits (Fig.
+3a and Supplementary Fig.
+2a).
+The time to ripening was also significantly shorter than in wild type fruits in both double mutant lines (Fig. 3a), but the pericarp stayed orange until 60 DPA and did not reach a red ripe colour as in the wild type fruits.
+We speculate that the smaller fruit size of _ful2_ mutants may have a causal relation to the earlier ripening phenotype, but this will require more study.
+We also measured ethylene production in all mutants, and found significantly lower production in the _ful1-cr1_ single mutants and the double mutants, but not so in the _ful2-cr1_ mutants (Fig. 3b).
+The strong reduction in the _ful1-cr_ mutant indicates that _FUL1_ is an important regulator of ethylene biosynthesis in the ripening phase, _FUL2_ also conalthough its reduction in the single mutant has little effect on visible ripening aspects.
+However, tributes, because ethylene production is even more reduced in the _ful1-cr2/ful2-cr3_ double mutants.
+Compared to wild type fruits, ethylene production decreased to 32% and 17% in two double mutant lines at Breaker stage, and to only 15% and 5% at Br+ 5 d (Fig. 3b).
+Thus, although _FUL1_ and _FUL2_ were reported to act redundantly during fruit ripening, _ful2_ mutants affect unique aspects of fruit development, both time to ripening and as well as fruit skin integrity, which are similarly affected in double mutants.
+By contrast, _ful1-cr1_ showed a very mild difference from WT without cracks or stripes in the pericarp, nor a difference in time to ripening, but a stronger effect on ethylene production.
+This is consistent with the strong increase in _FUL1_ expression during ripening, while _FUL2_ _FUL1_ and _FUL2_ is expressed in developing green fruits as well.
+Some of the differences in the functions of that have become apparent in this study may also reflect tissue-specific and temporal differences in expression.
+According to the Tomato Expression Atlas (TEA)
+[42] _FUL2_ expression is especially high in internal fruit tissues (columella, placenta, locule tissues) while _FUL1_ expression, during ripening, is more evenly distributed over pericarp and internal tissues (Supplementary Fig. 3).
+_
+FUL2_ expression however is higher than _FUL1_ expression in all fruit tissues up to the mature green stage.
+Phenotypes of _ful1_ or _ful2 null_ alleles are reported for the first time in our study and although their combined mutations had a severe ripening phenotype, they are very different from _FUL1/FUL2_ double knock-down lines reported by Shima _et al_ .
+or Wang _et al_ ., in which they showed a totally blocked ripening phenotype [21] or bright yellow fruits
+[40] when silencing both _FUL1_ and _FUL2_ .
+The orange pericarp of _ful1/ful2_ true knock-out mutants is similar to what Bemer _et al_ .
+[20] presented in their RNAi experiment, while single mutants exhibited normal red-ripe pericarp, confirming their redundant function in fruit ripening.
+Light coloured stripes at the bottom region and vertical (possibly suberized) cracks in the surface of all lines containing homozygous _ful2_ alleles have _FUL2_ in never been reported before.
+They are visible from the green fruit stage, illustrating additional roles of early fruit development and in carotenoid biosynthesis.
+Fujisawa _et al_ . showed that the promoter of _PHYTOENE_ _SYNTHASE 1_ ( _PSY1_ ) was a direct target of RIN and FUL1, but not of FUL2
+[22], suggesting that another mechanism is responsible for FUL2 regulating fruit pigmentation.
+Possibly FUL2 is involved in chloroplast formation,   Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 7   www.nature.com/scientificreports/   stability, or function during early fruit development, which would account for the lighter green areas.
+The cracks in the surface of all _ful2_ (both single and double mutant) lines are a unique phenotype of _ful2_ mutants that is not shared with _ful1_ single mutants.
+The aforementioned RNAi studies of combined _FUL1_ / _FUL2_ -function all reported thinner-cuticles, leading to faster water loss in ripe fruits [20][,][40] .
+The observed cracks in the _ful2_ CRISPR mutants indicate that this may well represent a specific _FUL2_ function in cutin formation or epidermal development in tomato fruit.
+The additive effect in ethylene production among single and double mutants proves the partially redundant functions of _FUL1_ and _FUL2_ in ethylene biosynthesis and fruit ripening.
+In contrast to the unchanged ethylene production in knock-down lines shown by Bemer _et al_ .
+[20], the strongly decreased ethylene level in _ful1_ / _2_ double knock-out mutants in our study illustrates that _FUL1_ and _FUL2_ regulate tomato fruit ripening via ethylene biosynthesis, consistent with other studies [21][,][40] .
+These discrepancies between studies are possibly caused by the use of different genotypes (MicroTom, Ailsa Craig or Moneyberg), and by the limited downregulation in the RNAi lines previously analysed [12] .
+Here it is shown that only one third or less of wild type ethylene production in _ful1/_ _ful2_ double mutants could still support some ripening progression, as it does in the _nor-cr_ mutants indicating that the initiation of ripening may only require a limited amount of ethylene, and once it reaches a threshold, ripening starts even if not progressing to its full extent.
+In conclusion, we have demonstrated the utility of CRISPR/Cas9-mutagenesis in tomato for reassessing transcription factor gene functions.
+Some phenotypes closely resembled those that were previously reported, but in addition allow the study of regulatory features such as an auto feedback regulation of transcription ( _ap2a_ ) or complementation by retransformation.
+For others, studying alternative alleles gives more insight into gene function by revealing a distinction between _null_ and dominant-negative alleles ( _nor-s_ ), respectively.
+Finally, gene-specific mutations allow the separation of functions (or demonstrate redundancy) of pairs of very similar paralogs ( _ful1_ and _ful2_ ), which are difficult to separate by older methods such as RNAi or VIGS.
+**Materials and Methods** **Plant materials and growing conditions.
+** Tomato cv.
+Moneyberg, Ailsa Craig (AC) and the AC _nor_ mutant (the latter two obtained from the Tomato Genetics Resource Centre, TGRC) were used for the _Agrobacterium tumefaciens_ -mediated transformation experiments [43] .
+Tissue culture was done in a growth chamber with 16 h light and 8 h dark at 25 °C.
+Larger plants before flowering were moved to the greenhouse facilities of Unifarm, Wageningen University & Research and grown and phenotyped under standard greenhouse conditions.
+**gRNA design and mutagenesis constructs.
+**
+[Online programs CRISPR-P 1.0 (http://crispr.hzau.edu.cn/](http://crispr.hzau.edu.cn/CRISPR/)
+[CRISPR/)](http://crispr.hzau.edu.cn/CRISPR/)
+[44]
+[and CRISPOR (http://crispor.tefor.net/crispor.py)](http://crispor.tefor.net/crispor.py) [45] were used for designing gRNAs and for excluding off-targets.
+The MoClo Toolkit [46] was used to assemble constructs with gRNAs targeting each gene and the Golden Gate cloning strategy was used as described earlier to assemble binary vectors for tomato mutagenesis [47] .
+Briefly, each gRNA fused to the synthetic Arabidopsis U6 promoter as AtU6p::gRNA was ligated in a Level 1 vector.
+Level 1 constructs _pICH47732-NOSpro::NPTII::OCST_, _pICH47742-35S::Cas9::NOST_, _pICH47732-_ gRNA1, _pICH47742-_ gRNA2 and the linker _pICH41780_ were cut/ligated into the Level 2 vector _pICSL4723_ as described [48] .
+All primers used for amplifying gRNAs with backbones are listed in Supplementary Table 1.
+**Transgenic plant genotyping.
+** Genomic DNA from young leaves was isolated using the CTAB method [49] .
+PCRs for _Cas9_ and _NPT2_ were performed for all regenerated plants and only from the _Cas9/NPT2_ positive plants target regions were sequenced.
+Heterozygous and biallelic mutants were selfed and T 1 seedlings were screened for the absence of _Cas9_ and the presences of homozygous mutations.
+Homozygous mutants without _Cas9_
+after segregation were used for further study.
+All primers used for genotyping are listed in Supplementary Table 1.
+**Fruit development phenotyping.
+** Two plants per genotype were used for phenotyping.
+Tomato flowers of all the mutant lines and WT were vibrated and labelled at the day when they were first fully open as 0 Days Post Anthesis (DPA).
+Data from at least fifteen flowers/fruits per genotype was used for calculating the time taken to reach Breaker stage.
+Fruits at 35, 40, 45, 50, 55 and 60 DPA were collected for photography.
+Ten or eleven fruits at 60 DPA were collected for size and weight measurement.
+Normal distribution of data was confirmed with the R package version 3.5.0 and ANOVA was used to test for the significance of differences between individual mutants and wild type, respectively.
+**Ethylene measurements.
+** Tomato fruits at Breaker stage and Breaker + 5 d were harvested.
+After being in open air for 30 min at room temperature fruits were placed in sealed jars for 3 h. Ethylene concentration was measured when immediately after sealing and after 3 h by injecting 1.5 mL gas to a Focus GC gas chromatograph.
+Ethylene production was calculated as ppm per gram of fruit per hour (ppm/g/h).
+Values of five or six fruits per genotype were used for analysis.
+Since ethylene data did not display a normal distribution, generalized linear model regression with a quasibinomial model was used to determine the significance of differences between genotypes.
+**Real-time PCR gene expression analysis.
+** RNA was isolated from pericarp of fruits at Br+ 5 d stage by using the InviTrap Spin Plant RNA kit (Stratec) and cDNA was synthesized by the iScript cDNA synthesis kit (Bio-Rad).
+Two replicates were analysed per plant containing one fruit each from two plants per line.
+Primers used for qRT-PCR are listed in Supplementary Table 1.
+iQ SYBR Green Supermix (Bio-Rad) and iCycler iQ5 system (Bio-Rad) were used for quantitative RT PCR. _
+Actin_ was used as a reference and relative expression changes of _AP2a_ were calculated according to 2 [−ΔΔ][Ct] method as described [50] .
+Student’s t-test was performed to detect significant differences.
+Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 8   www.nature.com/scientificreports/   **Data Availability**
+All data in this study are available in the article and supplementary files, or from the corresponding author upon request.
+Sequence data can be found in the Sol Genomics Network with the following accession numbers: _AP2a_
+[(Solyc03g044300 (https://solgenomics.net/locus/17739/view)),](https://solgenomics.net/locus/17739/view) _NAC-NOR_
+[(Solyc10g006880 (https://solgenom-](https://solgenomics.net/locus/1031/view)
+[ics.net/locus/1031/view)),](https://solgenomics.net/locus/1031/view) _FUL1_
+[(Solyc06g069430 (https://solgenomics.net/locus/581/view))
+and](https://solgenomics.net/locus/581/view) _FUL2_ (Soly[c03g114830 (https://solgenomics.net/locus/582/view)).](https://solgenomics.net/locus/582/view)   **References** 1.
+Karlova, R. _et al_ .
+Transcriptional control of fleshy fruit development and ripening.
+_
+J. Exp.
+Bot._
+**65**, 4527–4541 (2014).
+2. Robinson, R. W. & Tomes, M. L. _Ripening inhibitor_ : a gene with multiple effect on ripening.
+_
+Rep Tomato Genet Coop_ **18**, 36–37 (1968).
+3.
+Busi, M. V. _et al_ .
+MADS-box genes expressed during tomato seed and fruit development.
+_
+Plant Mol.
+Biol.
+_
+**52**, 801–815 (2003).
+4. Vrebalov, J. _et al_ .
+Fleshy fruit expansion and ripening are regulated by the tomato _SHATTERPROOF_ gene _TAGL1_ .
+_
+Plant Cell_ **21**, 3041–3062 (2009).
+5.
+Shima, Y. _et al_ .
+Tomato FRUITFULL homologues act in fruit ripening via forming MADS-box transcription factor complexes with RIN. _
+Plant Mol.
+Biol.
+_
+**82**, 427–438 (2013).
+6. Smaczniak, C., Immink, R. G. H., Angenent, G. C. & Kaufmann, K. Developmental and evolutionary diversity of plant MADSdomain factors: insights from recent studies.
+_
+Development_ **139**, 3081–3098 (2012).
+7.
+Leseberg, C. H. _et al_ .
+Interaction study of MADS-domain proteins in tomato.
+_
+J. Exp.
+Bot.
+_
+**59**, 2253–2265 (2008).
+8.
+Thompson, A. J. _et al_ .
+Molecular and genetic characterization of a novel pleiotropic tomato-pipening mutant.
+_
+Plant Physiol.
+_
+*
+*120**, 383–390 (1999).
+9.
+Manning, K. _et al_ .
+A naturally occurring epigenetic mutation in a gene encoding an SBP-box transcription factor inhibits tomato fruit ripening.
+_
+Nat.
+Genet.
+_
+**38**, 948–952 (2006).
+10.
+Kim, S., Soltis, P. S., Wall, K. & Soltis, D. E. Phylogeny and domain evolution in the _APETALA2_ -like gene family.
+_
+Mol.
+Biol.
+Evol._
+**23**, 107–120 (2006).
+11.
+Chung, M.-Y. _et al_ .
+A tomato ( _Solanum lycopersicum_ ) _
+APETALA2/ERF_ gene, _SlAP2a_, is a negative regulator of fruit ripening.
+_
+Plant_ _J._ **64**, 936–947 (2010).
+12.
+Karlova, R. _et al_ .
+Transcriptome and metabolite profiling show that APETALA2a is a major regulator of tomato fruit ripening.
+_
+Plant_ _
+Cell_ **23**, 923–941 (2011).
+13.
+Karlova, R. _et al_ .
+Identification of microRNA targets in tomato fruit development using high-throughput sequencing and degradome analysis.
+_
+J. Exp.
+Bot.
+_
+**64**, 1863–1878 (2013).
+14.
+Olsen, A. N., Ernst, H. A., Leggio, L., Lo & Skriver, K. NAC transcription factors: structurally distinct, functionally diverse.
+_
+Trends_ _Plant Sci._
+**10**, 79–87 (2005).
+15.
+Xie, Q., Frugis, G., Colgan, D. & Chua, N. H. _Arabidopsis_ NAC1 transduces auxin signal downstream of TIR1 to promote lateral root development.
+_
+Genes Dev._
+**14**, 3024–3036 (2000).
+16.
+Zhu, M. _et al_ .
+A new tomato NAC (NAM ATAF1/2/CUC2) transcription factor, SlNAC4, functions as a positive regulator of fruit ripening and carotenoid accumulation.
+_
+Plant Cell Physiol.
+_
+**55**, 119–135 (2014).
+17.
+Meng, C. _et al_ .
+Suppression of tomato SlNAC1 transcription factor delays fruit ripening.
+_J. Plant Physiol._
+**193**, 88–96 (2016).
+18.
+Tigchelaar, E., Tomes, M. & Kerr, E. B. R.
+A new ripening mutant, _non-ripening (nor_ ).
+_
+Rep. Tomato Genet.
+Coop.
+_
+**23**, 33–34 (1973).
+19.
+Giovannoni, J., Tanskley, S., Vrebalov, J. & Noensie, F. NOR gene compositions and methods for use thereof.
+Patent US 6,762,347 B1 (2004).
+20.
+Bemer, M. _et al_ .
+The tomato FRUITFULL homologs TDR4/FUL1 and MBP7/FUL2 regulate ethylene-independent aspects of fruit ripening.
+_
+Plant Cell_ **24**, 4437–4451 (2012).
+21.
+Shima, Y. _et al_ .
+Tomato FRUITFULL homologs regulate fruit ripening via ethylene biosynthesis.
+_
+Biosci.
+Biotechnol. Biochem.
+_
+**78**, 231–237 (2014).
+22.
+Fujisawa, M. _et al_ .
+Transcriptional regulation of fruit ripening by tomato FRUITFULL homologs and associated MADS box proteins.
+_
+Plant Cell_ **26**, 89–101 (2014).
+23.
+Saurabh, S., Vidyarthi, A. S. & Prasad, D. RNA interference: concept to reality in crop improvement.
+_
+Planta_ **239**, 543–564 (2014).
+24.
+Jinek, M. _et al_ .
+A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity.
+_
+Science_ **337**, 816–21 (2012).
+25.
+Brooks, C., Nekrasov, V., Lippman, Z. B. & Van Eck, J. Efficient gene editing in tomato in the first generation using the Clustered Regularly Interspaced Short Palindromic Repeats/CRISPR-associated9 system.
+_
+Plant Physiol.
+_
+**166**, 1292–1297 (2014).
+26.
+Li, J. F. _et al_ .
+Multiplex and homologous recombination-mediated genome editing in _Arabidopsis_ and _Nicotiana benthamiana_ using guide RNA and Cas9.
+_
+Nat.
+Biotechnol._
+**31**, 688–691 (2013).
+27.
+Ma, X., Zhu, Q., Chen, Y. & Liu, Y. G. CRISPR/Cas9 platforms for genome editing in plants: developments and applications.
+_
+Molecular Plant_ **9**, 961–974 (2016).
+28.
+Ito, Y. _et al_ .
+Re-evaluation of the _rin_ mutation and the role of _RIN_ in the induction of tomato ripening.
+_
+Nat.
+Plants_ **3**, 866–874 (2017).
+29.
+Ito, Y., Nishizawa-Yokoi, A., Endo, M., Mikami, M. & Toki, S. CRISPR/Cas9-mediated mutagenesis of the _RIN_ locus that regulates tomato fruit ripening.
+_Biochem.
+Biophys.
+Res. Commun.
+_
+**467**, 76–82 (2015).
+30.
+Jofuku, K. D. Control of Arabidopsis flower and seed development by the homeotic gene.
+_
+APETALA2.
+Plant Cell_ **6**, 1211–1225 (1994).
+31.
+Schwab, R. _et al_ .
+Specific effects of microRNAs on the plant transcriptome.
+_
+Dev.
+Cell_ **8**, 517–527 (2005).
+32.
+Kumar, R., Tamboli, V., Sharma, R. & Sreelakshmi, Y. NAC-NOR mutations in tomato Penjar accessions attenuate multiple metabolic processes and prolong the fruit shelf life.
+_
+Food Chem.
+_
+**259**, 234–244 (2018).
+33.
+Casals, J. _et al_ .
+Genetic basis of long shelf life and variability into Penjar tomato.
+_
+Genet.
+Resour.
+Crop Evol._
+**59**, 219–229 (2012).
+34.
+Yu, Q. _et al_ .
+CRISPR/Cas9-induced targeted mutagenesis and gene replacement to generate long-shelf life yomato lines.
+_
+Sci.
+Rep._ **7**, 11874 (2017).
+35.
+Puranik, S., Bahadur, R. P., Srivastava, P. S. & Prasad, M. Molecular cloning and characterization of a membrane associated NAC family gene, _SiNAC_ from foxtail millet [ _Setaria italica_ (L.) P. Beauv.].
+_
+Mol.
+Biotechnol._
+**49**, 138–150 (2011).
+36.
+Li, Q. _et al_ .
+Splice variant of the SND1 transcription factor is a dominant negative of SND1 members and their regulation in _Populus_ _trichocarpa_ .
+_
+Proc.
+Natl.
+Acad.
+Sci._
+**109**, 14699–14704 (2012).
+37.
+Li, S. _et al_ .
+The _RIN-MC_ fusion of MADS-box transcription factors has transcriptional activity.
+_
+Plant Physiol.
+_
+**176**, 891–909 (2017).
+38.
+Veitia, R. A.
+Exploring the molecular etiology of dominant-negative mutations.
+_
+Plant Cell_ **19**, 3843–51 (2007).
+39.
+Tigchelaar, E., McGlasson, W. & Franklin, M. Natural and ethephon-stimulated ripening of F 1 hybrids of the Ripening Inhibitor ( _rin_ ) and Non-ripening ( _nor_ ) mutants of tomato ( _Lycopevsicon esculentum_ Mill.).
+_
+Aust.
+J. Plant Physiol_ **5**, 449–456 (1978).
+40.
+Wang, S. _et al_ .
+Members of the tomato _FRUITFULL_ MADS-box family regulate style abscission and fruit ripening.
+_
+J. Exp.
+Bot._
+**65**, 3005–3014 (2014).
+41.
+Choi, Y., Sims, G. E., Murphy, S., Miller, J. R. & Chan, A. P. Predicting the functional effect of amino acid substitutions and indels.
+_PLoS
+One_ **7** (2012).
+42.
+Shinozaki, Y. _et al_ .
+High-resolution spatiotemporal transcriptome mapping of tomato fruit development and ripening.
+_
+Nat._ _
+Commun.
+_
+**9**, 364 (2018).
+Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 9   www.nature.com/scientificreports/   43.
+van Roekel, J. S. C., Damm, B., Melchers, L. S. & Hoekema, A. Factors influencing transformation frequency of tomato ( _Lycopersicon_ _esculentum_ ).
+_
+Plant Cell Rep._ **12**, 644–647 (1993).
+44.
+Lei, Y. _et al_ .
+CRISPR-P: a web tool for synthetic single-guide RNA design of CRISPR-system in plants.
+_
+Mol.
+Plant_ **7**, 1494–1496 (2014).
+45.
+Haeussler, M. _et al_ .
+Evaluation of off-target and on-target scoring algorithms and integration into the guide RNA selection tool CRISPOR.
+_
+Genome Biol.
+_
+**17**, 148 (2016).
+46.
+Weber, E., Engler, C., Gruetzner, R., Werner, S. & Marillonnet, S. A modular cloning system for standardized assembly of multigene constructs.
+_PLoS
+One_ **6** (2011).
+47.
+Engler, C., Kandzia, R. & Marillonnet, S. A one pot, one step, precision cloning method with high throughput capability.
+_PLoS
+One_ **3** (2008).
+48.
+Werner, S., Engler, C., Weber, E., Gruetzner, R. & Marillonnet, S. Fast track assembly of multigene constructs using golden gate cloning and the MoClo system.
+_
+Bioeng.
+Bugs_ **3**, 38–43 (2012).
+49.
+Porebski, S., Bailey, L. G. & Baum, B. R. Modification of a CTAB DNA extraction protocol for plants containing high polysaccharide and polyphenol components.
+_
+Plant Mol.
+Biol.
+Report.
+_
+**15**, 8–15 (1997).
+50.
+Livak, K. J. & Schmittgen, T. D. Analysis of relative gene expression data using real-time quantitative PCR and the 2 [−ΔΔ][CT] method.
+_
+Methods_ **25**, 402–408 (2001).
+**Acknowledgements**
+We thank Hani Surya Wijaya and Arne Beukema for technical assistance.
+Marian Bemer, Vera Veltkamp, and Ellen Slaman are acknowledged for carefully reading and commenting on the manuscript, Marian Bemer and Arjen van de Peppel for assistance with ethylene measurements, and Vera Veltkamp for assistance with statistics in R.
+This work was supported by a fellowship from the China Scholarship Council (CSC) to R.W., and CAPES/ NUFFIC project grant 033/12 to E.C.d.
+R.T. and A.P.M.   **Author Contributions** R.W. and R.A.d.
+M. designed research; R.W., E.C.d.
+R.T. and M.L. performed research; R.W., E.C.d.
+R.T., M.L. and R.A.d.
+M. analysed data; R.W., E.C.d.
+R.T., A.P.M., G.C.A. and R.A.d.
+M. wrote the paper.
+**Additional Information** **Supplementary information**
+[accompanies this paper at https://doi.org/10.1038/s41598-018-38170-6.](https://doi.org/10.1038/s41598-018-38170-6)
+**Competing Interests:**
+The authors declare no competing interests.
+**Publisher’s note:*
+* Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+**Open Access**
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material.
+If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the [copyright holder.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+© The Author(s) 2019
+Scientific **Reports** | _(2019) 9:1696_
+[| https://doi.org/10.1038/s41598-018-38170-6](https://doi.org/10.1038/s41598-018-38170-6) 10

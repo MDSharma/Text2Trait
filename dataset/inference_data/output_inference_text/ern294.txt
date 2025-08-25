@@ -1,0 +1,479 @@
+Journal of Experimental Botany, Vol. 60, No. 1, pp.
+325–337, 2009 doi:10.1093/jxb/ern294 Advance Access publication 16 December, 2008
+This paper is available online free of all access charges (see http://jxb.oxfordjournals.org/open_access.html for further details)
+RESEARCH PAPER  # Flavour compounds in tomato fruits: identification of loci and potential pathways affecting volatile composition   Sandrine Mathieu
+[1], Valeriano Dal Cin
+[1], Zhangjun Fei
+[2], Hua Li [3], Peter Bliss
+[1], Mark G. Taylor
+[1], Harry J. Klee
+[1,] and Denise M. Tieman
+[1]   1 Plant Molecular and Cellular Biology Program, University of Florida, Horticultural Sciences, PO Box 110690, Gainesville FL 32611, USA 2 Boyce Thompson Institute, Cornell University, Ithaca, NY 14853, USA and USDA Robert W Holley Center for Agriculture and Health, Ithaca, NY 14853, USA 3 Bioinformatics Center, Stowers Institute for Medical Research, Kansas City, Missouri 64110, USA   Received 20 August 2008;
+Revised 3 October 2008; Accepted 27 October 2008
+Abstract   The unique flavour of a tomato fruit is the sum of a complex interaction among sugars, acids, and a large set of volatile compounds.
+While it is generally acknowledged that the flavour of commercially produced tomatoes is inferior, the biochemical and genetic complexity of the trait has made breeding for improved flavour extremely difficult.
+The volatiles, in particular, present a major challenge for flavour improvement, being generated from a diverse set of lipid, amino acid, and carotenoid precursors.
+Very few genes controlling their biosynthesis have been identified.
+New quantitative trait loci (QTLs) that affect the volatile emissions of red-ripe fruits are described here.
+A population of introgression lines derived from a cross between the cultivated tomato Solanum lycopersicum and its wild relative, S. habrochaites, was characterized over multiple seasons and locations.
+A total of 30 QTLs affecting the emission of one or more volatiles were mapped.
+The data from this mapping project, combined with previously collected data on an IL population derived from a cross between S. lycopersicum and S. pennellii populations, were used to construct a correlational database.
+A metabolite tree derived from these data provides new insights into the pathways for the synthesis of several of these volatiles.
+One QTL is a novel locus affecting fruit carotenoid content on chromosome 2.
+Volatile emissions from this and other lines indicate that the linear and cyclic apocarotenoid volatiles are probably derived from separate carotenoid pools.
+Key words: Apocarotenoids, flavour, metabolism, quantitative trait loci, Solanum lycopersicum.
+Introduction    A significant portion of the human diet is made up of fruits that provide essential vitamin micronutrients as well as fibre and antioxidants.
+Fruits contain thousands of ripeningassociated secondary metabolites generated with different biological functions, many as yet undefined.
+Fruit flavour can have an important nutritional effect with good flavour promoting a higher intake.
+While flavour is widely viewed as deficient in most commercially produced tomato varieties, little progress has been made in the last half century toward its improvement.
+This lack of progress can be attributed to multiple factors.
+Post-harvest shipping and    handling practices as well as the development of extended shelf-life varieties have greatly contributed to the decline in flavour.
+But a major factor has been the emphasis of breeding programmes on larger, firmer fruits.
+Flavour has not been generally emphasized because of its complex nature and the very large number of genes ultimately contributing to the trait.
+The flavour of a particular food can be thought of as the sum of a complex interaction between taste receptors, the ortho- and retronasal olfactory systems, mouth texture, and visual appearance (Shepherd, 2006).
+In the case of tomato     - To whom correspondence should be addressed: E-mail: hjklee@ifas.ufl.edu Abbreviations: IL, introgression line; LOX, lipoxygenase; MHO, 6-methyl-5-hepten-2-one; QTL, quantitative trait locus.
+ª 2008
+The Author(s).
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/bync/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+326 | Mathieu et al.   fruit
+, the flavour chemicals have been identified (Baldwin et al., 1998).
+Taste receptors respond to sugars (principally glucose and fructose), acids (citric, malic, and ascorbic) and glutamate.
+Significant quantities of sugars and acids must be present in the fruit for it to be perceived as good and different human populations have different preferences for various sugar to acid ratios.
+Beyond the foundation of sufficient sugars and acids, a fruit must also possess sufficient quantities of volatile chemicals that impart the distinct tomato flavour.
+While over 400 volatiles have been detected in tomato (Buttery and Ling, 1993), a smaller set of 15–20 are made in sufficient quantities to have an impact on human perception (Baldwin et al., 2000).
+With a minimum of 20–25 distinct chemicals all contributing to overall flavour, it is easy to understand the magnitude of the challenge for flavour improvement through classical breeding.
+Efforts by others and ourselves have been focused on identifying genes that regulate the synthesis of the most    important 15–20 volatiles that positively contribute to tomato flavour (Fig. 1) (Saliba-Colombani et al., 2001;
+Causse et al., 2004; Tieman et al. 2006a).
+Recombinant introgression lines (ILs) produced from a cross between tomato (Solanum lycopersicum, formerly Lycopersicon esculentum) and its wild relative S. pennellii (formerly L. pennellii) (Eshed and Zamir, 1995) were used.
+Using this population, over 30 quantitative trait loci (QTLs) were identified that are reproducibly altered in one or more volatiles contributing to flavour (Tieman et al., 2006a).
+The large number of QTLs emphasizes the complexity of undertaking a molecular-assisted flavour breeding programme.
+To simplify the process, the QTLs were used as tools to identify the genes responsible for controlling volatile compound synthesis in two ways.
+First, precise knowledge of map positions will facilitate molecular cloning, particularly as the tomato genome sequence becomes available.
+Second, by cluster analysis of the    Fig.
+1.
+Structures of tomato volatiles for which a locus has been attributed in this study.
+The compounds are grouped by family precursor.
+metabolite profiles for the complete set of ILs, relationships can be determined between the various metabolites, thus identifying common pathways.
+This latter approach is important because, in many cases, the biosynthetic pathways have not been formally demonstrated.
+Rather, precursor– product relationships have been inferred based on structural considerations.
+Very few genes involved in the biosynthetic pathways of tomato flavour volatiles have been identified.
+Although the actual QTL remains to be defined, the malodorous locus on S. pennellii IL8-2 has been used as a tool to elaborate the biosynthetic pathway of a set of phenylalanine-derived volatiles, 2-phenylacetaldehyde, 2-phenylethanol, and 1nitro-2-phenylethane (Tadmor et al., 2002; Tieman et al., 2006b).
+the availability of an IL that greatly over-produces a set of metabolically related compounds facilitated defining the biosynthetic pathway and ultimately establishing candidate genes encoding the biosynthetic steps.
+The first step in this pathway is performed by a small family of aromatic amino acid decarboxylases (Tieman et al., 2006b).
+The final step is performed by another small family of phenylacetaldehyde reductases (Tieman et al., 2007).
+This work illustrates the value of robust ILs affecting the various flavour volatiles.
+Our interest was in using QTLs for establishing the biosynthetic pathways, cloning the structural genes responsible for their synthesis, and, ultimately, identifying regulatory loci controlling the rate-limiting steps.
+Such loci are also valuable in assessing broader questions regarding the importance of individual volatiles in tomato flavour.
+ILs affected in one or a small subset of volatiles can be used for consumer  taste panels.
+Such data provide qualitative and quantitative information for the subsequent genetic alteration of fruit composition.
+In order to identify the widest possible range of QTLs, a set of ILs derived from a cross between S. lycopersicum and a second wild relative of tomato, S. habrochaites (formerly L. hirsutum)
+(Monforte and Tanskley, 2000) was used.
+This small, green-fruited species is, like tomato, climacteric (Grumet et al., 1979).
+During ripening, it produces a volatile profile that is distinct from that of tomato.
+Thirty QTLs affecting 24 different volatile compounds have been identified.
+Only a few of these QTLs are likely to be alleles of the previously identified S. pennellii QTL (Tieman et al., 2006a).
+In addition, the metabolic profiles of the ILs derived from crosses between S. lycopersicum and S. pennellii or S. habrochaites have been used to construct a metabolic tree of the important tomato flavour volatiles.
+This tree provides useful information about metabolic relationships and the potential limiting steps in the biosynthesis of a number of volatiles.
+Materials and methods   Growth of plant materials   Eighty-nine introgression lines derived from a cross between S. lycopersicum and S. habrochaites (Monforte and Tanskley, 2000) and the two parents of the cross, S. lycopersicum cv.
+E6203 (LA4024) and S. habrochaites accession LA1777, were    Tomato flavour QTLs | 327   analysed for volatiles.
+The plants were grown over seven trials/seasons: spring 2003, field, Citra, FL; spring 2003, greenhouse, Gainesville, FL; autumn 2003, field, Citra, FL; spring 2004, field, Citra, FL; autumn 2004, greenhouse, Gainesville, FL; spring 2006, greenhouse, Gainesville, FL; autumn 2006, field, Live Oak, FL.
+Subsets of the lines were grown in the field in randomized, replicated plots with two plots of three plants per season.
+Field-grown plants were grown using standard commercial practices in raised plastic mulch beds.
+Plants were staked and supported with string.
+Plants were drip irrigated with tubing under the plastic mulch.
+For greenhouse trials, three plants of each line were grown in a randomized trial.
+Greenhouse-grown tomatoes were planted in three gallon pots in Metro-Mix 300 soil mix (Sun Gro Horticulture, Belleview, WA) and Osmocote fertilizer (Scotts, Marysville, OH).
+For the purpose of the analysis presented here, the site datasets were combined.
+Fruits from all plants for each line were combined and analysed as they reached the red ripe stage.
+Each line was harvested on multiple successive weeks within a season.
+Each harvest within a season was considered as a biological replication for its respective IL.
+Trials where volatile data for only a single harvest were available were discarded from further analysis.
+Volatile determinations   The volatile sampling and analysis was performed as described by Tieman et al. (2006a).
+Ripe tomato fruits from each plant and both replicates of each IL line were harvested and volatiles from pooled fruits were sampled on the day after harvest.
+Tomato fruit volatiles were sampled from chopped fruit as described by Schmelz et al. (2003).
+Briefly, chopped fruits were enclosed in glass tubes.
+Air filtered through a hydrocarbon trap (Agilent, Palo Alto, CA) flowed through the tubes for 1 h with collection of the volatile compounds on a Super Q column.
+Volatiles collected on the Super Q (Alltech, Deerfield, IL) column were eluted with methylene chloride after the addition of nonyl acetate as an internal standard.
+Volatiles were separated on an Agilent (Palo Alto, CA) DB-5 column and analysed on an Agilent 6890N gas chromatograph with retention times compared to known standards (Sigma Aldrich, St Louis, MO).
+Volatile levels were calculated as ng g [�][1] FW h
+[�]
+[1] sampling.
+Identities of volatile peaks were confirmed by GC-MS as described by Schmelz et al. (2001).
+HPLC analysis of carotenoids   Tomato fruits were sampled from plants grown in a greenhouse.
+Tomatoes were tagged at the breaker stage and harvested at breaker (B), turning (T), pink (P), and red ripe (R) according to USDA guidelines.
+Volatile measurements were performed on three biological replicates of tomato fruit as described above.
+Carotenoid extraction was performed on 0.05 g of dry weight (DW) tomato fruit according to the protocol of Fraser et al. (2000).
+Astaxanthin (Sigma A-9335) was added as an internal control prior to   328 |
+Mathieu et al.   extraction.
+Compounds were separated by HPLC and identified by their UV/Vis absorbance spectra on a photodiode array detector as described in Fraser et al. (2000) as well as comparison to standards purified from Escherichia coli strains expressing carotenoid biosynthetic genes (Cunningham and Gantt, 2007).
+TomloxC mapping   S. lycopersicum, S. pennellii DNA, and DNA from 74 S. pennellii introgression lines (Eshed and Zamir, 1995) were amplified with TomloxC forward primer 5#TCCGATTGGTTACGGTATGTT and TomloxC reverse  primer 5#-TGTTCAACAGTCATATTGTTTCCA using a 60 �C annealing temperature.
+The 471 bp PCR products were digested with HindIII.
+S. pennellii amplification products digested with HindIII, whereas S. lycopersicum products did not.
+Statistical analysis   The volatile level (ng g [�][1] FW h
+[�][1] ) values were first log 2 transformed.
+Values of zero (undetectable) were replaced by the smallest non-zero value in the whole dataset before log 2 transformation.
+Then, for each volatile, two-way ANOVA analysis was performed to test whether there is a significant difference in the volatile level among the ILs, as well as the effect of different trials on the volatile level.
+The raw P  values were corrected for multiple tests using the Benjamini and Hochberg false discovery rate (FDR) test (Benjamini and Hochberg, 1995).
+As expected, both line and trial have significant effects on the levels of all volatiles investigated in this study (data not shown).
+Then, for each volatile, each IL was compared to the control line (LA4024) using Dunett’s test to determine whether the volatile level in the IL is  significantly different from the control line.
+The resulting raw P values were also corrected for multiple tests using the Benjamini and Hochberg FDR test.
+All the statistical analyses were performed using the SAS program (SAS institute, Cary, NC).
+The complete dataset is provided in Supplementary Table S1 at JXB online.
+The same analysis was also performed on the dataset of S. pennellii derived ILs described in Tieman et al. (2006a).
+All the data and analysis results are available at the Tomato [Functional Genomics Database (http://ted.bti.cornell.edu).](http://ted.bti.cornell.edu)
+Construction of metabolite trees   Volatile profile data (the ratio between each IL and the S. lycopersicum parents) of the S. habrochaites and S. pennelliiderived ILs were combined and log 2 transformed.
+The log 2 transformed volatile profiles were clustered hierarchically using the average linkage clustering method implemented in the BCLUST program (Zhang and Zhao, 2000).
+The Pearson correlation coefficient was used to measure the similarity of the profiles in the clustering.
+The Robustness of the clustering trees was tested using the bootstrap method implemented in BCLUST (Zhang and Zhao, 2000)    with 1000 replicates.
+The clustering trees were drawn using the MEGA3 program (Kumar et al., 2004).
+Results   Volatiles analysis of the S. habrochaites and S. lycopersicum parent lines   Monforte and Tanksley (2000) described a set of near isogenic lines derived from a cross between S. lycopersicum LA4024 and S. habrochaites accession LA1777.
+To assess  the potential of this population for the identification of volatile QTLs, emissions of the most important flavourrelated volatiles from ripe fruits of LA4024 and LA1777 (Table 1) were examined.
+The results indicated that the volatile profiles of LA1777 are very different from those of tomato.
+Particularly striking are the differences in apocarotenoid volatiles.
+As expected, emissions of 6-methyl5-hepten-2-one (MHO) were greatly reduced in the greenfruited LA1777. MHO is derived from oxidative cleavage of lycopene, the primary pigment in red-fruited tomatoes (Vogel et al., 2008).
+Surprisingly, the fruits emit relatively large quantities of b-ionone and b-damascenone, two volatiles believed to be derived from cyclic carotenoid precursors.
+Emissions of methyl jasmonate, an important plant defence compound, are also highly elevated in S. habrochaites relative to S. lycopersicum fruits (Table 1).
+Identification of loci altered in volatile content   Overall, the large number of differences in volatile emissions encouraged us to assess the IL population derived from the cross between S. lycopersicum and S. habrochaites (LA1777) for QTLs.
+A set of 89 ILs was chosen that together cover most of the tomato genome.
+The lines were evaluated over several seasons and locations.
+The portions of chromosome replacement for each line are defined by a limited number of markers (Monforte and Tanksley, 2000).
+Overlaps between different IL segments permit assignment of a QTL to a ‘bin’ defined by the overlap.
+In this manner, ILs with overlapping chromosome segments showing the same significant volatile changes confirm the existence of a QTL, while ILs with overlapping segments that show different volatile profiles delimit the bins.
+A set of approximately 40 volatiles were evaluated as previously described (Tieman et al., 2006a).
+Using a FDR cut-off of 0.05, a total of 30 loci altered in one or more flavour volatiles was identified (Fig. 2; Table 2).
+Since some of the identified loci are affected in biochemically unrelated volatiles, the actual number of QTLs is probably larger than 30.
+QTLs having both a positive and a negative influence on volatile emissions were identified in the screens.
+As would be expected, loci affecting biochemically related volatiles were identified.
+For example, loci that coordinately influence emissions of multiple six-carbon (C6) volatiles were identified (1B, 12C).
+Similarly, several instances of co-ordinated effects on five-carbon (C5) volatiles were observed (1B, 4D, 6A, 6C).
+The C6 volatiles are known to   Tomato flavour QTLs | 329   Table 1.
+Volatiles emitted by ripe fruits of the two parents of the IL population, S. habrochaites LA1777 and S. lycopersicum LA4024   Volatile S. habrochaites S. lycopersicum Ratio (ng g
+[�][1] FW h
+[�]
+[1] ) LA1777 LA4024 LA1777/LA4024   b-Damascenone 0.1860.07 0.0160.00 30.31  Methyl jasmonate 0.6960.55
+0.0360.01 23.53  b-Ionone
+0.3160.21 0.0360.00 12.00  2-Methylbutanal 12.5361.54 2.5660.42 4.90  cis-2-Penten-1-ol 2.6861.31
+0.6460.09 4.15  Isobutyl acetate 11.1464.07
+2.7160.47 4.11  Geranylacetone 10.0464.58 2.6560.65 3.78  Phenylacetaldehyde
+1.0360.29 0.2860.09 3.69  2-Methylbutanol 46.96622.95 14.9962.99 3.13  Benzaldehyde 14.9067.45 4.9360.81 3.02  1-Penten-3-ol 10.7863.61 3.6460.28 2.96  1-Penten-3-one 2.0060.81 0.6860.11 2.93  Pentanal 12.7864.42 5.0760.36 2.52  Methylsalicylate 3.1562.98 1.2660.28 2.50  Methyl benzoate 4.0062.00
+1.6160.49 2.48  cis-3-Hexenal 169.216117.83 69.13613.94 2.45  2-Methoxyphenol 2.3961.26 1.0160.31 2.36  trans-2-Hexenal 4.4761.53 2.5260.72 1.77  Methional 0.2460.18 0.1460.02 1.70  Geranial 0.3760.28
+0.2360.07 1.65  cis-3-Hexen-1-ol 63.87632.25 45.1269.39 1.42  trans-2-Pentenal 0.8160.50
+1.1460.16 0.72
+Benzyl alcohol 0.2760.15
+0.4360.11 0.63  2-Phenylethanol 0.2460.04 0.4260.15 0.58
+Hexyl alcohol 20.02616.24 36.08613.02 0.56  3-Methylbutanol 15.7466.04 34.8065.91 0.45  Hexanal 54.12627.38 120.18614.58 0.45  1-Pentanol 2.2161.42
+4.9861.07 0.44  1-Nitro-2-phenylethane 0.4260.28 1.2560.30 0.33  trans-2-Heptenal 0.2060.10 0.8460.23 0.24  2-Isobutylthiazole 0.4860.29
+5.0560.75 0.09  Isovaleronitrile 0.6160.33
+6.9061.80 0.09  6-Methyl-5-hepten-2-one 0.2760.10
+6.3161.45 0.04    be synthesized from linoleic and linolenic acids via a 13lipoxygenases pathway (Bate and Rothstein, 1998; Chen et al., 2004).
+As has previously been observed with ILs derived from a cross between S. lycopersicum and S. pennellii (Tieman et al. 2006a), there are also several loci affected in emissions of multiple volatiles believed to be derived from leucine or isoleucine (1D, 4E, 5A, 7A).
+While the pathway(s) for synthesis of 2-methylbutanal, 2methylbutanol, 3-methylbutanal, and 3-methylbutanol have not been established in plants, structural considerations support leucine and isoleucine precursors.
+One previously undescribed QTL localized on chromosome 2 (2A) of ILs 3922 and 3923 was associated with a greatly reduced accumulation of carotenoids and their volatile apocarotenoid derivatives (Fig. 3).
+Fruits containing the S. habrochaites 2A locus accumulated ripeningassociated lycopene much slower than the controls and never turned fully red.
+Carotenoid analysis revealed that the fruits are deficient in lycopene and its linear carotenoid precursors (Fig. 3C).
+While the gene encoding vegetative phytoene synthase, PSY2, is located on chromosome 2, the    two ILs have the wild-type S. lycopersicum PSY2 gene (data not shown).
+Further, the PSY1 gene, encoding the enzyme responsible for fruit lycopene production, is localized on chromosome 3.
+It has previously been shown that the carotenoid content of a fruit is directly correlated with apocarotenoid emissions (Lewinsohn et al., 2005; Tieman et al., 2006a).
+For the ILs 3922 and 3923, much lower emissions of geranylacetone and MHO are the consequence of significantly lower levels of lycopene and its more saturated precursors (Fig.
+3B, C).
+Unexpectedly, levels of b-carotene and its corresponding apocarotenoid volatile b-ionone were lower, but not significantly reduced (see the Supplementary data at JXB online).
+A significant pool of b-carotene exists in fruits prior to ripening as part of the chloroplast photosynthetic apparatus (Fraser et al., 1994) and this may be the source of the b-ionone.
+Metabolite cluster analysis   Despite the importance of the volatiles analysed in the present work to tomato flavour as well as to the flavour of   330 | Mathieu et al.   Fig.
+2. Map locations of QTLs with altered volatile emissions.
+The labels refer to loci identified in Table 2.
+The solid lines indicate the space between markers that are present in an IL with a given QTL.
+Dashed lines indicate the distance to the next adjacent marker absent from the relevant line(s).
+No QTLs were identified on chromosomes 8 and 9.
+many other fruits and vegetables, the genes controlling the synthesis of many of them have not been identified.
+In some instances, the pathways for synthesis are not fully elaborated.
+Cluster analysis of metabolites can be a valuable way to gain insights into pathways for synthesis (Tikunov et al.,    2005; Morreel et al., 2006).
+Volatiles derived from the same precursors should group together.
+In theory, clustering can also be informative about the rate-limiting steps in synthesis.
+In order to gain further insights into the particular set of volatiles analysed here, the data set used in the mapping   Table 2. QTLs affected in volatile emissions identified in the present study   The loci refer to map positions as indicated in Fig.
+2.
+The ratio of emissions of the IL relative to the S. lycopersicum parent is indicated for each volatile.
+All values are significant at P < 0.01 unless indicated with an asterisk for which the value is significant at P < 0.02.
+Locus Volatile Line Ratio (IL/LA4024)   1A cis-3-Hexenal LA3920 0.19  1B 1-Penten-3-ol LA3995 0.62  cis-2-Penten-1-ol LA3995 0.40
+Hexyl alcohol LA3917 0.18  Hexanal LA3917 0.20  cis-3-Hexen-1-ol LA3995 0.47  cis-3-Hexenal LA3995 0.24  1C Isobutyl acetate LA3916 11.54  1D 3-Methylbutanol LA3917 0.15  2-Methylbutanol LA3913 0.17  Isovaleronitrile LA3917 0.11  1E 2-Phenylethanol LA3916 11.70  Methylbenzoate LA3915 4.30  1F 2-Methoxyphenol LA3998 14.80  1G Methional LA3917 0.26  2A Geranylacetone LA3922 0.05  6-Methyl-5-hepten-2-one LA3923 0.05  3A cis-3-Hexenal LA3944 0.25  4A 2-Isobutylthiazole LA4000 0.14  4B 2-Phenylethanol LA3932 0.17  4C 3-Methylbutanol LA3932 0.20  4D 1-Penten-3-one LA3935 2.18  1-Penten-3-ol LA3937 1.61  1-Pentanol LA3935 1.72  Pentanal LA3937 1.75  4E 3-Methylbutanal LA4007 2.70  3-Methylbutanol LA4007 3.38  5A 2-Phenylethanol LA3980 5.10  Isobutyl acetate LA3938 3.14  2-Methylbutanol LA3938 4.60  Isovaleronitrile LA3980 5.25  2-Methylbutanal LA3980 3.63  3-Methylbutanal LA3980 2.31  2-Isobutylthiazole LA3980 3.00
+Benzyl alcohol LA3980 3.62  6A 1-Penten-3-ol LA3945 2.41  1-Penten-3-one LA4009 1.95*  6B cis-3-Hexenal LA3944 0.25  6C 1-Penten-3-one LA4008 3.00  1-Penten-3-ol LA4008 2.00  7A 2-Methylbutanal LA3950 0.22  3-Methylbutanal LA3950 0.17  trans-2-Pentanal LA3950 0.04  7B 2-Methylbutanal LA4009 0.42  10A Benzaldehyde LA3965 3.91
+Benzyl alcohol LA3965 6.30  10B
+Isovaleronitrile LA3965 3.96  Methional LA3965 2.92  10C 1-Nitro-2-phenylethane LA3946 0.22  11A Benzaldehyde LA4003 0.32  11B 2-Methoxyphenol LA3995 32.63  11C
+Benzaldehyde LA3964 3.32    Tomato flavour QTLs | 331   Table 2.
+Continued   Locus Volatile Line Ratio (IL/LA4024)
+Benzyl alcohol LA3965 6.28  Isovaleronitrile LA3965 3.96  12A 1-Penten-3-one LA4002 2.01  12B 3-Methylbutanal LA3969 2.40  12C Hexanal LA3995 0.30  cis-3-Hexenal LA3995 0.24  cis-3-Hexen-1-ol LA3999 0.36  12D Isobutyl acetate LA3998 23.30   was combined with the previously generated data set from ILs derived from a cross between S. lycopersicum and S. pennellii (Tieman et al., 2006a).
+This approach allowed us to cluster the data from 74 ILs derived from a cross between S.  lycopersicum and S. pennellii, 89 ILs derived from a cross between S. lycopersicum and S. habrochaites, as well as the four parents grown over 4 years at three different locations.
+This large number of data points from two IL populations and their parents yielded the tree shown in Fig.
+4.
+The correlation matrix of the volatile profiles as well as a heatmap of the matrix are provided as supplementary information in Table S2 and Fig.
+S1 at JXB online.
+Validation of the approach is provided by certain predictions.
+All of the C5 volatiles cluster together, as do the C6 volatiles.
+Within the C5 and C6 volatile clusters, there is a clear separation of the aldehydes from the alcohols.
+Synthesis of the C5 and C6 volatiles is likely to be initiated by the action of a lipoxygenase or hydroperoxide lyase.
+A lipoxygenase gene has been shown to be responsible for the production of C6 volatiles in tomato fruit (Chen et al., 2004).
+A marker that is polymorphic between S. lycopersicum and S. pennellii was used to determine if TomloxC maps to one of the loci identified with altered C6 or C5 volatiles.
+By screening the ILs derived from a cross between S. lycopersicum and S. pennellii (Eshed and Zamir, 1995) for the presence or absence of that polymorphism, it was possible to map TomloxC to the top of chromosome 1 (bin 1A).
+This is the same region associated with much lower levels of cis-3-hexenal in S. habrochaites QTL 1A (Fig. 2; Table 1).
+These data suggest that identifying loci associated with altered volatile levels can be used as a tool to identify the genes responsible for these traits.
+Similar clustering of most, though not all, of the phenylalanine-derived volatiles is observed.
+For example, it has been shown that 2-phenylethanol is derived from phenylacetaldehyde by the action of a reductase enzyme (Tieman et al., 2007).
+These two compounds have a bootstrap value of 100 (Fig. 4).
+An unexpected result from the clustering concerns the accumulation of the linear and cyclized apocarotenoid volatiles.
+Synthesis of these two classes of apocarotenoid volatiles is not highly correlated.
+The linear apocarotenoids geranylacetone and MHO clustered together with a bootstrap value of 100, whereas b-ionone is separated from                                        these two volatiles on the metabolic tree.
+Although b damascenone was not included in the earlier study of ILs   332 | Mathieu et al.   Fig.
+3.
+Carotenoids and apocarotenoid volatiles produced by LA3923.
+(A) Developmental series of fruits from control (LA4024, squares) and LA3923 (triangles) harvested at breaker (0) and subsequent days indicated below (see Materials and methods).
+(B) Emissions of 6-methyl-5-hepten-2-one (MHO) (red) and geranylacetone (blue) from fruits at the indicated stages of ripening.
+(C) Quantification of lycopene (red) and b-carotene (green) from the same fruits as for (B).
+LA1777 is the S. habrochaites parent.
+Note the broken ordinate scales for values on the graphs shown in (B) and (C).
+Graphs show values 6SE.   derived from the cross between S. lycopersicum and S. pennellii (Tieman et al., 2006a), it was included in the analysis of ILs derived from the cross between S. lycopersicum and S. habrochaites.
+The pathway for synthesis of this apocarotenoid has not been determined, but our data indicate that it is probably derived from b-carotene since it clustered with bionone, having a bootstrap value of 100 (data not shown).
+The results suggest that there are probably significant differences in the two pools of carotenoids.
+This conclusion is further bolstered by the differential effects on apocarotenoid volatiles produced by the 3922 and 3923 lines (Fig. 3).
+The clustering predicts that 2-isobutylthiazole and isovaleronitrile should be synthesized from leucine (Fig. 4).
+While this has not been formally shown, such a relationship makes structural sense.
+The data also show an unexpected relationship between 2-methoxyphenol and methylbenzoate.
+Methylbenzoate does not cluster with benzaldehyde or benzyl alcohol, other compounds derived from benzoic acid, suggesting that the methyltransferase(s) responsible for its synthesis is limiting.
+Discussion   The approach of using wild relatives of crop species as a source of valuable genes is well established.
+For example, in tomato, the sexually compatible wild relatives have been used as a source of disease resistance (Rick and Chetelat, 1995).
+ILs derived from a cross between S. lycopersicum and S. pennellii are a rich source of QTLs affecting fruit volatile content (Tieman et al., 2006a) as well as a wide range of primary metabolites (Schauer et al., 2006).
+S. habrochaites is another wild relative of tomato that produces extremely high levels of ethylene during climacteric ripening (Grumet et al., 1979).
+The ripe fruits are pale green with a purple stripe, lacking significant quantities of lycopene.
+Monforte and Tanksley (2000) described a set of near isogenic lines derived from a cross between S. lycopersicum and S. habrochaites accession LA1777.
+In the present work, the IL population derived from this cross was examined for volatile content, allowing us to identify at least 30 loci affecting the emission of one or more volatiles.
+Using the biochemical data generated in the analysis of both populations, it was possible to derive a metabolic tree for the major flavour-associated tomato volatiles.
+The associations derived from clustering of the 167 lines permitted relationships among the compounds to be defined.
+These relationships are predictive of both commonalities of precursors and of limiting steps in the pathways for their synthesis.
+In several instances, the S. habrochaites-derived QTLs identified in this study localize to similar positions as previously mapped QTLs derived from a cross between two tomato cultivars (Saliba-Colombani et al., 2001) or the IL population derived from a cross between S. lycopersicum and S. pennellii (Tieman et al., 2006a).
+These potentially common loci are listed in Table 3.
+It must be noted that  each of the three studies analysed slightly different subsets of volatiles.
+Further, the rather large segments defined by some of the ILs do not exclude multiple loci affecting the same volatiles.
+By examining the patterns of cosegregation between the different volatiles as well as the relationships shown on the metabolic tree (Fig. 4), we can begin to extract information about the various metabolic pathways.
+Apocarotenoid volatiles   A QTL on chromosome 2, with greatly reduced emissions of two apocarotenoid volatiles, geranylacetone and MHO, was identified.
+These reduced emissions are a consequence of the significantly lower levels of linear carotenoid   Tomato flavour QTLs | 333   Fig.
+4.
+Volatiles tree.
+The relationships among the various volatiles in this study was determined by clustering of the data derived from 74 ILs derived from a cross between S. lycopersicum and S. pennellii, 89 ILs derived from a cross between S. lycopersicum and S. habrochaites, as well as the four parents of the two populations.
+The method for derivation of the tree is described in Materials and methods.
+Numbers are bootstrap values for each branch.
+C5, five-carbon volatiles; C6, six-carbon volatiles; L/I, leucine or isoleucinederived volatiles; F, phenylalanine-derived volatiles.    substrates present in ripening LA3922 and LA3923 fruits.
+There are also lower levels of b-carotene and its corresponding apocarotenoid, b-ionone, in these fruits although the reductions are not statistically significant.
+All of these volatiles are produced by the oxidative cleavage of double bonds present in the backbones of the various carotenoids.
+It has previously been shown that the carotenoid cleavage dioxygenases, CCD1A and CCD1B, are at least partially responsible for the synthesis of the apocarotenoid volatiles (Simkin et al., 2004).
+The CCD1 enzymes have broad substrate specificity, cleaving multiple linear and cyclic carotenoids at either the 5,6 or 9,10 double bond positions (Vogel et al., 2008).
+Interestingly, the apocarotenoid volatiles are not emitted until relatively late in fruit development (Tieman et al., 2006a) and the carotenoid content of the fruit determines which apocarotenoids are synthesized (Lewinsohn et al., 2005; Tieman et al., 2006a).
+Further,    LeCCD1A and LeCCD1B have been mapped and neither gene corresponds to an apocarotenoid QTL (data not shown).
+CCD1 enzymes lack plastid targeting signals and are cytoplasmic (Auldridge et al., 2006).
+Since expression of the CCD1 genes greatly precedes volatile emissions (Simkin et al., 2004), it is possible that the limiting step in apocarotenoid synthesis is the access of the enzymes to the substrates, possibly during or subsequent to conversion of chloroplasts to chromoplasts.
+Notably, the apocarotenoids cluster with the C6 volatiles in the metabolic tree (Fig. 4).
+It has been proposed that the synthesis of the C6 volatiles is limited by the availability of non-esterified fatty acids to the chloroplast-localized 13-lipoxygenase (Chen et al., 2004).
+The chloroplast to chromoplast transition and disruption of the thylakoid membranes that bring 13-lipoxygenase in contact with its fatty acid substrates may also permit access of CCD enzymes to their carotenoid substrates.
+334 | Mathieu et
+al.
+Table 3. QTLs from the present study with possible overlap to previously identified QTLs altered in volatile emissions (SalibaColombani et al., 2001; Tieman et al., 2006a)   QTL Affected volatiles Reference   1A cis-3-Hexenal Saliba-Colombani  1B cis-2-Penten-1-ol Tieman  1F 2-Methoxyphenol Tieman  4A Isobutylthiazole Saliba-Colombani  4D Pentanal, 1-penten-3-one Tieman  4E 3-Methylbutanal, Tieman  3-Methylbutanol   5A 2-Methylbutanol, Tieman  3-Methylbutanal, isovaleronitrile   7A 3-Methylbutanal Tieman  10B
+Isovaleronitrile Tieman
+The differential effects on the emissions of geranylacetone and MHO versus b-ionone and b-damascenone in LA3922 and LA3923 suggest that these two sets of volatiles could be derived from different pools of carotenoids.
+This conclusion is supported by the clustering of MHO and geranylacetone and their separation from b-ionone and b-damascenone (Fig. 4).
+Since the same enzyme(s) are possibly involved in the synthesis of both linear and cyclic apocarotenoids (Simkin et al., 2004; Vogel et al., 2008), the data strongly suggest that they are derived from separate substrate pools of carotenoid precursors.
+Geranylacetone can only be derived from the 9,10 bond cleavage of more saturated linear carotenoid precursors of lycopene.
+These precursors do not normally accumulate to significant levels in tomato fruits (Fraser et al., 1994).
+b-ionone, in contrast, is derived from 9,10 and/or 9#,10’ bond cleavage of b-carotene (Vogel et al., 2008).
+Notably, a pathway for synthesis of b-damascenone has not been established, although this compound has been postulated to be generated from neoxanthin, with grasshopper ketone as an intermediate (Skouroumounis et al., 1993).
+The cluster analysis strongly supports b-carotene as the precursor, although there must be subsequent modifications.
+Leucine and isoleucine-derived volatiles   On the basis of structural considerations, it is assumed that 3-methylbutanal and 3-methylbutanol are derived from leucine while 2-methylbutanal and 2-methylbutanol are derived from isoleucine.
+The precise pathways for their synthesis and the responsible enzymes have not been identified in plants but a pathway has been described in yeast (Dickinson et al., 2000, 2003).
+This proposed pathway begins with the action of branched chain aminotransferases (BCATs) that remove the amino groups from the respective amino acids.
+Subsequently, there is a decarboxylation to produce the aldehydes and a reduction to form the alcohols.
+The tight linkage within the metabolic clustering of the two aldehydes and the two alcohols indicates co-ordinate synthesis (Fig. 4).
+In Arabidopsis thaliana, AtBCAT1 has    been shown to catalyse the deamination of all three branched chain amino acids (leucine, isoleucine, and valine)
+(Schuster and Binder, 2005).
+Multiple QTLs affect the emission of the volatiles derived from branched chain amino acids.
+Seven out of the 30  QTLs identified here are affected in one or more of these volatiles.
+There are six BCAT enzymes in Arabidopsis, although nothing is known about their relative contributions to anabolic versus catabolic functions.
+It is also  possible that amino acid pools may contribute to the regulation of volatile synthesis.
+Several QTLs affecting fruit leucine and isoleucine pools were identified within the IL population derived from a cross between S. lycopersicum and S. pennellii (Schauer et al., 2006) and these could influence the rates of volatile synthesis.
+A QTL for higher leucine and isoleucine levels was found at the bottom of chromosome 4.
+This locus was associated with higher levels of 3-methylbutanol and 3-methylbutanal in the IL populations derived from crosses of both S. pennellii and S. habrochaites with S. lycopersicum.
+Conversely, a QTL for lower isoleucine levels is located at the top of chromosome 5, but higher levels of 2-methylbutanol, 3-methylbutanal, and isovaleronitrile were observed in both IL populations.
+(Table 3; Schauer et al., 2006)
+It is possible that multiple loci for the isoleucine and leucine-derived volatiles are the  result of altered substrate levels or altered biosynthetic enzyme activities.
+C5 and C6 volatiles   Several loci that are affected in C5 or C6 volatiles were  identified.
+A locus on chromosome 1 (1B) was associated with lower levels of both C5 and C6 alcohols and C6  aldehydes (Table 2; Fig. 2).
+Interestingly, a locus in the same region of chromosome 1 in the IL population derived from a cross between S. lycopersicum and S. pennellii was associated with higher levels of C5 alcohols and aldehydes.
+The metabolite clustering of all C6 volatiles in a single branch is consistent with the results of Chen et al. (2004), who observed that antisense reduction of one isoform of the  13-lipoxygenase, TomloxC, resulted in almost complete loss of multiple C6 volatiles in tomato fruits.
+These authors did not report on synthesis of C5 volatiles.
+TomloxC maps to bin 1A in the S. pennellii population, a region associated with lower levels of cis-3-hexenal (Tables 2, 3).
+These data further suggest that TomloxC is responsible for the formation of C6 volatiles in tomato fruit.
+The metabolite clustering results indicate that the C5 volatiles are all co-ordinately synthesized.
+Although the biosynthetic pathway of the C5 volatiles has not been elucidated, it has been shown that 1-penten-3-ol was directly generated from a so-called C 5 -13-cleavage activity of lipoxygenase(s) in soybean (Salch et al., 1995; Fisher et al., 2003).
+The combined tree does not closely cluster C5 and C6 volatiles, suggesting that 13-lipoxygenase alone cannot be the limiting factor for their synthesis.
+The C5 aldehydes and C5 alcohols are separated within the C5 branch of the metabolite tree.
+The C6 alcohols also   cluster separately from the C6 aldehydes.
+These results are consistent with a single reductase/alcohol dehydrogenase enzyme acting on multiple aldehydes.
+Speirs et al. (1998) have reported that antisense knockdown of a single gene, ADH2, influenced the aldehyde to alcohol ratios of both hexanol and cis-3-hexenol.
+These results are also consistent  with reductase activity being limiting for the aldehyde to alcohol conversion in both instances.
+Phenolics   2-methoxyphenol, also known as guaiacol, is a compound that imparts a distinct flavour, frequently associated with off-odours.
+Tikunov et al. (2005) have reported that 2methoxyphenol and methylbenzoate were closely associated with other phenylpropanoids such as salicylaldehyde, eugenol, methyl salicylate, and ethyl salicylate.
+This metabolite cluster analysis clearly separates 2-methoxyphenol and methyl benzoate from other phenylpropanoids.
+These data suggest that methylation of the phenylpropanoids is separately regulated from the synthesis of the substrates.
+If methylation is also limiting for the synthesis of 2-methoxyphenol, the results would implicate catechol as the immediate precursor to 2-methoxyphenol.
+It should be noted that there is no obvious relationship with a third volatile, isobutyl acetate, which is also part of this same cluster.
+Although its biosynthetic pathway has not been determined in tomato, researchers have shown that Omethyltransferases are capable of methylating catechol and related polyphenolics in vitro (Pellegrini et al., 1993; Maury et al., 1999; Lavid et al., 2002).
+These phenolics have been shown to be important defence compounds against pathogens (Chet et al., 1978) and insects (Duffey and Isman, 1981) and transcription of the O-methyltransferase genes is frequently up-regulated by exposure to pathogens (Pellegrini et al., 1993;
+Lavid et al., 2002).
+Similarly, methylbenzoate has been shown to be synthesized by a benzoic acid/salicylic acid carboxyl methyltransferase (BSMT) from benzoate in several plant organisms (Effmert et al., 2005).
+However, the enzymes responsible for synthesis of methylbenzoate are believed to be quite distinct from the catecholO-methyltransferases.
+By examining an IL population derived from a cross between S. lycopersicum and S. habrochaites, multiple loci involved in the altered production of flavour volatiles have been identified.
+The QTLs presented in this paper can be used as a tool to identify genes involved in the production of flavour volatiles.
+Along with the previously published data describing volatile analysis of an IL population derived from a cross between S. lycopersicum and S. pennellii (Tieman et al., 2006a), these data were used to construct the metabolite tree.
+This tree can be used to determine relationships and possible common biosynthetic pathways within groups of volatiles.
+Mapping of TomLoxC to a locus altered in cis-3-hexenal further demonstrates the use of QTL mapping for the identification of pathways to important flavour volatiles.
+Tomato flavour QTLs | 335   Supplementary data   Supplementary materials for this manuscript can be found at JXB online.
+The combined values for all volatiles and  lines can be found in Supplementary Fig.
+S1 and in Supplementary Tables S1 and S2.
+Acknowledgements   This work was supported in part by the Florida Agricultural Experiment Station, the Lyle Dickman family, and a grant to HK and ZF from the National Science Foundation (DBI-0501778).
+We gratefully acknowledge the help provided by Dawn Bies, Tomika Briscoe, Marcie Kindle, Tiffany Lester, Isaac Mickens, and Thelma Madzima in harvesting and processing the fruits used in these experiments.
+References   Auldridge ME, Block A, Vogel JT, Dabney-Smith C, Mila I,  Bouzayen M, Magallanes-Lundback M, DellaPenna D,  McCarty DR, Klee HJ. 2006.
+Characterization of three members of  the Arabidopsis carotenoid cleavage dioxygenase family demonstrates  the divergent roles of this multifunctional enzyme family.
+The Plant  Journal 45, 982–993.
+Baldwin EA, Scott JW, Einstein MA, Malundo TMM, Carr BT,  Shewfelt RL, Tandon KS. 1998.
+Relationship between sensory and  instrumental analysis for tomato flavour.
+Journal of the American  Society of Horticultural Sciences 123, 906–915.
+Baldwin EA, Scott JW, Shewmaker CK, Schuch W. 2000.
+Flavour  trivia and tomato aroma: biochemistry and possible mechanisms for  control of important aroma components.
+Hort Science 35, 1013–1022.
+Bate NJ, Rothstein SJ. 1998.
+C-6-volatiles derived from the  lipoxygenase pathway induce a subset of defence-related genes.
+The  Plant Journal 16, 561–569.
+Benjamini Y, Hochberg Y. 1995.
+Controlling the false discovery rate:  a practical and powerful approach to multiple testing.
+Journal of the  Royal Statistical Society.
+Series B 57, 289–300.
+Buttery RG, Ling LC.
+1993.
+Volatile components of tomato fruit and  plant parts: relationship and biogenesis.
+ACS Symposium Series 525,  23–34.
+Causse M, Duffe P, Gomez MC, Buret M, Damidaux R, Zamir D,  Gur A, Chevalier C, Lemaire-Chamley M, Rothan C. 2004.
+A  genetic map of candidate genes and QTLs involved in tomato fruit size  and composition.
+Journal of Experimental Botany 55, 1671–1685.
+Chen G, Hackett R, Walker D, Taylor A, Zhefeng L, Grierson D.  2004.
+Identification of a specific isoform of tomato lipoxygenase  (TomloxC) involved in the generation of fatty acid-derived flavour  compounds.
+Plant Physiology 136, 2641–2651.   Chet I, Havkin D, Katan J. 1978.
+Role of catechol in inhibition of  Fusarium wilt.
+Phytopathologische Zeitschrift 91, 60–66.
+Cunningham FX, Gantt E. 2007.
+A portfolio of plasmids for  identification and analysis of carotenoid pathway enzymes: Adonis  aestivalis as a case study.
+Photosynthesis Research 92, 245–259.   336 | Mathieu et al.   Dickinson JR, Harrison SJ, Dickinson JA, Hewlins MJ. 2000.
+An  investigation of the metabolism of isoleucine to active amyl alcohol in  Saccharomyces cerevisiae.
+Journal of Biological Chemistry 275,  10937–10942.
+Dickinson JR, Salgado LE, Hewlins MJ. 2003.
+The catabolism of  amino acids to long chain and complex alcohols in Saccharomyces  cerevisiae.
+Journal of Biological Chemistry 278, 8028–8034.
+Duffey S, Isman M. 1981.
+Inhibition of insect larval growth by phenolics  in glandular trichomes of tomato leaves.
+Experientia 37, 574–576.
+Effmert U, Saschenbrecker S, Ross J, Negre F, Fraser CM,  Noel JP, Dudareva N, Piechulla B. 2005.
+Floral benzenoid carboxyl  methyltransferases: from in vitro to in planta function.
+Phytochemistry  66, 1211–1230.
+Eshed Y, Zamir D. 1995.
+An introgression line population of  Lycopersicon pennellii in the cultivated tomato enables the identification  and fine mapping of yield-associated QTL.
+Genetics 141, 1147–1162.
+Fisher AJ, Grimer HD, Fall R. 2003.
+The biochemical origin of  pentenol emissions from wounded leaves.
+Phytochemistry 62, 159–163.
+Fraser PD, Truesdale MR, Bird CR, Schuch W, Bramley PM.  1994.
+Carotenoid biosynthesis during tomato fruit development  (evidence for tissue-specific gene expression).
+Plant Physiology 105,  405–413.
+Fraser PD, Pinto ME, Holloway DE, Bramley PM.
+2000.
+Technical  advance: application of high-performance liquid chromatography with  photodiode array detection to the metabolic profiling of plant  isoprenoids.
+The Plant Journal 24, 551–558.
+Grumet R, Herner RC, Fobes JF. 1979.
+Variability among wild  tomato species for ripening characteristics.
+HortScience 14, 461–461.
+Kumar S, Tamura K, Nei M. 2004.
+MEGA3: integrated software for  molecular evolutionary genetics analysis and sequence alignment.
+Briefings in Bioinformatics 5, 150–163.
+Lavid N, Wang J, Shalit M, et al. 2002.
+O-Methyltransferases  involved in the biosynthesis of volatile phenolic derivatives in rose  petals.
+Plant Physiology 129, 1899–1907.
+Lewinsohn E, Sitrit Y, Bar E, Azulay Y, Meir A, Zamir D,  Tadmor Y. 2005.
+Carotenoid pigmentation affects the volatile  composition of tomato and watermelon fruits, as revealed by  comparative genetic analyses.
+Journal of Agricultural and Food  Chemistry 53, 3142–3148.
+Maury S, Geoffroy P, Legrand M. 1999.
+Tobacco O-methyltrans ferases involved in phenylpropanoid metabolism.
+The different  caffeoyl-coenzyme A/5 hydroxyferuloyl-coenzyme A 3/5-O methyltransferase and caffeic acid/5 hydroxyferulic acid 3/5-O methyltransferase classes have distinct substrate specificities and  expression patterns.
+Plant Physiology 121, 225–223.
+Monforte AJ, Tanksley SD. 2000.
+Development of a set of near  isogenic and backcross recombinant inbred lines containing most of the  Lycopersicon hirsutum genome in a L. esculentum genetic background:  a tool for gene mapping and gene discovery.
+Genome 43, 803–813.
+Morreel K, Geominne G, Storme V, et al. 2006.
+Genetical  metabolomics of flavonoid biosynthesis in Populus: a case study.
+The  Plant Journal 47, 224–237.
+Pellegrini L, Geoffroy P, Fritig B, Legrand M. 1993.
+Molecular cloning and expression of a new class of ortho-diphenol-O-methyl   transferases induced in tobacco (Nicotiana tabacum L.) leaves by  infection or elicitor treatment.
+Plant Physiology 103, 509–517.
+Rick CM, Chetelat RT. 1995.
+Utilization of related wild species for  tomato improvement.
+Acta Horticulturae 412, 21–38.
+Salch YP, Grove MJ, Takamurah H, Gardner HW.
+1995.
+Charac terization of a C-5,13 –cleaving enzyme of 13(S)-hydroperoxide of  linolenic acid by soybean seed.
+Plant Physiology 108, 1211–1218.
+Saliba-Colombani V, Causse M, Langlois D, Philouze J,  Buret M. 2001.
+Genetic analysis of organoleptic quality in fresh  market tomato.
+1.
+Mapping QTLs for physical and chemical traits.
+Theoretical and Applied Genetics 102, 259–272.
+Schauer N, Semel Y, Roessner U, et al. 2006.
+Comprehensive  metabolic profiling and phenotyping of interspecific introgression lines  for tomato improvement.
+Nature Biotechnology 24, 447–454.
+Schmelz EA, Alborn HT, Banchio E, Tumlinson JH. 2003.
+Quantitative relationships between induced jasmonic acid levels and  volatile emission in Zea mays during Spodoptera exigua herbivory.
+Planta 216, 665–673.
+Schmelz EA, Alborn HT, Tumlinson JH. 2001.
+The influence of  intact-plant and excised-leaf bioassay designs on volictin- and  jasmonic acid-induced sesquiterpene volatile release in Zea mays.
+Planta 214, 171–179.
+Schuster J, Binder S. 2005.
+The mitochondrial branched-chain  aminotransferase (AtBCAT-1) is capable to initiate degradation of  leucine, isoleucine and valine in almost all tissues in Arabidopsis  thaliana.
+Plant Molecular Biology 57, 241–254.
+Shepherd G. 2006.
+Smell images and the flavour system in the  human brain.
+Nature 444, 316–321.
+Simkin A, Schwartz S, Auldridge M, Taylor M, Klee H. 2004.
+The tomato CCD1 (CAROTENOID CLEAVAGE DIOXGENASE 1) genes  contribute to the formation of the flavour volatiles b-ionone, pseudoio none, and geranylacetone.
+The Plant Journal 40, 882–892.
+Skouroumounis GK, Massy-Westropp RA, Sefton M,  Williams PJ. 1993.
+b-damascenone formation in juices and wines.
+In:  Schreier P, Winterhalter P, eds.
+Progress in flavour precursor studies.
+Carol Stream, IL: Allured Publishing, 275–278.
+Speirs J, Lee E, Holt K, Yong-Duk K, Scott NS, Loveys B,  Schuch W. 1998.
+Genetic manipulation of alcohol dehydrogenase  levels in ripening tomato fruit affects the balance of some flavour  aldehydes and alcohols.
+Plant Physiology 117, 1047–1058.
+Tadmor Y, Fridman E, Gur A, Larkov O, Lastochkin E, Ravid U,  Zamir D, Lewinsohn E. 2002.
+Identification of malodorous, a wild  species allele affecting tomato aroma that was selected against  during domestication.
+Journal of Agriculture and Food Chemistry 50,  2005–2009.
+Tieman D, Loucas H, Kim J-Y, Clark D, Klee H. 2007.
+Tomato  phenylacetaldehyde reductases catalyze the last step in the  synthesis of the aroma volatile 2-phenylethanol.
+Phytochemistry 68,  2660–2669.
+Tieman D, Taylor M, Schauer N, Fernie AR, Hanson AD,  Klee HJ. 2006b.
+Aromatic amino acid decarboxylases participate in  the synthesis of the flavour and aroma volatiles 2-phenylethanol and  2-phenylacetaldehyde in tomato fruits.
+Proceedings of the National  Academy of Sciences, USA 103, 8287–8292.
+Tieman D, Zeigler M, Schmelz E, Taylor M, Bliss P, Kirst M,  Klee H. 2006a.
+Identification of loci affecting flavour volatile emissions  in tomato fruits.
+Journal of Experimental Botany 57, 887–896.
+Tikunov Y, Lommen A, de Vos CHR, Verhoeven HA, Bino RJ,  Hall RD, Bovy AG. 2005.
+A novel approach for nontargeted data  analysis for metabolomics.
+Large-scale profiling of tomato fruit  volatiles.
+Plant Physiology 139, 1125–1137.
+Tomato flavour QTLs | 337   Vogel JT, Tan B-C, McCarty DR, Klee HJ.
+2008.
+The carotenoid  cleavage dioxygenase 1 enzyme has broad substrate specificity,  cleaving multiple carotenoids at two different bond positions.
+Journal  of Biological Chemistry 283, 11364–11373.
+Zhang K, Zhao H. 2000.
+Assessing reliability of gene clusters  from gene expression data.
+Functional and Integrative Genomics 1,  156–173.

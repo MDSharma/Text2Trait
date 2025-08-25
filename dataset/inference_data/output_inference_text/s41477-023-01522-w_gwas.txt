@@ -1,0 +1,1314 @@
+## **nature plants**  **Article**
+[https://doi.org/10.1038/s41477-023-01522-w](https://doi.org/10.1038/s41477-023-01522-w) # **Redesigning the tomato fruit shape for** **mechanized production**    Received: 5 April 2023   Accepted: 23 August 2023   Published online: 18 September 2023   Check for updates    **Qiang Zhu** **[1,2,12]** **, Lei Deng** **[1,3,12]** **, Jie Chen** **[4,12]** **, Gustavo R. Rodríguez** **[5]** **,** **Chuanlong Sun** **[1,2,3]** **, Zeqian Chang** **[1,2]** **, Tianxia Yang** **[1,2]** **, Huawei Zhai** **[6]** **,** **Hongling Jiang** **[1]** **, Yasin Topcu** **[7,8]** **, David Francis** **[9]** **, Samuel Hutton** **[10]** **,** **Liang Sun** **[4]** **, Chang-Bao Li** **[11]** **, Esther van der Knaap** **[7]** **& Chuanyou Li** **[1,2,3]**   Crop breeding for mechanized harvesting has driven modern agriculture.
+In tomato, machine harvesting for industrial processing varieties became the norm in the 1970s.
+However, fresh-market varieties whose fruits are suitable for mechanical harvesting are difficult to breed because of associated reduction in flavour and nutritional qualities.
+Here we report the cloning and functional characterization of _fs8.1_, which controls the elongated fruit shape and crush resistance of machine-harvestable processing tomatoes.
+_
+FS8.1_
+encodes a non-canonical GT-2 factor that activates the expression of cell-cycle inhibitor genes through the formation of a transcriptional module with the canonical GT-2 factor SlGT-16.
+The _fs8.1_ mutation results in a lower inhibitory effect on the cell proliferation of the ovary wall, leading to elongated fruits with enhanced compression resistance.
+Our study provides a potential route for introducing the beneficial allele into fresh-market tomatoes without reducing quality, thereby facilitating mechanical harvesting.
+The use of mechanized machines in crop harvesting significantly saves labour and time costs, and puts forward new requirements for breeding.
+In tomato ( _Solanum lycopersicum_ ), one of the most consumed vegetable and fruit crops worldwide [1], fruit shape is an important horticultural trait that determines the main market class and culinary purpose of a particular variety: elongated and blocky fruits are preferred for processing, while round and attractive fruits are ideal for the fresh market and are used for slicing [2][,][3] .
+Notably, while machine harvesting for elongate-fruited processing tomatoes became the norm in the 1970s, typical round-fruited fresh-market tomatoes are usually too soft to endure machine harvesting [4][–][6],    suggesting an association between fruit shape and suitability for machine harvesting.
+In tomato, two categories of quantitative trait loci (QTLs) that control fruit shape have been identified: _locule number_ ( _lc_ ) and _fasci-_ _ated_ ( _fas_ )
+QTLs control locule number and flat shape, while _sun_, _ovate_ and _fruit shape chr 8.1_ ( _fs8.1_ )
+control elongated shape
+[7][–][10] .
+In the early 1960s, the processing-tomato industry in California was threatened due to labour shortage in harvesting the crops.
+In response, efforts began in earnest to develop tomato varieties suited to machine harvesting.
+Selection of a tomato suitable for mechanical harvesting involved a suite of traits including compact plant stature, concentrated fruit set    1 State Key Laboratory of Plant Genomics, National Center for Plant Gene Research (Beijing), Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China.
+[2] CAS Center for Excellence in Biotic Interactions, University of Chinese Academy of Sciences, Beijing, China.
+3 College of Life Sciences, Shandong Agricultural University, Tai’an, China.
+4 College of Horticulture, China Agricultural University, Beijing, China.
+5 Instituto de Investigaciones en Ciencias Agrarias de Rosario (IICAR-CONICET-UNR), Rosario, Argentina.
+[6] College of Horticulture Science and Engineering, Shandong Agricultural University, Tai’an, China.
+[7] Institute of Plant Breeding, Department of Horticulture, University of Georgia, Athens, GA, USA.  8 Batı Akdeniz Agricultural Research Institute, Antalya, Turkey.
+9 Department of Horticulture and Crop Science, The Ohio State University, Columbus, OH, USA.
+[10] Gulf Coast Research and Education Center, University of Florida, Gainesville, FL, USA.
+[11] Key Laboratory of Biology and Genetic Improvement of Horticultural Crops (North China), Ministry of Agriculture, Beijing Vegetable Research Center, Beijing Academy of Agriculture and Forestry Sciences, Beijing, China.
+[12] These authors contributed equally: Qiang Zhu, Lei Deng and Jie Chen.
+[e-mail: cyli@genetics.ac.cn](mailto:cyli@genetics.ac.cn)
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1659**   **Article*
+* https://doi.org/10.1038/s41477-023-01522-w    and, perhaps most importantly, enhanced fruit firmness to withstand the rigours of machine harvesting and bulk handling.
+Thus, fruit firmness was intentionally selected to avoid fruit breakage during mechanized production.
+These efforts eventually led to the so-called ‘square tomatoes’ that could withstand machine harvesting [4][–][6] .
+Thus, the breeding of ‘square tomatoes’ has played a significant part in streamlining the mechanization of the processing-tomato industry [4][,][5] .
+One of the noticeable changes in fruit shape of these machineharvestable processing tomatoes is that they are no longer round but rather slightly elongated [5][,][11] .
+Later genetic studies revealed that the elongated fruit shape is controlled by the major QTL _
+fs8.1_ (refs.
+7,12–15).
+However, the gene underlying _fs8.1_ has not been identified due to reduced recombination rates around this locus
+[13][,][14] .
+Here we identified the _FS8.1_ gene and report on its mechanistic function in regulating fruit shape.
+_
+FS8.1_
+encodes a GT-2-like protein that lacks the featured trihelix DNA-binding domain
+[16][,][17] .
+FS8.1 interacts with and enhances the transcriptional activity of SlGT-16, a canonical GT-2 factor that activates the expression of cell-cycle inhibitor genes through promoter binding.
+Notably, _fs8.1_ -mediated shape change leads to enhanced fruit resistance to squeezing force.
+Distribution analyses of a diverse collection of tomato accessions indicated that the _fs8.1_ mutation allele is present in modern processing lines but largely absent in fresh-market varieties.
+The cloning of _FS8.1_ and the CRISPR/ Cas9 gene-editing technology probably lead to the possibility of a convenient trait-stacking strategy to breed new varieties that combine the advantages of fresh-market tomatoes and processing tomatoes.
+**Results** _**fs8.1**_ **-mediated shape change leads to enhanced fruit** **compression resistance (CR)**
+Compared with fresh-market tomato plants that produce round fruits, machine-harvestable processing-tomato fruits are usually elongated in shape and have a higher fruit shape index (the ratio of fruit length to width)
+(Extended Data Fig.
+1a,b).
+To determine whether the elongated fruit shape is associated with increased fruit endurance to rigours, we used a texture analyser to assess CR, which is defined as the pressure at which point a compressed fruit is broken [18], reflecting the fruit’s resistance to squeezing force.
+We compared the CR of multiple typical fresh-market and processing-tomato fruits and found that the processing-tomato fruits had a significantly increased resistance to squeezing (Extended Data Fig. 1c).
+We then aimed to understand whether _fs8.1_ -mediated shape change contributes to the increased CR of processing-tomato fruits.
+To achieve this goal, we first phenotyped the well-established introgression line (IL) population derived from a cross between the wild species _Solanum pennellii_ (whose fruits are round) and the processing cultivar M82 (whose fruits are square shaped), which has been shown to carry a mutant allele of _fs8.1_ (refs.
+15,19,20).
+We found that IL8-1-1, harbouring a marker-defined segment of _S. pennellii_ chromosome 8, bears round fruits and ovaries (Fig.
+1a–c and Extended Data Fig. 1d), indicating that IL8-1-1 carries the wild-type (WT) allele of the _FS8.1_ gene.
+Thus, IL8-1-1 and its recurrent parent M82 were used as near-isogenic lines (NILs) with respect to the _fs8.1_ locus.
+As expected, compared with IL8-1-1, M82 had a higher fruit/ovary shape index (Fig.
+1b,c) and
+enhanced CR (Fig.
+1d,e).
+Consistent with this observation, we analysed the _fs8.1_ NILs developed between the round-fruited wild _S. pimpinellifolium_ accession LA1589 and Rio Grande, a cultivated _S. lycopersicum_ accession bearing elongated fruits (Extended Data Fig.
+1e,f)
+[14] .
+Results showed that compared with the WT allele, the _fs8.1_ mutant allele had higher fruit shape index and afforded increased CR (Extended Data Fig.
+1g–i).
+Collectively, these results indicated that the _fs8.1_ -mediated shape change is probably associated with enhanced CR of tomato fruits.
+To gain insight into the cellular mechanism by which _fs8.1_ changes fruit shape, we compared the cellular parameters of the M82 ovaries with those of the IL8-1-1 ovaries at the tissue level (Fig.
+1a,c).
+The ovary    wall length and columella length of M82 were significantly larger than those of IL8-1-1 (Fig. 1f).
+Closer histological observations revealed that the _fs8.1_ mutation led to significantly increased cell number in the proximal–distal direction of both the ovary wall and the columella (Fig. 1g).
+In contrast, _fs8.1_ exerted a negligible effect on the cell size of both tissue layers (Fig. 1h).
+Notably, the _fs8.1_ -mediated increase in cell number was significantly greater in the ovary wall than in the columella (Fig.
+1f,g), suggesting that the _fs8.1_ mutation results in a stronger promoting effect on cell proliferation of the ovary wall than of the columella.   _**FS8.1**_ **encodes a non-canonical GT-2 factor**  We previously mapped the _fs8.1_ locus to a 3.03-Mb interval on chromosome 8 (Fig. 2a)
+[14] .
+On the basis of the overlap between the _fs8.1_ mapping interval and the introgressed fragment defined by IL8-1-1 (refs.
+19,20), the _fs8.1_ locus was narrowed to a region flanked by markers 11EP239 and CT92 (Fig. 2a).
+To further fine-map the locus, we screened approximately 14,000 seedlings in a population that carried a chromosome 8 segment of LA1589 and Rio Grande [14] .
+From this screen, we identified five recombinant plants in the interval (Fig. 2b).
+Progeny testing of these five recombinants showed that the locus was mapped to a ~270-kb interval, carrying three genes (Fig. 2b).
+Among them, _Solyc08g061910_ carried two non-synonymous variations (T52C and A857T) in Rio Grande compared with LA1589 (Fig. 2b).
+The coding regions of the other two genes did not carry consequential single nucleotide polymorphisms (SNPs) between the alleles and were not differentially expressed [14], rendering them less likely to encode FS8.1.
+Thus, _Solyc08g061910_ was considered to be the candidate gene encoding FS8.1.
+The _Solyc08g061910_
+[A857T] mutation was predicted to result in a premature stop codon of the predicted protein (Fig.
+2b–d).
+Sequence analyses indicated that this premature stop codon mutation is present in all of the analysed processing tomatoes but not in fresh-market tomatoes (Extended Data Fig. 1j).
+To verify that _Solyc08g061910_ is the causative gene for the _fs8.1_
+phenotype, we generated null alleles of this gene (Extended Data Fig.
+2a) in the IL8-1-1 background by CRISPR/ Cas9-mediated gene editing [21][–][23] .
+Fruits and ovaries of two of the resulting mutants displayed a shape change from round to elongated (Fig. 2e–g) and had higher CR than IL8-1-1 fruits (Fig. 2h).
+Histological observations indicated that these _fs8.1_ mutants displayed an increased ovary wall length and decreased ovary wall thickness as compared with WT (Fig. 1a and Extended Data Fig.
+2b–f).
+The fruit weight of edited mutants was comparable to that of WT (Extended Data Fig.
+2g).
+In addition, the WT _Solyc08g061910_ genomic DNA with its native promoter was introduced into the M82 background (Extended Data Fig.
+2h).
+Two of the resulting complementation lines ( _Comp-1_ and _Comp-2_ ) rescued the M82 phenotype in both fruit shape and ovary development (Fig.
+2i–k and Extended Data Fig.
+2i–m).
+Collectively, these results demonstrated that _Solyc08g061910_ underlies the _fs8.1_ locus.
+The predicted FS8.1 protein is homologous to members of the GT-2 clade of trihelix transcription factors (Extended Data Fig.
+3a,b).
+The members of this clade of GT factors are characterized by the presence of duplicate trihelical DNA-binding domains (TD1 and TD2) and a  ‒ middle α-helix domain (HD) that is involved in protein protein interactions [16][,][17] .
+Compared with SlGT-16, a canonical GT-2 factor that is most closely related to FS8.1, the FS8.1 protein contains a middle HD but lacks the featured TDs that are important for DNA binding (Fig.
+2d and Extended Data Fig.
+3a–c).
+Sequence comparison between IL8-1-1 and M82 revealed that the _fs8.1_ mutation resulted in a truncated protein with an incomplete α-helical domain (Fig.
+2d and Extended Data Fig.
+3a,c).
+Among the sequenced genomes of the Solanaceae family, the FS8.1 orthologue could only be identified from pepper (Extended Data Fig. 4a), whereas SlGT-16 orthologues were identified from potato, eggplant and pepper (Extended Data Fig. 4b).
+Further phylogenetic analyses indicated that while FS8.1 orthologues are only present in    [Nature Plants | Volume 9 | October](http://www.nature.com/natureplants) 2023
+| 1659–1674 **1660**   **Article** https://doi.org/10.1038/s41477-023-01522-w    **a** **b** 2.8 × 10 –13    **b** 2.8 × 10 –13 **d** **e**  IL8-1-1 M82 1.4    1.4   1.2   1.0   0.8   0.6   0.4   0.2    +62.0%      0
++84.5% **c**        8.4 × 10 –8 120 1.0 × 10 –7 120 3.2 × 10 –6    90   60   30   0    120      120      1.4   1.2   1.0   0.8   0.6   0.4   0.2   0    90   60   30   0   |fs8.1 IOWL<br>WT IOWL<br>OWT<br>OWT<br>CL<br>CL|IOWL| |---|---| |||    **f** IL8-1-1 **g** IL8-1-1 **h**    IL8-1-1 M82    IL8-1-1  M82    IL8-1-1  M82    25   20   15   10   5    3,500   3,000   2,500   2,000   1,500   1,000   500    0.0373    0.7044      6.4 × 10 –6      280   240   200   160   120   80   40    0
+Ovary wall Columella    0 Ovary wall Columella    0 Ovary wall Columella    **Fig. 1 |** _**fs8.1**_ **-mediated shape change confers enhanced fruit resistance** **to squeezing.
+** **a**, Ripe fruits (top) and ovaries at anthesis (bottom) of IL8-1-1 and M82.
+The red and blue lines indicate the inner ovary walls and columella, respectively.
+IOWL, inner ovary wall length; CL, columella length; OWT, ovary wall thickness.
+Scale bars, 1 cm (top), 0.5 mm (bottom).
+**b**, Fruit shape index of IL8-1-1 and M82 ( _n_ = 16 fruits).
+**c**, Ovary shape index of IL8-1-1 and M82 ( _n_ = 13 ovaries).
+**d**, **e**, CR of IL8-1-1 and M82 in the abaxial–adaxial ( **d** ) and proximal–distal ( **e** ) directions.
+The fold changes (FCs) between M82 and IL8-1-1 are given.
+some dicot plants (Extended Data Fig. 4a), SlGT-16 orthologues (that is, canonical GT-2 factors) are broadly conserved in both dicot and monocot plants (Extended Data Fig. 4b).
+**FS8.1 regulates fruit shape by activating** _**SlKRP2**_ **expression** To investigate how FS8.1 regulates fruit shape at the transcriptional level, we performed an RNA sequencing (RNA-seq) assay to identify genes regulated by FS8.1 during the early stages of ovary development.
+Consistent with the observation that the _fs8.1_ mutation exerts its effects on fruit shape early in carpel development at least 6 d before anthesis (DBA)
+[13], we noted that _fs8.1_ led to obvious ovary shape change at 9 DBA (Fig.
+3a,b and Extended Data Fig.
+5a,b).
+Thus, we compared the transcriptome profiles between M82 and _Comp-2_ ovaries at 9 DBA                                                     (Fig.
+3a,b and Extended Data Fig.
+5a,b).
+These analyses led to the identi fication of 1,061 genes that were differentially expressed (fold change (FC) > 1.5, false discovery rate (FDR)-adjusted _P_ < 0.05) between the two genotypes.
+These genes were defined as FS8.1-regulated genes    In **d**, _n_ = 10 (for IL8-1-1) and 11 (for M82) fruits.
+In **e**, _n_ = 16 fruits.
+**f** – **h**, Histological and  cellular observations of the anthesis ovaries of IL8-1-1 and M82.
+Cell number and  cell size were measured along the red and blue lines indicated in **a** .
+In **f**, _n_ = 9, 8, 11, 11 ovaries from left to right.
+In **g**, _n_ = 9, 9, 11, 11 ovaries from left to right.
+In **h**, _n_ = 8, 8, 11, 11 ovaries from left to right.
+Bars represent means ± s.d.
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests, with exact _P_ values indicated on the graph.
+(Fig.
+3c and Supplementary Table 1).
+Among them, 655 genes (61.7%) were upregulated by FS8.1, while 406 genes (38.3%) were downregulated by FS8.1 (Fig.
+3c).
+Gene Ontology (GO) analysis revealed that the FS8.1-regulated genes were significantly enriched in several pathways, including those related to the cell cycle and cell differentiation (Fig. 3d).
+Notably, many positive regulators of cell cycle progression were downregulated by FS8.1.
+This list includes genes encoding cyclins, cyclin-dependent kinases (CDKs) and microtubule-associated proteins (Extended Data Fig.
+5c and Supplementary Table 2).
+In contrast, many negative regulators of the cell cycle were upregulated by FS8.1 (Extended Data Fig.
+5c and Supplementary Table 2).
+For example, many genes encoding the well-characterized CDK inhibitors of the KIP-RELATED PROTEIN (KRP) family [24][–][26] and the SIAMESE-RELATED (SMR) family
+[27][,][28] were upregulated by _FS8.1_ (Extended Data Fig.
+5c and Supplementary Table 2).
+Taken together, these results revealed that FS8.1 downregulates positive regulators of the cell cycle while upregulating negative regulators of the cell cycle.
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1661**   **Article**
+https://doi.org/10.1038/s41477-023-01522-w
+The above results support the hypothesis that FS8.1 regulates fruit shape via upregulation of _KRP_ genes that inhibit cell cycle progression.
+To test this hypothesis, we aimed to verify the FS8.1-mediated regulation of the expression of _SlKRP2_, a tomato homologue of the _Arabidop-_ _sis KRP2_ gene (Extended Data Fig. 5d).
+It was previously reported that _AtKRP2_ plays a critical role in the inhibition of cell cycle progression during leaf development
+[25] .
+We found that _
+SlKRP2_ expression levels were markedly decreased in the _fs8.1_ mutant compared with the WT (that is, IL8-1-1) ovaries (Fig. 3e).
+Consistently, _SlKRP2_ expression levels were significantly increased in the _Comp-1_ and _Comp-2_ ovaries compared with the _fs8.1_ mutant (that is, M82) ovaries (Fig. 3f).
+Together, these results supported the idea that FS8.1 activates _SlKRP2_ expression.
+To test whether and how SlKRP2 regulates fruit shape, we generated its null mutants in IL8-1-1 and found that the resulting _slkrp2_ single mutants did not affect fruit shape (Extended Data Fig.
+5e,f).
+We then generated CRISPR/Cas9-mediated mutants in which _SlKRP2_ and its paralogous genes, _SlKRP1_ and _SlKRP4_, were knocked out (Extended Data Fig.
+5d,e).
+Compared with the round-shaped IL8-1-1 fruits, the _slkrp1_ _slkrp2 slkrp4_ triple mutant fruits were elongated and had an increased fruit shape index (Fig.
+3g,h), indicating that _
+SlKRP2_ acts redundantly with _SlKRP1_ and _SlKRP4_ to regulate fruit shape.
+To determine the genetic relationship between FS8.1 and SlKRP2 in regulating fruit shape, we generated _SlKRP2_ -overexpression ( _SlKRP2-OE_ ) plants (Extended Data Fig.
+5g) in the background of M82, which harbours a loss-of-function allele of _FS8.1_ (Extended Data Fig. 1j).
+Compared with the elongated M82 fruits, the _SlKRP2-OE_ fruits were round and had a decreased fruit shape index (Fig.
+3i,j), indicating that _SlKRP2_ could complement the _fs8.1_ -mediated fruit shape changes.
+These results implied that _SlKRP2_ acts genetically downstream of _FS8.1_ in regulating fruit shape.
+Collectively, these results supported the notion that FS8.1 regulates fruit shape via activation of the expression of _SlKRP_ genes.
+**FS8.1 activates** _**SlKRP2**_ **expression by interacting with SlGT-16**
+We then explored how FS8.1 activates _SlKRP2_ expression.
+Chroma ‒ tin immunoprecipitation quantitative polymerase chain reaction (ChIP‒qPCR) assays using _FS8.1-GFP_ plants (Extended Data Fig.
+2h) and anti-GFP antibody indicated that FS8.1-GFP was enriched in the _SlKRP2_ promoter (Fig.
+4a,b).
+However, electrophoretic mobility shift assays (EMSAs) failed to detect direct binding of maltose-binding protein (MBP)-tagged FS8.1 (MBP-FS8.1) to the GT element (GGTAATT) of the _SlKRP2_ promoter (Fig.
+4c,d), suggesting the possibility that FS8.1 is recruited to the _SlKRP2_ promoter by interacting proteins that can directly bind to the GT element.
+Given that GT-2 factors usually act as dimers to regulate gene expression [17][,][29], we hypothesized that FS8.1 could form a complex with GT-2 factors that are able to bind GT elements.
+To test this hypothesis, we conducted firefly luciferase (LUC) complementation imaging (LCI) assays to test whether FS8.1 interacts with five tomato GT-2 factors that are phylogenetically closest related [30] (Extended Data Fig. 3b).
+The results showed that FS8.1 strongly interacted with SlGT-16 and SlGT-34 (Extended Data Fig. 6a).
+Consistently, both MBP-SlGT-16   **Fig. 2 |** _**FS8.1**_ **encodes a GT-2-like protein that lacks the duplicate trihelix** **domains.
+** **a**, Schematic representation of the introgressed regions of IL8-1-1, IL8-2 and IL8-3.
+The blue lines represent the introgressed chromosome fragments from _S. pennellii_ (LA0716).
+The vertical dashed lines indicate the positions of molecular markers.
+**b**, Fine-mapping of _FS8.1_ .
+Top: high-resolution mapping narrowed _FS8.1_ to the DNA segment between markers M5 and M6.
+_
+n_ = number of plants.
+Fruit shape indexes of recombinant progenies (L1–L5) are on the right.
+Data are means ± s.d.
+Asterisks indicate significant differences between WT and _fs8.1_ progenies (** _P_ < 0.01; Student’s _t_ -tests).
+Bottom: candidate genes in the _FS8.1_ mapping region.
+Three non-synonymous SNPs between LA1589 and Rio Grande are labelled on the gene sketch.
+**c**, Schematic diagram of _Solyc08g061910_ .
+The black boxes represent exons.
+The SNP (A857T) causing early termination    and MBP-SlGT-34 were able to pull down glutathione S-transferase (GST)-tagged FS8.1 (GST-FS8.1) (Fig. 4e,f), indicating that FS8.1 interacts with SlGT-16 and SlGT-34 in vitro.
+Considering the high sequence similarity between SlGT-16 and SlGT-34 (Extended Data Fig.
+3a,b), we focused on the former for further analysis.
+The results of our LCI assays indicated that the truncated protein encoded by the _fs8.1_ mutant allele failed to interact with SlGT16 (Fig.
+4g,h).
+Additional LCI assays (Fig.
+4g,h) and pull-down assays (Fig. 4i,j) revealed that SlGT-16 interacted with itself but that FS8.1 did not.
+Moreover, the FS8.1–SlGT-16 interaction was significantly stronger than the SlGT-16–SlGT-16 interaction (Fig.
+4g,h).
+Collectively, these results support the idea that FS8.1 might regulate _SlKRP2_ expression through complexation with the canonical GT-2 factor SlGT-16.
+We then investigated whether SlGT-16 regulates _SlKRP2_ expression through promoter binding.
+ChIP‒qPCR analysis using _SlGT-16-GFP_ plants (Extended Data Fig.
+6b) and anti-GFP antibody indicated that SlGT-16-GFP was enriched in the _SlKRP2_ promoter (Fig. 4k).
+Moreover, EMSAs indicated that SlGT-16 directly binds the GT element of the _SlKRP2_ promoter (Fig. 4c) and that this binding depends on the N-terminal trihelix domain (TD1) of SlGT-16 (Fig. 4d).
+These results, together with the observation that the expression pattern of _SlKRP2_ was similar to that of _SlGT-16_ in developing ovaries (Extended Data Fig. 5a), support the idea that SlGT-16 activates _SlKRP2_ expression through promoter binding.
+To examine the role of _SlGT-16_ and _SlGT-34_ in regulating fruit shape, we generated CRISPR/Cas9-mediated mutants of these genes in the genetic backgrounds of the round-fruited Ailsa Craig (AC) and IL8-1-1 (Extended Data Fig. 6c).
+Whereas the single mutants did not affect fruit shape, the _slgt-16 slgt-34_ double mutants in both backgrounds displayed elongated fruits (Fig.
+4l,m and Extended Data Fig.
+6d,e).
+Consistently, _SlKRP2_ expression levels in the ovaries of these double mutants were significantly reduced compared with those in the WT ovaries (Fig.
+4n and Extended Data Fig. 6f).
+These results implied that SlGT-16 acts redundantly with SlGT-34 to regulate fruit shape formation through activation of _SlKRP2_ expression.
+Notably, FS8.1-GFP enrichment in the _SlKRP2_ promoter was largely reduced in the _slgt-16 slgt-34_ double mutant compared with the WT (Fig. 4b), supporting the notion that FS8.1 recruitment to the _SlKRP2_ promoter depends on SlGT-16 and SlGT-34.
+Consistently, overexpression of _SlGT-16_ rescued the fruit shape of M82 from elongated to round (Fig.
+4o,p and Extended Data Fig. 6b).
+These results collectively suggest that SlGT-16 acts genetically downstream of FS8.1 in regulating fruit shape.
+Taken together, our results support the idea that FS8.1 regulates fruit shape via interaction with canonical GT-2 factors such as SlGT-16 and possibly others to activate _KRP_ expression.
+**FS8.1 enhances the transcriptional activity of SlGT-16**
+Next, we aimed to understand the mechanism and functional significance of the FS8.1–SlGT-16 interaction.
+The results of domain mapping experiments with pull-down assays revealed that the HD of SlGT-16 is involved in its interaction with FS8.1 (Fig. 5a), whereas both the   (R250Stop) is highlighted in red.
+**d**, Schematic domain architecture of the indicated proteins.
+**e**, Ripe fruits (top) and ovaries at anthesis (bottom) of IL8-1-1 and _fs8.1_ mutants.
+Scale bars, 1 cm (top), 0.5 mm (bottom).
+**f**, **g**, Fruit shape index ( **f** ) and ovary shape index ( **g** ) of IL8-1-1 and _fs8.1_ mutants.
+In **f**, _n_ = 15 fruits.
+In **g**, _n_ = 11, 11, 10 ovaries from left to right.
+**h**, CR of IL8-1-1 and _fs8.1_
+ripe fruits ( _n_ = 15, 14, 15 fruits from left to right).
+**i**, Ripe fruits (top) and anthesis ovaries (bottom) of M82 and complementation ( _Comp_ ) lines.
+Scale bars, 1 cm (top), 0.5 mm (bottom).
+**j**, **k**, Fruit shape index ( **j** ) and ovary shape index ( **k** ) of M82 and _Comp_ lines.
+In **j**, _n_ = 12, 16, 16 fruits from left to right.
+In k, _n_ = 11, 11, 14 ovaries from left to right.
+Bars represent means ± s.d.
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests, with exact _P_ values indicated on the graph.
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1662**   **Article** https://doi.org/10.1038/s41477-023-01522-w   **a**  0
+Mb 10 Mb 20 Mb 30 Mb 40 Mb 50 Mb 60 Mb 64 Mb   Chr.
+8       |Col1|Col2|Col3|Col4|Col5| |---|---|---|---|---| |11EP239<br>TG176|11EP239<br>TG176|11EP239<br>TG176|TG510<br>CT77|CT148<br>|    IL8-3    **b**    _n_ = 14,080  M11 Fruit shape    3.03 Mb    L1   L2   L3   L4   L5    1.04 ± 0.03 _n_ = 7  1.17 ± 0.03** _n_ = 7   1.02 ± 0.04 _n_ = 8  1.02 ± 0.06 _n_ = 7   1.00 ± 0.04 _n_ = 8  1.20 ± 0.06** _n_ = 7    1.02 ± 0.03 _n_ = 7   1.22 ± 0.05** _n_ = 8   1.00 ± 0.04 _n_ = 7  0.96 ± 0.03 _n_ = 5    _Solyc08g061910_ _Solyc08g061920_ _Solyc08g061930_   |Col1|Col2|Col3|2 M|M3 M4|4 M5|Col7|M6 M|M7 M8|8 M|M9 M10|0
+M|M12 M|M13 M|M14 M|M15 M16|11EP24| |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| |||||||||||||||||| ||||834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|834<br>47,866<br>47,660,834<br>_Solyc08g061_|    190    LA1589    52 857    Rio Grande TCT>CCT AGA>TGA ACC>GCC  Ser>pro Arg>stop codon (-66 aa) Thr>Ala    TCT>CCT Ser>pro    AGA>TGA Arg>stop codon (-66 aa)    Rio Grande allele ( _fs8.1_ )
+Interval where crossover took place LA1589 allele (WT)    **c**   **e**   **i**    1 392 502 857 1,057    ATG A T TGA   _FS8.1_
+GAG AGA   _
+fs8.1_
+GAG TGA (Stop codon)   IL8-1-1 _fs8.1_ – _7_ _fs8.1_ – _9_ **f**    **d** N-terminal α-helical C-terminal  trihelix domain (TD1) domain (HD) trihelix domain (TD2)   SlGT-16   FS8.1   fs8.1    1.2   0.9   0.6   0.3   0   1.4   1.2   1.0   0.8   0.6   0.4   0.2   0    1.4   1.2   1.0   0.8   0.6   0.4   0.2   0    7.5 × 10 –11 **g**    1.7 × 10 –5 3.1 × 10 –5    **h** 9.1 × 10 –5 100   80   60   40   20   0    M82 _Comp-1_ _Comp-2_    **j** **k**    1.4   1.2   1.0      0.8   0.6   0.4   0.2   0
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1663**   **Article** https://doi.org/10.1038/s41477-023-01522-w    1.2   1.0   0.8   0.6   0.4   0.2   0    **a**   **c**    _
+Comp_ - _2_   M82   FS8.1-regulated genes (1,061)
+**d**    **b**      Response to abiotic stimulus   Protein folding   Response to organic substance   Cell cycle   Response to temperature stimulus   Regulation of cell cycle   Chaperone-mediated protein folding  Cell differentiation   Protein complex oligomerization    Response to stress        Downregulated      0 10 20 30 40 50   Gene number    **e** **g** **h**    5.6 × 10 –9    **g**    1.2   0.9   0.6   0.3   0    0   M82 _SlKRP2-OE-26_ _SlKRP2-OE-28_    **f** 5.6 × 10 –9 **g** **h**  12 4.1 × 10 –10 1.2    **j**    12    –9 3.6 × 10 –11  4.1 × 10 –10 1.2    IL8-1-1 _slkrp1 slkrp2 slkrp4_      9   6   3    1.4   1.2   1.0    1.0   0.8   0.6   0.4   0.2   0      **i**    **Fig.
+3 | FS8.1 regulates fruit shape via activation of** _**SlKRP2**_ **expression.
+** **a**, Representative images of _Comp-2_ and M82 ovaries at the indicated developmental stages.
+Scale bar, 0.5 mm.
+**b**, Ovary shape indexes of _Comp-2_ and M82 at the indicated developmental stages.
+For _Comp-2_, _n_ = 7, 7, 10, 10, 10, 10, 12 ovaries from left to right; for M82, _n_ = 4, 6, 6, 5, 8, 7, 6 ovaries from left to right.
+**c**, Distribution of genes differentially expressed between _Comp-2_ and M82 ovaries at 9 DBA.
+**d**, GO enrichment analysis of FS8.1-regulated genes.
+The results of classification within the biological process categories with _P_
+[values from the statistical overrepresentation test (https://pantherdb.org/)](https://pantherdb.org/)   are shown.
+**e**
+, RT‒qPCR assays showing _SlKRP2_ expression in 9-DBA ovaries of   HD and the C-terminal TD2 are important for SlGT-16 homodimerization (Fig. 5b).
+Because GT-2 factors usually undergo dimerization through the HD
+[17][,][29], we were interested in determining whether and how FS8.1 affects SlGT-16 dimerization.
+For this purpose, we performed an in vitro pull-down assay in which the amounts of MBP-SlGT-16 and GST-SlGT-16 were kept constant in each sample, whereas the amount of    0.8   0.6   0.4   0.2   0   the indicated genotypes ( _n_ = 3 independent biological replicates).
+**f**, RT‒qPCR assays showing _SlKRP2_ expression in 9-DBA ovaries of the indicated genotypes ( _n_ = 3 independent biological replicates).
+**g**, Ripe fruits of IL8-1-1 and the _slkrp1_ _
+slkrp2 slkrp4_ mutant.
+Scale bar, 1 cm.
+**h**, Fruit shape indexes of IL8-1-1 and the _slkrp1 slkrp2 slkrp4_ mutant ( _n_ = 15 fruits).
+**i**, Ripe fruits of M82 and _SlKRP2-OE_ lines.
+Scale bar, 1 cm.
+**j**, Fruit shape indexes of M82 and _SlKRP2-OE_ lines ( _n_ = 17, 15, 15 fruits from left to right).
+Bars represent means ± s.d.
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests, with exact _P_ values indicated on the graph.
+GST-FS8.1 was increased through a gradient.
+In this assay, recombinant MBP-SlGT-16 was used to pull down GST-SlGT-16 and GST-FS8.1.
+The results showed that increasing concentrations of GST-FS8.1 had a minor (if any) effect on the ability of MBP-SlGT-16 to pull down GST-SlGT-16 (Fig. 5c), suggesting that FS8.1 tends to complex with SlGT-16 homodi mers rather than impair the formation of SlGT-16 homodimers.
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023
+| 1659–1674 **1664**   **Article** https://doi.org/10.1038/s41477-023-01522-w    **a**   **b**   **k**   **g**   **h**    Low High   0.0054  4.8 × 10 –6   0.0051    _SlKRP2_    ATG TGA   A B   Probe used in EMSA GT element (GGTAATT)
+Amplicon used in ChIP-qPCR    200 bp    **c** MBP + − − − − **d**    MBP + − − −−    MBP-FS8.1 − + − − −  MBP-SlGT-16 − − + + +    MBP-FS8.1 −+ − −−   MBP-SlGT-16 −− + −−    MBP-SlGT-16 [∆TD1] [ −−] − + −  MBP-SlGT-16 [∆TD2] −− − −+  Probe + + + + +   Bound probe   Free probe    12   9   6   3    M82  _FS8.1-GFP_   _FS8.1-GFP/slgt-16 slgt-34_ 1.9 × 10 –5    Probe + + + + +   Competitor − − − 20x 50x    0  A B _SlACTIN2_
+Bound probe   Free probe    GST-FS8.1 + +  MBP + −  MBP-SlGT-34 − + kDa    **e** **f** GST-FS8.1 + +  MBP + −  MBP-SlGT-16 − + kDa    MBP α-GST Pull-down   α-GST    2.5   2.0   1.5   1.0   0.5    0.0035 M82  _SlGT-16-GFP_    MBP α-GST Pull-down   α-GST   Input  CBB    - 130   Input  CBB   55    kDa   70   70    70   70   130   55    0  A B _SlACTIN2_    GST-FS8.1 + −   GST-SlGT-16 − +  MBP + +  MBP-SlGT-16 − −    + −  − +    **i**    GST-FS8.1 + −  GST-SlGT-16 − +  MBP + +  MBP-FS8.1 − −    + −  − +   − −   + +    − −   + + kDa   100    **j**    kDa    MBP Pull-down   Input    α-GST   CBB    100  α-GST  70    70   100   70   130    -    100   70  100    -    MBP Pull-down α-GST   α-GST   Input    CBB   55  55   **o** M82 _SlGT-16-OE-1_ _
+SlGT-16-OE-2_   **p**    **l** IL8-1-1 _slgt-16 slgt-34_   **m** **n**    6   4   2   0    1.4   1.2   1.0   0.8   0.6   0.4   0.2   0      1.5   1.2   0.9   0.6   0.3   0      8   6   4   2   0    0.0002   0.0002      1 2 3 4   We then employed a dual-luciferase reporter system
+[31] to study the effect of FS8.1 on SlGT-16-mediated transcriptional activation of _SlKRP2_ expression.
+For this purpose, we cloned a 2,053-bp _SlKRP2_ promoter    sequence and inserted it into a dual-LUC reporter construct to generate a _proSlKRP2::LUC_ reporter construct (Fig. 5d).
+Co-expression of _35S::SlGT-16_ with _proSlKRP2::LUC_ in _Nicotiana benthamiana_ leaves
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants) 2023 | 1659–1674 **1665**   **Article** https://doi.org/10.1038/s41477-023-01522-w    **Fig.
+4 | FS8.1 activates** _**SlKRP2**_ **expression by interacting with SlGT-16 and** **SlGT-34.
+** **a**, Schematic representation of _SlKRP2_ showing the amplicons and   probe used for ChIP‒qPCR and EMSAs, respectively.
+**b**, ChIP‒qPCR results showing the enrichment of FS8.1-GFP in the _SlKRP2_ promoter ( _n_ = 3 independent biological replicates).
+The amplicons detected by qPCR are indicated in **a** . _
+SlACTIN2_ was used as a non-specific target.
+**c**, EMSA results showing that SlGT-16, but not FS8.1, directly binds to the _SlKRP2_ promoter.
+**d**, EMSA results showing that SlGT-16 directly binds the _SlKRP2_ promoter through its TD1.
+SlGT-16
+[ΔTD1] and SlGT-16 [ΔTD2] are SlGT-16 derivatives lacking TD1 and TD2, respectively.
+**e**, **
+f**, Pull-down assay results showing that FS8.1 interacts with SlGT-16 ( **e** ) and SlGT-34 ( **f** ).
+CBB, Coomassie brilliant blue staining.
+**g**, LCI assay results showing the association between FS8.1 and SlGT-16.
+**h**, Quantitative analysis of luminescence intensity in **g** ( _n_ = 11 independent biological replicates).
+**i**, Pull-down assay   led to increased LUC activity, suggesting that SlGT-16 activates _proSlKRP2::LUC_ expression (Fig.
+5d,e).
+When FS8.1 was co-expressed with SlGT-16 and the _proSlKRP2::LUC_ reporter, the SlGT-16-dependent activation of LUC activity was further enhanced (Fig.
+5d,e).
+In parallel control experiments, the _fs8.1_ mutant protein showed a negligible effect on SlGT-16-dependent activation of LUC activity (Fig.
+5d,e).
+These results suggest that FS8.1 functions as a co-activator of SlGT-16.
+Taken together, our results support a scenario in which FS8.1 forms a transcriptional complex together with SlGT-16 and thereby enhances its transcriptional activation for the expression of cell cycle inhibitory genes.
+In summary, our results suggest that the FS8.1–SlGT-16 transcriptional module exerts a stronger cell proliferation-inhibitory effect on the ovary wall than on the columella.
+If this were true, we anticipated that _FS8.1_ and _
+SlGT-16_ may be differentially expressed in the ovary wall and the columella of developing ovaries.
+To test this hypothesis, we measured the tissue-specific expression of _FS8.1_ and _SlGT-16_ by using transgenic plants harbouring their promoter-driven β-glucuronidase ( _GUS_ ) fusion constructs.
+The results showed that the _proFS8.1::GUS_ and _proSlSlGT-16::GUS_ activities were much stronger in the ovary wall than in the columella (Fig. 5f).
+Consistently, reverse transcription‒quantitative  ‒ polymerase chain reaction (RT qPCR) assays showed that the expression levels of both _FS8.1_ and _
+SlGT-16_ were higher in the ovary wall than in the columella (Fig.
+5g,h).
+As expected, the expression levels of _SlKRP2_, which serves as a readout of the transcriptional output of the FS8.1– SlGT-16 module, were also higher in the ovary wall than in the columella (Fig.
+5f,g,i).
+Given that SlKRP2 functions as an inhibitor of cell cycle progression, our results support a model where, in the WT, the FS8.1–SlGT-16 module exerts a stronger inhibitory effect on the cell cycle progression of the ovary wall than on the columella, leading to round fruits (Fig. 5j).
+We then examined how the _fs8.1_ mutation alters the differential expression pattern of relevant genes between the ovary wall and the columella.
+The results showed that in the _fs8.1_ mutant ovaries, the _SlGT-16_ expression levels in both tissue layers were largely unchanged (Fig. 5h), but the relative expression levels of _SlKRP2_ in the ovary walls were lower than those in the columella (Fig. 5i).
+Thus, disruption of _FS8.1_ function resulted in a weaker inhibitory effect on the cell cycle   **Fig.
+5 | FS8.1 increases the transcriptional activity of SlGT-16.
+** **a**, Pull-down assay results showing that SlGT-16 interacts with FS8.1 through HD.
+**b**, Pulldown assay results showing that both HD and TD2 are important for SlGT-16 homodimerization.
+**c**, Pull-down assay results showing that FS8.1 tends to form a complex with SlGT-16 homodimers rather than impair the formation of SlGT-16 homodimers.
+The bands were quantified using ImageJ software.
+**d**, Schematic diagram showing the constructs used in the transient expression assays of **e** .
+**e**, Transient expression assays showing that FS8.1 functions as a co-activator of SlGT-16-mediated gene transcription ( _n_ = 4 independent biological replicates).
+The _proSlKRP2::LUC_ reporter was cotransfected with the indicated effector constructs.
+The LUC:REN ratio represents the _proSlKRP2::LUC_ activity relative to that of the internal control ( _REN_ driven by the 35S promoter).
+**f**, Longitudinal section of IL8-1-1 (WT), _proFS8.1::GUS_, _proSlGT-16::GUS_ and _
+proSlKRP2::GUS_    results showing that FS8.1 interacts with SlGT-16 but not with itself.
+**j**, Pull-down   assay results showing that SlGT-16 interacts with FS8.1 and itself.
+**k**, ChIP‒qPCR results showing the enrichment of SlGT-16-GFP in the _SlKRP2_ promoter ( _n_ = 3 independent biological replicates).
+The amplicons detected by qPCR are indicated in **a** . _
+SlACTIN2_ was used as a non-specific target.
+**l**, Ripe fruits of IL8-1-1 and _slgt-16 slgt-34_ mutants.
+Scale bar, 1 cm.
+**m**, Fruit shape indexes of IL8-1-1 and   _slgt-16 slgt-34_ mutants ( _n_ = 13 fruits).
+**n**, RT‒qPCR assay results showing _SlKRP2_ expression in ovaries at anthesis of the indicated genotypes ( _n_ = 3 independent biological replicates).
+**o**, Ripe fruits of M82 and _SlGT-16-OE_ lines.
+Scale bar, 1 cm.
+**p**, Fruit shape indexes of M82 and _SlGT-16-OE_ lines ( _n_ = 10 fruits).
+Bars represent means ± s.d.
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests, with exact _P_ values indicated on the graph.
+Experiments in   **c** ‒ **f**, **i** and **j** were repeated independently at least three times with similar results.
+progression of the ovary walls than of the columella, leading to elongated fruits (Fig. 5j).
+_**fs8.1**_ **is selected in machine-harvestable processing tomatoes**
+We sought to determine how common the _fs8.1_ allele is in modern lines and when the mutation arose in tomato domestication and selection.
+The analyses showed that the mutation arose relatively late as it was not found in the Varitome collection, a group of 168 accessions consisting of the closest wild relatives to cultivated tomato, _S. pimpinel-_ _lifolium_, and many accessions of _S. lycopersicum_ var.
+_cerasiforme_, an intermediate type between the fully wild and cultivated accessions
+[32] (Fig.
+6a and Supplementary Tables 3–7).
+The _fs8.1_ allele was found at low levels in Regional Latin American (8%) and Regional Italian accessions (14%) including the well-known San Marzano type cultivar (Fig.
+6a and Supplementary Tables 3–5), suggesting that the allele arose during initial selections of cultivated types in Latin America or Europe well after domestication of the crop.
+The distribution of the _fs8.1_ allele was significantly increased (60%) in transitional/early processing accessions (Fig.
+6a and Supplementary Table 6).
+Strikingly, a survey of modern processing and fresh-market accessions from China and the United States showed that the mutant allele is present in current-day processing lines but absent in fresh-market varieties (Fig.
+6a and Supplementary Tables 6 and 7).
+The cultivar Red Top VF was released in 1952 and carried the _fs8.1_ mutation (Supplementary Table 6).
+The release dates for San Marzano and Roma VF were not known but they also carried the _fs8.1_ mutation (Supplementary Tables 5 and 6).
+These were key parental genotypes in initial crosses to develop cultivars with the characteristics demanded by the processing industry.
+The historical pedigree information and the year of release for the modern cultivars (Supplementary Tables 5 and 6) suggested that selection of the _fs8.1_ allele in processing-tomato breeding occurred during the 1960s–1970s.
+Thus, in line with the history of redesigning the tomato for mechanized production [6][,][33][,][34], the _fs8.1_ mutation was highly selected in the breeding of modern processing cultivars.
+**Editing of** _**FS8.1**_ **improves CR without compromising quality**
+Next, we were interested in determining whether _FS8.1_ can be used to improve the CR of fresh-market tomato fruits.
+To accomplish this   ovaries showing the tissue-specific expression patterns of these genes.
+**g**, RT‒qPCR results showing the relative expression levels of the indicated genes in the ovary walls and ovary columella of IL8-1-1 anthesis ovaries ( _n_ = 3 independent biological replicates).
+The expression FCs between the ovary walls   and columella are given.
+**h**, **i**, RT‒qPCR results showing the relative expression levels of _SlGT-16_
+( **h** ) and _SlKRP2_ ( **i** ) in the ovary walls of ovaries at anthesis of the indicated genotypes ( _n_ = 3 independent biological replicates).
+The expression FCs between the ovary walls and columella are given.
+**j**, Proposed model for FS8.1mediated fruit shape formation.
+GE, GT element.
+Bars represent means ± s.d.
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests, with exact _P_ values indicated on the graph.
+Experiments in **a** – **c** were repeated independently at least three times with similar results.
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1666**   **Article** https://doi.org/10.1038/s41477-023-01522-w    task, we used the CRISPR/Cas9 gene-editing system to mutate _FS8.1_ in the background of the typical fresh-market cultivar AC (Extended Data Fig. 7a).
+As expected, the resulting mutants produced elongated fruits that had significantly increased CR (Extended Data Fig.
+7b–d).
+Notably, fruit weight (Extended Data Fig. 7e) and the levels of total soluble solids (Extended Data Fig. 7f), sugars (Extended Data Fig.
+7g,h),    acids (Extended Data Fig.
+7i,j) and lycopene (Extended Data Fig. 7k) of mutant fruits were comparable to those of their parental fruits, indicating that manipulation of _FS8.1_ does not lead to unfavourable effects on fruit weight and quality.
+In addition to presenting enhanced fruit CR, cultivars suitable for machine harvesting should have determinate growth and uniform    **a** **b**    GST-SlGT-16   MBP-SlGT-16   MBP-SlGT-16
+[∆HD]  MBP-SlGT-16 [∆TD1]  MBP-SlGT-16
+[∆TD2]   MBP α-GST pull-down   α-GST    + + + +   + − − −   − + − −   − − + −   − − − +   **e**    kDa   100   100   130    GST-FS8.1    + + + +   + − − −   − + − −   − − + −   − − − +    kDa   70   70    MBP-SlGT-16   MBP-SlGT-16 [∆HD]  MBP-SlGT-16 [∆TD1]   MBP-SlGT-16 [∆TD2]   MBP α-GST pull-down   α-GST    Input  CBB  130    CBB    **c** MBP-SlGT-16 + + + + **d**    MBP-SlGT-16   GST-SlGT-16    +   +    + +    +    +    Input    + +   10x 20x    GST-FS8.1 − 1x    Effector   FS8.1   fs8.1      MBP α-GST pull-down   α-GST  Input   CBB          kDa   100   70   100   70   130    cLUC   Reporter      4   3   2   1   0    **f** IL8-1-1 _proFS8.1::GUS_ _proSlGT-16::GUS_ _
+proSlKRP2::GUS_    Ovary wall Columella    **g** **h** Columella **i**    Ovary wall Columella    FC = +4.2   0.9   0.6    1.2 FC = +1.8   0.9    0.0165   8.6 × 10 –6   0.0003   0.2058   Ovary wall    4   3   2   1    7.6 × 10 –5 0.3 9.0 × 10 –7 8.4 × 10 –6 3.4 × 10 –5 0.3 5.2 × 10 –6        0.6            0.3    0.3    0    **j**    0  0  _FS8.1_ _SlGT-16_ _
+SlKRP2_   WT    _fs8.1_
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1667**   **Article** https://doi.org/10.1038/s41477-023-01522-w    TB0249 _fs8.1-1 sp-1_ _
+fs8.1-2 sp-2_    **a**    **c**    100   80   60   40   20   0    **d** **e**    (168)
+Wild type _fs8.1_   (51) (162) (15) (30) (17) (29) (12)    7.7 × 10 –6 9.1 × 10 –6   0.0615    **b** TB0249 _fs8.1-1 sp-1_    **f**    1.4   1.2   1.0   0.8   0.6   0.4   0.2   0   12    **g**    150   100   50   0   18   15   12   9   6   3   0      10   8   6   4   2   0   **h**  100 0.0023   80   60   40   20   0        fruit ripening.
+Indeed, _fs8.1_ (refs.
+5,7,13) and _self-pruning_ ( _sp_ )
+[35][–][37] natural mutations have facilitated mechanical harvesting of processing tomatoes and thus revolutionized the tomato industry.
+In this context, we used CRISPR/Cas9 to engineer both _FS8.1_ and _SP_ in the background of TB0249, an elite fresh-market cultivar with an indeterminate growth habit and that produces round fruits (Extended Data Fig. 7a).
+As expected, the resulting _fs8.1 sp_ double mutants displayed determinate    growth habits and produced elongated fruits with enhanced CR (Fig.
+6b–e).
+Furthermore, the double mutants displayed typical _sp_ determinate growth habits that provide progressively faster sympodial shoot flowering and synchronized fruit ripening, leading to early yields (Fig.
+6b,f–h).
+Thus, our work probably exemplifies a simple one-step approach for rapidly improving fruit CR and generating early-yielding, machine-harvestable fresh-market tomatoes.
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1668**   **Article** https://doi.org/10.1038/s41477-023-01522-w    **Fig.
+6 | Editing of** _**FS8.1**_ **improves the CR of fresh-market tomato fruits** **without compromising quality.
+** **a**, Population of _FS8.1_ alleles in different tomato germplasm classes.
+Varitome is an ancestral population of tomato composed of _Solanum pimpinellifolium_ (SP) accessions from Ecuador and Peru; _Solanum lycopersicum_ var.
+_cerasiforme_ (SLC) accessions from Ecuador, Peru and Central America; and _Solanum lycopersicum_ var.
+_lycopersicum_ (SLL) from Mexico.
+The number of accessions in each category is indicated in parentheses.
+**b**, Representative images of TB0249 and _fs8.1 sp_ double mutant plants (top) and their fruits (bottom).
+The images were taken at 167 d after germination.
+The inflorescences are indicated by numbers.
+Scale bar, 10 cm.
+**c**, Ripe fruits of the   **Discussion**
+We have identified the long-sought-after gene underlying the elongated fruit shape of machine-harvestable processing tomatoes and elucidated its mode of action at the cellular and molecular levels.
+_
+FS8.1_
+encodes a  non-canonical GT-2 factor and complexes with canonical GT-2 factors such as SlGT-16 to activate cell cycle inhibitory genes.
+_
+FS8.1_ itself and _SlGT-16_ are differentially expressed in the ovary wall and the columella, thereby exerting distinct transcriptional output on these tissue layers.
+Our results support a scenario in which FS8.1 determines fruit shape by differentially inhibiting the cell proliferation rate of the ovary wall and the columella.
+Notably, the wild progenitors of cultivated tomatoes have tremendous genetic diversity at the whole-genome level but produce fruits that are almost invariably round.
+In contrast, cultivated tomatoes have little genetic variation in their genomes but exhibit tremendous diversity in terms of fruit shape [1][,][5][,][9][,][38][,][39] .
+Presumably, with respect to fruits, roundness provides several advantages over other shapes for seed dispersal in the wild, and domestication and selection have presumably led to dramatic changes in the fruit shape of tomato cultivars [5][,][9][,][11][,][32][,][40] .
+Indeed, our analysis of the distribution of _FS8.1_ alleles demonstrates that the _fs8.1_ mutation arose recently and was highly selected in the breeding of machine-harvestable processing tomatoes.
+These findings are in line with the notion that selection for firmer-fruited varieties resulted in a shape change from round to elongated or torpedo-shaped tomatoes [4][,][5][,][11] .
+Our study raised the intriguing question of how the _fs8.1_ mutation leads to enhanced CR of tomato fruits.
+It is conceivable that elon gated fruits have several aspects of advantage over round fruits to withstand mechanized harvesting and postharvest processing.
+First, they are much easier to transport by a conveyor belt.
+Second, they are more resistant to crushing because the contact areas among elongated fruits are much larger than those of round fruits [4][–][6] .
+In addition to shape change, the enhanced CR of _fs8.1_ mutant fruits could also be due to additional changes such as cell wall structure.
+However, several lines of evidence do not support this scenario.
+First, the _FS8.1_ gene is temporally expressed during the early stages of ovary development and determines the pattern of ovary shape before anthesis [13] .
+Second, the ovary wall thickness of the _FS8.1_ knockout mutants was actually decreased due to reduced cell layers (Extended Data Fig.
+2e,f).
+Third, the _fs8.1_ mutation does not affect fruit ripening.
+Thus, it is not likely that the _fs8.1_ mutation enhances fruit CR by changing cell wall remodelling.
+It will be interesting to further explore the cellular, molecular and biochemical mechanisms underlying _fs8.1_ -mediated effects on fruit CR in future studies.
+Compared with processing-tomato fruits, typical fresh-market tomato fruits are of higher quality in terms of nutrition and flavour.
+However, fresh-market tomato fruits can experience severe soft fruit-associated deterioration in terms of harvest, transportation and storage.
+Thus, enhancing fruit firmness without compromising other quality values is an earnest target for modern breeding of fresh-market tomatoes.
+Given that fruit firmness is determined by the rate of softening during ripening, a process in which fruit colour, texture and flavour traits are formed, breeding firm fruits with desirable qualities has    TB0249 and _fs8.1 sp_ double mutant.
+Scale bar, 1 cm.
+**d**, **e**, Fruit shape indexes ( **d** ) and CR in the abaxial–adaxial direction ( **e** ) of TB0249 and _fs8.1
+sp_ double mutant fruits.
+In **d**, _n_ = 11, 8, 8 fruits from left to right.
+In **e**, _n_ = 10, 8, 8 fruits from left to right.
+**f**, **g**, Flowering time for primary ( **f** ) and sympodial ( **g** ) shoots of TB0249 and _fs8.1 sp_ plants ( _n_ = 8, 8, 6 plants from left to right).
+The sum of the leaves from five sympodial shoots was used to determine statistical significance in **g** .
+**h**, Percentage of red fruits from TB0249 and
+_fs8.1 sp_ plants ( _n_ = 6, 6, 5 plants   from left to right).
+In **d** ‒ **h**, bars represent means ± s.d.
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests, with exact _P_ values indicated on the graph.
+proven to be challenging.
+For example, the natural mutations _ripen-_ _ing inhibitor_ ( _rin_ ) and _non-ripening_ ( _nor_ ) have been used to improve fruit firmness [41][,][42] .
+However, these ripening-related mutations often adversely affect colour, flavour and nutritional qualities [41][,][43][–][45] .
+Thus, an alternate strategy to improve fruit firmness without affecting the ripening process would ideally achieve both goals of long shelf-life and high quality.
+Although the _fs8.1_ allele has revolutionized the breeding of processing tomatoes in the 1970s, the application of this allele in fresh-market tomato breeding has proven to be challenging.
+Considering that the _fs8.1_ locus is located in a heterochromatic region [14], it is likely that the extremely low recombination rate around the locus and unfavourable linkage drag have prevented the introduction of this beneficial allele into fresh-market tomatoes.
+From this perspective, our identification of the _FS8.1_ gene makes it possible to breed this beneficial allele into fresh-market tomatoes using gene editing, a powerful breeding technique that can effectively avoid the effects of linkage drag [46][–][48] .
+Indeed, CRISPR/Cas9-mediated precise mutation of _FS8.1_ led to enhanced CR of elite fresh-market tomatoes without loss of quality.
+Previous studies have shown that _PECTATE LYASE_
+[49], the GA2-oxidase-encoding gene _FIRM SKIN 1_ (ref. 18), the LATERAL ORGAN BOUNDARIES transcription factor gene _SlLOB1_ (ref. 50), β-galactosidase genes _TBG4_ and _TBG6_ (ref. 51,52), the MADS-box transcription factor gene _SlMBP3_ (ref.
+53,54), and several polygalacturonase genes and expansin genes
+[55][,][56] are useful targets to enhance fruit firmness by targeted control of fruit softening.
+Given that _FS8.1_ is not involved in fruit ripening, our work provides an alternate strategy to improve fruit CR without affecting softening.
+Furthermore, simultaneous mutation of _FS8.1_ and _SP_ converted indeterminate fresh-market tomato plants that produce round fruits into determinate plants that produce square fruits suitable for machine harvesting.
+In this regard, our study probably underscores a potential strategy to breed fresh-market tomatoes suitable for mechanized production.
+It is also possible that the consumer preference and culinary utility of round fruits have precluded the breeding of the _fs8.1_ allele into fresh-market tomatoes.
+In this regard, it will be interesting to test whether the _FS8.1_ gene can be used to develop more flavourful processing tomatoes from fresh-market varieties.
+**Methods** **Plant material and growth conditions** Seeds of M82 (LA3475), IL8-1-1 (LA4072), IL8-2 (LA4074), IL8-3 (LA4076), AC (LA2838A), LA0716, LA1706, LA3528, E6203 (LA4024) and LA3144 were obtained from the C.M. Rick Tomato Genetics Resource Center
+[(TGRC; https://tgrc.ucdavis.edu) at the University of California, Davis.](https://tgrc.ucdavis.edu)
+[Seeds of Springo, T46567 and Fafnir were purchased from Syngenta.](https://www.ncbi.nlm.nih.gov/nuccore/T46567) Seeds of Provence and SV4424TH were purchased from Monsanto.
+Seeds of TB0249 were obtained from our own stocks.
+IL8-1-1 was used  as the WT for _fs8.1-7_, _fs8.1-9_, _slgt-16 slgt-34_, _slkrp2_, _slkrp1 slkrp2 slkrp4_, _proFS8.1::GUS_, _proSlSlGT-16::GUS_ and _proSlKRP2::GUS_ .
+M82 was used as the WT for _proFS8.1::FS8.1-GFP_ ( _Comp_ ), _SlKRP2-OE_ and _SlGT-16-OE_ .
+AC was used as the WT for _fs8.1-3_, _fs8.1-16, slgt-16-1_, _slgt-16-2_, _slgt-34-1_,
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants) 2023 | 1659–1674 **1669**   **Article** https://doi.org/10.1038/s41477-023-01522-w    _slgt-34-2_, _slgt-16-3 slgt-34-3_ and _slgt-16-4 slgt-34-4_ .
+TB0249 was used as the WT for _fs8.1-1 sp-1_ and _fs8.1-2 sp-2_ .
+Seeds of _N. benthamiana_ were obtained from our own stocks.
+The tomato seeds were germinated on moistened filter paper at room temperature and then sown in 32-cell plastic flats.
+The seedlings were grown in a growth chamber and maintained at 60% relative humidity under 16 h of light (200 µE m [−2] s [−1] ) at 26 °C and 8 h of darkness at 18 °C.
+Thirty-day-old seedlings were transplanted to the field and grown under standard water and fertilizer management.
+_
+N. bentha-_ _miana_ seeds were germinated in soil in 8-cm diameter pots and then transplanted to 32-cell plastic flats.
+The _N. benthamiana_ seedlings were grown under the same conditions as those of the tomato seedlings.
+To collect the developing ovaries more precisely at pre-anthesis stages, the timing of ovary development was determined as described previously [13] .
+Briefly, flower buds were tagged and the size of the flower was recorded every day until anthesis.
+Then, flower sizes were plotted against the relative number of days pre-anthesis to estimate the relationship between flower size and the timing of ovary development (that is, DBA).
+Next, ovaries were collected from flowers estimated to be at 18, 15, 12, 9, 5, 3 and 0 DBA (on the basis of flower size) and used for analysis.
+**Phenotypic evaluation**
+For fruit shape analysis, full-size ripe fruits were cut longitudinally, scanned at 300 dpi and analysed using Tomato Analyser (v.4.0)
+[57] .
+The fruit shape index was calculated as the ratio of the maximum height/ length to the maximum width of a fruit.
+For ovary shape analysis, ovaries at anthesis were cut longitudinally and digitized using a Lecia DFC490 digital camera.
+The maximum length and width of the ovaries were measured using ImageJ software.
+The ovary shape index was calculated as the ratio of the maximum length to the maximum width of an ovary.
+Fruit CR was measured using an Instron 5542 texture analyser as previously described [18] .
+More than eight red ripe fruits of each genotype were used for measurements.
+**Histological analysis** Ovaries at anthesis were fixed in formalin-acetic acid-alcohol (10% formaldehyde, 5% glacial acetic acid, 50% ethanol) at 4 °C overnight.
+The samples were dehydrated on ice with an ethanol-double distilled H 2 O series (50, 70, 85, 95, 100% × 2) and then embedded in a resin-ethanol series (50, 100%) at room temperature.
+The embedded ovaries were subsequently sectioned using a Leica RM2265 semithin slicer, followed by staining with 0.5% toluidine blue in a 0.1% sodium carbonate solution.
+The sections were imaged using an Olympus BX51 microscope, and histological and cellular observations were made using ImageJ. The red, blue and yellow lines in Fig.
+1a indicate the inner ovary wall, the columella boundary and ovary wall thickness, respectively.
+The cell number and size were measured along these lines.
+**Fine-mapping** _FS8.1_ has been mapped to a 3.03-Mb interval between two markers, 11EP239 and 11EP249, on the long arm of chromosome 8 by using recombinant plants derived from hybrid progenies of _S. lycopersicum_ cv.
+Rio Grande and a wild species, _S. pimpinellifolium_ (accession no. LA1589, [https://tgrc.ucdavis.edu/) (ref. 14).
+On the basis of previous mapping,](https://tgrc.ucdavis.edu/) we used a BC 4 F 5 plant (13S140) to self-pollinate twice and obtained five recombinants from 14,080 progenies, which narrowed the region to 268.63 kb.
+There are three open reading frames in this region.
+Primers used for genotyping are listed in Supplementary Table 8.
+**Plasmid construction and plant transformation** For genetic complementation of M82, an _FS8.1_ genomic fragment containing its 2,854-bp promoter and coding sequence from AC was cloned into a pCAMBIA1300-GFP vector
+[58] to generate a _proFS8.1::FS8.1-GFP_ construct.
+For overexpression of _SlKRP2_, the coding DNA sequence    (CDS) of _SlKRP2_ was cloned into a pENTR vector (Invitrogen), which was then recombined with the binary vector pGWB18 (ref. 59) to generate a _pro35S::SlKRP2-myc_ construct.
+For overexpression of _SlGT-16_, the _SlGT-16_ CDS was cloned into pENTR (Invitrogen), which was then recombined with the binary vector pK7FWG2.0 (ref.
+60) to generate a _pro35S::SlGT-16-GFP_ construct.
+All the constructs were transformed into M82 by _Agrobacterium tumefaciens_ (GV3101)-mediated cotyledon explant transformation as described previously [23] .
+The resulting transformants were selected on the basis of their resistance to hygromycin B or kanamycin.
+Homozygous T 2 transgenic plants were used for further experiments.
+All primers used for plasmid construction are listed in Supplementary Table 8.
+**CRISPR/Cas9-mediated mutations** Null mutations of _FS8.1_, _SlKRP2_, _SlGT-16_ and _SlGT-34_ were generated by the tomato U6 promoter-controlled CRISPR/Cas9 system as previously described [23] .
+Briefly, two sets of primers containing guide RNA (gRNA) sequences of _FS8.1_ were used in PCR to generate a tomato _U6-26-FS8.1-gRNA_ cassette.
+The resulting _U6-26-FS8.1-gRNA_ cassette was then cloned into the binary vector pTX041 (ref. 23) to form a _pTX041-FS8.1_ construct.
+_
+pTX041-SlKRP2_, _pTX041-SlGT-16_ and _pTX041-SlGT-34_ constructs were generated following the same protocol.
+The final binary vectors were subsequently transformed into IL8-1-1, AC or TB0249 by _A. tumefaciens_ (GV3101)-mediated cotyledon explant transformation.
+The _slgt-16 slgt-34_ double mutant line was generated by a CRISPR/Cas9 multiplex editing system on the basis of the endogenous transfer RNA (tRNA)-processing system [61][,][62] .
+Briefly, a pGTR plasmid containing the gRNA scaffold with a tRNA sequence was used as a PCR template to generate gRNA–tRNA units.
+The resulting units were cloned into pTX041 to form a _pTX041-SlGT-16&SlGT-34_ construct.
+The final construct was then transformed into IL8-1-1 and AC.
+An _slkrp1_ _
+slkrp2 slkrp4_ triple mutant line and _fs8.1 sp_ double mutant lines were generated following the same protocol.
+The CRISPR/Cas9-mediated mutations were genotyped by PCR amplification and DNA sequencing.
+Homozygous lines without _Cas9_ were identified for further experiments.
+The primers used for plasmid construction and genotyping are listed in Supplementary Table 8.
+**RNA extraction and gene expression analysis** Total RNA was extracted from each sample using TRIzol reagent (Invitrogen, 15596018) according to manufacturer instructions.
+The quality of the total RNA was determined using a NanoDrop spectrophotometer (Thermo Fisher).
+Each sample (2 μg) of total RNA was used to synthesize first-strand complementary DNA with a PrimeScript RT kit with gDNA  ‒ eraser (RR0447A, Takara).
+RT qPCR was performed using a Roche LightCycler 480 system with a SYBR Fast qPCR kit (KK4601, KAPA Biosystems).
+The expression levels of the target genes were normalized against that of _SlACTIN2_ .
+The error bars represent the s.d.s of 3 biological replicates.
+Each replicate was collected from more than 10 pooled ovaries or other organs at the same stage.
+The primers used to quantify the gene expression levels are listed in Supplementary Table 8.
+**Phylogenetic tree construction and protein structure** **prediction**
+Phylogenetic trees were constructed with MEGA (v.7.0)
+[63] using the neighbour-joining method.
+The branches were compared with bootstrap support values from 500 replicates per node.
+Protein structures of SlGT-16, FS8.1 and fs8.1 were predicted by the artificial intelligence (AI) system, AlphaFold
+[64][,][65] .
+**RNA-seq and data analysis** M82 and _Comp-2_ ovaries were collected at 9 DBA for RNA isolation.
+Total RNA was extracted using TRIzol reagent (15596018, Invitrogen) and then treated with DNase I (M0303S, New England Biolabs).
+The quality of the total RNA was assessed using a NanoDrop spectrophotometer
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants) 2023 | 1659–1674 **1670**   **Article** https://doi.org/10.1038/s41477-023-01522-w    and Agilent 2100 Bioanalyzer.
+For each sample, 1 μg of total RNA was used to construct Illumina sequencing libraries according to manufacturer instructions.
+The libraries were sequenced by staff at Biomarker Technologies via an Illumina HiSeq X-ten platform and preliminarily [analysed using the BMKCloud platform (http://www.biocloud.net/).](http://www.biocloud.net/) Low-quality reads and reads containing adapter sequences and poly-N sequences were removed from the raw data, thus resulting in more than 7 Gb of clean reads per library.
+The clean reads were mapped onto the tomato reference genome (SL2.5), which was downloaded [from the Solanaceae (SOL) Genomics Network (http://solgenomics.](http://solgenomics.net/)
+[net/) via TopHat2 (ref. 66) with default parameters.
+The gene expres-](http://solgenomics.net/) sion levels were calculated as fragments per kilobase of transcript per million fragments mapped (FPKM) using StringTie
+[67] .
+Genes that were differentially expressed between two groups were identified using the DEGseq R package
+[68], with an FC ≥ 1.5 and FDR-adjusted _P_ < 0.05.
+GO enrichment analysis was implemented using Protein Analysis Through [Evolutionary Relationships (PANTHER; http://geneontology.org/).](http://geneontology.org/) GO term enrichment is shown using the most specific subclass in the enrichment analysis.
+**ChIP** ‒ **qPCR assays** ChIP assays were performed as previously described [69][,][70], with slight modifications.
+Briefly, ovaries of _proFS8.1::FS8.1-GFP_ - _2_ or _SlGT-16-OE-1_ plants at anthesis were collected and ground to a powder in liquid nitrogen.
+Four grams of powder of each sample was crosslinked with 1% (v/v) formaldehyde on ice for 10 min, followed by neutralization with 0.125 M glycine.
+The chromatin complex was isolated, resuspended in lysis buffer (50 mM 4-(2-hydroxyethyl)1-piperazineethanesulfonic acid (HEPES, pH 7.5), 150 mM NaCl, 1 mM EDTA, 1% (w/v) SDS, 1% (v/v) Triton X-100, 0.1% (w/v) sodium deoxycholate and 1 mM phenylmethylsulfonyl fluoride) containing 1× protease inhibitor cocktail (05056489001, Roche) and sonicated to reduce the average DNA fragment size to ~500 bp.
+Then, 50 μl of sheared chromatin was saved as an input control.
+Anti-GFP antibody (AB290, Abcam, 1:750 dilution) was incubated together with Dynabeads Protein G (10004D, Invitrogen) at 4 °C for at least 6 h and then added to the remaining chromatin, which was subsequently incubated overnight at 4 °C.
+The immunoprecipitated chromatin–protein complex was sequentially washed in low-salt buffer (20 mM Tris-HCl (pH 8.0), 150 mM NaCl, 2 mM EDTA, 0.2% (w/v) SDS and 0.5% (v/v) Triton X-100), high-salt buffer (20 mM Tris-HCl (pH 8.0), 500 mM NaCl, 2 mM EDTA, 0.2% (w/v) SDS and 0.5% (v/v) Triton X-100), LiCl buffer (10 mM Tris-HCl (pH 8.0), 25 mM LiCl, 1 mM EDTA, 0.5% (w/v) Nonidet P-40 and 0.5% (w/v) sodium deoxycholate) and TE buffer (10 mM Tris-HCl (pH 8.0) and 1 mM EDTA).
+After washing, the immunoprecipitated chromatin was eluted with elution buffer (1% SDS and 100 mM NaHCO 3 ).
+The  ‒ protein DNA crosslinks were reversed by incubating the immunoprecipitated complexes in 20 μl 5 M NaCl at 65 °C overnight.
+The DNA was recovered using a QIAquick PCR Purification kit (28106, Qiagen) and analysed by qPCR.
+The ChIP signals were displayed as the percentage of precipitated DNA relative to that of input DNA.
+The fold enrichment in selected regions was normalized against the non-specific binding region of the _SlACTIN2_ promoter.
+The error bars represent the s.d.s of 3 biological replicates.
+Each replicate was collected from more than 100 pooled ovaries at the same stage.
+The primers used for qPCR are listed in Supplementary Table 8.
+**EMSAs** EMSAs were performed as described previously [71][,][72] .
+Briefly, _FS8.1_ CDS, _SlGT-16_ CDS and _SlGT-16_ derivatives were cloned into a pMAL-c2X vector (N8076S, New England Biolabs).
+The recombinant MBP-FS8.1, MBP-SlGT-16, MBP-SlGT-16 [ΔTD1] and MBP-SlGT-16 [ΔTD2] fusion proteins were expressed in _Escherichia coli_ Rosetta (DE3) cells and affinity-purified with amylase resin (E8021L, New England Biolabs) according to manufacturer instructions.
+Oligonucleotide probes were synthesized and    labelled with biotin at the 5’ end by Invitrogen. EMSAs were performed using a chemiluminescent EMSA kit (GS009, Beyotime).
+Biotin-labelled probes were incubated together with MBP-fusion proteins at room temperature for 20 min, and free and bound probes were separated in an acrylamide gel.
+A labelled probe incubated with MBP was used as a negative control.
+Unlabelled probes were used as competitors.
+The probes used for EMSA are listed in Supplementary Table 8.
+**LCI assays** LCI assays were performed as described previously [73] .
+The CDSs of _FS8.1_, _fs8.1_ and _SlGT-16_ were cloned into a pCAMBIA-35S-nLuc vector, and the CDSs of _FS8.1_, _SlGT-16_, _SlGT-34_, _SlGT-30_, _SlGT-26_ and _SlGT-26 L_ were cloned into a pCAMBIA-35S-cLuc vector.
+The primers used for plasmid construction are listed in Supplementary Table 8. _
+A. tumefa-_ _
+ciens_
+GV3101 transformed with different constructs were incubated, collected and resuspended in a 10 mM MgCl 2 solution including 0.2 mM acetosyringone to a final concentration of optical density (OD) 600 = 1.5.
+After 2 h of incubation at room temperature, equal volumes of _Agro-_ _bacterium_ suspensions carrying the indicated constructs were mixed and co-infiltrated into _N. benthamiana_ leaves with a needleless syringe.
+The infiltrated plants were incubated at 23 °C for 72 h under a 16-h light/8-h dark photoperiod before the LUC activity was measured.
+A low-light-cooled charge-coupled device (CCD) imaging apparatus (NightOWL II LB983 with Indigo software) was used to capture the LUC image.
+The leaves were sprayed with a 0.5 mM luciferin solution and placed in darkness for 3 min before luminescence detection.
+Data from at least 9 biological replicates were collected.
+**In vitro pull-down assays**
+To produce MBP-FS8.1, MBP-SlGT-16, MBP-SlGT-34, MBP-SlGT-16 [ΔTD1], MBP-SlGT-16 [ΔTD2] and MBP-SlGT-16
+[ΔHD] fusion proteins, the CDSs of _FS8.1_, _SlGT-16_ and _SlGT-34_ and the derivatives of _SlGT-16_ were cloned into a  pMAL-c2X vector (N8076S New England Biolabs).
+To produce GST-FS8.1 and GST-SlGT-16 fusion proteins, the CDSs of _FS8.1_ and _SlGT-16_ were cloned into a pGEX-4T-3 vector (27-4583-01, GE Healthcare).
+The primers used for plasmid construction are listed in Supplementary Table 8.
+The resulting recombinant vectors were transformed into _E. coli_ Rosetta (DE3) cells, and the fusion proteins were purified using amylose resin (E8021, New England Biolabs,) or GST Bind Resin (17-0756-01, GE Healthcare) according to manufacturer instructions.
+To detect FS8.1–SlGT-16 and FS8.1–SlGT-34 interactions, 10 μl of amylose resin bound to 1 μg of MBP-SlGT-16 or MBP-SlGT-34 was incubated together with 1 μg of GST-FS8.1 in 1 ml of reaction buffer (25 mM Tris-HCl (pH 7.5), 100 mM NaCl, 1 mM dithiothreitol and Roche protease inhibitor cocktail) at 4 °C for 1 h. Subsequently, the beads were collected and washed three times in washing buffer (25 mM Tris-HCl (pH 7.5), 150 mM NaCl and 1 mM dithiothreitol).
+Then, the samples were denatured using sodium dodecyl sulfate (SDS) protein loading buffer and separated using sodium dodecyl sulfate poly ‒ acrylamide gel electrophoresis (SDS PAGE).
+The GST fusion proteins [were detected by immunoblotting with anti-GST antibody (M20007,](https://www.ncbi.nlm.nih.gov/nuccore/M20007) Abmart, 1:3,000 dilution); purified MBP was used as a negative control.
+One microgram each of MBP and MBP-fusion proteins were  ‒ separated by SDS PAGE, and the staining of polyacrylamide gels with Coomassie Brilliant Blue R 250 was used as a loading control.
+To investigate whether FS8.1 and SlGT-16 form homodimers or heterodimers with each other and to determine which domains are involved in  dimerization, subsequent manipulations similar to those described above were performed.
+To determine whether FS8.1 affects SlGT-16–SlGT-16 homodimer  formation, 1 μg each of purified MBP-SlGT-16 and GST-SlGT-16 proteins was added to each sample.
+Purified GST-FS8.1 protein was added in accordance with a concentration gradient.
+Amylose resin was used to pull down the proteins.
+Subsequent procedures performed and buffers used were the same as those described above.
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1671**   **Article** https://doi.org/10.1038/s41477-023-01522-w    **Transient expression assays**
+Transient expression assays were performed on _N. benthamiana_ leaves as previously described [58] .
+The 2,053-bp promoter sequence of _SlKRP2_ was amplified from genomic DNA and cloned into a pGreenII 0800-LUC vector
+[31] for use as a reporter.
+The _Renilla_ ( _REN_ ) LUC gene under the control of the cauliflower 35S promoter in a pGreenII 0800-LUC vector was used as the internal control.
+The CDSs of _FS8.1_, _fs8.1_ and _SlGT-16_ under the control of the 35S promoter were cloned into a pCAMBIA-35S-cLuc vector, and the resulting vectors were used as effectors.
+The pCAMBIA-35S-cLuc vector was used as a negative control.
+The primers used for plasmid construction are listed in Supplementary Table 8. _
+A. tumefaciens_ GV3101 transformed with the different constructs were incubated, collected and resuspended in a 10 mM MgCl 2 solution including 0.2 mM acetosyringone to a final concentration of OD 600 = 1.5.
+After 2 h of incubation at room temperature, equal volumes of _Agrobacterium_ suspensions carrying the indicated constructs were mixed and co-infiltrated into _N. benthamiana_ leaves with a needleless  syringe.
+The infiltrated plants were incubated at 23 °C for 48 h under a 16-h light/8-h dark photoperiod before luminescence detection.
+Firefly LUC and REN activities were measured using a Dual-LUC Reporter Assay system (Promega) following manufacturer instructions, and LUC:REN ratios were calculated and presented.
+Data from 4 independent biological replicates were collected, with error bars used to represent the s.d.s.
+**Genotyping of tomato germplasm**
+A derived cleaved amplified polymorphic sequence (dCAPS) marker, FS8.1-dCAPS, was developed to detect the _fs8.1_ mutation.
+After amplification, the products were digested with _Hind_ III and separated on a 3% (w/v) agarose gel.
+The null allele of _FS8.1_ yielded a fragment of 174 bp, whereas the WT allele yielded a fragment of 154 bp.
+The primers used for genotyping are listed in Supplementary Table 8.
+**Content analysis of fruit quality-related metabolites** Total soluble solids (°Brix) were measured with a digital Brix refractometer (ATAGO PAL-BX/ACID3).
+In the corresponding figures, error bars are used to represent the s.d.s of 4 biological replicates.
+For each replicate, the fruit juice of 3 red ripe fruits was pooled and used for  measurements.
+Sugar and acid analyses were performed as described previously [18], with modifications.
+More than 3 red ripe fruits were collected from each genotype, and the pericarps of the mixed fruits were ground in liquid nitrogen.
+For saccharide analysis, 800 mg of ground powder was diluted in 500 μl of water.
+After sonication and centrifugation, the samples were filtered through a 0.22 µm polyethersulfone ultrafiltration membrane.
+The saccharide contents were measured using a high-performance liquid chromatograph (LC-20AT, Shimadzu).
+A Waters BEH Amide 5 µm column was used as the analytical column (250 × 4.6 mm).
+The mobile phase consisted of acetonitrile as solvent A and 1 mg ml
+[−1] ammonium hydroxide as solvent B.
+The temperatures of the column and autosampler were 40 °C and 4 °C, respectively.
+Each saccharide was separated under isocratic elution (A:B = 7:3) under a flow rate of 0.8 ml min [−1] .
+In the corresponding figures, the error bars represent the s.d.s of 3 or 4 biological replicates.
+For the acid analysis, 500 mg of ground powder was diluted in 500 μl 0.2 mol l
+[−1] metaphosphoric acid.
+After sonication and centrifugation, the samples were filtered through a 0.22 µm polyethersulfone ultrafiltration membrane.
+Acid contents were measured using a high-performance liquid chromatograph (LC-20AT, Shimadzu).
+A CNW Athena C18-WP 5 µm column was used as the analytical column (250 × 4.6 mm).
+The mobile phase consisted of water with 1 mg ml
+[−1] phosphoric acid as solvent A and methanol as solvent B.
+The temperatures of the column and autosampler were 30 °C and 4 °C, respectively.
+Each acid was separated by increasing the solvent B concentration from 2% to 80% during 3.5 min after the first 7.5 min of the run at 2% under a flow rate of 0.7 ml min
+[−1], followed by washing with 2% solvent B for 8 min.
+In the corresponding figures, the error bars represent the s.d.s of 4 biological replicates.
+Lycopene analysis was performed as previously described [74], with modifications.
+Briefly, 500 mg of ground powder was diluted in 15 ml of methanol and ethyl acetate (methanol:ethyl acetate = 1:9 (v/v)) including 0.1% butylated hydroxytoluene.
+After sonication and centrifugation, the samples were dried under low temperature and dissolved in 1 ml of ethyl acetate.
+Then, the samples were filtered through a 0.22 µm polyethersulfone ultrafiltration membrane.
+The lycopene contents were measured using a high-performance liquid chromatograph (LC-20AT, Shimadzu).
+A C18 5 µm column was used as the analytical column (250 × 4.6 mm).
+The mobile phase consisted of methanol as solvent A and ethyl acetate as solvent B.
+The temperatures of the column and autosampler were 20 °C and 4 °C, respectively.
+Each acid was separated by increasing the solvent B concentration from 6% to 90% during 4 min after the first 1 min of the run at 6% under a flow rate of 1 ml min [−1], followed by washing with 6% solvent B for 7 min.
+In the corresponding figures, the error bars represent the s.d.s of 4 biological replicates.
+**Quantification and statistical analysis**
+The significance of differences was evaluated using two-tailed Student’s _t-
+_
+tests.
+For protein quantification, band intensities were quantified using ImageJ software.
+**Reporting summary**
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+**Data availability**
+The RNA-seq data have been deposited in the Genome Sequence Archive
+[(GSA; https://ngdc.cncb.ac.cn/gsa/) at the Beijing Institute of Genom-](https://ngdc.cncb.ac.cn/gsa/) ics (BIG) Data Center, Chinese Academy of Sciences, under accession [number CRA008400.
+The sequence data of the following genes (and](http://bigd.big.ac.cn/gsa/browse/CRA008400) their accession numbers) in this article can be found in the Sol Genomics Network (SGN): _FS8.1_ (Solyc08g061910), _SlGT-16_ (Solyc04g071360), _SlGT-34_ (Solyc12g056510), _SlGT-30_ (Solyc11g005380), _SlGT-_ _26_ (Solyc09g009250), _SlGT-26L_ (Solyc10g083567), _SlKRP1_ (Solyc03g044480), _SlKRP2_ (Solyc02g090680), _SlKRP4_ (Solyc12g098310) and _SP_ (Solyc06g074350).
+Materials used in this study are available upon request.
+Source data are provided with this paper.
+**References**  1.
+The Tomato Genome Consortium.
+The tomato genome sequence provides insights into fleshy fruit evolution.
+_
+Nature_ **485**, 635–641 (2012).
+2. van der Knaap, E. & Tanksley, S. D. The making of a bell pepper-shaped tomato fruit: identification of loci controlling fruit morphology in Yellow Stuffer tomato. _Theor.
+Appl.
+Genet.
+_
+**107**, 139–147 (2003).
+3. García-Valverde, V., Navarro-González, I., García-Alonso, J. & Periago, M. J. Antioxidant bioactive compounds in selected industrial processing and fresh consumption tomato cultivars.
+_
+Food Bioproc.
+Tech.
+_
+**6**, 391–402 (2013).
+4.
+Lukyanenko, A. N. in _Genetic Improvement of Tomato_ (ed.
+Kalloo, G.) 213–230 (Springer, 1991).
+5. Tanksley, S. D. The genetic, developmental, and molecular bases of fruit size and shape variation in tomato.
+_
+Plant Cell_ **16**, S181–S189 (2004).
+6. Webb, R. E. & Bruce, W. M. in _Yearbook of Agriculture, 1968:
+Science_ _for Better Living_ 103–107 (U. S. Department of Agriculture, 1968).
+7. Grandillo, S., Ku, H.-M. & Tanksley, S. D. Characterization of _fs8.1_, a major QTL influencing fruit shape in tomato. _
+Mol.
+Breed.
+_
+**2**, 251–260 (1996).
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1672**   **Article** https://doi.org/10.1038/s41477-023-01522-w    8.
+Gonzalo, M. J. & van der Knaap, E. A comparative analysis into the genetic bases of morphology in tomato varieties exhibiting elongated fruit shape.
+_
+Theor.
+Appl.
+Genet.
+_
+**116**, 647–656 (2008).
+9.
+Rodríguez, G. R. et al.
+Distribution of _SUN_, _OVATE_, _LC_, and _FAS_ in the tomato germplasm and the relationship to fruit shape diversity.
+_
+Plant Physiol.
+_
+**156**, 275–285 (2011).
+10.
+van der Knaap, E. et al.
+What lies beyond the eye: the molecular mechanisms regulating tomato fruit weight and shape.
+_
+Front.
+_ _
+Plant Sci._
+**5**, 227 (2014).
+11.
+Paran, I. & van der Knaap, E. Genetic and molecular regulation of fruit and plant domestication traits in tomato and pepper.
+_
+J. Exp.
+_ _
+Bot.
+_
+**58**, 3841–3852 (2007).
+12.
+Grandillo, S. & Tanksley, S. D. QTL analysis of horticultural traits differentiating the cultivated tomato from the closely related species _Lycopersicon pimpinellifolium_ .
+_
+Theor.
+Appl.
+Genet.
+_
+**92**, 935–951 (1996).
+13.
+Ku, H. M., Grandillo, S. & Tanksley, S. D. _fs8.1_, a major QTL, sets the pattern of tomato carpel shape well before anthesis.
+_
+Theor.
+Appl._ _
+Genet.
+_
+**101**, 873–878 (2000).
+14.
+Sun, L. et al.
+Candidate gene selection and detailed morphological evaluations of _fs8.1_, a quantitative trait locus controlling tomato fruit shape.
+_
+J. Exp.
+Bot.
+_
+**66**, 6471–6482 (2015).
+15.
+Frary, A., Fulton, T. M., Zamir, D. & Tanksley, S. D. Advanced backcross QTL analysis of a _Lycopersicon esculentum_ × _
+L. pennellii_ cross and identification of possible orthologs in the _Solanaceae_ .
+_
+Theor.
+Appl.
+Genet.
+_ *
+*108**, 485–496 (2004).
+16.
+Zhou, D. X. Regulatory mechanism of plant gene transcription by GT-elements and GT-factors.
+_
+Trends Plant Sci._
+**4**, 210–214 (1999).
+17.
+Kaplan-Levy, R. N., Brewer, P. B., Quon, T. & Smyth, D. R.
+The trihelix family of transcription factors—light, stress and development.
+_
+Trends Plant Sci._
+**17**, 163–171 (2012).
+18.
+Li, R. et al. _FIS1_ encodes a GA2-oxidase that regulates fruit firmness in tomato. _
+Nat.
+Commun.
+_
+**11**, 5844 (2020).
+19.
+Eshed, Y. & Zamir, D. An introgression line population of _Lycopersicon pennellii_ in the cultivated tomato enables the identification and fine mapping of yield-associated QTL.
+_
+Genetics_ **141**, 1147–1162 (1995).
+20.
+Lippman, Z. B., Semel, Y. & Zamir, D. An integrated view of quantitative trait variation using tomato interspecific introgression lines.
+_
+Curr.
+Opin.
+Genet.
+Dev._
+**17**, 545–552 (2007).
+21.
+Mali, P. et al.
+RNA-guided human genome engineering via Cas9.
+_
+Science_ **339**, 823–826 (2013).
+22.
+Cong, L. et al.
+Multiplex genome engineering using CRISPR/Cas systems.
+_
+Science_ **339**, 819–823 (2013).
+23.
+Deng, L. et al.
+Efficient generation of pink-fruited tomatoes using CRISPR/Cas9 system.
+_J. Genet.
+Genomics_ **45**, 51–54 (2018).
+24.
+De Veylder, L. et al.
+Functional analysis of cyclin-dependent kinase inhibitors of _Arabidopsis_ .
+_
+Plant Cell_ **13**, 1653–1668 (2001).
+25.
+Verkest, A. et al.
+The cyclin-dependent kinase inhibitor KRP2 controls the onset of the endoreduplication cycle during _Arabidopsis_ leaf development through inhibition of mitotic CDKA;1 kinase complexes.
+_
+Plant Cell_ **17**, 1723–1736 (2005).
+26.
+Zhao, X. et al.
+A general G1/S-phase cell-cycle control module in the flowering plant _Arabidopsis thaliana_ .
+_PLoS Genet.
+_ *
+*8**, e1002847 (2012).
+27.
+Komaki, S. & Sugimoto, K. Control of the plant cell cycle by developmental and environmental cues.
+_
+Plant Cell Physiol.
+_
+**53**, 953–964 (2012).
+28.
+Kumar, N. et al.
+Functional conservation in the SIAMESE-RELATED family of cyclin-dependent kinase inhibitors in land plants.
+_
+Plant_ _
+Cell_ **27**, 3065–3080 (2015).
+29.
+Hiratsuka, K., Wu, X. D., Fukuzawa, H. & Chua, N. H. Molecular dissection of Gt-1 from _Arabidopsis_ .
+_
+Plant Cell_ **6**, 1805–1813 (1994).
+30.
+Yu, C., Cai, X., Ye, Z. & Li, H. Genome-wide identification and expression profiling analysis of trihelix gene family in tomato.
+_Biochem.
+Biophys.
+Res. Commun.
+_
+**468**, 653–659 (2015).
+31.
+Hellens, R. P. et al.
+Transient expression vectors for functional genomics, quantification of promoter activity and RNA silencing in plants.
+_
+Plant Methods_ **1**, 13 (2005).
+32.
+Razifard, H. et al.
+Genomic evidence for complex domestication history of the cultivated tomato in Latin America.
+_
+Mol.
+Biol.
+Evol._
+**37**, 1118–1132 (2020).
+33.
+Brandt, J. A. & French, B. C. Mechanical harvesting and the California tomato industry: a simulation analysis.
+_
+Am.
+J. Agric._ _Econ._ **65**, 265–272 (1983).
+34.
+Scott, J. W. in _Report of the Tomato Genetics Cooperative_ (ed. Scott, J. W.) 5–13 (University of Florida, 2014).
+35.
+Yeager, A. F. Determinate growth in the tomato.
+_J. Hered.
+_
+**18**, 263–265 (1927).
+36.
+Pnueli, L. et al.
+The _SELF-PRUNING_ gene of tomato regulates vegetative to reproductive switching of sympodial meristems and is the ortholog of _CEN_ and _TFL1_ .
+_
+Development_ **125**, 1979–1989 (1998).
+37.
+MacArthur, J. W. Inherited characters in the tomato: I.
+The self-pruning habit.
+_
+J. Hered.
+_
+**23**, 395–396 (1932).
+38.
+Rodriguez, G. R., Kim, H. J. & van der Knaap, E. Mapping of two suppressors of OVATE (sov) loci in tomato.
+_
+Heredity_ **111**, 256–264 (2013).
+39.
+Gao, L. et al.
+The tomato pan-genome uncovers new genes and a rare allele regulating fruit flavor.
+_
+Nat.
+Genet.
+_
+**51**, 1044–1051 (2019).
+40.
+Lin, T. et al.
+Genomic analyses provide insights into the history of tomato breeding.
+_
+Nat.
+Genet.
+_
+**46**, 1220–1226 (2014).
+41.
+Garg, N., Cheema, D. S. & Pathak, D. Heterosis breeding in tomato involving rin, nor and alc alleles: a review of literature.
+_
+Adv.
+Hort._ _
+Sci._
+**22**, 54–62 (2008).
+42.
+Kitagawa, M. et al.
+Characterization of tomato fruit ripening and analysis of gene expression in F1 hybrids of the _ripening inhibitor_ ( _rin_ ) mutant.
+_
+Physiol.
+Plant.
+_
+**123**, 331–338 (2005).
+43.
+Osorio, S. et al.
+Genetic and metabolic effects of ripening mutations and vine detachment on tomato fruit quality.
+_
+Plant_ _
+Biotechnol.
+J._ **18**, 106–118 (2020).
+44.
+Wang, R. et al.
+The _rin_, _nor_ and _Cnr_ spontaneous mutations inhibit tomato fruit ripening in additive and epistatic manners.
+_
+Plant Sci._
+**294**, 110436 (2020).
+45.
+Adaskaveg, J. A., Silva, C. J., Huang, P. & Blanco-Ulate, B. Single and double mutations in tomato ripening transcription factors have distinct effects on fruit development and quality traits.
+_
+Front.
+_ _
+Plant Sci._
+**12**, 647035 (2021).
+46.
+Chen, K., Wang, Y., Zhang, R., Zhang, H. & Gao, C. CRISPR/Cas genome editing and precision plant breeding in agriculture.
+_
+Annu.
+Rev. Plant Biol._
+**70**, 667–697 (2019).
+47.
+Yin, K., Gao, C. & Qiu, J. L. Progress and prospects in plant genome editing.
+_
+Nat.
+Plants_ **3**, 17107 (2017).
+48.
+Kwon, C. T. et al.
+Rapid customization of Solanaceae fruit crops for urban agriculture.
+_
+Nat.
+Biotechnol._
+**38**, 182–188 (2020).
+49.
+Uluisik, S. et al.
+Genetic improvement of tomato by targeted control of fruit softening.
+_
+Nat.
+Biotechnol._
+**34**, 950–952 (2016).
+50.
+Shi, Y. et al.
+A tomato LATERAL ORGAN BOUNDARIES transcription factor, SlLOB1, predominantly regulates cell wall and softening components of ripening.
+_
+Proc.
+Natl Acad.
+Sci.
+USA_ **118**, e2102486118 (2021).
+51.
+Smith, D. L., Abbott, J. A. & Gross, K. C. Down-regulation of tomato beta-galactosidase 4 results in decreased fruit softening.
+_
+Plant_ _Physiol.
+_
+**129**, 1755–1762 (2002).
+52.
+Moctezuma, E., Smith, D. L. & Gross, K. C. Antisense suppression of a beta-galactosidase gene (TB G6) in tomato increases fruit cracking.
+_
+J. Exp.
+Bot._
+**54**, 2025–2033 (2003).
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants)
+2023 | 1659–1674 **1673**   **Article** https://doi.org/10.1038/s41477-023-01522-w    53.
+Huang, B. et al. Interaction of two MADS-box genes leads to growth phenotype divergence of all-flesh type of tomatoes.
+_
+Nat._ _
+Commun.
+_
+**12**, 6892 (2021).
+54.
+Zhang, J. et al.
+An AGAMOUS MADS-box protein, SlMBP3, regulates the speed of placenta liquefaction and controls seed formation in tomato.
+_
+J. Exp.
+Bot._
+**70**, 909–924 (2019).
+55.
+Cantu, D. et al.
+The intersection between cell wall disassembly, ripening, and fruit susceptibility to _Botrytis cinerea_ .
+_
+Proc.
+Natl_ _
+Acad.
+Sci.
+USA_ **105**, 859–864 (2008).
+56.
+Jiang, F. et al.
+Disassembly of the fruit cell wall by the ripening-associated polygalacturonase and expansin influences tomato cracking.
+_
+Hortic.
+Res._
+**6**, 17 (2019).
+57.
+Rodríguez, G. R. et al.
+Tomato Analyzer: a useful software application to collect accurate and detailed morphological and colorimetric data from two-dimensional objects.
+_
+J. Vis.
+Exp.
+_
+**16**, 1856 (2010).
+58.
+You, Y., Zhai, Q., An, C. & Li, C. LEUNIG_HOMOLOG mediates MYC2-dependent transcriptional activation in cooperation with the coactivators HAC1 and MED25. _
+Plant Cell_ **31**, 2187–2205 (2019).
+59.
+Nakagawa, T. et al.
+Development of series of gateway binary vectors, pGWBs, for realizing efficient construction of fusion genes for plant transformation.
+_J. Biosci.
+Bioeng._
+**104**, 34–41 (2007).
+60.
+Karimi, M., Inze, D. & Depicker, A. GATEWAY vectors for _Agrobacterium_ -mediated plant transformation.
+_
+Trends Plant Sci._
+**7**, 193–195 (2002).
+61.
+Xie, K., Minkenberg, B. & Yang, Y. Boosting CRISPR/ Cas9 multiplex editing capability with the endogenous tRNA-processing system.
+_
+Proc.
+Natl Acad.
+Sci.
+USA_ **112**, 3570–3575 (2015).
+62.
+Yang, T. et al.
+Recoloring tomato fruit by CRISPR/Cas9-mediated multiplex gene editing.
+_
+Hortic.
+Res._
+**10**, uhac214 (2023).
+63.
+Kumar, S., Stecher, G. & Tamura, K. MEGA7: Molecular Evolutionary Genetics Analysis Version 7.0 for bigger datasets.
+_
+Mol.
+Biol.
+Evol._
+**33**, 1870–1874 (2016).
+64.
+Jumper, J. et al.
+Highly accurate protein structure prediction with AlphaFold.
+_
+Nature_ **596**, 583–589 (2021).
+65.
+Varadi, M. et al.
+AlphaFold Protein Structure Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models.
+_
+Nucleic Acids Res._
+**50**, D439–D444 (2022).
+66.
+Kim, D., Langmead, B. & Salzberg, S. L. HISAT: a fast spliced aligner with low memory requirements.
+_
+Nat.
+Methods_ **12**, 357–360 (2015).
+67.
+Pertea, M. et al.
+StringTie enables improved reconstruction of a transcriptome from RNA-seq reads.
+_
+Nat.
+Biotechnol._
+**33**, 290–295 (2015).
+68.
+Wang, L., Feng, Z., Wang, X., Wang, X. & Zhang, X. DEGseq: an R package for identifying differentially expressed genes from RNA-seq data.
+_
+Bioinformatics_ **26**, 136–138 (2010).
+69.
+Sun, C. et al.
+A transcriptional network promotes anthocyanin biosynthesis in tomato flesh.
+_
+Mol.
+Plant_ **13**, 42–58 (2020).
+70.
+Liu, Y. et al. MYC2 regulates the termination of jasmonate signaling via an autoregulatory negative feedback loop.
+_
+Plant Cell_ **31**, 106–127 (2019).
+71.
+Du, M. et al. MYC2 orchestrates a hierarchical transcriptional cascade that regulates jasmonate-mediated plant immunity in tomato.
+_
+Plant Cell_ **29**, 1883–1906 (2017).
+72.
+Deng, L. et al.
+Tomato MED25 regulates fruit ripening by interacting with EIN3-like transcription factors.
+_
+Plant Cell_ **35**, koac349 (2022).
+73.
+Chen, H. et al.
+Firefly luciferase complementation imaging assay for protein–protein interactions in plants.
+_
+Plant Physiol.
+_
+**146**, 368–376 (2008).
+74.
+Powell, A. L. et al.
+Uniform ripening encodes a Golden 2-like transcription factor regulating tomato fruit chloroplast development.
+_
+Science_ **336**, 1711–1715 (2012).
+**Acknowledgements**
+We thank J. Li for assistance with the fruit CR measurements.
+This  work was supported by the National Key Research and Development Program of China (2022YFF1003000 and 2021YFF1000103 to L.D.), the National Natural Science Foundation of China (31991183 to C.L., 32072582 to L.D., U22A20459 to C.L. and 31772319 to L.S.) and the Beijing Joint Research Program for Germplasm Innovation and New Variety Breeding (G20220628003 to C.L.).
+**Author contributions**  C.L. conceived and supervised the project.
+Q.Z. and L.D. performed most of the experiments.
+J.C., G.R.R., Z.C., T.Y., H.Z., Y.T., S.H. and L.S. performed the genotyping of the tomato germplasm.
+Q.Z., C.S., H.Z. and H.J. performed the plant transformations.
+T.Y. and C.-B.L. helped grow the plants.
+D.F. and E.v.d.K. reviewed and edited the manuscript.
+With input from all authors, C.L., L.D. and Q.Z. wrote the manuscript.
+All authors read and approved the content of the manuscript.
+**Competing interests**
+The authors declare no competing interests.
+**Additional information**  **Extended data** is available for this paper at [https://doi.org/10.1038/s41477-023-01522-w.](https://doi.org/10.1038/s41477-023-01522-w)   **Supplementary information**
+The online version contains supplementary [material available at https://doi.org/10.1038/s41477-023-01522-w.](https://doi.org/10.1038/s41477-023-01522-w)   **Correspondence and requests for materials** should be addressed to Chuanyou Li.
+**Peer review information** _
+Nature Plants_ thanks
+James Giovannoni  and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+**Reprints and permissions information** is available at [www.nature.com/reprints.](http://www.nature.com/reprints)   **Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+© The Author(s), under exclusive licence to Springer Nature Limited 2023, corrected publication 2024
+[Nature Plants | Volume 9 | October](http://www.nature.com/natureplants) 2023
+| 1659–1674 **1674**   **Article** https://doi.org/10.1038/s41477-023-01522-w   **Extended Data Fig. 1 |**
+See next page for caption.
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-023-01522-w    **Extended Data Fig.
+1 |** _**fs8.1**_ **-mediated shape change leads to increased fruit** **firmness.
+** a, Fruit and ovary shape index measurements via Tomato Analyzer version 4.0 and ImageJ (NIH).
+The fruit and ovary shape indexes are defined as the ratios of the maximum height length (L) to maximum width (W) of a fruit or an ovary.
+b,c, Fruit shape indexes (b) and CR (c) of different fresh-market and processing tomatoes.
+In b, _n_ = 16, 12, 9, 11, 11, 12, 9, 13, 13, 13, 6 fruits from left to right.
+In c, _n_ = 12, 14, 11, 10, 11, 10, 15, 18, 16, 18, 14 fruits from left to right.
+d, Fruit shape indexes of LA0716, M82 and NILs ( _n_ = 8, 8, 11, 8, 11 fruits from left to right).
+e, Ripe fruits of LA1589 and Rio Grande.
+Bar = 1 cm.
+f, Fruit shape index of LA1589   [Nature Plants](http://www.nature.com/natureplants)    and Rio Grande ( _n_ = 13 fruits).
+g, Ripe fruits of _fs8.1_ NILs in the background of Rio Grande.
+Bar = 1 cm.
+h, Fruit shape indexes of _fs8.1_ NILs in the background of Rio Grande ( _n_ = 7 fruits).
+i, CR of _fs8.1_ NILs in the background of Rio Grande. _n_ = 17 (for NIL- _FS8.1_ ) and 31 (for NIL- _fs8.1_ ) fruits.
+j, Sequence analysis showing the _Solyc08g061910_
+[A857T] mutation in different fresh-market or processing tomato accessions.
+Bars represent the means ± SD.
+The significance of the difference was evaluated by two-tailed Student’s t tests, the exact _P_ value is indicated on the graph.
+**Article** https://doi.org/10.1038/s41477-023-01522-w   **Extended Data Fig.
+2 |**
+See next page for caption.
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-023-01522-w    **Extended Data Fig.
+2 | Genetic validation of the** _**FS8.1**_ **candidate gene.
+** a, Generation of _fs8.1_ mutants in the IL8-1-1 background.
+The sgRNA targets and protospacer adjacent motifs (PAMs) are highlighted in red and bold fonts, respectively.
+The blue dashes indicate deletions, and the numbers indicate the   numbers of nucleotides involved.
+b‒f, Histological and cellular observations of anthesis ovaries of IL8-1-1 and _fs8.1_ mutants.
+The cell number and cell size were measured along the red, blue and yellow lines indicated in Fig.
+1a.
+IOWL, inner ovary wall length; OWT, ovary wall thickness; CL, columella length.
+In b, _n_ = 10, 11, 11, 10, 11, 10 ovaries from left to right.
+In c, _n_ = 9, 10, 11, 10, 10, 10 ovaries from left to right.
+In d, _n_ = 10, 12, 11, 10, 11, 10 ovaries from left to right.
+In e, _n_ = 11, 8, 9 ovaries from left to right.
+In f, _n_ = 12 ovaries.
+g, Fruit weight of IL8-1-1 and _fs8.1_   [Nature Plants](http://www.nature.com/natureplants)    mutants ( _n_ = 22, 27, 12, 13 fruits from left to right).
+h, RT‒qPCR results showing _Solyc08g061910_ expression in 9 DBA ovaries of the indicated genotypes ( _n_ = 3   ‒ independent biological replicates).
+i m, Histological and cellular observations of the anthesis ovaries of M82 and _Comp_ lines.
+The cell number and cell size were measured along the red, blue and yellow lines indicated in Fig.
+1a.
+IOWL, inner ovary wall length; OWT, ovary wall thickness; CL, columella length.
+In i, _n_ = 8, 10, 11, 10, 13, 13 ovaries from left to right.
+In j, _n_ = 9, 11, 11, 11, 14, 13 ovaries from left to right.
+In k, _n_ = 9, 10, 9, 10, 13, 13 ovaries from left to right.
+In l, _n_ = 12, 16, 16 ovaries from left to right.
+In m, _n_ = 10, 12, 12 ovaries from left to right.
+Bars represent the means ± SD.
+The significance of the difference was evaluated by two-tailed Student’s t tests, the exact _P_ value is indicated on the graph.
+**Article** https://doi.org/10.1038/s41477-023-01522-w   **Extended Data Fig.
+3 |**
+See next page for caption.
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-023-01522-w    **Extended Data Fig.
+3 |** _**FS8.1**_ **encodes a GT-2-like protein that lacks the** **duplicate trihelix domains.
+** a, Protein sequence alignment of SlGT-16, SlGT-34, FS8.1 and fs8.1.
+The gray boxes indicate the conserved domains.
+b, Phylogenetic tree of trihelical transcription factors in tomato and _Arabidopsis_ .
+The phylogenetic tree was constructed by the neighbor-joining method using MEGA version 7.0.
+The five clades composing the trihelix family are indicated by different colors.
+The _FS8.1_ gene is highlighted in the red box.
+c, Structures of   [Nature Plants](http://www.nature.com/natureplants)
+SlGT-16, FS8.1 and fs8.1 predicted by AlphaFold.
+N, N-terminus; C, C-terminus; TD1, trihelix domain 1; TD2, trihelix domain 2; HD, α-helical domain.
+AlphaFold produces a per-residue confidence score (pLDDT) between 0 and 100.
+Some regions below 50 pLDDT may be unstructured in isolation.
+Accession numbers are from the SGN and TAIR database.
+The phylogenetic tree was constructed by the neighbor-joining method using MEGA version 7.0.
+**Article** https://doi.org/10.1038/s41477-023-01522-w   **Extended Data Fig.
+4 | Phylogenetic analyses of FS8.1 and SlGT-16.
+** a,b, Phylogenetic analyses of FS8.1 orthologs (a) and SlGT-16 orthologs (b).
+Accession numbers are from the SGN, CuGenDB, TAIR, Phytozome and NCBI databases.
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-023-01522-w   **Extended Data Fig.
+5 |**
+See next page for caption.
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-023-01522-w    **Extended Data Fig.
+5 | FS8.1 differentially regulates cell cycle-related genes.
+**   a, RT‒qPCR results showing the expression levels of _FS8.1_, _SlKRP2_ and _SlGT-16_ in various tissues of AC plants ( _n_ = 3 independent biological replicates).
+MG, mature green; B, breaker; B + 4/7, 4/7 days after the breaker stage.
+b, Photograph of flowers at the indicated developmental stages.
+Bar = 5 mm.
+c, Expression profiles of cell cycle-related genes regulated by FS8.1.
+The FC (log10 scale) of the average expression of each gene is shown.
+d, Phylogenetic tree of tomato KRPs and their _Arabidopsis_ orthologs based on protein sequences.
+The phylogenetic tree was constructed by the neighbor-joining method using MEGA version 7.0.
+The scale bar indicates the average number of amino acid substitutions per site.
+[Nature Plants](http://www.nature.com/natureplants)    e, Generation of _slkrp1 slkrp2 slkrp4_ triple mutants in the IL8-1-1 background.
+The sgRNA targets and PAM are highlighted in red and bold font, respectively.
+The blue dashes and letters indicate deletions and insertions, respectively, and the numbers indicate the numbers of nucleotides involved (+, insertion; -, deletion).
+f, Fruit shape indexes of IL8-1-1, _slkrp2_ mutants ( _n_ = 14 fruits).
+g, RT‒qPCR results showing _SlKRP2_ expression in the anthesis ovaries of the indicated genotypes ( _n_ = 3 independent biological replicates).
+Bars represent the means ± SD.
+The significance of the difference was evaluated by two-tailed Student’s t tests, the exact _P_ value is indicated on the graph.
+**Article** https://doi.org/10.1038/s41477-023-01522-w   **Extended Data Fig.
+6 |** See next page for caption.
+[Nature Plants](http://www.nature.com/natureplants)
+**Article** https://doi.org/10.1038/s41477-023-01522-w    **Extended Data Fig.
+6 | SlGT-16 and SlGT-34 redundantly regulate** _**SlKRP2**_ **expression and fruit shape formation.
+** a, LCI assays designed to determine interactions between FS8.1 and five canonical GT-2 factors ( _n_ = 10, 10, 10, 10, 9, 10  independent biological replicates from left to right).
+Tobacco cells coexpressing   ‒ FS8.1-nLUC and cLUC were used as negative controls.
+b, RT qPCR results showing _SlGT-16_ expression in the ovaries of the indicated genotypes at anthesis ( _n_ = 3 independent biological replicates).
+c, Generation of single and double mutants of _SlGT-16_ and _SlGT-34_ in different backgrounds.
+The sgRNA targets and PAMs are highlighted in red and bold font, respectively.
+The blue dashes and letters   [Nature Plants](http://www.nature.com/natureplants)    indicate deletions and insertions, respectively, and numbers indicate the numbers of nucleotides involved (+, insertion; -, deletion).
+d, Ripe fruits of AC, _slgt-16, slgt-34_ and _slgt-16 slgt-34_ mutants.
+Bar = 1 cm.
+e, Fruit shape indexes of AC, _slgt-16, slgt-34_ and _slgt-16 slgt-34_ mutants ( _n_ = 16, 17, 16, 14, 13, 16, 17 fruits from   left to right).
+f, RT‒qPCR results showing _SlKRP2_ expression in the ovaries of the indicated genotypes at anthesis ( _n_ = 3 independent biological replicates).
+Bars represent the means ± SD.
+The significance of the difference was evaluated by two-tailed Student’s t tests, the exact _P_ value is indicated on the graph.
+**Article** https://doi.org/10.1038/s41477-023-01522-w    **Extended Data Fig.
+7 | Editing of** _**FS8.1**_ **enhances fruit firmness without** **compromising nutrition.
+** a, Generation of _fs8.1_ single mutants and _fs8.1
+sp_ double mutants in different backgrounds.
+The sgRNA targets and PAM are highlighted in red and bold font, respectively.
+The blue dashes and letters indicate deletions and insertions, respectively, and the numbers indicate the numbers of nucleotides involved (+, insertion; -, deletion).
+b, Ripe fruits of AC and _fs8.1_ mutants.
+Bar = 1 cm.
+c, d, Fruit shape indexes (c) and fruit CR (d)
+[Nature Plants](http://www.nature.com/natureplants)    of AC and _fs8.1_ mutants.
+_
+n_ = 16 (for c) and 12 (for d) fruits.
+e, Fruit weight of AC   and _fs8.1_ mutants ( _n_ = 25, 21, 18 fruits from left to right).
+f‒k, Contents of fruit   quality-related metabolites.
+In f, g, i‒k, _n_ = 4 independent biological replicates.
+In h, _n_ = 3 independent biological replicates.
+Bars represent the means ± SD.
+The significance of the difference was evaluated by two-tailed Student’s t tests, the exact _P_ value is indicated on the graph.

@@ -1,0 +1,910 @@
+## **Targeting a gene regulatory element enhances** **rice grain yield by decoupling panicle number** **and size**  **Xiaoguang Song** **[1]** **, Xiangbing Meng** **[1]** **, Hongyan Guo** **[1]** **, Qiao Cheng** **[1,2]** **, Yanhui Jing** **[1]** **, Mingjiang Chen** **[1]** **,** **Guifu Liu** **[1]** **, Bing Wang** **[1]** **
+[, Yonghong Wang](http://orcid.org/0000-0003-0721-1989)** **[1,2,3]** **[, Jiayang Li](http://orcid.org/0000-0002-0487-6574)** **[1,2,4]** **[and Hong Yu](http://orcid.org/0000-0002-1748-8693)** **[1,2]** [ ✉]   **Crop genetic improvement requires balancing complex tradeoffs caused by gene pleiotropy and linkage drags, as exemplified** **by** _**IPA1**_ **(** _**Ideal Plant Architecture 1**_ **), a typical pleiotropic gene in rice that increases grains per panicle but reduces tillers.
+In this** **study, we identified a 54-base pair** _**cis-**_ **regulatory region in** _**IPA1**_ **via a tiling-deletion-based CRISPR–Cas9 screen that, when** **deleted, resolves the tradeoff between grains per panicle and tiller number, leading to substantially enhanced grain yield per** **plant.
+Mechanistic studies revealed that the deleted fragment is a target site for the transcription factor An-1 to repress** _**IPA1**_ **expression in panicles and roots.
+Targeting gene regulatory regions should help dissect tradeoff effects and provide a rich** **source of targets for breeding complementary beneficial traits.
+**    lant breeding is largely constrained by the tradeoffs among different agronomic traits, such as penalties of yield by plant # P immunity, dilution effect of plant nutrition and grain quality  by yield and negative correlations among plant architecture components [1][–][4] .
+Some tradeoffs are caused by linkage drags, which could be solved by fine mapping and recombination of linked causal genes by conventional breeding [5][,][6] .
+However, many of these tradeoffs are caused by gene pleiotropy.
+In African cultivated rice ( _Oryza glaber-_ _rima_ Steud.), mutations in the domesticated gene _GL4_ prevented seed shattering but led to smaller seeds [7] .
+In modern wheat varieties, the non-functional _NAM-B1_ allele increased grain yield but reduced the content of grain protein [8][,][9] .
+In Asia rice cultivars, the ‘Green Revolution’ gene _semi-dwarf 1_ shortened plant height to reduce lodging risk but also reduced its biomass and nitrogen use-efficiency [10][–][12] .
+Moreover, current gene studies usually focused on several target traits but ignored others [13] .
+Owing to all of the above, only a small fraction of cloned genes and alleles has been successfully used in breeding.
+Reducing the gene pleiotropy may facilitate plant breeding to overcome the tradeoff effects, but the development of effective strategies to achieve this goal has been very limited.
+Rice is one of the most important staple foods, feeding half of the world’s population.
+Rice yield is largely determined by three component traits: panicle number or effective tiller number, grain number per panicle or panicle size and grain weight or grain size
+[14] .
+However, these three traits are usually inversely related in rice [15][,][16] .
+A general consideration is that they are compromised by the total energy limitation, and increasing them together seems to be an impossible mission. _IPA1_, encoding a SQUAMOSA promoter binding protein-like (SPL) transcription factor OsSPL14, is a master regulator of rice plant architecture, which controls multiple anatomical aspects [17][,][18] .
+_
+IPA1_ has been considered as a new ‘Green Revolution’ gene, as its natural gain-of-function alleles _ipa1-1D_ and _ipa1-2D_ with elevated _IPA1_
+RNA levels can lead to substantially enlarged panicle, thickened culm, reduced ineffective tillers and enhanced disease    resistance, which have been broadly used in breeding new elite rice varieties [17][–][23] .
+However, _IPA1_ alleles showed a tradeoff effect between panicle size and tiller number [21][,][24] .
+IPI1 (IPA1 interacting protein 1), a RING-finger E3 ligase, can regulate the protein level of IPA1 in a tissue-specific manner, and its loss-of-function mutant could partially overcome the tradeoff effect of _IPA1_ (ref.
+[25] ), but E3 ligases may have many targets and, thus, lead to other tradeoff effects.
+The changes on _cis-_
+regulatory regions (CRRs) can regulate quantitative traits at different levels
+[26][–][30], and rice tiller number and panicle size are determined in separated tissues during different developmental stages [14] .
+We, therefore, hypothesized that modifying _IPA1_ CRRs may provide a strategy to overcome the drag between tiller number and panicle size to outperform current elite natural alleles.
+Here we describe a tiling-deletion-based screen for _IPA1_ CRRs by CRISPR–Cas9.
+We found that these deletions can alter the expression levels of _IPA1_ in tissue-specific manners, which subsequently reduced the pleiotropic effect of _IPA1_ and generated a wide range of phenotype variations in tiller number and panicle size.
+Among these, an allele harboring a 54-base pair (bp) deletion in the promoter can simultaneously increase panicle number and size, thus leading to enhanced grain yield.
+We further found that this region could be bound by An-1 to repress _IPA1_ expression in panicle, which may lead to inhibited secondary and spikelet meristems.
+This transgene-free _IPA1_ allele may, thus, improve rice yield, and the tiling-deletion screen approach may provide a practical way to reduce gene pleiotropy and tradeoff effects in plant breeding.
+**Results** **Tiling deletions in** _**IPA1**_ **CRRs could overcome tradeoffs.
+** We systematically dissected the CRRs of _IPA1_ by creating and investigating a series of genome-edited lines with deletions in the _IPA1_ promoter, untranslated regions (UTRs) and downstream region by CRISPR– Cas9 (Fig. 1a).
+We used the certified variety Zhonghua 11 (ZH11) as the genetic background to fully explore the potential increase    1 State Key Laboratory of Plant Genomics and National Center for Plant Gene Research, Institute of Genetics and Developmental Biology, Innovation Academy for Seed Design, Chinese Academy of Sciences, Beijing, China.
+[2] University of Chinese Academy of Sciences, Beijing, China.
+[3] College of Life Sciences, Shandong Agricultural University, Tai’an, China.
+[4] Hainan Yazhou Bay Seed Laboratory, Sanya, China.
+[✉] [e-mail: hyu@genetics.ac.cn](mailto:hyu@genetics.ac.cn)   **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+**1403**   ##### Articles NATuRE BIoTEChnology    **a**   **b**    Guide RNA design gRNA library cloning    T 1 plants 10 plants per line    Rice transformation    T 0 lines            Transgene-free and Select Phenotyping homozygous edited representative lines in T 2 and T 3    Analysis of _cis_ -elements and phenotypes        ZH11  IPA1-Pro1  IPA1-Pro2  IPA1-Pro3  IPA1-Pro4  IPA1-Pro5  IPA1-Pro6  IPA1-Pro7  IPA1-Pro8  IPA1-Pro9  IPA1-Pro10   IPA1-UTR1  IPA1-UTR2  IPA1-UTR3  IPA1-UTR4  IPA1-URT5   IPA1-Ter1  IPA1-Ter2  IPA1-Ter3  IPA1-Ter4  IPA1-Ter5  IPA1-Ter6    TSS   5′ UTR      Significantly lower than ZH11  No significant difference Significantly higher than ZH11  |−811 to −769 −43 bp|Col2|Col3|Col4|Col5| |---|---|---|---|---| |−490 to −458 −33 bp<br>−478 to −458 −21 bp<br>−483 to −440 −44 bp<br>−427 to −368 −60 bp +7 bp<br><br>−795 to −753 −43 bp<br>−607 to −589 −19 bp<br>−590 to −562 −29 bp<br>−485 to −458 −28 bp||||| |−423 to −323 −101 bp<br>−374 to −255 −120 bp +8 bp<br>−125 to −72 −54 bp<br>−16 to 30 −46 bp<br>−1 to 4 −5 bp<br>–339 to –304 −36 bp<br>TSS<br>_IPA1_<br>5′ UTR<br>3′ UTR<br>TTS||||| |–317 to –211 −107 bp<br>–215 to –211 −5 bp<br>14 to 300 −287 bp<br>111 to 160 −50 bp<br>135 to 268 −134 bp<br>~~3′ UTR~~<br>TTS<br>_I_~~_PA1_~~||||| |302 to 325 −24 bp +41 bp<br>352 to 418 −67 bp<br>369 to 415 −47 bp|||||    0 1 2 0 1 2 0 1 2 0 1 2 3       |Col1|–317 to –211 −1 – ′ TT| |---|---| |_I_~~_PA1_~~|| |_I_~~_PA1_~~|~~3 UTR~~|    Tiller Panicle number weight    _IPA1_ level in  shoot base    _IPA1_ level in young panicle    Relative to ZH11    **c** **d** **e**    **f**    6   4   2   0    _R_
+[2] = 0.655 15 _R_
+[2] = 0.230 2 _R_
+[2] = 0.062   1.5  10   1    5   0    0.5   0  0 1 2 3   Relative level of _IPA1_  in shoot base    0 1 2 3   Relative level of IPA1 in young panicle    0 1 2   Relative level of _IPA1_  in shoot base      PCC to YPP   TN   GPP   PH   GS   TGW   SD   –0.5 0 0.5 1.0  |TN GPP|GPP PH GS TGW|TGW SD| |---|---|---| |||| |||| |PCC|PCC|PCC|  –1 0 1    **Fig. 1 |** **Tiling deletions in** _**IPA1**_ **CRRs overcame tradeoffs.
+** **a**, Schematic illustration of tiling-deletion screening for _IPA1_ CRRs.
+**b**, The indels ( **b**, left), tiller number, panicle size and _IPA1_ expression levels ( **b**, right) of 21 selected edited lines.
+Values indicate means ± s.d.
+( _n_ = 8 plants for tiller number and panicle weight, and _n_ = 3 technical replicates for _IPA1_ expression, wild-type ZH11 were set to 1).
+Red and blue columns in the right panel indicate significantly higher or lower than the control ZH11 determined by the two-sided Student’s _t-_ test at _P_ < 0.05.
+**c**, Scatter plot of panicle weight and _IPA1_ expression levels in young panicles.
+**d**, Scatter plot of tiller number and _IPA1_ expression in shoot bases.
+**e**, Scatter plot of _IPA1_ expression in young panicles and shoot bases.
+_
+R_
+[2] values were calculated using linear regression in **c** – **e** .
+**f**, PCCs of agronomic traits among 21 lines.
+Left, the pairwise PCCs of tiller number (TN), grain number per panicle (GPP), plant height (PH), grain setting rate (GS), thousand-grain weight (TGW) and stem diameter (SD).
+Right, the PCCs of yield per plant (YPP) to TN, GPP, PH, SG, TGW and SD.
+**1404** **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### NATuRE BIoTEChnology
+Articles    25   20   15   10   5   0   10   8   6   4   2   0   2.0   1.5   1.0   0.5   0   200   150   100   50   0    +7.2% **m**   _P_ = 0.0088    250   200   150   100   50   0   3   2   1   0   100   80   60   40   20   0    **a**   ZH11 IPA1-Pro10 _ipa1-5D_ _ipa1-12_ **k**    **b**   **e**   **h**   **l**    **c**    _P_ = 4.9 × 10 [–9]   _P_ = 0.0217 _P_ = 1.2 × 10 –10  _P_ = 1.6 × 10 [–7]   _P_ = 7.0 × 10 [–12]  _P_ = 7.0 × 10 [–12]  _P_ = 3.2 × 10 [–11] _P_ = 5.0 × 10 [–5]   _P_ = 0.7423  _
+P_ = 0.0021   _P_ = 0.0557   _P_ = 0.5444    500   400   300   200   100   0    _P_ = 3.0 × 10
+[–8]   _P_ = 0.0229   _P_ = 0.9912  _P_ = 0.0447    _P_ = 2.9 × 10 [–12]  _
+P_ = 8.3 × 10 [–11]  _P_ = 1.6 × 10 [–6]  _P_ = 0.0013   _P_ = 1.1 × 10 [–5]  _P_ = 1.4 × 10
+[–11] _P_ = 2.0 × 10 [–11]  _P_ = 2.9 × 10 [–8]   _P_ = 9.1 × 10 [–8]  _P_ = 7.6 × 10 [–6]  _P_ = 2.9 × 10 [–12]  _P_ = 2.9 × 10 [–12]   +103%    **f** _P_ = 3.2 × 10 [–8]    12  10  8  6  4  2  0    **d**   **g**   **j**    **i**    _P_ = 1.4 × 10
+[–7]   _P_ = 0.0025  _P_ = 0.0049   _P_ = 0.0665   _P_ = 0.0041  _
+P_ = 0.0033   _P_ = 0.9998    50   40   30   20   10   0   200   150   100   50   0    **n** +8.5%   _
+P_ = 0.0008    800   600   400   200   0    +15.9%   _P_ = 0.0014    **Fig.
+2 |** **IPA1-Pro10 showed simultaneously increased tiller number and panicle size.
+** **a**, Gross morphologies, tillers, panicles, cross-sections of stems and basal parts of crown roots of wild-type ZH11, IPA1-Pro10, _ipa1-5D_ and _ipa1-12_ plants.
+Bars = 10 cm in gross and panicle morphology.
+Bars = 1 mm in stem cross-section and root.
+**b** – **
+j**, Statistical analysis of tiller number ( **b** ), grain number per panicle ( **c** ), plant height ( **d** ), stem diameter ( **e** ), panicle weight ( **f** ), root diameter ( **g** ), grain setting rate ( **h** ), thousand-grain weight ( **i** ) and yield per plant ( **j** ) in ZH11, IPA1-Pro10, _ipa1-5D_ and _ipa1-12_ plants.
+Values indicate means ± s.d.
+( _n_ = 8 plants).
+**k**, Yields in paddy fields between ZH11 and IPA1-Pro10.
+All plants of ZH11 and IPA1-Pro10 grown in the 6.7-m [2] paddies were harvested.
+**l** – **n**, Statistical analysis of panicle number ( **l** ), grain number per panicle ( **m** ) and yield ( **n** ) of ZH11 and IPA1-Pro10 in yield test.
+Values indicate means ± s.d.
+( _n_ = 3 paddies; each paddy contained 29 × 8 plants in the 6.7-m [2] field).
+mu, 666.66 m [2] .
+Exact _P_ values are shown; two-sided Student’s _t_ -test ( **l** – **n** ) or Tukey’s HSD test ( **b** – **j** ).
+in grain yield.
+By transforming 39 vectors harboring 2–4 designed single guide RNAs (sgRNAs) targeting adjacent sites on _IPA1_ CRRs (Extended Data Fig.
+1 and Supplementary Tables 1 and 2), we generated and genotyped 792 T 0 lines, of which 151 T 0 lines containing deletions were harvested (Supplementary Table 3).
+To exclude transgene interference, ten T 1 plants from each selected T 0 line were grown and genotyped, and 68 of 1,510 T 1 plants were identified both transgene-free and homozygous on edited sites.
+Among them, 21 T 1 plants, including ten lines with deletions in the promoter, five in UTRs and six in downstream regions, were selected for further study (Fig. 1b).
+The deletions in these 21 lines have an average 68-bp    length, covering from the 811-bp upstream of the transcription start site (TSS) to the 418-bp downstream of the transcription termination site (TTS).
+These 21 lines were analyzed for effective tiller number, panicle weight and other agronomic traits for 2 years (Fig.
+1b, Extended Data Fig.
+2 and Supplementary Table 4).
+The phenotypes of these lines showed high correlations between two generations, suggesting that their genetic backgrounds are stable (Extended Data Fig. 3).
+Surprisingly, we found that all of these 21 lines have significant alterations on three or more traits compared to ZH11.
+To further analyze these lines, we examined the _IPA1_ expression levels in the    **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+**1405**   ##### Articles NATuRE BIoTEChnology    **a**    _ipa1-pro10_
+[–/–] _ipa1-pro10_
+[+/–] _ipa1-pro10_
+[+/+]   **b** **c** **d**    inhibited panicle _IPA1_ expression and reduced panicle weight (Fig. 1b).
+Moreover, the panicle weights of all lines showed a moderate linear correlation ( _R_
+[2] = 0.65) with their _IPA1_ expression levels in young panicles (Fig. 1c), indicating that _IPA1_ expression levels in young panicles can partially determine panicle weight in a quantitative manner.
+In contrast, we found that, whereas only the deletion of two regions could significantly change the expression levels of _IPA1_ in the shoot base, 11 lines showed significantly altered tiller numbers (Fig. 1b).
+Consistent with this, the tiller numbers of all lines showed a weak correlation ( _R_
+[2] = 0.23) with their _IPA1_ expression levels in the shoot base (Fig. 1d), possibly because the expression of _IPA1_ in other tissues may also affect tiller number.
+The expression levels of _IPA1_ in shoot base and young panicle in these lines showed almost no correlation ( _R_
+[2] = 0.06) (Fig.
+1e), suggesting that the CRRs in different deleted regions may be responsible for regulating _IPA1_ expression in different tissues.
+We, therefore, analyzed the correlations of different traits in these lines (Fig. 1f) and found that tiller number, grain number per panicle, plant height, grain setting rate, thousand-grain weight and stem diameter exhibited weak correlations to each other, suggesting that these traits could be separately controlled by these deletions.
+**IPA1-Pro10 simultaneously increased tiller number and pani-** **cle size.
+**
+Among these lines, we found that one line, IPA1-Pro10, which harbored a 54-bp deletion in the _IPA1_ promoter (this 54-bp was designated as IPA1-Pro10 fragment), can simultaneously increase tiller number and panicle weight in 2 years (Fig.
+1b and Supplementary Table 4).
+We first confirmed that no mutation was found in predicted off-target sites (Supplementary Fig. 1).
+Then, we in detail surveyed IPA1-Pro10 and compared it to wild-type ZH11; to _ipa1-5D_ (containing a gain-of-function _IPA1_ allele with two single-nucleotide substitutions on miR156/529 target sites in the ZH11 background); and to _ipa1-12_ (containing a loss-of-function _IPA1_ allele with a large deletion in the ZH11 background) (Fig.
+2a and Supplementary Fig. 2).
+As shown in Fig.
+2b,c, IPA1-Pro10 has combined advantages of both _ipa1-5D_ and _ipa1-12_ .
+In particular, the tiller number of IPA1-Pro10 was similar to _ipa1-12_, which was significantly higher than ZH11, and the grain number per panicle of IPA1-Pro10 was similar to _ipa1-5D_, which was significantly higher than ZH11.
+The plant height, stem diameter, panicle weight and root diameter were also increased in IPA1-Pro10, whereas the grain setting rate and thousand-grain weight of IPA1-Pro10 showed no significant differences compared to ZH11 (Fig.
+2d–i and Extended Data Fig. 4).
+Consequently, the total yield of eight plants of IPA1-Pro10 was increased by 103% compared to ZH11, which was much higher than the 26% increase in _ipa1-5D_ (Fig. 2j).
+We then in detail examined the expression patterns of _IPA1_ in IPA1-Pro10 plants.
+We found that _IPA1_ expression levels in IPA1-Pro10 were significantly increased in panicles at different stages and root and decreased in shoot base and tiller bud compared to ZH11 (Extended Data Fig. 5).
+To further confirm that IPA1-Pro10 has such high potential in increasing rice yield in paddy, we grew IPA1-Pro10 and ZH11 each in three 6.7-m [2] test plots (Fig. 2k).
+Compared to ZH11, the tiller number per plant and grain number per panicle of IPA1-Pro10 were increased by 7.2% and 8.5%, respectively, and the yield was boosted by 15.9% with similar heading dates (Fig. 2l–n and Extended Data Fig. 6).
+These results demonstrated that this transgene-free _IPA1_ allele ‘ _ipa1-pro10_ ’ with a 54-bp deletion in the promoter showed great potential in high-yield breeding in rice, even much higher than gain-of-function _IPA1_ alleles.
+Moreover, we generated the homozygous and heterozygous IPA1-Pro10 plants (Fig. 3a) and surveyed agronomic traits.
+The results showed that _ipa1-pro10_ was a semi-dominant allele in regulating plant height, tiller number, grains per panicle, stem diameter, panicle weight and root diameter, and the plants with the homozygous _ipa1-pro10_ allele had the highest yield per plant (Fig.
+3b–j).
+250   200   150   100   50   0    _P_ = 9.5 × 10 [–9]   _P_ = 0.0003   _P_ = 0.0016   –/– +/– +/+   _ipa1-pro10_    _
+P_ = 1.7 × 10
+[–7]  _P_ = 0.0007  _
+P_ = 0.0002   –/– +/– +/+   _ipa1-pro10_    _
+P_ = 7.2 × 10 [–5]   _P_ = 0.0325   _
+P_ = 0.0090   –/– +/– +/+   _ipa1-pro10_   _
+P_ = 2.3 × 10
+[–7]  _P_ = 0.0064  _P_ = 0.0057   –/– +/– +/+   _ipa1-pro10_   _
+P_ = 3.8 × 10 [–11]  _P_ = 1.4 × 10 [–6] _P_ = 2.4 × 10
+[–5 ]   –/– +/– +/+   _ipa1-pro10_    25   20   15   10   5   0    **e** **f** **g**    _
+P_ = 2.4 × 10 [–6]  _P_
+= 0.0075  _
+P_ = 0.0073    8   6   4   2    _P_ = 6.5 × 10
+[–10]  _P_ = 1.0 × 10 [–5]  _P_ = 0.0010    8   6   4   2    0  –/– +/– +/+   _ipa1-pro10_    0  –/– +/– +/+   _ipa1-pro10_    **h** **i** **j**    500   400   300   200   100   0   2.0   1.5   1.0   0.5   0   100   80   60   40   20   0    _P_ = 0.6656  _P_ = 0.5701  _
+P_ = 0.8487   –/– +/– +/+   _ipa1-pro10_    2.0   1.5   1.0   0.5   0    _P_ = 0.8867   _P_ = 0.8783   _P_ = 0.7481   –/– +/– +/+   _ipa1-pro10_    50   40   30   20   10   0    **Fig. 3 |** _**ipa1-pro10**_ **was a semi-dominant allele.
+** **a**, Gross morphology and panicle of plants with wild-type ( [–/–] ), heterozygous ( [+][/–] ) and homozygous ( [+][/][+] ) _ipa1-pro10_ alleles.
+Bars = 10 cm.
+**b** – **
+j**, Statistical analysis of plant height ( **b** ), tiller number ( **c** ), grain number per panicle ( **d** ), stem diameter ( **e** ), panicle weight ( **f** ), root diameter ( **g** ), grain setting rate ( **h** ), thousand-grain weight ( **i** ) and yield per plant ( **j** ) of plants with wild-type, heterozygous and homozygous _ipa1-pro10_ alleles.
+Values indicate means ± s.d.
+( _n_ = 15 plants).
+Exact _P_ values are shown; two-sided Student’s _t_ -test.
+shoot base of 2-week-old seedlings and 1-cm young panicles in each line (Fig. 1b).
+We found that six lines showed elevated _IPA1_ expression in young panicles, and five of these six lines showed significantly increased panicle weight, whereas three lines showed    **1406** **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### NATuRE BIoTEChnology
+Articles  **a** **d**    ChIP-qPCR primers  IPA1-ProF IPA1-ProR–125 –72 0 100 bp    Reporter   IPA1-Pro10 _LUC_ fragment   _Pro_ _IPA1_ _LUC_   _Pro_ _IPA1-Pro10_ _LUC_            Predicted An-1 binding site    **b**   **c**    0 0.5 1.0 1.5 2.0    GFP    GST  GST-An-1   α-GST   Probe  Cold probe Probe-mu   Super shift   Shift   Free probe
+Probe:   Probe-mu    – + – – – – –  – – + + + + +   – – – – – + –   + + + + + + –   – – – 20× 40× – –  – – – – – – +    Relative LUC activity   **e**  Reporter
+In rice protoplast    IPA1-Pro10 _LUC_ fragment   _Pro_ _IPA1_ _LUC_   _Pro_ _IPA1-Pro10_ _LUC_        0 0.5 1.0 1.5 2.0   Relative LUC activity      **f** **g**    _P_ = 0.0001      2.0   1.5   1.0   0.5   0      8   6   4   2   0    3   2   1   0         |Col1|No Ab<br>P = 2.2 × 10–5 α-GF<br>P = 0.2086|Col3|Col4| |---|---|---|---| ||||| ||||| ||||| |||||    ZH11 IPA1-Pro10   Callus transformed  with _Ubi:An-1-GFP_   **Fig.
+4 |** **An-1 directly bound to** _**IPA1**_ **promoter and negatively regulated its expression.
+** **a**, Predicted An-1 binding motif in the IPA1-Pro10 fragment of _IPA1_ promoter.
+Green bars, primers used for ChIP–qPCR.
+**b**, EMSA assay, showing that GST-An-1 protein was directly bound to the IPA1-Pro10 fragment.
+Excess non-labeled probes were used for competition.
+The probe-mu was the mutated IPA1-Pro10 fragment probe with the An-1 binding motif GCGCGTGT changing to AAAAAAAA.
+**c**, Validation of An-1 binding in the IPA1-Pro10 fragment by ChIP–qPCR analysis in the ZH11 and IPA1-Pro10 calli transformed with _ProUbiquitin:An-1-GFP_ .
+Primers are shown in **a** .
+Values indicate means ± s.d.
+( _n_ = 3 technical replicates).
+Experiments were repeated independently three times ( **b** and **c** ).
+**d**, **e**, Transcriptional activity assays of An-1 on IPA1-Pro10 fragment in tobacco leaf ( **d** ) and rice protoplast ( **e** ).
+GFP was used as the control, and the values of GFP were set to 1. _IPA1-Pro10 fragment:LUC_, _LUC_ gene driven by IPA1-Pro10 fragment. _
+ProIPA1:LUC_, _LUC_ gene driven by a 2.5-kb _IPA1_ promoter of ZH11.
+_
+ProIPA1-Pro10:LUC_, _LUC_ gene driven by a 2.5-kb _IPA1_ promoter of IPA1-Pro10.
+Values indicate means ± s.d.
+( _n_ = 4 biological replicates).
+**f**, _IPA1_ expression in calli of ZH11, _an-1_ _
+[CR]_ and _An-1_ OE.
+**g**, _IPA1_ expression in calli of IPA1-Pro10, IPA1-Pro10 _an-1_ _
+[CR]_ and IPA1-Pro10 _An-1_ OE. _an-1_ _
+[CR]_, _An-1_ loss-of-function line generated by CRISPR–Cas9.
+_An-1_ OE, _An-1_ overexpression line.
+Values indicate means ± s.d.
+( _n_ = 3 biological replicates).
+Exact _P_ values are shown; two-sided Student’s _t_ -test ( **c** – **g** ).
+**An-1 directly bound to the** _**IPA1**_ **promoter and negatively regu-** **lated its expression.
+**
+We searched for the possible transcription factor binding sites and found a potential binding motif ‘GCGCGTGT’ of An-1 in this region (Fig.
+4a and Supplementary Table 5)
+[31] .
+_
+An-1_ encodes a previously reported domestication-related basic helix-loop-helix transcription factor, which positively regulated awn length and negatively regulated grain number per panicle
+[32] .
+The promoter sequences of _IPA1_ homologous genes varied considerably among different species, but we found multiple potential An-1 binding sites in the promoters of _IPA1_ homologous genes in tested species in the family Poaceae, including Tausch’s goatgrass, purple false brome, sorghum, corn and foxtail millet, but not in the dicots Arabidopsis and tobacco (Extended Data Fig. 7).
+Compared to wild rice, rice cultivar GLA4 carried a transposon insertion in the promoter region of _An-1_, leading to eliminated expression of _An-1_ specifically at the apex of lemma and reduced awn length
+[32] .
+ZH11 contained a similar allele of _An-1_ as GLA4 with intact coding region (Supplementary Fig. 3).
+_An-1_ was highly expressed in the root and panicle of ZH11 and IPA1-Pro10 (Extended Data Fig.
+8), and ZH11-type An-1 was localized in the nucleus (Supplementary Fig. 4), suggesting that An-1 was a functional protein in ZH11.
+We, therefore, tested whether An-1 could directly bind to the _IPA1_ promoter and regulate its expression.
+We conducted the electrophoretic mobility shift assay (EMSA) using the biotin-labeled IPA1-Pro10 fragment as the probe and observed a shifted band when recombinant glutathione S-transferase (GST)-An-1 protein    **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+**1407**   ##### Articles NATuRE BIoTEChnology    was added (Fig.
+4b and Supplementary Fig. 5).
+A super-shifted band was shown with the addition of anti-GST antibody, and the unlabeled cold probe could compete with the biotin-labeled probe.
+No shifted band was observed with the mutated probe changing the An-1 binding motif to ‘AAAAAAAA’.
+Furthermore, we conducted chromatin immunoprecipitation (ChIP)–qPCR assays in ZH11 and IPA1-Pro10 calli transformed with _ProUbiquitin:An-1-GFP_ using an anti-green fluorescent protein (GFP) antibody and qPCR primers that amplified a 98-bp region in the _IPA1_ promoter.
+The results showed a significant enrichment of An-1 at the _IPA1_ promoter in ZH11 but not in IPA1-Pro10 calli (Fig.
+4c and Supplementary Fig. 5), suggesting that An-1 could bind to the _IPA1_ promoter in ZH11 but not in IPA1-Pro10.
+These in vitro and in vivo results showed that An-1 could bind to the IPA1-Pro10 fragment.
+We then conducted an in vitro transcription regulation assay to dissect the regulation function of An-1 to the _IPA1_ promoter.
+We found that, in both tobacco leaf and rice protoplast systems, the luciferase reporters driven by the IPA1-Pro10 fragment or the wild-type 2.5-kilobase (kb) promoter of _IPA1_ were each significantly inhibited by the An-1 protein (Fig.
+4d,e).
+In contrast, the luciferase reporters driven by the 2.5-kb promoter of _IPA1_ with a 54-bp deletion were not inhibited by the An-1 protein in both systems.
+Furthermore, we generated _An-1_ loss-of-function and overexpression calli in ZH11 and IPA1-Pro10 backgrounds and found that the loss of function and overexpression of _An-1_ led to the increased and decreased _IPA1_ expression, respectively, only in the calli with ZH11, but not IPA1-Pro10, backgrounds (Fig.
+4f,g and Supplementary Fig. 6).
+Taken together, these results demonstrated that An-1 could directly bind to the IPA1-Pro10 fragment in the _IPA1_ promoter to repress its expression.
+**Deletion of An-1 binding site-containing fragment was respon-** **sible for IPA1-Pro10 panicle and root phenotypes.
+**
+To further elucidate whether An-1 binding site was critical for overcoming the tradeoff effects of _IPA1_, we generated three edited lines with deletions in this region.
+IPA1-Pro11 harbored 86-bp deletion at −197 to −112 upstream of the TSS of _IPA1_, which contained 14-bp overlap with the IPA1-Pro10 fragment (−125 to −72) covering 8-bp An-1 binding site (−124 to −117).
+IPA1-Pro12 harbored a 64-bp deletion (−176 to  − 113) with 13-bp overlap with the IPA1-Pro10 fragment covering the An-1 binding site.
+Coincidentally, we obtained one line IPA1-Pro13 that harbored two deletions (−175 to −126 and −116 to −109) in the flanking regions of An-1 binding site and retained an 11-bp fragment containing the An-1 binding site (Fig. 5a).
+We found that the deletions of IPA1-Pro11 and IPA1-Pro12 fragments led to the effects similar to that of IPA1-Pro10 in increasing plant height, grains per panicle, stem diameter and root diameter in a semi-dominant manner but had no effect in regulating tiller number (Fig.
+5b–n).
+Therefore, IPA1-Pro11 and IPA1-Pro12 plants exhibited increased grain yield per plant (Fig.
+5h,o), but the fold of increase was lower than IPA1-Pro10 plants (Fig. 3j), the tiller number of which was also increased (Fig. 3c).
+The IPA1-Pro10 fragment may contain other regulatory _cis_ -elements in regulating tiller number.
+Moreover, IPA1-Pro13 plants showed no significant differences in any of these traits compared to ZH11 (Fig.
+5p–v).
+Taken together, all these results demonstrated that the An-1 binding site-containing fragment in the _IPA1_ promoter was responsible for regulating multiple traits in panicle, stem and root.
+**Diverse transcriptional regulation of** _**IPA1**_ **in determining dif-
+** **ferent traits.
+** Near-isogenic line (NIL) _
+NIL-an-1_ is an awnless _indica_ variety NA93-11 carrying a loss-of-function _An-1_ allele with a frameshift mutation, and _NIL-An-1_ is an introgression line of NA93-11 containing a functional _An-1_ allele from an accession of common wild rice (W2014, _Oryza rufipogon_ )
+[33] (Supplementary Fig. 3).
+We examined the panicle, shoot and root phenotypes in two NILs of _An-1_ .
+We found that NIL- _an-1_ had significantly increased grain number per panicle, plant height, stem diameter and root thickness than NIL- _An-1_ (Fig. 6a–e) but with no significant changes in tiller number (Fig. 6f).
+All these phenotypic changes were similar to that of IPA1-Pro11 and IPA1-Pro12 plants compared to ZH11 (Fig.
+5b–o).
+We, therefore, examined the expression levels of _IPA1_ in two NILs of _An-1_ and found that _IPA1_ expression levels were significantly increased in the panicle and root of NIL- _an-1_ compared to NIL- _An-1_ (Fig.
+6g,h)
+but with no significant differences in shoot base and tiller bud (Fig.
+6i and Extended Data Fig. 9), which were all consistent with the phenotypic changes.
+These results suggested that the regulation of An-1 to _IPA1_ was tissue-specific.
+Detailed analysis of panicles between _An-1_ NILs revealed that the grain number per primary branch (GNPPB) and secondary branch number per primary branch (SBNPPB) were significantly increased in NIL- _an-1_, whereas the primary branch number (PBN) had no significant changes (Fig.
+6j–n).
+We then examined the panicle traits of the IPA1-Pro10.
+Similarly to the effect of loss-of-function _an-1_ in NIL- _an-1_, we found that GNPPB and SBNPPB of IPA1-Pro10 were all significantly increased compared to ZH11, but the PBN had no significant changes (Fig.
+6o–s).
+Similarly, IPA1-Pro11 and IPA1-Pro12 showed increased GNPPB and SBNPPB, whereas IPA1-Pro13 had no significant changes (Extended Data Fig. 10).
+Different from IPA1-Pro10, _ipa1-5D_ had significantly increased PBN and total secondary branch number (SBN), unchanged SBNPPB and reduced GNPPB (Fig.
+6o–s), consistent with a previous report
+[17] .
+All these data suggest that An-1
+and miR156/529 may have separate roles in regulating _IPA1_ expression levels in panicle, possibly because they have different expression patterns during panicle development
+[32] .
+Taken together, all these data suggest that _IPA1_ is diversely regulated by multiple _cis_ -elements and microRNAs in different tissues and developmental stages, which, in turn, determine different aspects of plant architecture.
+**Discussion**
+In summary, we deployed a tiling-deletion screening approach on _IPA1_ regulatory regions to systematically analyze their phenotypic variations.
+We identified one line, IPA1-Pro10, containing a 54-bp deletion in the promoter that can simultaneously increase tillering number and panicle size to greatly enhance grain yield beyond current elite _IPA1_ alleles through overcoming their tradeoff.
+In mechanism, we found that transcription factor An-1 can directly bind to the GCGCGTGT motif on the IPA1-Pro10 fragment to repress _IPA1_ expression in the panicle and may specifically inhibit spikelet and secondary meristems of the panicle.
+The transgene-free deletion of this region modulated tissue-specific expression alterations and separated the pleiotropy of both _IPA1_ and _An-1_ to overcome agronomic tradeoffs.
+Although the regulatory mechanism of the IPA1-Pro10 fragment on tiller number remains to be studied in the future, this allele provides a valuable genetic resource in breeding    **Fig.
+5 |** **Deletion of An-1 binding site-containing fragment was responsible for increased panicle size and root thickness.
+** **a**, Deletions in IPA1-Pro11, IPA1-Pro12 and IPA1-Pro13.
+**b** –
+**h**, Gross morphology ( **b** ), plant height ( **c** ), grains per panicle ( **d** ), stem diameter ( **e** ), root diameter ( **f** ), tiller number ( **g** ) and yield per plant ( **h** ) of plants with wild-type, heterozygous and homozygou _ipa1-pro11_ alleles.
+**i** – **o**,
+Gross morphology ( **i** ), plant height ( **j** ), grains per panicle ( **k** ), stem diameter ( **l** ), root diameter ( **m** ), tiller number ( **n** ) and yield per plant ( **o** ) of plants with wild-type, heterozygous and homozygous _ipa1-pro12_ alleles.
+**p** – **v**, Gross morphology ( **p** ), plant height ( **q** ), grains per panicle ( **r** ), stem diameter ( **s** ), root diameter ( **t** ), tiller number ( **u** ) and yield per plant ( **v** ) of plants with wild-type, heterozygous and homozygous _ipa1-pro13_
+alleles.
+Bars = 10 cm.
+Values indicate means ± s.d.
+( _n_ = 15 plants).
+Exact _P_ values are shown; two-sided Student’s _t_ -test ( **c** – **h**, **j** – **o** and **q** – **v** ).
+**1408** **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### NATuRE BIoTEChnology
+Articles    **a** An-1 binding site      IPA1-Pro10   IPA1-Pro11   IPA1-Pro12   IPA1-Pro13   **b**    **c**          TSS   **d**   500   400   300   200   100   0   **h**   80   60   40   20   0    _P_ = 1.2 × 10 [–5]   _P_ = 0.0268  _P_ = 0.0099   –/– +/– +/+   _ipa1-pro11_   _P_ = 0.0001   _P_ = 0.1043  _P_ = 0.0017    _P_ = 8.4 × 10 [–9]   _P_ = 0.0001  _P_ = 1.0 × 10 [–5]   –/– +/– +/+   _ipa1-pro11_   _P_ = 0.6810  _P_ = 0.4518  _P_ = 0.6716    _ipa1-pro11_
+[–/–] _ipa1-pro11_
+[+/–] _ipa1-pro11_
+[+/+]   **e** **f** **g**    250   200   150   100   50   0   25   20   15   10   5   0    2.0   1.5   1.0   0.5   0    8   6   4   2   0    _
+P_ = 7.2 × 10 [–8]   _P_ = 0.0002  _P_ = 0.0029    _
+P_ = 1.8 × 10 [–6]   _P_ = 0.0092 _P_ = 9.7 × 10
+[–5]    –/– +/– +/+ –/– +/– +/+ –/– +/– +/+ –/– +/– +/+    _ipa1-pro11_    _ipa1-pro11_    500   400   300   200   100    **i**    **j**    250   200   150   100   50   0    **k**    _ipa1-pro11_   _P_ = 4.4 × 10 [–5]   _
+P_ = 0.0370  _P_ = 0.0023    _ipa1-pro11_   _P_ = 1.0 × 10
+[–8]  _P_ = 6.0 × 10 [–6]  _P_ = 0.0157    0   –/– +/– +/+ –/– +/– +/+    _ipa1-pro12_
+[–/– ] _ipa1-pro12_
+[+/–] _ipa1-pro12_
+[+/+]    **l** **m**    _ipa1-pro12_   **n** **o**    25   20   15   10    80   60   40   20    _P_ = 6.5 × 10 [–7]  _P_ = 0.0010  _P_ = 0.0083    2.0   1.5   1.0   0.5    _P_ = 0.4747   _
+P_ = 0.3890  _P_ = 0.9039    _ipa1-pro12_   _
+P_ = 5.0 × 10 [–5]   _P_ = 0.1313   _P_ = 0.0006    8   6   4   2    _P_ = 6.5 × 10 [–10]  _P_ = 1.0 × 10 [–5]  _P_ = 0.0010    0    0    5   0    0 0 –/– +/– +/+ –/– +/– +/+ –/– +/– +/+ –/– +/– +/+    500   400   300   200   100    _ipa1-pro12_    _ipa1-pro12_    **p**   **s**    **q**    **r**    _ipa1-pro12_   _P_ = 0.2904   _P_ = 0.8499   _
+P_ = 0.3672    _ipa1-pro12_   _
+P_ = 0.9294   _P_ = 0.9483  _P_ = 0.9722    _ipa1-pro13_
+[–/–] _ipa1-pro13_
+[+/–] _ipa1-pro13_
+[+/+]    0  –/– +/– +/+ –/– +/– +/+    80   60   40   20   0    250   200   150   100   50   0   25   20   15   10   5   0    _ipa1-pro13_   _P_ = 0.4355   _P_ = 0.8416   _P_ = 0.5665    **t** **u**    **v**    _P_ = 0.3176   _P_ = 0.4910  _P_ = 0.8547    _ipa1-pro13_   _
+P_
+= 0.8155   _
+P_ = 0.8076   _P_ = 0.9733    8   6   4   2    _P_ = 0.5186   _P_ = 0.8882  _
+P_ = 0.6199    0  –/– +/– +/+   _ipa1-pro13_    2.0   1.5   1.0   0.5   0    –/– +/– +/+ –/– +/– +/+ –/– +/– +/+    _ipa1-pro13_    _ipa1-pro13_    _ipa1-pro13_    **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+**1409**   ##### Articles NATuRE BIoTEChnology    **a** **b** **c**  _
+P_ = 2.2 × 10 [–8]  400   300   200   100   0    **d** **e**  _P_ = 0.0030  2.0   1.5   1.0   0.5   0    _P_ = 0.0004   _
+P_ = 0.4768   _P_ = 0.0572   _P_ = 0.9409   _P_ = 0.0001  _P_ = 5.4 × 10 [–5]    **i**    **f**    **g**    _P_ = 7.6 × 10
+[–16]  100   50   0   _P_ = 0.0002  2.0   1.5   1.0   0.5   0    **h**    _P_ = 5.8 × 10 [–6]    _P_ = 0.0010    1.5   1.0   0.5   0    15   10   5   0    **j**   **o**    NIL- _An-1_ NIL- _an-1_   NIL- _An-1_ NIL- _an-1_    **p** **q** **r**    **k** **l** **m** **n**    **l**    **m**    _P_ = 7.2 × 10
+[–15]    _P_ = 3.8 × 10 [–17]    25  20  15  10  5  0    5  4  3  2  1  0    _P_ = 2.4 × 10
+[–9]   _P_ =
+0.0889  _P_ = 0.8791  _P_ = 0.0332    80   60   40   20   0   60   40   20   0    **s**    5  4  3  2  1  0   1.5   1.0   0.5   0   20   15   10   5   0   30   20   10   0    _P_ = 0.0302  _P_ = 0.0011  4 _P_ = 0.3304  3   2   1   0    25  20  15  10  5  0    _P_ = 0.0001  _
+P_ = 2.7 × 10
+[–7]  _P_ = 0.0259    ZH11 _ipa1-5D_ IPA1-Pro10   **Fig. 6 |** **Diverse transcriptional regulation of** _**IPA1**_ **in determining different traits.
+** **a**, Gross morphology of NIL- _An-1_ and NIL- _an-1_ .
+**b** – **
+f**, Statistical analysis of grain number per panicle ( **b** ), plant height ( **c** ), stem diameter ( **d** ), root diameter ( **e** ) and tiller number ( **f** ) of NIL- _An-1_ and NIL- _an-1_ .
+Values indicate means ± s.d.
+( _n_ = 10 plants).
+**g** – **i**, _IPA1_ expression in young panicle ( **g** ), root ( **h** ) and shoot base ( **i** ) of NIL- _An-1_ and NIL- _an-1_ .
+Values indicate means ± s.d.
+( _n_ = 3 biological replicates).
+**j**, Panicle morphology of NIL- _An-1_ and NIL- _an-1_ .
+**k** – **n**, Statistical analysis of GNPPB ( **k** ), SBNPPB ( **l** ), SBN ( **m** ) and PBN ( **n** ) of NIL- _An-1_ and NIL- _an-1_ .
+Values indicate means ± s.d.
+( _n_ = 10 plants).
+**o**, Panicle morphology of ZH11, _ipa1-5D_ and IPA1-Pro10.
+**p** – **s**,
+Statistical analysis of GNPPB ( **p** ), SBNPPB ( **q** ), SBN ( **r** ) and PBN ( **s** ) of ZH11, _ipa1-5D_ and IPA1-Pro10 panicles.
+Values indicate means ± s.d.
+( _n_ = 8 plants).
+Blue and red arrowheads in **j** and **o** indicate primary branch and secondary branch, respectively.
+Bars = 10 cm.
+Exact _P_ values are shown; two-sided Student’s _t_ -test ( **b** – **i** and **k** – **n** ) or Tukey’s HSD test ( **p** – **s** ).
+superior-yield rice, and the strategy used in this study could be applied to overcome gene pleiotropy and tradeoffs in different crops.
+Tradeoffs among agronomic traits limited the crop yield.
+Some tradeoffs are caused by linkage drag.
+One example is the linkage of low grain quality and high yield in rice, that the chalkiness regulating gene _Chalk5_ is closely located to two QTLs for grain width and weight
+[5] .
+After cloning these genes, conventional breeding could overcome this tradeoff by hybridization and marker-assisted selection to create rice varieties with both good quality and high yield.
+However, most of the other tradeoffs are caused by gene pleiotropy, which could be overcome by the mutation in the CRRs.
+However, the limited number of genetic variations in CRRs is the main obstacle in crop breeding.
+The gene pleiotropy can be caused by multiple biological functions of the same protein, such as the carboxylation and oxygenation of ribulose-1,5-bisphosphate by RuBisCO; meanwhile, some other gene pleiotropy is caused by different spatial-temporal    functions of the same gene.
+In this study, we showed that the tiling-deletion screen for CRRs could be used to reduce the gene pleiotropy in the latter cases, which is promising to tackle the breeding difficulty in overcoming tradeoffs.
+Previous studies on An-1 focused mainly on the panicle morphologies
+[32] .
+Moreover, although the expression of _An-1_ could be detected in various tissues (Extended Data Fig.
+8), the expression levels of _IPA1_ in NIL- _an-1_ were significantly higher than NIL- _An-1_ in the panicle and root but showed no significant differences in the tiller bud and shoot base (Fig.
+6g–i and Extended Data Fig. 9), suggesting that An-1 could regulate _IPA1_ expression in a tissue-specific manner.
+The deletions in IPA1-Pro10, IPA1-Pro11 and IPA1-Pro12 lines all covered the An-1 binding site in the _IPA1_ promoter, but only IPA1-Pro10 had a significant increase in tiller number (Figs.
+2b and 5g,n), which demonstrated that the other sequence in the IPA1-Pro10-deleted region is responsible for tiller number regulation.
+We further found    **1410** **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### NATuRE BIoTEChnology
+Articles    that _An-1_ was also a pleiotropic gene constrained by the tradeoff between tiller number and grain size, whereas NIL- _an-1_ had significantly reduced tiller number compared to NIL- _An-1_ (Fig.
+6f,j–n).
+Deletion of the IPA1-Pro10 fragment may reduce the pleiotropic effects of both _IPA1_ and _An-1_ .
+Many genetic variations in CRRs were found to be critical for domestication, suggesting that the changes in _cis-
+_
+regulatory elements may play a key role in accelerating crop breeding [27][,][34][–][37] .
+However, the research methods on _cis-_ regulatory elements are still very limited [38][–][40] .
+Large-scale modification of CRRs of crops has been used for optimizing specific traits or uncovering gene functions [27][,][28] .
+In this study, we used the tiling-deletion screen of CRRs to overcome tradeoffs for enhancing crop yield and found that all 21 lines with deletions in CRRs can cause phenotypical variations, indicating that their regulation mechanisms are very complex.
+We focused on one deleted region causing extraordinary performance in grain yield and identified the transcriptional regulation mechanism between _An-1_ and _IPA1_ that specifically controlled the GNPPB.
+Systematic studies on the CRRs of key agronomic genes will uncover more important transcriptional regulatory networks, thus providing key information in guiding the creation of novel elite alleles in plant breeding.
+**Online content**
+Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at [https://doi.org/10.1038/](https://doi.org/10.1038/s41587-022-01281-7)
+[s41587-022-01281-7.](https://doi.org/10.1038/s41587-022-01281-7)   Received: 8 March 2021; Accepted: 14 March 2022; Published online: 21 April 2022   **References** 1.
+Takatsuji, H. Regulating tradeoffs to improve rice production.
+_
+Front.
+Plant_ _
+Sci._
+**8**, 171 (2017).
+2. Nelson, R., Wiesner-Hanks, T., Wisser, R. & Balint-Kurti, P. Navigating complexity to breed disease-resistant crops.
+_
+Nat. Rev. Genet.
+_
+**19**, 21–33 (2018).
+3. Wang, J., Long, X., Chern, M. & Chen, X. Understanding the molecular mechanisms of trade-offs between plant growth and immunity.
+_
+Sci.
+China Life_ _
+Sci._
+**64**, 234–241 (2021).
+4.
+Wang, L. et al.
+Roles of FERONIA-like receptor genes in regulating grain size and quality in rice.
+_
+Sci.
+China Life Sci._
+**64**, 294–310 (2021).
+5.
+Li, Y. et al. _
+Chalk5_ encodes a vacuolar H [+] -translocating pyrophosphatase influencing grain chalkiness in rice.
+_
+Nat.
+Genet.
+_
+**46**, 398–404 (2014).
+6. Zhang, S. et al.
+Detection of major loci associated with the variation of 18 important agronomic traits between _Solanum pimpinellifolium_ and cultivated tomatoes.
+_
+Plant J._ **95**, 312–323 (2018).
+7.
+Wu, W. et al.
+A single-nucleotide polymorphism causes smaller grain size and loss of seed shattering during African rice domestication.
+_
+Nat.
+Plants_ **3**, 17064 (2017).
+8.
+Uauy, C., Distelfeld, A., Fahima, T., Blechl, A. & Dubcovsky, J. A NAC gene regulating senescence improves grain protein, zinc, and iron content in wheat.
+_
+Science_ **314**, 1298–1301 (2006).
+9.
+Guttieri, M. J., Stein, R. J. & Waters, B. M. Nutrient partitioning and grain yield of _TaNAM_ -RNAi wheat under abiotic stress.
+_
+Plant Soil_ **371**, 573–591 (2013).
+10.
+Hedden, P.
+The genes of the Green Revolution.
+_Trends Genet._
+**19**, 5–9 (2003).
+11.
+Li, S. et al.
+Modulating plant growth-metabolism coordination for sustainable agriculture.
+_
+Nature_ **560**, 595–600 (2018).
+12.
+Sasaki, A. et al.
+Green revolution: a mutant gibberellin-synthesis gene in rice.
+_
+Nature_ **416**, 701–702 (2002).
+13.
+Visscher, P. M. & Yang, J. A plethora of pleiotropy across complex traits.
+_
+Nat._ _
+Genet.
+_
+**48**, 707–708 (2016).
+14.
+Wang, Y. & Li, J. The plant architecture of rice ( _Oryza sativa_ ).
+_
+Plant Mol.
+Biol.
+_
+**59**, 75–84 (2005).
+15.
+Yano, K. et al.
+GWAS with principal component analysis identifies a gene comprehensively controlling rice architecture.
+_
+Proc.
+Natl Acad.
+Sci.
+USA_ **116**, 21262–21267 (2019).
+16.
+Wang, B., Smith, S. M. & Li, J. Genetic regulation of shoot architecture.
+_
+Annu._ _
+Rev. Plant Biol._
+**69**, 437–468 (2018).
+17.
+Jiao, Y. et al.
+Regulation of _OsSPL14_ by OsmiR156 defines ideal plant architecture in rice.
+_
+Nat.
+Genet.
+_
+**42**, 541–544 (2010).
+18.
+Miura, K. et al. _OsSPL14_ promotes panicle branching and higher grain productivity in rice.
+_
+Nat.
+Genet.
+_
+**42**, 545–549 (2010).
+19.
+Wang, J. et al.
+A single transcription factor promotes both yield and immunity in rice.
+_
+Science_ **361**, 1026–1028 (2018).
+20.
+Lu, Z. et al.
+Genome-wide binding analysis of the transcription activator ideal plant architecture1 reveals a complex network regulating rice plant architecture.
+_
+Plant Cell_ **25**, 3743–3759 (2013).
+21.
+Zhang, L. et al.
+A natural tandem array alleviates epigenetic repression of _IPA1_ and leads to superior yielding rice.
+_
+Nat.
+Commun.
+_
+**8**, 14789 (2017).
+22.
+Huang, X. et al.
+Genomic architecture of heterosis for yield traits in rice.
+_
+Nature_ **537**, 629–633 (2016).
+23.
+Xue, J. et al.
+The genetic arms race between plant and _Xanthomonas_ : lessons learned from TALE biology.
+_
+Sci.
+China Life Sci._
+**64**, 51–65 (2021).
+24.
+Song, X. et al.
+IPA1 functions as a downstream transcription factor repressed by D53 in strigolactone signaling in rice.
+_
+Cell Res._
+**27**, 1128–1141 (2017).
+25.
+Wang, J. et al.
+Tissue-specific ubiquitination by IPA1 INTERACTING PROTEIN1 modulates IPA1 protein levels to regulate plant architecture in rice.
+_
+Plant Cell_ **29**, 697–707 (2017).
+26.
+Li, X., Xie, Y., Zhu, Q. & Liu, Y. G. Targeted genome editing in genes and _cis_ -regulatory regions improves qualitative and quantitative traits in crops.
+_
+Mol.
+Plant_ **10**, 1368–1370 (2017).
+27.
+Rodríguez-Leal, D., Lemmon, Z. H., Man, J., Bartlett, M. E. & Lippman, Z. B. Engineering quantitative trait variation for crop improvement by genome editing.
+_
+Cell_ **171**, 470–480 (2017).
+28.
+Hendelman, A. et al.
+Conserved pleiotropy of an ancient plant homeobox gene uncovered by _cis_ -regulatory dissection.
+_
+Cell_ **184**, 1724–1739 (2021).
+29.
+Wittkopp, P. J. & Kalay, G. _Cis_ -regulatory elements: molecular mechanisms and evolutionary processes underlying divergence.
+_
+Nat. Rev. Genet.
+_
+**13**, 59–69 (2011).
+30.
+Liu, L. et al.
+Enhancing grain-yield-related traits by CRISPR–Cas9 promoter editing of maize _CLE_ genes.
+_
+Nat.
+Plants_ **7**, 287–294 (2021).
+31.
+Chow, C. N. et al.
+PlantPAN3.0: a new and updated resource for reconstructing transcriptional regulatory networks from ChIP-seq experiments in plants.
+_
+Nucleic Acids Res._
+**47**, D1155–D1163 (2019).
+32.
+Luo, J. et al. _An-1_ encodes a basic helix-loop-helix protein that regulates awn development, grain size, and grain number in rice.
+_
+Plant Cell_ **25**, 3360–3376 (2013).
+33.
+Jin, J. et al. _GAD1_ encodes a secreted peptide that regulates grain number, grain length, and awn development in rice domestication.
+_
+Plant Cell_ **28**, 2453–2463 (2016).
+34.
+Meyer, R. S. & Purugganan, M. D. Evolution of crop species: genetics of domestication and diversification.
+_
+Nat. Rev. Genet.
+_
+**14**, 840–852 (2013).
+35.
+Lemmon, Z. H., Bukowski, R., Sun, Q. & Doebley, J. F.
+The role of _cis_ regulatory evolution in maize domestication.
+_PLoS Genet.
+_
+**10**, e1004745 (2014).
+36.
+Swinnen, G., Goossens, A. & Pauwels, L. Lessons from domestication: targeting _cis_ -regulatory elements for crop improvement.
+_
+Trends Plant Sci._
+**21**, 506–515 (2016).
+37.
+Chen, R. et al.
+Rice functional genomics: decades’ efforts and roads ahead.
+_
+Sci.
+China Life Sci._
+**65**, 33–92 (2022).
+38.
+Schwarzer, W. & Spitz, F.
+The architecture of gene expression: integrating dispersed _cis_ -regulatory modules into coherent regulatory domains.
+_
+Curr._ _
+Opin.
+Genet.
+Dev._
+**27**, 74–82 (2014).
+39.
+Priest, H. D., Filichkin, S. A. & Mockler, T. C. _Cis_ -regulatory elements in plant cell signaling.
+_
+Curr.
+Opin.
+Plant Biol._
+**12**, 643–649 (2009).
+40.
+Hernandez-Garcia, C. M. & Finer, J. J. Identification and validation of promoters and _cis_ -acting regulatory elements.
+_
+Plant Sci._
+**217-218**, 109–119 (2014).
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+© The Author(s), under exclusive licence to Springer Nature America, Inc. 2022    **Nature Biotechnology**
+[| VOL 40 | September 2022 | 1403–1411 | www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+**1411**   ##### Articles NATuRE BIoTEChnology    **Methods** **Plant materials.
+** Rice ( _Oryza sativa_ L.) ssp.
+_japonica_ Zhonghua11 (ZH11), CRISPR–Cas9 edited lines, NIL- _An-1_ and NIL- _an-1_ were grown in the experimental fields of the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, in Beijing and Hainan, China, from 2018 to 2021.
+**Tiling-deletion screen.
+**
+We designed 39 sgRNAs with high specificity targeting the non-coding regions of _IPA1_ using CRISPRdirect
+[41], including 28 sgRNAs targeting the promoter and 5′ UTR region and 11 sgRNAs targeting the region downstream of the stop codon (Supplementary Table 1).
+We constructed 39 vectors, each of which contained two or four sgRNAs through cloning the sgRNAs into the binary vector pVK005-1 (ViewSolid Biotech, VK005-1) carrying _Cas9_ gene and sgRNA expression module for editing, as previously described [42][,][43] .
+Then, the vectors were separately transformed into the _Agrobacterium tumefaciens_ strain EHA105
+(ref.
+[43] ).
+The _Agrobacterium_ strains were mixed with equal amounts and used to transform the ZH11 callus.
+Five pairs of primers were designed for sequencing the genome edits.
+From the genotyping result of 792 T 0 plants, we selected 151 lines carrying deletions ≥5 bp, in which 132 lines contained deletions from 5 bp to 100 bp.
+Ten T 1 plants for each of 151 selected T 0 lines were grown and genotyped for transgene using _hpt_ (hygromycin B phosphotransferase) gene as a marker and genomic editing on _IPA1_ .
+Sixty-eight plants were identified both transgene-free and homozygous on edited sites.
+Among these plants, 21 T 1 lines with deletion evenly covering the CRRs were selected for further analysis.
+Twenty-four plants for each of these 21 lines were grown, and eight plants of these were randomly selected for phenotyping.
+The CRISPR–Cas9 target sites, information of constructed vectors and editing information of 792 T 0 plants are shown in Supplementary Fig.
+1 and Supplementary Tables 1–3.
+**Generation of IPA1-Pro11, IPA1-Pro12 and IPA1-Pro13 lines.
+**
+We used the same construct that was used for the generation of IPA1-Pro10 to transform ZH11 rice calli, which contained TS15 and TS26 sgRNAs to generate new lines deleting the An-1 binding site.
+The generated T 0 lines were genotyped by sequencing the PCR product that amplified using the IPA1-Pro-F4 and IPA1-Pro-R4 primers.
+The IPA1-Pro11, IPA1-Pro12 and IPA1-Pro13 lines were identified, and the progeny of these lines were used for the phenotypic evaluation.
+The information of the constructs, the sgRNAs and the primers used in the generation of these lines are shown in Supplementary Fig.
+1 and Supplementary Tables 1, 2 and 6.
+**Phenotypic evaluation.
+**
+We grew 24 plants of each edited line in three rows, with eight plants per row, in the experimental field in the summer of 2019 and 2020 in Beijing, and we randomly selected eight plants for the phenotyping of 21 edited lines.
+The yield per plant, effective tiller number, panicle weight, plant height, primary branch number of panicle, secondary branch number of panicle, grain number per panicle, grain setting rate, thousand-grain weight and stem diameter were phenotyped for T 2 plants of 21 lines in Beijing in 2019, and tiller number and panicle weight of T 3 plants of 21 lines were phenotyped in Beijing in 2020.
+The data from 2019 are shown in Supplementary Table 4, and the data from 2020 are shown in Fig.
+1b.
+For the lines with deletions including or around the An-1 binding site in the IPA1-Pro10 fragment, we grew six rows, eight plants per row, in total 48 plants of each homozygous, heterozygous and wild-type plant in the experimental field in the summer of 2021 in Beijing, and we randomly phenotyped 15 plants for each type.
+The root diameter indicated the diameter of the basal part of the crown root after heading.
+The stem diameter indicated the diameter of the third upper internode after heading.
+**Prediction of transcription factor binding site.
+**
+The transcription factor binding sites on the promoters of rice _IPA1_ and its homologous genes in other species were predicted using PlantPAN 3.0, following the authors’ instructions [31] .
+Predicted transcription factor binding sites are listed in Supplementary Table 5 and Extended Data Fig.
+7.
+**Electrophoretic mobility shift assay.
+**
+The _An-1_ coding sequence was PCR amplified and introduced into pGEX-4T-1 between BamHI and XhoI sites.
+Proteins GST and GST-An-1 were expressed in BL21 Transetta cells (TransGen, CD801-01), respectively, and purified with glutathione-conjugated Sepharose 4 fast flow (GE Healthcare, 17-5132-01).
+Biotin-labeled DNA probes (Supplementary Table 6) were synthesized by Thermo Fisher Scientific.
+The assay was conducted using anti-GST antibody (Sigma-Aldrich, G1160) at 1:40 dilution and LightShift EMSA Optimization and Control Kit (Thermo Fisher Scientific, 20148X), following the manufacturer’s instructions as described previously [24] .
+Images were taken using a charge-coupled device camera.
+Experiments were repeated independently three times.
+**ChIP–qPCR assay.
+**
+The ChIP–qPCR using the _ProUbiquitin:An-1-GFP_ transgenic calli was performed using anti-GFP antibody (Abcam, ab290) at 2 μg per ChIP reaction, according to the method described previously [20][,][44] .
+PCR reactions were performed in triplicate for each sample.
+The fold enrichment was calculated against the _Ubiquitin_ promoter.
+No addition of antibodies (NoAbs) was served as a control.
+Experiments were repeated independently three times.
+Primer sequences are listed in Supplementary Table 6.
+**RNA extraction and quantitative PCR.
+** Total RNA was isolated with TRIzol reagent (Thermo Fisher Scientific, 15596026), following the manufacturer’s instructions.
+The leaves, roots, shoot bases and tiller buds from 2-week-old seedlings, leaves and stems from rice after heading stage and 1-cm young panicles or young panicles in different stages were sampled for examining the _IPA1_ and _An-1_ expression levels.
+Panicle length and _An-1_ expression levels were used as development stage control of young panicles.
+The genomic DNA removal and first-strand cDNA synthesis were conducted using ReverTra Ace qPCR RT Master Mix with gDNA Remover (Toyobo, FSQ-301).
+Primer sequences used for quantitative PCR are listed in Supplementary Table 6. _
+Actin1_ (LOC_Os03g50885) was used as an internal control gene.
+Quantitative PCR was performed using the CFX96 Real-Time PCR Detection System (Bio-Rad) with CFX manager software using SsoFast EvaGreen Supermix (Bio-Rad, 172-5201).
+Experiments were repeated independently three times.
+**Rice protoplast transfection.
+**
+The transfection of rice protoplast was conducted as previously described [24] .
+The shoots of 10-day-old rice seedlings were cut into 0.5-mm pieces and soaked in 0.6 M mannitol.
+The tissues were in enzyme solution at 28 °C for 3 hours with gentle shaking.
+The protoplasts were washed two times with W5 solution and resuspended in MMG solution.
+Plasmids were added to protoplasts and mixed with PEG solution for 10 minutes at room temperature.
+The protoplasts were washed two times with W5 solution and resuspended in W5 solution.
+The protoplasts were incubated overnight at 28 °C in the dark.
+**Subcellular localization of An-1.
+**
+The coding sequence of ZH11 An-1 was ligated to pCAMBIA1300 35S-MCS-GFP between BamHI and KpnI sites.
+The plasmid was purified and transfected into rice protoplast as above.
+The subcellular protein localization was observed using an Olympus Fluoview FV1000 confocal laser scanning microscope with FV10-ASW software.
+Primer sequences are listed in Supplementary Table 6.
+**Transcriptional activity assay in tobacco leaf and rice protoplast.
+**
+To generate the _ProIPA1-Pro10 fragment:LUC_, the 54-bp deletion in IPA1-Pro10 was synthesized and ligated upstream of minimal 35S promoter of pGreenII 0800-LUC vector [45][,][46] .
+To generate the _ProIPA1:LUC_ and _ProIPA1-Pro10:LUC_, the 2.5-kb promoter regions upstream of ATG of _IPA1_ in wild-type ZH11 and IPA1-Pro10 were PCR amplified and ligated directly upstream of _LUC_ gene of pGreenII 0800-LUC vector, respectively.
+The plasmids were transformed to _Agrobacterium_ _tumefaciens_ strain EHA105
+harboring pSOUP helper plasmid.
+_
+Agrobacterium_ strain harboring pBI221- _P19_ was mixed with other _
+Agrobacterium_ strains in a 1:9 ratio to suppress RNA silencing.
+Renilla luciferase gene of pGreenII 0800-LUC was used as an internal control [45][,][46] .
+Rice protoplast preparation and transformation were conducted as described above.
+Dual-luciferase assays were performed using the Dual-Luciferase Reporter Assay System (Promega, E1960), according to the manufacturer’s instructions.
+**Statistics.
+**
+The two-sided Student’s _t_ -test and Pearson’s correlation coefficient (PCC) were performed by Excel 2016.
+Tukey’s honestly significant difference (HSD) test was performed by GraphPad Prism version 8.0.
+**Reporting Summary.
+**
+Further information on research design is available in the Nature Research Reporting Summary linked to this article.
+**Data availability**
+All data supporting the findings of this study are available in the article, supplementary information and source data files.
+Source data are provided with this paper.
+**References** 41.
+Naito, Y., Hino, K., Bono, H. & Ui-Tei, K. CRISPRdirect: software for designing CRISPR/Cas guide RNA with reduced off-target sites.
+_
+Bioinformatics_ **31**, 1120–1123 (2015).
+42.
+Yu, H. et al.
+A route to _de novo_ domestication of wild allotetraploid rice.
+_
+Cell_ **184**, 1156–1170 (2021).
+43.
+Meng, X. et al.
+Construction of a genome-wide mutant library in rice using CRISPR/Cas9.
+_
+Mol.
+Plant_ **10**, 1238–1241 (2017).
+44.
+Saleh, A., Alvarez-Venegas, R. & Avramova, Z.
+An efficient chromatin immunoprecipitation (ChIP) protocol for studying histone modifications in _Arabidopsis_ plants.
+_
+Nat.
+Protoc.
+_
+**3**, 1018–1025 (2008).
+45.
+Hellens, R. P. et al.
+Transient expression vectors for functional genomics, quantification of promoter activity and RNA silencing in plants.
+_
+Plant_ _
+Methods_ **1**, 13 (2005).
+46.
+Zhang, H. et al.
+Genome editing of upstream open reading frames enables translational control in plants.
+_
+Nat.
+Biotechnol._
+**36**, 894–898 (2018).
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+##### NATuRE BIoTEChnology Articles    **Acknowledgements**
+We thank C. Sun (China Agricultural University) for providing the NIL- _An-1_ and NIL- _an-1_ seeds.
+This work was supported by the National Natural Science Foundation of China (31788103 to J.L. and H.Y. and 32122064 to H.Y.), the Chinese Academy of Sciences (XDA24030504 to J.L.) and the Hainan Excellent Talent Team (to J.L.).
+**Author contributions**  X.S. performed most of the experiments.
+X.S., X.M. and H.G. designed the CRISPR target and constructed the plasmid library.
+H.G. and X.M. transformed rice.
+X.S., X.M., H.G. and Q.C. characterized the genotypes and phenotypes of the edited lines.
+X.M., Y.J., M.C. and G.L. contributed to the rice materials.
+X.S., H.G., B.W., Y.W. and H.Y. analyzed the data.
+X.S., J.L. and H.Y. conceived and designed experiments and wrote the manuscript.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+**Competing interests**
+The authors declare no competing interests.
+**Additional information**  **Extended data**
+[is available for this paper at https://doi.org/10.1038/s41587-022-01281-7.](https://doi.org/10.1038/s41587-022-01281-7)
+**Supplementary information**
+The online version contains supplementary material
+[available at https://doi.org/10.1038/s41587-022-01281-7.](https://doi.org/10.1038/s41587-022-01281-7)   **Correspondence and requests for materials** should be addressed to Hong Yu.
+**Peer review information** _
+Nature Biotechnology_ thanks Xiangdong Fu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+**Reprints and permissions information**
+[is available at www.nature.com/reprints.](http://www.nature.com/reprints)   ##### Articles NATuRE BIoTEChnology  **Extended Data Fig.
+1 |** **Design of gRNAs in the tiling-deletion screen.
+** Red bars, CRISPR-Cas9 target sites in each vector.
+Blue bars, regions between CRISPR-Cas9 target sites on same vector.
+TSS, transcription start site.
+TTS, transcription termination site.
+The positions in promoter and 5’ UTR were relative to the transcription start site.
+The positions in 3’ UTR and downstream region were relative to the transcription termination site.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+##### NATuRE BIoTEChnology Articles  **Extended Data Fig.
+2 |** **Morphological phenotypes of edited lines.
+** Upper panel, plants at the mature stage; lower panel, their corresponding panicles.
+Bars = 10 cm.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### Articles NATuRE BIoTEChnology  **Extended Data Fig.
+3 |** **Correlations between the panicle weight and tiller number in two years.
+** **a**, **b**, Scatter plot of panicle weight ( **a** ) and tiller number ( **b** ) of 21 edited lines in 2019 and 2020.
+_
+R_
+[2] values were calculated using linear regression.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+##### NATuRE BIoTEChnology Articles  **Extended Data Fig.
+4 |** **Stem diameter of ZH11, IPA1-Pro10,** _**ipa1-5D**_ **, and** _**ipa1-12**_ **plants.
+** **a**, Cross-sections of internodes of ZH11, IPA1-Pro10, _ipa1-5D_, and _ipa1-12_ .
+Bars = 1 mm.
+**b-d**, Statistical analysis of internode diameters in **a** .
+Values indicate means ± s.d.
+( _n_ = 10 plants).
+Exact _P_ values are shown; Tukey’s HSD test ( **b** - **d** ).
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### Articles NATuRE BIoTEChnology  **Extended Data Fig.
+5 |** _**IPA1**_ **expression levels in different tissues of ZH11 and IPA1-Pro10.
+** **a**, _IPA1_ expression levels in panicles at different stages of ZH11 and IPA1-Pro10.
+**b,c**, _IPA1_ expression levels in tiller bud ( **b** ) and root ( **c** ) of ZH11 and IPA1-Pro10.
+**d**, _IPA1_ expression profile in different tissues.
+Shoot base, young leaf, and root were sampled from 2-week-old seedings.
+Old leaf and stem were sampled from plants after heading stage.
+_
+IPA1_ expression levels in 0.5-cm panicle ( **a** ), tiller bud ( **b** ), root ( **c** ), and shoot base ( **d** ) of ZH11 were set to one.
+Values indicate means ± s.d.
+( _n_ = 3 biological replicates in **a** - **c** and _n_ = 3 technical replicates in **d** ).
+Exact _
+P_ values are shown; two-sided Student’s _t-_ test.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+##### NATuRE BIoTEChnology Articles  **Extended Data Fig. 6
+|** **Thousand-grain weight and days to heading of ZH11 and IPA1-Pro10 in paddy field.
+** **a**, Statistical analysis of thousand-grain weight.
+**b**, Statistical analysis of days to heading.
+Values indicate means ± s.d.
+( _n_ = 3 biological replicates).
+Exact _P_ values are shown; two-sided Student’s _t-_ test.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### Articles NATuRE BIoTEChnology  **Extended Data Fig.
+7 |** **Predicted An-1 binding sites in the promoters of** _**SPL14**_ **orthologs.
+**
+The An-1 binding sites were predicted in the promoters of _IPA1_ homologous genes, including _Aegilops tauschii SPL17_ (LOC109731696), _Brachypodium distachyon SPL14_ (LOC100836973), _Sorghum bicolor SPL14_ (LOC8064025), _Zea mays SBP8_ (GRMZM2G160917) and _
+SPL15_ (GRMZM2G460544), _Setaria_ italica _
+SPL14_ (LOC101773844), _Arabidopsis thaliana SPL9_ (AT2G42200) and _SPL15_ (AT3G57920), and _Nicotiana tabacum SPL9_ (LOC107809759).
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+##### NATuRE BIoTEChnology Articles  **Extended Data Fig. 8 |** _**An-1**_ **expression levels in different tissues of ZH11 and IPA1-Pro10.** **a**, _An-1_ expression levels in panicles at different stages of ZH11 and IPA1-Pro10.
+**b**, **c**, _An-1_ expression levels in tiller bud ( **b** ) and root ( **c** ) of ZH11 and IPA1-Pro10.
+**d**, _An-1_ expression profile in different tissues.
+Shoot base, young leaf, and root were sampled from 2-week-old seedings.
+Old leaf and stem were sampled from plants after heading stage.
+_An-1_ expression levels in 0.5-cm panicle ( **a** ), tiller bud ( **b** ), root ( **c** ), and shoot base ( **d** ) of ZH11 were set to one.
+Values indicate means ± s.d.
+( _n_ = 3 biological replicates in **a** - **c** and _n_ = 3 technical replicates in **d** ).
+Exact _
+P_ values are shown; two-sided Student’s _t-_ test.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)   ##### Articles NATuRE BIoTEChnology  **Extended Data Fig.
+9 |** _**IPA1**_ **expression levels in different tissues of NIL-** _**An-1**_ **and NIL-** _**an-1**_ **.
+** **a**, _IPA1_ expression levels in panicles at different stages of NIL- _An-1_ and NIL- _an-1_ .
+**b**, _An-1_ expression in the tiller buds of NIL- _An-1_ and NIL- _an-1_ .
+**c**, _IPA1_ expression profile in different tissues of NIL- _An-1_ and NIL- _an-1_ .
+Shoot base, young leaf, and root were sampled from 2-week-old seedings.
+Old leaf and stem were sampled from plants after heading stage.
+Gene expression levels in 0.5-cm panicle ( **a** ), tiller bud ( **b** ), and shoot base ( **c** ) of NIL- _An-1_ were set to one.
+Values indicate means ± s.d.
+( _n_ = 3 biological replicates in **a** and **b**, _n_ = 3 technical replicates in **c** ).
+Exact _
+P_ values are shown; two-sided Student’s _t-_ test.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+##### NATuRE BIoTEChnology Articles  **Extended Data Fig.
+10 |** **Panicle phenotypes of IPA1-Pro11, IPA1-Pro12 and IPA1-Pro13.
+** **a-h**, Panicle morphology ( **a** ), panicle weight ( **b** ), grain number per primary branch ( **c** ), secondary branch per primary branch ( **d** ), primary branch number ( **e** ), secondary branch number ( **f** ), thousand-grain weight ( **g** ), and grain setting rate ( **h** ) of plants with wild-type ( **–/–** ), heterozygous ( **+/–** ), and homozygous ( **+/+** ) _ipa1-pro11_ alleles.
+**i-p**, Panicle morphology ( **i** ), panicle weight ( **j** ), grain number per primary branch ( **k** ), secondary branch per primary branch ( **l** ), primary branch number ( **m** ), secondary branch number ( **n** ), thousand-grain weight ( **o** ), and grain setting rate ( **p** ) of plants with wild-type, heterozygous, and homozygous _ipa1-pro12_ alleles.
+**q-x**, Panicle morphology ( **q** ), panicle weight ( **r** ), grain number per primary branch ( **s** ), secondary branch per primary branch ( **t** ), primary branch number ( **u** ), secondary branch number ( **v** ), thousand-grain weight ( **w** ), and grain setting rate ( **x** ) of plants with wild-type, heterozygous and homozygous _ipa1-pro13_ alleles.
+Bars = 10 cm.
+Values indicate means ± s.d.
+( _n_ = 15 plants).
+Exact _P_ values are shown; two-sided Student’s _t-_ test.
+**Nature Biotechnology**
+[| www.nature.com/naturebiotechnology](http://www.nature.com/naturebiotechnology)
+Corresponding author(s): Hong Yu   Last updated by author(s): Feb 19, 2022
+### Reporting Summary   Nature Research wishes to improve the reproducibility of the work that we publish.
+This form provides structure for consistency and transparency in reporting.
+For further information on Nature Research policies, see our Editorial Policies and the Editorial Policy Checklist.
+###### Statistics   For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed   The exact sample size ( _n_ ) for each experimental group/condition, given as a discrete number and unit of measurement   A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly   The statistical test(s) used AND whether they are one- or two-sided _
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+_
+A description of all covariates tested   A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons   A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)   For null hypothesis testing, the test statistic (e.g. _F_, _t_, _r_ ) with confidence intervals, effect sizes, degrees of freedom and _P_ value noted  _Give P values as exact values whenever suitable._
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings   For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes   Estimates of effect sizes (e.g. Cohen's _d_, Pearson's _r_ ), indicating how they were calculated   _
+Our web collection on_ _statistics for biologists contains articles on many of the points above.
+_  |/a|Co| |---|---| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| ||| |||   ###### Software and code   Policy information about availability of computer code   Data collection Quantitative PCR was performed using CFX96 Real-Time PCR Detection System (Bio-Rad) with CFX manager software.
+The subcellular protein localization was observed using Olympus FLUOVIEW FV1000 confocal laser scanning microscope with FV10-ASW software.
+Data analysis EXCEL 2016 was used in two-sided Student's t-test and Pearson's correlation coefficient.
+GraphPad Prism version 8.0 was used in Tukey's HSD test.
+PlantPAN 3.0 was used in the prediction of transcription factor binding sites.
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and reviewers.
+We strongly encourage code deposition in a community repository (e.g. GitHub).
+See the Nature Research guidelines for submitting code & software for further information.
+###### Data   Policy information about availability of data   All manuscripts must include a data availability statement.
+This statement should provide the following information, where applicable:      - Accession codes, unique identifiers, or web links for publicly available datasets     - A list of figures that have associated raw data     - A description of any restrictions on data availability   Data availability statement was included in the manuscript.
+All raw data supporting the findings of the present study are available in the article, supplementary information and source data files.
+There is no restrictions on data availability.
+1   #### - Field specific reporting  Please select the one below that is the best fit for your research.
+If you are not sure, read the appropriate sections before making your selection.
+Life sciences Behavioural & social sciences Ecological, evolutionary & environmental sciences   For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf  #### Life sciences study design   All studies must disclose on these points even when the disclosure is negative.
+Sample size The sample size (n) of each experiment is provided in the figure/table legends in the article, extended data, and supplementary information.
+Sample sizes were chosen following previous studies of IPA1 (Jiao et al., Nat.
+Genet.., 2010; Song et al., Cell Res., 2017).
+For the gene expression experiment: 3 biological replicates were used.
+For Phenotype evaluation, 8 or more plants were used.
+For yield test in paddy field: 3 plots with 232 plants in each plot.
+The sample sizes used in the study could detect significant changes and produce reproducible results supporting meaningful conclusions.
+Data exclusions No data were excluded.
+Replication All experiments were performed independently in at least three times.
+Experimental findings were reliably reproduced.
+Randomization All plants used in this study were grown in the fields in a random arrangement.
+Plants were grown in different plots in different growth  seasons.
+Blinding The investigators collecting phenotype data were blinded to the plant genotype in phenotype evaluation and yield test.  #### Reporting for specific materials, systems and methods   We require information from authors about some types of materials, experimental systems and methods used in many studies.
+Here, indicate whether each material, system or method listed is relevant to your study.
+If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+Materials & experimental systems  |n/a|Col2|Involved in the study<br>Antibodies<br>Eukaryotic cell lines<br>Palaeontology and archaeology<br>Animals and other organisms<br>Human research participants<br>Clinical data<br>Dual use research of concern| |---|---|---| |n/a|||   ###### Antibodies    Methods   |n/a|Col2|Involved in the study<br>ChIP-seq<br>Flow cytometry<br>MRI-based neuroimaging| |---|---|---| |n/a|||    Antibodies used Anti-GST mouse (#G1160, clone GST-2, 1:40 dilution for EMSA assay, 3.7 μ g per EMSA reaction, Sigma, Lot 035M4806V).
+Anti-GFP rabbit (#ab290, 25 μ g per ChIP reaction, Abcam, Lot GR3321614-1).
+Validation
+The detail about anti-GST monoclonal antibody is in https://www.sigmaaldrich.com/catalog/product/sigma/g1160 The detail about anti-GFP polyclonal antibody is in https://www.abcam.com/gfp-antibody-ab290.html    2

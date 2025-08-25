@@ -1,0 +1,710 @@
+_
+Journal of Experimental Botany_, Vol. 66, No. 20 pp.
+6471–6482, 2015 doi:10.1093/jxb/erv361 Advance Access publication 14 July 2015
+This paper is available online free of all access charges (see http://jxb.oxfordjournals.org/open_access.html for further details)
+RESEARCH PAPER  # **Candidate gene selection and detailed morphological evaluations** **of fs8.1, a quantitative trait locus controlling tomato fruit shape**   **Liang Sun** **[1]** **, Gustavo R. Rodriguez** **[1][,]** ***, Josh P. Clevenger** **[1][,][†]** **, Eudald Illa-Berenguer** **[1]** **, Jinshan Lin** **[1]** **,** **Joshua J. Blakeslee** **[1]** **, Wenli Liu** **[2]** **, Zhangjun Fei** **[2]** **, Asela Wijeratne** **[3]** **, Tea Meulia** **[3]** **and Esther van der Knaap** **[1][,][‡]**   1 Department of Horticulture and Crop Science, The Ohio State University/OARDC, Wooster, OH 44691, USA 2 Boyce Thompson Institute for Plant Research, Cornell University, Ithaca, New York 14853, USA 3 Molecular and Cellular Imaging Center, The Ohio State University/OARDC, Wooster, OH 44691, USA   - Present address: CONICET, Cátedra de Genética, Facultad de Ciencias Agrarias, Universidad Nacional de Rosario, Zavalla, Santa Fe, Argentina.
+- Present address: Institute of Plant Breeding, Genetics, and Genomics, University of Georgia, Tifton, GA, USA.  -
+[To whom correspondence should be addressed.
+E-mail: vanderknaap.1@osu.edu](mailto:vanderknaap.1@osu.edu?subject=)   Received 28 April 2015; Revised 23 June 2015; Accepted 29 June 2015   Editor: Ariel Vicente   **Abstract**   _**fs8.1**_ **is a major quantitative trait locus (QTL) that controls the elongated shape of tomato (** _**Solanum lycopersicum**_ **) fruit.
+In** **this study, we fine-mapped the locus from a 47 Mb to a 3.03 Mb interval on the long arm of chromosome 8.
+Of the 122 anno-** **tated genes found in the** _**fs8.1**_ **region, 51 were expressed during floral development and six were differentially expressed in** **anthesis-stage ovaries in** _**fs8.1**_ **and wild-type (WT) lines.
+To identify possible nucleotide polymorphisms that may underlie the** **fruit shape phenotype, genome sequence analyses between tomato cultivars carrying the mutant and WT allele were con-
+** **ducted.
+This led to the identification of 158 single-nucleotide polymorphisms (SNPs) and five small indels in the** _**fs8.1**_ **interval,** **including 31 that could be associated with changes in gene expression or function.
+Morphological and histological analyses** **showed that the effects of** _**fs8.1**_ **were mainly on reproductive organ elongation by increasing cell number in the proximal–dis-** **tal direction.
+Fruit weight was also increased in** _**fs8.1**_ **compared with WT, which was predominantly attributed to the increased** **fruit length.
+By combining the findings from the different analyses, we consider 12 likely candidate genes to underlie** _**fs8.1**_ **,** **including** _**Solyc08g062580**_ **encoding a pentatricopeptide repeat protein,** _**Solyc08g061560**_ **encoding a putative orthologue of** **ERECTA, which is known to control fruit morphology and inflorescence architecture in** _**Arabidopsis**_ **,** _**Solyc08g061910**_ **encod-** **ing a GTL2-like trihelix transcription factor,** _**Solyc08g061930**_ **encoding a protein that regulates cytokinin degradation, and** **two genes,** _**Solyc08g062340**_ **and** _**Solyc08g062450**_ **, encoding 17.6 kDa class II small heat-shock proteins.
+**   **Key words:** Candidate genes, expression analysis, _fs8.1_, genome sequence, morphological analysis, tomato fruit shape.
+**Introduction**    Fruit shape is an important horticultural trait for fruit and vegetable crops.
+In tomato, fruit shape determines the main use of a particular variety: elongated and blocky fruit are    preferred for mechanically harvested processing tomatoes, while fasciated fruit with many locules is ideal for the fresh market and is used for slicing (van der Knaap and Tanksley,    Abbreviations: LC-MS/MS, pressure liquid chromatography/tandem mass spectrometry; LRR, leucine-rich repeat; NIL, near-isogenic line; PE, paired end; PPR, pentatricopeptide repeat protein; QTL, quantitative trait locus; RNA-Seq, RNA sequencing; RPKM, reads per kb of exon model per million mapped reads; SGN, Sol Genomics Network; SNP, single-nucleotide polymorphism.
+© The Author 2015.
+Published by Oxford University Press on behalf of the Society for Experimental Biology.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.
+**6472 |** Sun _et al._   2003; García-Valverde _et al._, 2013).
+In addition, fruit shape variation provides a good entry point to investigate the domestication and selection history of tomato, as well as providing fundamental insights into the regulation of plant organ shape (van der Knaap _et al._, 2014).
+Based on previous studies, there are two categories of quantitative trait loci (QTLs) that control tomato fruit shape: _
+lc_ ( _locule number_ ) and _fas_ ( _fasciated_ ) controlling locule number and flat shape, and _sun_, _ovate_, and _fs8.1_ controlling elongated shape (Grandillo _et al._, 1996; Gonzalo and van der Knaap, 2008; Rodríguez _et al._, 2011; van der Knaap _et al._, 2014).
+Genes underlying tomato fruit shape QTLs were cloned via fine-mapping: _
+LC_ probably encodes an orthologue of WUSCHEL, a homeodomain transcription factor that is required for maintaining the stem-cell identity in the shoot apical meristem (Mayer _et al._, 1998; Clark, 2001; Muños _et al._, 2011); _FAS_ encodes CLV3, a small secreted protein that acts in the WUS–CLV3 signalling pathway (Schoof _et al._, 2000; Xu _et al._, 2015); and _SUN_ encodes a member of the IQD family of calmodulinbinding proteins (Xiao _et al._, 2008).
+One member of this family, AtIQD1, interacts with both kinesin light-chain-related protein-1 (KLCR1) and calmodulin/calmodulin-like proteins (CaM/CMLs), recruiting them to microtubules (Abel _et al._, 2005;
+Bürstenbinder _et al._, 2013); _OVATE_ is the founding member of the OVATE family proteins (OFPs) and its members are often characterized as transcriptional repressors (Liu _et al._, 2002; Hackbusch _et al._, 2005; Wang _et al._, 2007, 2011).
+However, the gene(s) underlying _fs8.1_ has not been identified because reduced recombination rates around the locus prevented the fine-mapping to a short region.
+This has left a gap in our further understanding of the molecular basis of genes controlling of fruit shape and their putative interactions with each other.
+The first report of the _fs8.1_ map position was in a BC 1 population derived from a cross between _Solanum lycoper-_ _sicum_ cv. M82, bearing rectangular elongated fruit, and the closely related wild species _Solanum pimpinellifolium_ accession no. LA1589, bearing small round fruit (Grandillo and Tanksley, 1996).
+The locus _fs8.1_ explained up to 27.4% of the fruit shape index (the ratio of height and width) and was further mapped to a 22.8 cM interval on chromosome 8 flanked by markers TG176 and CT92 (Grandillo _et al._, 1996).
+With the identification of new recombinants, _fs8.1_ was narrowed to a 3.2 cM region flanked by markers CD40 and CT92 (Ku _et al._, 2000).
+Single-point analysis conducted in both BC 1 and BC 2 populations indicated that CD40 is most closely associated with _fs8.1_ (Grandillo _et al._, 1996), and further studies showed that the locus segregated with a cluster of markers near TG45 (Ku _et al._, 2000).
+Unfortunately, the tomato reference genome sequence (The Tomato Genome Consortium, 2012) showed that the 3.2 cM interval was a large region of approximately 47 Mb containing ~700 annotated genes.
+This number far exceeded the chance of identifying the correct candidate gene based on predicted function.
+In addition to elongated shape, _fs8.1_ controls bumpy fruit shape and fruit size in a population derived from a cross with Yellow Stuffer, a tomato variety that features hollow and bumpy fruit similar in morphology to bell peppers ( _Capsicum annuum_ )
+(van der    Knaap and Tanksley, 2003).
+These findings suggest that _
+fs8.1_ has pleiotropic effects in controlling distinct aspects of fruit development in different genetic backgrounds.
+Therefore, _fs8.1_ may be useful for breeders to create varieties with a bell and blocky shape as well as elongated fruit shape.
+In this study, we sought to identify candidate genes of _FS8.1_ .
+We conducted additional fine-mapping, evaluated the expression of candidate genes, and searched for potential nucleotide polymorphisms that could underlie the mutation leading to fruit elongation.
+Furthermore, detailed phenotypic evaluations showed that the main effect of _fs8.1_ was to uniformly increase cell number in reproductive organs in the proximal–distal direction.
+This process might be controlled by auxin as its intermediates slightly differentially accumulated in _fs8.1_ and WT ovaries.
+When considering phenotypic, DNA sequence, and expression data as well as the putative function of the genes in the region, several were identified as likely candidates to regulate fruit shape.
+**Material and methods**   _Plant material, fine-mapping, progeny testing, and near-isogenic_
+_line (NIL) development_
+Two F 3 plants (08S33-10 and 08S34-10) derived from a cross between _S. lycopersicum_ cv.
+Rio Grande and a wild species, _S. pimpinellifolium_ accession no.
+LA1589, were backcrossed to Rio Grande four times [by marker-assisted selection (Supplementary Fig.
+S1 and Table S1,](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) available at _JXB_ online).
+During the selection, the _fs8.1_ locus was maintained in the heterozygous state, while other chromosomes and regions outside the _fs8.1_ interval were genotyped to select seedlings that were mostly homozygous for Rio Grande alleles.
+During the backcross process, recombinant plants were selected for progeny testing to narrow down the _fs8.1_ region.
+Seedlings obtained from these selfed recombinant plants were selected to result in at least five homozygous mutants, five homozygous WT, and two heterozygous at _fs8.1_, and fruit shape was evaluated.
+The three independent backcrossed and selfed lines used for RNA sequencing (RNA-Seq) were 09S204 (BC 4 F 2 ), 09S236 (BC 3 F 2 ), and 09S237 (BC 1 F 4 [), (Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Fig.
+S1 and Table S2, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online).
+The three families used for mapping the _fs8.1_ region to 3.03 Mb were 11S51 (BC 4 F 2 ), 11S65 (BC 4 F 2 ), and 11S156 (BC 4 F 3 [) (Supplementary Fig.
+S1).
+To](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) test whether _fs8.1_ segregated in Yellow Pear, an F 2 population generated from a cross between this variety and LA1589 was evaluated for association of the locus with fruit shape in lines selected to be fixed for _ovate_ .
+Morphological, histological, and auxin metabolism analyses were performed in the BC 4 F 4, BC 4 F 5, and BC 4 F 6 families (13S117, 13S118, 13S161, 13S140, 14S38, 14S92, 14S114, and [14S169), which were considered NILs (Supplementary Fig.
+S1).
+The](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) plants used in this study were grown in the field or greenhouse at the Ohio Agricultural Research and Development Center (OARDC, Wooster, OH, USA).
+To avoid outcrossing, all backcrosses, selfs and recombinant plant seed increases were performed in the greenhouse.
+_Single-nucleotide polymorphisms (SNPs) and small indel_ _
+analysis and marker development_ SNPs between _S. lycopersicum_ and _S. pimpinellifolium_ were identified by comparing their genome contig assemblies at the Sol Genomics [Network (SGN, http://solgenomics.net/).
+Derived cleaved amplified](http://solgenomics.net/) polymorphic sequences (dCAPS) markers were then designed using [dCAPS Finder 2.0 (http://helix.wustl.edu/dcaps/dcaps.html) under](http://helix.wustl.edu/dcaps/dcaps.html)
+the option of allowing only one mismatch in the primer.
+Sequences flanking the high-likelihood indels of 12 bp or more were used to design primers using Primer3 (Rozen and Skaletsky, 1999).
+For investigating the genomic variation of the 3.03 Mb region spanning the _fs8.1_ locus between tomato cultivars carrying _fs8.1_ and the WT allele, alignments were performed using genome sequences of M82 and Yellow Pear, respectively.
+The genome sequencing reads of M82 and Yellow Pear were reported by (Bolger _et al._, 2014 _a_ ) and (Strickler _et al._, 2014), respectively, and were obtained from SGN FTP site (ftp://ftp.solgenomics.net/genomes/Solanum_lycopersi[cum/yellow_pear/) and NCBI sequence read archive (http://www.](http://www.ncbi.nlm.nih.gov/sra/?term=ERA310345)
+[ncbi.nlm.nih.gov/sra/?term=ERA310345](http://www.ncbi.nlm.nih.gov/sra/?term=ERA310345)
+[http://www.ncbi.nlm.nih.](http://www.ncbi.nlm.nih.gov/sra/?term=ERA310345)
+[gov/sra/?term=ERA310345), respectively.
+The paired-end (PE) reads](http://www.ncbi.nlm.nih.gov/sra/?term=ERA310345) of both M82 and Yellow Pear were processed using Trimmomatic (Bolger _et al._, 2014 _b_ ) to remove adaptor and low-quality sequences.
+Reads shorter than 40 bp were discarded.
+The resulting reads were aligned to the ‘Heinz 1706’ tomato reference genome using BWA (version 0.6.2)
+(Li and Durbin, 2010).
+Only one of the duplicated PE reads was kept to minimize the artefacts of PCR amplification, and only reads uniquely mapped (having one single best hit) to the genome were used.
+Following alignments, SNPs and small indels between Yellow Pear and M82 were identified based on the mpileup files generated by SAMtools (Li _et al._, 2009).
+The identified SNPs and small indels were supported by at least two distinct reads.
+_
+RNA-Seq library construction and sequencing_  Three partial backcrossed lines were used to analyse gene expression and to identify putative candidate gene(s) underlying _fs8.1_
+[(Supplementary Fig.
+S1 and Table S2).
+For each backcrossed line](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) pair, 20 ovaries at the anthesis stage were dissected from five plants each carrying _fs8.1_ or the WT allele, respectively, and immediately frozen in liquid nitrogen.
+Total RNA was extracted with Trizol (Invitrogen, USA) as described by the manufacturer.
+RNA quantity and quality were assessed using an Agilent Technologies 2100 Bioanalyzer using an Agilent DNA 1000 chip kit.
+Sequencing was carried out using the Illumina GAII platform (Illumina, San Diego, CA, USA) at the Molecular and Cellular Imaging Center, Wooster, OH, USA.
+Prior to the library preparation, ~5 μg of total RNA for each samples was treated with RNAase-free DNAase (Invitrogen) to remove the remaining DNA.
+PE libraries were prepared using an Illumina PE library preparation kit (Illumina) according to manufacturer’s instruction.
+To select the appropriate size and to remove free adapters, the products were gel isolated on a 2% TAE/agarose gel (Certified Low-Range Ultra Agarose; Biorad).
+Prior to sequencing, 15 rounds of PCR were performed using the Illumina PE 1.0 and PE 2.0 primers.
+The library insert sizes were validated using a Bioanalyzer (Agilent Technologies) and quantified using quantitative PCR with a PhiX sequencing control as a standard (Illumina).
+_
+RNA-Seq expression analysis_  Filtration, alignment, and calculation of the Illumina reads were carried out according to Huang _et al._ (2013).
+The final expression data were shown as reads per kb of exon model per million mapped reads (RPKM).
+Because the six samples came from three independent backcrossed lines, statistical analysis using DESeq could not be performed, and averaging the expression data was also not possible.
+Thus, we treated the three sets of RNA-Seq data as real-time PCR experiments and analysed the results separately.
+For further analyses, the RNA-Seq data were filtered using three thresholds: (i) the RPKM value must be >2 in at least two of the three comparisons; (ii) the log2-fold change value ( _fs8.1_ /WT) must be in the same direction for each comparison; and (iii) as the 09S204 family had the smallest introgression region of the three backcrossed [lines (Supplementary Table S3, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _
+JXB_ online), the absolute value of log 2 fold change must be >0.5 in the 09S204 family as well as in one of the other two families.
+To identify the pathway that might be impacted by _fs8.1_, the filtered log2-fold change data were [imported into Mapman (http://mapman.gabipd.org/web/guest/map-](http://mapman.gabipd.org/web/guest/mapman)
+[man) and analysed by aligning against the ITAG2.3 gene annotation](http://mapman.gabipd.org/web/guest/mapman)
+[(http://mapman.gabipd.org/web/guest/mapmanstore).
+Genes within](http://mapman.gabipd.org/web/guest/mapmanstore)    Candidate gene selection and function of _fs8.1_
+| **6473**   the _fs8.1_ introgression region were not included in the Mapman analysis.
+To identify the candidate gene(s) underlying _fs8.1_, expression of the genes in the 3.03 Mb introgression region was investigated in several RNA-Seq datasets including ovaries at anthesis (this study), vegetative and floral meristems in _S. lycopersicum_ cv.
+M82
+(Park _et al._, 2012), and vegetative meristem, young flower bud, and anthesis flowers in _S_ .
+_
+pimpinellifolium_ LA1589 (Huang _et al._, 2013, [http://ted.bti.cornell.edu).](http://ted.bti.cornell.edu)   _Morphological and histological analyses_  _Reproductive organ shape analyses_ Fully mature tomato fruits collected from families 13S140, 13S117, and 13S118 were cut along the proximal–distal axis and scanned (Fig.
+1A, B).
+The images were opened in Tomato Analyzer version 3.0 (Rodríguez _et al._, 2010) and morphology parameters were analysed according to the user manual [(http://oardc.osu.edu/vanderknaap/tomato_analyzer.php).](http://oardc.osu.edu/vanderknaap/tomato_analyzer.php) Floral organs were collected from the 13S117, 13S118, and 13S140 families at anthesis and flattened on 1.5% (w/v) agarose before being scanned [(Fig. 1D).
+Floral organ shapes were evaluated using ImageJ (http://](http://rsbweb.nih.gov/ij/)
+[rsbweb.nih.gov/ij/).](http://rsbweb.nih.gov/ij/)   _Fruit and seed weight, and fruit structure analyses_ Fruit and seed weight was evaluated in fruits collected from the greenhouse (13S117 [and 13S118) and from field-grown plants (14S92) (Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Fig. S1).
+Transversely cut and scanned fruit were evaluated for fruit](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) structure, including overall area, and pericarp, placenta, and septum areas using Tomato Analyzer version 3.0 (Fig. 1C).
+_
+Histological analysis of ovaries at anthesis and mature fruits_
+Ultrathin resin-embedded sections of ovary at anthesis and free-hand sectioning of the fresh pericarp were performed in both proximal–distal and mediolateral directions (Fig.
+1E–H) (see [Supplementary Materials](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[and methods, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online).
+Ovary sections were collected according to the method of Xiao _et al._ (2009) and imaged using a Leica DM IRB microscope (Leica Microsystems, Germany) coupled to a CCD camera under a ×10 objective lens.
+The entire ovary was reconstructed using overlapping images and merged with Photoshop CS5 (Adobe, USA), ‘Photomerge’ function, under the option of ‘Reposition’.
+For mature fruit, free-hand sections were stained with 0.5% toluidine blue in 0.1% sodium carbonate solution (SPI, Electron Microscopy Supplies) and images were taken with a Leica MZFLIII microscope coupled to a digital camera (SPOT RT KE; Diagnostic Instruments).
+Estimations of cell number and size were performed using ImageJ software.
+_Vegetative organ and flowering time_
+Flowering time (defined as leaf number below the second inflorescence), total leaf number (>1 cm), leaf length, leaflet number, total internode length, stem thickness, and total side shoot length were determined when the first flower of the second inflorescence had opened.
+Leaf parameters were measured on the sixth, seventh, and eight leaf.
+Total internode length and stem thickness were measured from the sixth to the tenth internode.
+Total side shoot length was investigated for the side shoots that were in the first to fifth leaf axils.
+Terminal leaflet length, width, and shape index were investigated in the seventh to tenth leaf.
+Because of the curved shape of the leaflets, they were cut and scanned in pieces, and analysed with ImageJ software.
+Leaflet shape index was defined as maximal length divided by maximal width.
+_
+Auxin, tryptophan, and tryptamine quantification_  Anthesis-stage ovaries of the _fs8.1_ NILs (14S38 and 14S114) were collected at 10 a.m. and immediately frozen in liquid nitrogen.
+Approximately 15–20 mg of tissue was weighed and ground in liquid nitrogen and final sample mass was recorded.
+Samples were extracted with sodium phosphate buffer, pH 7.0, as described by Novák _et al._ (2012), with the following modifications: samples were extracted at 4 °C, and either 25 ng of indole-3-propionic acid (Santa   **6474 |** Sun _et al._   **Fig. 1.** Morphological and histological analyses of reproductive organs in _fs8.1_ NILs.
+(A) Fruit shape index measurement using Tomato Analyzer version 3.0 (TA).
+Fruit shape index=L/W. (B) Fruit width widest position measurement using Tomato Analyzer.
+Width widest position=y/L. (C) Fruit structure measurement using Tomato Analyzer.
+Pericarp thickness=(h1+h2+w1+w2)/4; pericarp area is defined as the area between the yellow and blue lines; the placenta is indicated in green; the septum is indicated in purple.
+(D) Floral organ shape analysis.
+Ovary shape index=L/W. (E) Ovary wall and columella cell number and size measurements in a proximal–distal section of an anthesis-stage ovary.
+CL, columella length; ‘a’ to ‘f’ indicates where the ovary wall thickness and cell layer were measured.
+(F) Ovary wall cell number measurement in a mediolateral section of an anthesis-stage ovary.
+‘1’ to ‘4’ and pink areas indicate where the cell number and size were measured.
+(G) Cell layer and large-cell size measurements in a pericarp section.
+The pericarp cell layer was measured along the black lines in the abaxial–adaxial direction.
+Large-cell size was measured in areas I and II by averaging the areas of the six biggest cells.
+(H) Average cell size measurement in a pericarp section.
+Average cell size was measured in two boxes (α and β) at the position of one-third and two-thirds of pericarp thickness; average cell size=area (α+β) /total cell number (α+β) .
+Cruz Biotechnology, Dallas, TX, USA) or a combination of 25 ng of deuterated d5-indole-3-acetic acid (Olchemim, Czech Republic) and 20 ng deuterated d3-tryptophan (C/D/N Isotopes, Quebec Canada) was added as an internal standard.
+Auxin, tryptophan, and tryptamine were concentrated using solid-phase extraction.
+Samples were dried under nitrogen gas, redissolved in 1 ml of methanol, and passed through a 0.2 μm nylon filter (Fisher Scientific).
+Auxin, tryptophan, and tryptamine levels were quantified using high-pressure liquid chromatography/tandem mass spectrometry (LC-MS/MS) (Agilent 6460 QQQ LC-MS/MS system) (Novák _et al._, 2012).
+One microliter of each sample was injected for LC-MS/MS analyses.
+Paired Student’s _t_ -tests were performed for the statistical analyses.
+**Results**   _Fine-mapping of_ fs8.1 _to a 3.03 Mb region_
+Using the cultivated tomato and LA1589 genome sequences for additional marker development, we identified three recombinant plants in the _fs8.1_ region.
+Detailed investigations showed that plant 11S51-18, selfed progeny of plant 10S168#2–51, carried recombination breakpoints between markers 11EP239 at 48.9 and 12EP21 at 49.1 Mb on one  side and between markers 11EP245 at 51.8 and 11EP249 at 51.9 Mb on the other side (Fig. 2).
+Progeny testing of this line showed a significant association of fruit shape with the allele at the locus ( _P_ <0.001).
+Thus, we concluded that _
+fs8.1_ was in the region between markers 11EP239 and 11EP249 with a physical distance of approximately 3.03 Mb (Fig. 2).
+Based on    the reference genome and chromosome structure, this region was located on a single scaffold (SGN: SL2.40sc04948) that [contained 52 gaps of 100 bp or larger (Supplementary Table](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[S4, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online) and might harbour the border of heterochromatin to euchromatin (Shearer _et al._, 2014).
+_
+Expression analysis of annotated genes in the 3.03 Mb_ _introgression_   The gene(s) underlying _fs8.1_ may be differentially expressed, thereby causing the fruit shape phenotype.
+Furthermore, not all annotated genes in this region may be expressed.
+Therefore, we sought to evaluate gene expression of those that were located in the 3.03 Mb region in three RNA-Seq datasets including our own.
+Of the 122 annotated genes in the introgression region, 51 were expressed at more than 2 RPKM in at least one of the three different datasets (Fig.
+3 and [Supplementary Table S5, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _
+JXB_ online).
+Among the expressed genes, 29 were expressed in all three datasets.
+Eight genes ( _Solyc08g062250_, _Solyc08g062280_, _Solyc08g062310_, _Solyc08g062330_, _Solyc08g062360_, _Solyc08g062220_, _Solyc08g062490_, and _Solyc08g062290_ ) were only found in the dataset representing tissues from the wild relative, LA1589 (Huang _et al._, 2013); three genes ( _Solyc08g061570_, _Solyc08g06158_, and _Solyc08g062780_ ) were only found in the dataset representing cultivated tomato M82 meristems (Park _et al._, 2012); and three genes ( _Solyc08g061880_, _Solyc08g061950_, and _Solyc08g062690_ ) were   Candidate gene selection and function of _fs8.1_
+| **6475**   **Fig.
+2.*
+* Fine-mapping of _fs8.1_ to a 3.03 Mb region.
+Fruit shape index is the ratio of maximal length to maximal width, and eight fruits per plant in each genotype were evaluated; **** _P_ <0.001 by Student’s _t_ -test; N, plant number.
+The positions of the centromere (black dot) and pericentromeric heterochromatin (grey shading) are according to Shearer _et al._ (2014).    only expressed in the dataset representing our own RNA-Seq
+[results (Fig. 3, Supplementary Table S5).
+Four expressed genes](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) ( _Solyc08g062340_, _Solyc08g062450_, _Solyc08g062370_, and _Solyc08g062580_ ) were consistently downregulated (log2-fold change <–0.5) in anthesis-stage ovaries carrying _fs8.1_, whereas two genes ( _Solyc08g061650_ and _Solyc08g061950_ ) were upregulated (log 2 [-fold change >0.5) (Fig. 3, Supplementary Table](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[S5).
+These genes encoded members of the class II small heat-](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) shock protein, a senescence-related protein, and a pentatricopeptide repeat-containing protein and leucine-rich repeat (LRR) protein, respectively.
+In addition to differentially expressed genes, several of the non-differentially expressed genes were related to auxin homeostasis ( _Solyc08g061820_ ), polar auxin transport ( _Solyc08g062630_ ), cytokinin degradation ( _Solyc08g061930_ ), and an ERECTA-like receptor kinase involved in organ shape regulation ( _Solyc08g061560_ )
+(Fig. 3, [Supplementary Table S5).](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)   _Genetic variations between cultivars carrying_ fs8.1 _or_ _the WT allele_
+To evaluate whether other cultivars carry _fs8.1_, an F 2 population was generated from a cross between Yellow Pear and LA1589, the latter carrying the WT allele at the locus.
+As no association of fruit shape with the alleles of _fs8.1_ was observed in a popu[lation derived from these two parents (Supplementary Table](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[S6, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online), we concluded that the tomato cultivar Yellow Pear carried the WT allele of the _fs8.1_ locus.
+Previously, M82 has been shown to carry the mutant allele of _fs8.1_ (Grandillo _et al._, 1996; Grandillo and Tanksley, 1996; Ku _et al._, 2000) and therefore M82 and Yellow Pear should differ    in the causative nucleotide sequence polymorphism underlying the locus.
+By aligning the DNA sequences of these two accessions, 158 SNPs and five small indels were identified in the 3.03 Mb region spanning the _fs8.1_
+[locus (Supplementary Table](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[S4).
+Of these, 19 SNPs were located within 10 kb upstream](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) of the transcription start point of 14 expressed genes, five SNPs and one small indel were located in 10 kb downstream  of four expressed genes, and lastly, three SNPs were located in introns of three expressed genes and three other SNPs were located in the exons of three expressed genes ( _Solyc08g061850_, _Solyc08g061910_, and _Solyc08g062200_
+[) (Fig. 4, Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Table S4).
+The three exonic SNPs resulted in a non-synony-](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) mous change (N253D), a premature stop codon, and addition [of 190 aa, respectively (Fig. 4, Supplementary Table S4).
+The](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) mutation in _Solyc08g061910_ leading to the premature stop codon probably resulted in a null mutation.
+The high level of genome sequence read depth of 50- to 52-fold and the inclusion [of two M82 and Yellow Pear SNP datasets (http://solgenomics.](http://solgenomics.net/jbrowse/JBrowse-1.11.4/?data=data/json/tomato_variants;)
+[net/jbrowse/JBrowse-1.11.4/?data=data/json/tomato_variants;](http://solgenomics.net/jbrowse/JBrowse-1.11.4/?data=data/json/tomato_variants;)
+Lin _et al._, 2014; E. van der Knaap, unpublished) suggested that these polymorphisms were most likely correct.
+However, despite the knowledge that structural variation often underlies phenotypic diversity (van der Knaap et al, 2014), large indels, inversions, translocations, and copy number variants were not analysed due to the characteristics of the sequence data.
+_Expression level differences suggest that several_ _
+developmental processes are impacted by_ fs8.1
+To determine the effect of the _fs8.1_ alleles on gene expression elsewhere in the genome and potential downstream targets, the   **6476 |** Sun _et al._   **Fig.
+3.**
+Expression analysis and candidate gene selection in the 3.03 Mb introgression.
+FM, floral meristem; VM, vegetative meristem; VSA, vegetative shoot apex including leaf primordia; YFB, young flower bud; AF, anthesis flower; AO, anthesis-stage ovary; WT, _fs8.1_ WT allele; _fs8.1_, _fs8.1_ mutant allele.
+Log 2 fold change was calculated in the three replicates of ‘Backcrossed lines’ RNA-Seq dataset generated in this study; 3, 6, and 7 indicate families 09S204, 09S236, and 09S237, respectively.
+In the column ‘Gene ID’, red colour, bold, underline, and regular font, respectively, indicate genes only expressed in VM and AO, differentially expressed genes in AOs of _fs8.1_ backcrossed lines, genes harbouring mutations in their putative amino acid sequences, and candidate genes that were selected based on their putative functions.
+The RNA-Seq datasets of M82 and LA1589 are from Park _et al._ (2012) and Huang _et al._ (2013), respectively.
+RNA-Seq data collected from the three different partially backcrossed lines were used to calculate the log 2 -fold change for each expressed gene in each of the lines.
+After filtering, 607 genes were obtained for enrichment analysis.
+Using the hypergeometric tests, enriched Gene Ontology (GO) terms for differentially expressed genes were found in the pathways of the cell cycle, cell wall, photosynthesis, and the phenylpropanoid biosynthesis [(Supplementary Table S7, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _
+JXB_ online).
+Among these, genes involved in the cell cycle and phenylpropanoid biosynthesis (cyclin B and D family proteins, hydroxycinnamoyl CoA quinate transferase,and HXXXD-type acyl-transferase) were downregulated in _fs8.1_ compared with WT, whereas genes encoding xyloglucan endotransglycosylase-related proteins involved in cell wall biosynthesis were consistently upregulated in _fs8.1_
+[(Supplementary Table S7).
+These findings suggested a role for](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) these genes in regulating fruit elongation mediated by _fs8.1_ .
+_
+The effect of_ fs8.1
+_is to elongate reproductive organs_
+We wanted to know whether _fs8.1_ controls the shape of other plant organs in addition to the fruit.
+The maximal length and shape index were significantly increased in all reproductive organs except for the style, while the maximal width did    not differ (Table 1).
+To evaluate the effect of _fs8.1_ on development, shape index changes were monitored during fruit growth.
+The dynamics of the shape index of _fs8.1_ and WT followed the same pattern during fruit development, with the highest value occurring at 5 d post anthesis (Fig. 5).
+However, the final fruit shape index of both _fs8.1_ and WT was similar to the shape index of anthesis-stage ovaries (Fig. 5).
+In addition to the shape index, _fs8.1_ also significantly increased fruit weight and pericarp area.
+Other traits related to fruit structure and seed weight were not consistently different between _fs8.1_
+[and WT (Supplementary Table S8, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online).
+For the vegetative traits, only total side shoot length was consistently increased in _fs8.1_ and at two different time
+[points (Supplementary Table S9, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online).
+fs8.1 _leads to an elongated ovary and fruit by_ _increased cell number in the proximal–distal direction_
+Changes in organ shape are often accomplished by altered cell division or cell size patterns.
+To gain further insights into the mechanism by which _fs8.1_ leads to elongated ovaries and fruits, we evaluated the cellular parameters at the tissue level (Fig.
+1E–H).
+In both ovaries and mature fruit of _fs8.1_, cell   Candidate gene selection and function of _fs8.1_ | **6477**   **Fig. 4.** Genome sequence variations between M82 ( _fs8.1_ allele) and Yellow Pear (WT allele) at the _fs8.1_ locus.
+Black arrows represent expressed genes.
+Vertical lines represent SNPs or small indels.
+The number above each SNP/small indel indicates the distance of the SNP/small indel from the nearest gene.
+Bold font with underlining indicates differentially expressed genes in anthesis-stage ovaries of _fs8.1_ backcrossed lines.
+Black dots indicate high likely candidate genes.
+–, deletion; ex, exon; *, the SNP was not confirmed in the additional datasets.
+**Table 1.** _Reproductive organ size and shape index of fs8.1 NILs_
+The two values per organ represent two biological replicates.
+The upper value was obtained from family 13S140, and lower value was obtained from the 13S117/118 families.
+_
+N_ indicates the number of plants per genotype.
+NA, not analysed; NS, not significant.
+Shape index is the ratio of  ‘maximal length’ to ‘maximal width’.
+**Organ** **Maximal length (mm)** **Maximal width (mm)** **Shape index** _**N**_   _**fs8.1**_ **WT** _**P value**_ _**fs8.1**_ **WT** _**P value**_ _**fs8.1**_ **WT** _**P value**_
+Ovary 2.20 ± 0.01 1.93 ± 0.02 8.48E–08 1.96 ± 0.01 1.95 ± 0.01 NS 1.12 ± 0.01 0.99 ± 0.01 4.83E–08 6  2.12 ± 0.02 1.84 ± 0.02 7.74E–11 1.96 ± 0.03 1.88 ± 0.02 0.03 1.08 ± 0.02 0.98 ± 0.01 4.08E–05  Fruit 66.93 ± 1.12 59.53 ± 0.84 7.93E–05 60.77 ± 0.99 62.71 ± 0.61 NS 1.10 ± 0.01 0.96 ± 0.01 3.46E–10 8  69.73 ± 1.00 59.08 ± 0.66 7.80E–07 61.75 ± 0.45 62.18 ± 0.64 NS 1.13 ± 0.01 0.95 ± 0.09 2.42E–08  Anther 9.08 ± 0.11 8.74 ± 0.06 0.01 1.36 ± 0.01 1.37 ± 0.01 NS 6.68 ± 0.07 6.38 ± 0.05 0.01 6  9.44 ± 0.09 8.81 ± 0.11 2.00E–04 1.44 ± 0.02 1.39 ± 0.02 NS 6.59 ± 0.09 6.32 ± 0.07 0.03  Petal 13.03 ± 0.09 12.48 ± 0.11 3.46E–03 4.95 ± 0.08 5.20 ± 0.04 0.01 2.65 ± 0.05 2.41 ± 0.02 2.46E–04 6  15.60 ± 0.25 13.34 ± 0.20 1.32E–07 6.03 ± 0.21 5.85 ± 0.20 NS 2.62 ± 0.08 2.31 ± 0.07 0.01  Sepal 14.74 ± 0.42 13.41 ± 0.32 0.02 1.56 ± 0.02 1.58 ± 0.01 NS 9.43 ± 0.19 8.52 ± 0.16 3.26E–03 6  14.68 ± 0.40 11.90 ± 0.39
+3.24E–05 1.64 ± 0.03 1.67 ± 0.03 NS 8.95 ± 0.20 7.14 ± 0.27 1.19E–05  Style 8.62 ± 0.09 8.51 ± 0.09 NS 0.39 ± 0.01 _
+[a]_ 0.42 ± 0.01 _
+[a]_ 0.04 NA NA NA 6  8.84 ± 0.20 8.89 ± 0.12 NS 0.45 ± 0.01 _
+[a]_ 0.45 ± 0.01 _
+[a]_ NS NA NA NA   _a_ Width was measured at the mid-point of the style.
+number was significantly increased in the proximal–distal direction in the ovary wall and fruit pericarp, and in the ovary columella (Table 2).
+In contrast, cell number in the mediolateral direction was not consistently different between _fs8.1_ and WT in both ovary and fruit (Table 2).
+In the abaxial– adaxial direction, _fs8.1_ significantly increased the number of cell layers and this was sometimes associated with pericarp thickness (Table 2).
+With respect to cell size, no significant difference was observed in ovary wall and columella in either the proximal–distal or the mediolateral direction.
+However,    in the mature fruit pericarp, the average cell size in _fs8.1_ was decreased in both the proximal–distal and mediolateral direction (Table 2).
+Thus, the increase in cell number was offset by a decrease in cell size in the _fs8.1_ fruit.
+fs8.1 _decreases tryptophan and tryptamine levels in_ _
+anthesis-stage ovaries_
+The hormone auxin is hypothesized to regulate proximal–distal patterning of the pistil and ovary (Nemhauser _et al._, 2000).
+**6478 |** Sun _et al._
+Moreover, certain genes within the introgression region have been hypothesized to be involved in auxin metabolism.
+Therefore, we conducted targeted metabolomic profiling of auxin and auxin metabolites in _fs8.1_ and WT ovaries.
+While indole-3-acetic acid was consistently below the level of detection in this organ, we noticed a decrease in the amount of its precursors, tryptophan and tryptamine, in _fs8.1_ ovaries to [88.06 and 81.69% of that of WT, respectively (Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Fig.
+S2A, B, available at](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _JXB_ online).
+However, even though this trend was found in five out of six experiments, the values varied among experiments and were barely or not significant, and therefore the results should be interpreted with caution.
+Interestingly, the ratio of tryptophan to tryptamine was not different between WT and _fs8.1_ .
+This suggested that the conversion of tryptophan to tryptamine was apparently not altered in _fs8.1_
+[(Supplementary Fig. S2C).](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+**Discussion**   _
+Molecular basis of the_ fs8.1 _
+locus_
+To genetically identify the underlying genes at loci of interest depends on the heritability of the trait, ease of trait evaluation, and recombination frequencies.
+Centromere and pericentromeric heterochromatin have been shown to be strong suppressors of meiotic recombination (Beadle, 1932; Mather, 1939; Roberts, 1965;
+Tanksley _et al._, 1992; Li _et al._, 2004).
+Thus, genetically mapping a gene that is located in recombinationsuppressed regions will always be a challenge.
+In this study, we were fortunate to find a rare recombinant plant that narrowed the region to 3.03 Mb on a single scaffold that appeared to **Fig.
+5** Fruit shape index changes during development.
+At least three fruits span heterochromatin and euchromatin.
+Further recombinant per plant and five plants per genotype were evaluated.
+screens failed to identify shorter intervals and therefore we   **Table 2.** _Histological analysis of anthesis ovary and fully grown fruit of fs8.1 NILs_   For each genotype, six ovaries and 18 fruits from six plants were investigated.
+The two values per organ represent two biological replicates.
+The upper value was obtained from family 13S140, and lower value was obtained from the 13S117/118 families.
+NA, not analysed; NS, not significant.
+**Parameter** **Ovary** **Fruit**   _**fs8.1**_ **WT** _**Pvalue**_ _
+**fs8.1**_
+**WT** _
+**P value**_    Ovary wall/pericarp cell number  (proximal–distal direction, 1/2 fruit)
+Ovary wall/pericarp cell number  (mediolateral direction, 1/2 fruit)
+Ovary wall/pericarp cell size (proximal–distal direction, 100 µm [2] )   Ovary wall/pericarp cell size (mediolateral direction, 100 µm [2] )    163.33 ± 2.67 135.94 ± 1.00 2.28E–06 499.34 ± 7.09 420.89 ± 13.31 2.08E–04   169.03 ± 1.41 144.89 ± 2.74 1.44E–05   227.67 ± 1.27 220.63 ± 0.71 6.93E–04 413.59 ± 2.10 404.16 ± 4.03 NS   225.58 ± 5.01 226.54 ± 2.94 NS   0.1145 ± 0.0431 _
+[b]_ 0.1150 ± 0.0261 _
+[b]_ NS 1178.38 ± 42.10 _
+[a]_ 1275.56 ± 31.67 _[a]_ NS   0.1030 ± 0.0596 _
+[b]_ 0.1039 ± 0.0280 _
+[b]_ NS 864.57 ± 23.74 _
+[b]_ 1018.18 ± 31.61 _
+[b]_ 3.03E–03   0.0804 ± 0.0680 _[b]_ 0.0776 ± 0.0950 _
+[b]_ NS 1308.24 ± 34.90 _
+[a]_ 1316.85 ± 23.87 _
+[a]_ NS    0.0768 ± 0.0612 _
+[b]_ 0.0727 ± 0.0879 _[b]_ NS 954.57 ± 22.83 _
+[b]_ 1097.29 ± 28.10 _[b]_ 2.77E–03   Ovary wall/pericarp cell layer 13.22 ± 0.21 11.80 ± 0.25 1.15E–04 32.50 ± 0.33 27.45 ± 0.42 6.85E–07  13.77 ± 0.26 12.37 ± 0.08 4.26E–03   Ovary wall/pericarp thickness (mm) 0.1112 ± 0.0012 0.0983 ± 0.0011 1.10E–05 9.56 ± 0.07 8.77 ± 0.14 3.13E–04  0.1097 ± 0.0072 0.0999 ± 0.0010 NS    Ovary columella cell number  (proximal–distal direction)    136.78 ± 2.39 114.56 ± 3.16 2.26E–04 NA NA NA    136.20 ± 3.57 125.27 ± 3.07 4.88E–02   Columella cell size (μm [2] ) 125.49 ± 5.84 123.56 ± 6.75 NS NA NA NA   117.41 ± 11.64 100.11 ± 6.10 NS   _a_ Average size of six largest cells.
+_
+b_ Average cell size.   sought to make a list of likely candidates based on expression levels, differential expression, and SNPs and small indels near expressed genes in the 3.03 Mb _fs8.1_ region.
+Because the effect of _fs8.1_ is clearly final at anthesis (Fig. 5; Ku _et al._, 2000), genes that were not expressed in anthesis-stage ovaries (our RNA-Seq dataset)
+but in inflorescence and floral meristems, or in young flower buds, were also likely candidates.
+Those genes that were only expressed in anthesis ovaries ( _Solyc08g061880_, _Solyc08g061950_, and _Solyc08g062690_ ) or vegetative meristem ( _Solyc08g061570_, _Solyc08g062220_, and _Solyc08g062780_ ) were not likely _
+fs8.1_ candidate genes and were eliminated from the candidate gene list (Fig. 3, [Supplementary Table S5).
+Thus,](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) 45 expressed genes passed and made up the preliminary list of candidates of _fs8.1_
+[(Fig. 3, Supplementary Table S5).
+As](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+_
+fs8.1_ could be based on a mutation leading to gene expression change, five genes ( _Solyc08g061650_, _Solyc08g062340_, _Solyc08g062370_, _Solyc08g062450_, and _Solyc08g062580_ ) were selected as highly likely candidate genes primarily because of their differential expression between anthesis-stage ovaries carrying _fs8.1_ and the WT allele (Fig. 3, Table 3).
+One of these genes, _Solyc08g061650_, was the only one that was upregulated in anthesis-stage ovaries of _fs8.1_, encoding a LRR domain-containing protein with an unknown func[tion (Fig. 3, Supplementary Table S5).
+Moreover, two SNPs](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) were identified in the putative promoter region of this gene, which might enhance its expression (Fig. 4, [Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Table S4).](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _
+Solyc08g062580_ encodes a member of the pentatricopeptide repeat protein (PPR) family.
+The gene was downregulated not only in our _fs8.1_ NIL RNA-Seq dataset but also in another RNA-Seq dataset generated from the smallest flower buds of an _fs8.1_ NIL in the LA1589 background (Fig. 3, [Supplementary Table S5; Y. Wang, S. Wu,](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) and E. van der Knaap, unpublished).
+For the other three differentially expressed genes, both _Solyc08g062340_ and _Solyc08g062450_ encoded 17.6 kDa class II small heat-shock   **Table 3.** _
+Summary of candidate gene selection at fs8.1 locus_    Candidate gene selection and function of _fs8.1_
+| **6479**   proteins, whereas _Solyc08g062370_ encoded an orthologue of AtSRG1 (Senescence-Related Gene 1).
+Moreover, a SNP was identified in the putative promoter region of _Solyc08g062370_, which further indicated the potential of this gene to control [fruit shape (Fig. 4, Supplementary Table S4).
+In addition to](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) the candidate genes listed above, mutations leading to amino acid sequence changes could also result in _fs8.1_ .
+Three genes ( _Solyc08g061850_, _Solyc08g061910_, and _Solyc08g062200_ ) were selected as highly likely candidate genes based mainly on the mutations in the coding region (Table 3).
+_Solyc08g061850_ encoded a ribosomal protein S3 harbouring a non-synonymous change from asparagine (N) to aspartic acid (D) at residue 253 (N253D); _Solyc08g061910_ encoded an orthologue of potato GTL2-like trihelix transcription factor and harboured a premature stop codon, which would lead to a null mutation; and _Solyc08g062200_ encoded an unknown protein and harboured a mutation in the natural stop codon, which could lead [to a 109 aa extension of the protein (Fig. 4, Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Table S4).](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+fs8.1 _represents a different mechanism of regulating_ _tomato fruit shape when compared with other fruit_ _
+elongation genes_
+The genes _SUN_ and _OVATE_ control tomato fruit elongation.
+Compared with WT, _ovate_ primarily increases the fruit proximal end by increasing cell number in the proximal–distal direction and decreasing cell number in the mediolateral direction leading to a pear-shaped fruit (Liu _et al._, 2002; van der Knaap _et al._, 2002; Rodríguez _et al._, 2011; Y. Wang, S. Wu, and E. van der Knaap, unpublished).
+The _sun_ gene, on the other hand, results in long fruit by increasing cell number along the entire proximal–distal direction in the pericarp and columella while decreasing cell number in mediolateral direction in the columella and septum (Wu _et al._, 2011).
+The _sun_ gene does not    AO, RNA-Seq dataset of anthesis-stage ovaries of _fs8.1_ backcrossed lines (from this study).
+Upstream indicates that SNPs or small indels are  located upstream of the transcriptional start.
+**Candidate gene** **Expressed** **Differentially expressed in AO** **(average of log** **2** **fold change,** _**fs8.1/**_ **WT)**    **SNPs or small indels**  **(compared with WT)**    **Selected only by putative** **function (annotation of encoding** **protein)**    _Solyc08g061560_
+Yes
+No No
+Yes (a putative orthologue of AtERECTA)  _Solyc08g061650_
+Yes Yes (0.60)
+Non-coding, upstream
+[a] No  _Solyc08g061820_
+Yes
+No No
+Yes (a putative orthologue of AtSLOMO)  _Solyc08g061850_
+Yes No Coding, N253D
+No  _Solyc08g061910_
+Yes
+No Coding, premature stop codon
+No  _Solyc08g061930_
+Yes No Non-coding, upstream Yes (cytokinin oxidase)  _
+Solyc08g062200_
+Yes No Coding, +109aa No _Solyc08g062340_
+Yes Yes (–1.26) Non-coding, upstream [b] No  _Solyc08g062370_
+Yes Yes (–1.89) Non-coding, upstream No  _Solyc08g062450_
+Yes Yes (–1.53)
+No No  _Solyc08g062580_
+Yes Yes (–4.11)
+No No  _Solyc08g062630_
+Yes No Non-coding, upstream Yes (aminopeptidase M1-like protein)   _a_
+A gap was found in the reference genome sequence between the coding region and the SNPs.
+_b_ SNPs that were not found in both M82 and Yellow Pear genome sequence datasets (Lin _et al._, 2014; E. van der Knaap, unpublished).
+**6480 |** Sun _et al._   alter fruit weight (Wu _et al._, 2011), whereas _ovate_ leads to a slight reduction in fruit weight (Wu _et al._, 2015).
+Compared with _sun_ and _ovate_, _fs8.1_ showed a cellular patterning that was different from the effect of the other two genes: _fs8.1_ led to increased fruit shape by increased cell number in the proximal– distal direction without a change in the mediolateral direction (Table 2).
+This also led to an increase in fruit weight, albeit [not always significant (Supplementary Tables S2 and S8).](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+The altered fruit shape was final at anthesis implying that the _fs8.1_ pattern is set up during development of the ovary in the flower.
+This is in contrast to _SUN_, which has been shown to impact ovary shape slightly before anthesis, while the most dramatic shape change occurs immediately after anthesis (van der Knaap and Tanksley, 2001; Xiao _et al._, 2009; Wu _et al._, 2015).
+Since _fs8.1_ appeared to regulate reproductive organ shape by regulating cell number, four genes from the candidate list ( _Solyc08g061560_, _Solyc08g061930_, _Solyc08g061820_, and _Solyc08g062630_ ) could be selected based on their putative functions in the control of organ shape and phytohormones
+[levels (Table 3 and Supplementary Table S5).](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _Solyc08g061560_ encoded a putative orthologue of ERECTA, a LRR receptor-like kinase with functions of regulating cell division, meristem size, fruit morphology, and inflorescence architecture in _Arabidopsis_ (Torii _et al._, 1996; Lease _et al._, 2001; Shpak _et al._, 2003; Woodward _et al._, 2005; Mandel _et al._, 2014).
+_
+Solyc08g061930_ encoded a putative orthologue of an _Arabidopsis_ cytokinin oxidase, which has been shown to control cytokinin level and regulate reproductive meristem, flower organ, and fruit sizes by impacting cell number in _
+Arabidopsis_ (Bartrina _et al._, 2011; Köllmer _et al._, 2014).
+_
+Solyc08g061820_ encoded a putative orthologue of SLOMO (SLOW MOTION) in _Arabidopsis_, which is an F-box protein involved in the maintenance of a normal plastochron by regulating auxin homeostasis (Lohmann _et al._, 2010).
+_Solyc08g062630_ encoded a putative orthologue of an _Arabidopsis_ aminopeptidase M1-like protein involved in the regulation of auxin polar transport, cell cycle, and seedling development (Peer _et al._, 2009).
+Therefore, although there was no evidence at the transcriptional and genome sequence level, these genes were still considered likely candidates for _fs8.1_ because of their putative functions.
+Of the eight candidate genes that were selected based predominantly on gene expression and genome sequence variations, three of them, according to their putative functions, were deemed the most likely candidate genes.
+The first one was _Solyc08g062580_, encoding a member of PPR family, which represents a large protein family in land plant species.
+PPR family members are involved in the regulation of various aspects of plant development by regulating organellar gene expression (Lurin _et al._, 2004; Petricka _et al._, 2008; Barkan and Small, 2014).
+Moreover, a member of the PPR family, At4g18750, has been reported to impact plant morphology, and a knockout of this gene led to a mutant with small size and narrow or pin-shaped leaves, and a disrupted primary vein (Petricka _et al._, 2008).
+In addition, _Solyc08g061650_ encoded a member of the LRR domain-containing family, which is also a large family that has been implicated in the regulation of a wide variety of developmental and defence-related processes    (Torii, 2004; Choi _et al._, 2011; Torti _et al._, 2012).
+The last gene was _Solyc08g061910_, which harboured a probable null mutation and encoded an orthologue of potato GTL2-like trihelix transcription factor.
+Members of this family in _Arabidopsis_ have been reported to regulate perianth architecture, cell growth in trichomes, and responses to cold and salt stresses (Brewer _et al._, 2004; Breuer _et al._, 2009; Xi _et al._, 2012).
+In summary and based on the analyses conducted in this study, 12 genes were selected to be the most likely candidates underlying the _fs8.1_ locus (Table 3).
+However, none of them stood out.
+The gene expression, genome sequence variation, and putative function analyses were performed based on the annotated genes and without evaluation of putative structural variants that often underlie morphological diversity (van der Knaap _et al._, 2014).
+Moreover, there are many gaps in the reference genome sequence that may harbour additional genes including _FS8.1_
+[(Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Table S4).
+Gene action analysis in this and previous studies](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) showed that the WT allele was partial dominant for fruit shape index (D/A=–0.47 in this study), while the _fs8.1_ allele was partial or overdominant for fruit weight (D/A=1.14 in this study; Grandillo _et al._, 1996), suggesting that more than one gene could underlie this locus.
+Therefore, transgenic complementation using genomic constructs of one, several, or all 12 candidate genes may be required to definitively identify the molecular basis of _fs8.1_ .
+However, as _fs8.1_
+[segregates in cultivated tomatoes (Supplementary](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Table S6), and with an improved tomato genome sequence](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) underway, association mapping could be employed in the near future to ultimately identify the most likely candidate gene(s) followed by confirmation that includes plant transformations.
+**Supplementary data**   Supplementary data are available at _JXB_ online.
+Supplementary materials and methods.
+[Supplementary Table S1.
+Markers used in this study.](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Supplementary Table S2.
+Fruit shape index and weight](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) analyses of the three backcrossed lines used in RNA-Seq analysis.
+[Supplementary Table S3.
+Progeny test of three backcrossed](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) lines used in RNA-Seq analysis.
+[Supplementary Table S4.
+Genome sequence variations](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) between cultivars carrying _fs8.1_ and the WT allele.
+[Supplementary Table S5.
+Expression and reannotation of](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) genes within the 3.03 Mb introgression.
+[Supplementary Table S6.](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) _
+fs8.1_ segregates in cultivated  tomatoes.
+[Supplementary Table S7.
+Enrichment analysis of differ-](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) entially expressed genes in anthesis-stage ovaries of _fs8.1_ backcrossed lines.
+[Supplementary Table S8.
+Fruit structure and seed analyses.](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1)
+[Supplementary Table S9.
+Morphological analysis of veg-](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) etative organs.
+[Supplementary Fig.
+S1.
+Pedigree map of plant materials](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) used in this study.
+[Supplementary Fig.
+S2.
+Box-and-whisker plot of trypto-](http://jxb.oxfordjournals.org/lookup/suppl/doi:10.1093/jxb/erv361/-/DC1) phan and tryptamine levels in anthesis-stage ovaries of _fs8.1_ NILs.
+**Acknowledgements**
+We thank Jiheun Cho, Meghan Fisher, Brenda Sanchez Montejo, and Shin Reui Lee for taking care of the plants, Jason Van Houten for help with the analysis of the RNA-Seq data, Dr Ann Chanon for help with extracting the tryptophan and tryptamine, and Karolyne Kaszas for help with performing the resin section.
+This work was funded by the National Science Foundation (NSF IOS 0922661) and the OARDC SEEDS grant 2008–047.
+**References**   **Abel S, Savchenko T, Levy M.** 2005.
+Genome-wide comparative analysis of the IQD gene families in _Arabidopsis thaliana_ and _Oryza sativa_ .
+_
+BMC Evolutionary Biology_ **5,** 72.
+**Barkan A, Small I.** 2014.
+Pentatricopeptide repeat proteins in plants.
+_Annual Review of Plant Biology_ **65,** 415–442.
+**Bartrina I, Otto E, Strnad M, Werner T, Schmülling T.** 2011.
+Cytokinin regulates the activity of reproductive meristems, flower organ size, ovule formation, and thus seed yield in _Arabidopsis thaliana_ .
+_
+The Plant Cell_ _Online_ **23,** 69–80.
+**Beadle GW.
+** 1932.
+A possible influence of the spindle fibre on crossingover in _Drosophila_ .
+_
+Proceedings of the National Academy of Sciences,_ _
+USA_ **18,** 160.
+**Bolger A, Scossa F, Bolger ME, Lanz C, Maumus F, Tohge T,** **Quesneville H, Alseekh S, Sørensen I, Lichtenstein G.** 2014 _a_ .
+The genome of the stress-tolerant wild tomato species _Solanum pennellii_ .
+_
+Nature Genetics_ **46,** 1034–1038.
+**Bolger AM, Lohse M, Usadel B.** 2014 _b_ .
+Trimmomatic: a flexible trimmer for Illumina sequence data.
+_
+Bioinformatics_ **30,** 2114–2120.
+**Breuer C, Kawamura A, Ichikawa T, Tominaga-Wada R, Wada** **T, Kondou Y, Muto S, Matsui M, Sugimoto K.** 2009.
+The trihelix transcription factor GTL1 regulates ploidy-dependent cell growth in the _Arabidopsis_ trichome.
+_
+The Plant Cell Online_ **21,** 2307–2322.
+**Brewer PB, Howles PA, Dorian K, Griffith ME, Ishida T, Kaplan-Levy** **RN, Kilinc A, Smyth DR.** 2004.
+_
+PETAL LOSS_, a trihelix transcription factor gene, regulates perianth architecture in the _Arabidopsis_ flower.
+_
+Development_ **131,** 4035–4045.
+**Bürstenbinder K, Savchenko T, Müller J, Adamson AW, Stamm G,** **Kwong R, Zipp BJ, Dinesh DC, Abel S.** 2013.
+_
+Arabidopsis_ calmodulinbinding protein IQ67-domain 1 localizes to microtubules and interacts with kinesin light chain-related protein-1. _
+Journal of Biological Chemistry_ **288,** 1871–1882.
+**Choi HW, Kim YJ, Hwang BK.
+** 2011.
+The hypersensitive induced reaction and leucine-rich repeat proteins regulate plant cell death associated with disease and plant immunity.
+_
+Molecular Plant–Microbe_ _Interactions_ **24,** 68–78.
+**Clark SE.
+** 2001.
+Cell signalling at the shoot meristem.
+_
+Nature Reviews_ _
+Molecular Cell Biology_ **2,** 276–284.
+**García-Valverde V, Navarro-González I, García-Alonso J, Periago** **MJ.** 2013.
+Antioxidant bioactive compounds in selected industrial processing and fresh consumption tomato cultivars.
+_
+Food and Bioprocess_ _
+Technology_ **6,** 391–402.
+**Gonzalo MJ, van der Knaap E.** 2008.
+A comparative analysis into the genetic bases of morphology in tomato varieties exhibiting elongated fruit shape.
+_
+Theoretical and Applied Genetics_ **116,** 647–656.
+**Grandillo S, Ku H-M, Tanksley SD.
+*
+* 1996.
+Characterization offs8.1, a major QTL influencing fruit shape in tomato.
+_
+Molecular Breeding_ **2,** 251–260.
+**Grandillo S, Tanksley SD.** 1996.
+QTL analysis of horticultural traits differentiating the cultivated tomato from the closely related species _Lycopersicon pimpinellifolium_ .
+_
+Theoretical and Applied Genetics_ **92,** 935–951.
+**Hackbusch J, Richter K, Müller J, Salamini F, Uhrig JF.
+** 2005.
+A central role of _Arabidopsis thaliana_ ovate family proteins in networking and    Candidate gene selection and function of _fs8.1_
+| **6481**   subcellular localization of 3-aa loop extension homeodomain proteins.
+_
+Proceedings of the National Academy of Sciences, USA_ **102,** 4908–4912.
+**Huang Z, Van Houten J, Gonzalez G, Xiao H, van der Knaap E.** 2013.
+Genome-wide identification, phylogeny and expression analysis of _SUN_, _OFP_ and _YABBY_ gene family in tomato.
+_
+Molecular Genetics and Genomics_ **288,** 111–129.
+**Köllmer I, Novák O, Strnad M, Schmülling T, Werner T.** 2014.
+Overexpression of the cytosolic cytokinin oxidase/dehydrogenase (CKX7) from _Arabidopsis_ causes specific changes in root growth and xylem differentiation.
+_
+The Plant Journal_ **78,** 359–371.
+**Ku HM, Grandillo S, Tanksley SD.** 2000.
+_
+fs8.1_, a major QTL, sets the pattern of tomato carpel shape well before anthesis.
+_
+Theoretical and_ _Applied Genetics_ **101,** 873–878.
+**Lease KA, Lau NY, Schuster RA, Torii KU, Walker JC.
+** 2001.
+Receptor serine/threonine protein kinases in signalling: analysis of the erecta receptor-like kinase of _Arabidopsis thaliana_ .
+_
+New Phytologist_ **151,** 133–143.
+**Li H, Durbin R.** 2010.
+Fast and accurate long-read alignment with Burrows–Wheeler transform.
+_
+Bioinformatics_ **26,** 589–595.
+**Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth** **G, Abecasis G, Durbin R.** 2009.
+The sequence alignment/map format and SAMtools. _Bioinformatics_ **25,** 2078–2079.
+**Li J, Thomson M, McCouch SR.** 2004.
+Fine-mapping of a grain-weight quantitative trait locus in the pericentromeric region of rice chromosome 3. _Genetics_ **168,** 2187–2195.
+**Lin T, Zhu G, Zhang J,** _**et al**_ .
+2014.
+Genomic analyses provide insights into the history of tomato breeding.
+_
+Nature Genetics_ **46,** 1220–1226.
+**Liu J, Van Eck J, Cong B, Tanksley SD.
+** 2002.
+A new class of regulatory genes underlying the cause of pear-shaped tomato fruit.
+_
+Proceedings of_ _the National Academy of Sciences, USA_ **99,** 13302–13306.
+**Lohmann D, Stacey N, Breuninger H, Jikumaru Y, Müller D, Sicard** **A, Leyser O, Yamaguchi S, Lenhard M.** 2010.
+SLOW MOTION is required for within-plant auxin homeostasis and normal timing of lateral organ initiation at the shoot meristem in _Arabidopsis_ .
+_
+The Plant Cell_ **22,** 335–348.
+**Lurin C, Andrés C, Aubourg S, Bellaoui M, Bitton F, Bruyère C,** **Caboche M, Debast C, Gualberto J, Hoffmann B.** 2004.
+Genomewide analysis of _Arabidopsis_ pentatricopeptide repeat proteins reveals their essential role in organelle biogenesis.
+_
+The Plant Cell Online_ **16,** 2089–2103.
+**Mandel T, Moreau F, Kutsher Y, Fletcher JC, Carles CC, Williams** **LE.** 2014.
+The ERECTA receptor kinase regulates _Arabidopsis_ shoot apical meristem size, phyllotaxy and floral meristem identity.
+_
+Development_ **141,** 830–841.
+**Mather K.** 1939.
+Crossing over and heterochromatin in the X chromosome of _Drosophila melanogaster_ .
+_
+Genetics_ **24,** 413.
+**Mayer KFX, Schoof H, Haecker A, Lenhard M, Jürgens G, Laux T.** 1998.
+Role of WUSCHEL in regulating stem cell fate in the _Arabidopsis_ shoot meristem.
+_
+Cell_ **95,** 805–815.
+**Muños S, Ranc N, Botton E, Bérard A, Rolland S, Duffé P, Carretero** **Y, Le Paslier M-C, Delalande C, Bouzayen M.** 2011.
+Increase in tomato locule number is controlled by two single-nucleotide polymorphisms located near WUSCHEL.
+_
+Plant Physiology_ **156,** 2244–2254.
+**Nemhauser JL, Feldman LJ, Zambryski PC.
+** 2000.
+Auxin and ETTIN in _Arabidopsis_ gynoecium morphogenesis.
+_
+Development_ **127,** 3877–3888.
+**Novák O, Hényková E, Sairanen I, Kowalczyk M, Pospíšil T, Ljung** **K.** 2012.
+Tissue-specific profiling of the _Arabidopsis thaliana_ auxin metabolome.
+_
+The Plant Journal_ **72,** 523–536.
+**Park SJ, Jiang K, Schatz MC, Lippman ZB.
+** 2012.
+Rate of meristem maturation determines inflorescence architecture in tomato. _
+Proceedings_ _of the National Academy of Sciences, USA_ **109,** 639–644.
+**Peer WA, Hosein FN, Bandyopadhyay A, Makam SN, Otegui MS,** **Lee G-J, Blakeslee JJ, Cheng Y, Titapiwatanakun B, Yakubov B.** 2009.
+Mutation of the membrane-associated M1 protease APM1 results in distinct embryonic and seedling developmental defects in _Arabidopsis_ .
+_
+The_ _
+Plant Cell Online_ **21,** 1693–1721.
+**Petricka JJ, Clay NK, Nelson TM.
+** 2008.
+Vein patterning screens and the defectively organized tributaries mutants in _Arabidopsis thaliana_ .
+_
+The_ _Plant Journal_ **56,** 251–263.
+**6482 |** Sun _et al._   **Roberts PA.
+** 1965.
+Difference in the behaviour of eu-and heterochromatin: crossing-over.
+_
+Nature_ **205,** 725–726.
+**Rodríguez GR, Moyseenko JB, Robbins MD, Morejón NH, Francis** **DM, van der Knaap E.** 2010.
+Tomato Analyzer: a useful software application to collect accurate and detailed morphological and colorimetric data from two-dimensional objects.
+_
+Journal of Visualized Experiments_ **37,** 1856.
+**Rodríguez GR, Muños S, Anderson C, Sim S-C, Michel A, Causse** **M, Gardener BBM, Francis D, van der Knaap E.** 2011.
+Distribution of SUN, OVATE, LC, and FAS in the tomato germplasm and the relationship to fruit shape diversity.
+_
+Plant Physiology_ **156,** 275–285.
+**Rozen S, Skaletsky H.** 1999.
+Primer3 on the WWW for general users and for biologist programmers.
+_
+Methods in Molecular Biology_ **132,** 365–386.
+**Schoof H, Lenhard M, Haecker A, Mayer KF, Jürgens G, Laux** **T.** 2000.
+The stem cell population of _Arabidopsis_ shoot meristems is maintained by a regulatory loop between the _CLAVATA_ and _WUSCHEL_ genes.
+_
+Cell_ **100,** 635–644.
+**Shearer LA, Anderson LK, de Jong H, Smit S, Goicoechea JL, Roe** **BA, Hua A, Giovannoni JJ, Stack SM.** 2014.
+Fluorescence in situ hybridization and optical mapping to correct scaffold arrangement in the tomato genome.
+_
+G3_ **4,** 1395–1405.
+**Shpak ED, Lakeman MB, Torii KU.
+** 2003.
+Dominant-negative receptor uncovers redundancy in the _Arabidopsis_ ERECTA leucine-rich repeat receptor-like kinase signaling pathway that regulates organ shape.
+_
+The_ _
+Plant Cell Online_ **15,** 1095–1110.
+**Strickler SR, Bombarely A, Munkvold JD, Menda N, Martin GB,** **Mueller LA.
+** 2014.
+Comparative genomics and phylogenetic discordance of cultivated tomato and close wild relatives.
+_
+PeerJ_ **3,** e793.
+**Tanksley SD, Ganal MW, Prince JP, De Vicente MC, Bonierbale MW,** **Broun P, Fulton TM, Giovannoni JJ, Grandillo S, Martin GB.** 1992.
+High density molecular linkage maps of the tomato and potato genomes.
+_
+Genetics_ **132,** 1141–1160.
+**The Tomato Genome Consortium** .
+2012.
+The tomato genome sequence provides insights into fleshy fruit evolution.
+_
+Nature_ **485,** 635–641.
+**Torii KU.
+** 2004.
+Leucine-rich repeat receptor kinases in plants: structure, function, and signal transduction pathways.
+_
+International Review of_ _
+Cytology_ **234,** 1–46.
+**Torii KU, Mitsukawa N, Oosumi T, Matsuura Y, Yokoyama R,** **Whittier RF, Komeda Y.** 1996.
+The _Arabidopsis ERECTA_ gene encodes a putative receptor protein kinase with extracellular leucine-rich repeats.
+_
+The_ _
+Plant Cell Online_ **8,** 735–746.
+**Torti S, Fornara F, Vincent C, Andrés F, Nordström K, Göbel U, Knoll** **D, Schoof H, Coupland G.** 2012.
+Analysis of the _Arabidopsis_ shoot meristem transcriptome during floral transition identifies distinct regulatory    patterns and a leucine-rich repeat protein that promotes flowering.
+_
+The_ _
+Plant Cell Online_ **24,**
+444–462.
+**van der Knaap E, Chakrabarti M, Chu YH, Clevenger JP, Illa-** **Berenguer E, Huang Z, Keyhaninejad N, Mu Q, Sun L, Wang Y.** 2014.
+What lies beyond the eye: the molecular mechanisms regulating tomato fruit weight and shape.
+_
+Frontiers in Plant Science_ **5,** 227.
+**van der Knaap E, Lippman ZB, Tanksley SD.** 2002.
+Extremely elongated tomato fruit controlled by four quantitative trait loci with epistatic interactions.
+_
+Theoretical and Applied Genetics_ **104,** 241–247.
+**van der Knaap E, Tanksley SD.** 2001.
+Identification and characterization of a novel locus controlling early fruit development in tomato.
+_
+Theoretical_ _and Applied Genetics_ **103,** 353–358.
+**van der Knaap E, Tanksley SD.** 2003.
+The making of a bell peppershaped tomato fruit: identification of loci controlling fruit morphology in Yellow Stuffer tomato.
+_
+Theoretical and Applied Genetics_ **107,** 139–147.
+**Wang S, Chang Y, Guo J, Chen JG.
+** 2007.
+_
+Arabidopsis_
+Ovate Family Protein 1 is a transcriptional repressor that suppresses cell elongation.
+_
+The_ _Plant Journal_ **50,** 858–872.
+**Wang S, Chang Y, Guo J, Zeng Q, Ellis BE, Chen J-G.** 2011.
+_
+Arabidopsis_ ovate family proteins, a novel transcriptional repressor family, control multiple aspects of plant growth and development.
+_
+PloS
+One_ **6,** e23896.
+**Woodward C, Bemis SM, Hill EJ, Sawa S, Koshiba T, Torii KU.
+** 2005.
+Interaction of auxin and ERECTA in elaborating _Arabidopsis_ inflorescence architecture revealed by the activation tagging of a new member of the YUCCA family putative flavin monooxygenases.
+_
+Plant Physiology_ **139,** 192–203.
+**Wu S, Clevenger JP, Sun L, Visa S, Kamiya Y, Jikumaru Y, Blakeslee** **JJ, van der Knaap E.** 2015.
+The control of tomato fruit elongation orchestrated by _sun_, _ovate_ and _fs8.1_ in a wild relative of tomato. _
+Plant_ _
+Science_ **238,** 95–104.
+**Wu S, Xiao H, Cabrera A, Meulia T, van der Knaap E.** 2011.
+SUN regulates vegetative and reproductive organ shape by changing cell division patterns.
+_
+Plant Physiology_ **157,** 1175–1186.
+**Xi J, Qiu Y, Du L, Poovaiah BW.** 2012.
+Plant-specific trihelix transcription factor AtGT2L interacts with calcium/calmodulin and responds to cold and salt stresses.
+_
+Plant Science_ **185,** 274–280.
+**Xiao H, Jiang N, Schaffner E, Stockinger EJ, van der Knaap E.** 2008.
+A retrotransposon-mediated gene duplication underlies morphological variation of tomato fruit.
+_
+Science_ **319,** 1527–1530.
+**Xiao H, Radovich C, Welty N, Hsu J, Li D, Meulia T, van der Knaap** **E.** 2009.
+Integration of tomato reproductive developmental landmarks and expression profiles, and the effect of SUN on fruit shape.
+_
+BMC Plant_ _
+Biology_ **9,** 49.
+**Xu C, Liberatore KL, MacAlister CA,** _**et al**_ .
+2015.
+A cascade of arabinosyltransferases controls shoot meristem size in tomato.
+_
+Nature_ _
+Genetics_ **47,** 784–792.

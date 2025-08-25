@@ -1,0 +1,761 @@
+## **OPEN**    www.nature.com/scientificreports  # **Functional disruption of cell wall** **invertase inhibitor by genome** **editing increases sugar content** **of tomato fruit without decrease** **fruit weight**   **Kohei Kawaguchi** **
+[1]** **, Rie Takei‑Hoshi** **
+[1]** **, Ikue Yoshikawa
+** **
+[1]** **, Keiji Nishida
+** **
+[2]** **, Makoto Kobayashi** **
+[3]** **,**
+**Miyako Kusano** **
+[3,4,5]** **,
+Yu Lu** **
+[6]** **, Tohru Ariizumi
+** **
+[5,6]** **, Hiroshi Ezura** **
+[5,6]** **, Shungo Otagaki** **
+[1]** **,**
+**Shogo Matsumoto
+** **
+[1]** **& Katsuhiro Shiratake** **
+[1]**
+[*]   **Sugar content is one of the most important quality traits of tomato.
+Cell wall invertase promotes** **sucrose unloading in the fruit by maintaining a gradient of sucrose concentration between source** **leaves and fruits, while invertase inhibitor (INVINH) regulates this process.
+In this study, knock-out** **of cell wall** _**INVINH**_ **in tomato (** _**SlINVINH1**_ **) was performed by genome editing using, CRISPR/Cas9 and** **Target-AID technologies.
+Most of the genome-edited lines set higher soluble solid content (SSC) fruit** **than the original cultivar ‘Suzukoma’, while fruit weight was different among the genome-edited lines.
+** **From these genome-edited lines, three lines (193–3, 199–2, and 247–2), whose SSC was significantly** **higher than ‘Suzukoma’ and fruit weight were almost the same as the original cultivar, were selected.
+** **The fruit weight and overall plant growth of the two lines were comparable to those of the original** **cultivar.
+In contrast, the fructose and glucose contents in the mature fruits of the two lines were** **significantly higher than those of the original cultivar.
+The mature fruits of genome edited line 193–3** **showed the highest sugar content, and the fructose and glucose contents were 29% and 36% higher** **than that of the original cultivar, respectively.
+Whole genome sequence data showed no off-target** **mutations in the genome-edited lines.
+Non-target metabolome analysis of mature fruits revealed that** **fructose was the highest loading factor in principal component analysis (PCA) between the genome-** **edited line and the original cultivar, and no unexpected metabolites appeared in the genome-edited** **line.
+In this study, we succeeded in producing tomato lines with high sugar content without a decrease** **in fruit weight and deterioration of plant growth by knock-out of** _**SlINVINH1**_ **using genome editing** **technology.
+This study showed that functional disruption of** _**SlINVINH1**_ **is an effective approach to** **produce tomato cultivars with high sugar content.
+**   Consumers in Japan prefer sweet tomatoes, and therefore, tomatoes with high sugar content are a popular quality trait in the Japanese market.
+High sugar content tomato is becoming popular in other countries as well, and its demand is increasing worldwide.
+Generally, tomatoes with high sugar content were produced by applying water stress to the tomato plant.
+However, the major problem of this cultivation is a large decrease in fruit size and yield.
+In cultivated tomato, sucrose is produced by photosynthesis in leaves and translocated through the phloem into the fruits, where it is broken down into hexoses, which eventually accumulate in the vacuoles of fruit cells.
+Two enzymes, sucrose synthase (SuSy, EC 2.4.1.13) and invertase (INV, EC 3.2.1.26), are responsible for the breakdown of sucrose into ­hexoses [1] .
+SuSy catalyses the reversible reaction of sucrose + UDP ⇄ UDP-glucose + fructose.
+UDP-glucose produced from sucrose breakdown is used as a substrate for starch and cellulose   1 Graduate School of Bioagricultural Sciences, Nagoya University, Chikusa‑ku, Nagoya 464‑8601, Japan.
+[2] Engineering Biology Research Center, Kobe University, Chuo‑ku, Kobe 650‑0047, Japan.
+[3] RIKEN Center for Sustainable Resource Science, Yokohama 230‑0045, Japan.
+[4] Graduate School of Life and Environmental Sciences, University of Tsukuba, Tsukuba 305‑8572, Japan.
+[5] Tsukuba Plant Innovation Research Center, University of Tsukuba, Tsukuba 305‑8572, Japan.
+[6] Faculty of Life and Environmental Sciences, University of Tsukuba, Tsukuba 305‑8572, Japan.
+[*] email: shira@agr.nagoya-u.ac.jp    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4    1   Vol.:(0123456789)   www.nature.com/scientificreports/   ­syntheses [1][,][2] .
+In contrast, INV catalyses the irreversible breakdown of sucrose into glucose and fructose.
+INV plays important roles in the regulation of osmotic ­pressure [2], sucrose unloading from phloem to sink cells, stress responses, and various plant developmental ­events [3] .
+Based on their subcellular localisation and pH optima, INVs are classified into cell wall INV, cytoplasmic INV, and vacuolar ­INV [4] .
+The optimal pH of cytoplasmic INV is 7.0–7.8; hence, it is also called neutral/alkaline ­INV
+[4][,][5] .
+In contrast, the optimal pH of cell wall INV and vacuolar INV are ~ 4.5 and 4.5–5.5, respectively; hence, they are also called acid ­INVs [4] .
+Vacuolar INV regulates the balance between sucrose and hexose in vacuoles, and the osmotic pressure in cells.
+Cell wall INV regulates sucrose unloading by maintaining a gradient of sucrose concentration between the source and sink organs through sucrose breakdown in the apoplast of sink ­organs [3] .
+INV is regulated by an invertase inhibitor (INVINH), which binds to the active site (sucrose binding site) of ­INV [6] .
+Three decades after the biochemical characterisation of INVINH in the ­1960s [7][,][8], the first cDNA encoding cell wall INVINH was ­cloned [9] .
+Since then, cDNAs encoding INVINH have been reported from various plant species, including ­tobacco [9], ­maize [10], ­tomato [11][–][13], ­potato [14], ­soybean [15], and ­Arabidopsis [16] .
+Plants have two INVINH: vacuolar INVINH; and cell wall INVINH, which inhibit the activity of vacuolar INV and cell wall INV, respectively.
+In tomato, Vacuolar INVINH regulates the balance between sucrose and hexose in vacuoles and affects fruit ­ripening [12] .
+Conversely, cell wall INVINH regulates the balance between sucrose and hexose in the apoplast, which regulates leaf senescence, cold tolerance, seed weight, and hexose concentration in ­fruits [11][,][17] .
+Recently, genome editing technologies, which specifically recognise and modify the genome sequence of an organism using artificial nucleases have been ­developed [18], such as transcription activator-like effector nuclease (TALEN)
+[19], zinc finger nucleases (ZFN)
+[20] and CRISPR/Cas9 (clustered regularly interspaced short palindromic repeats/CRISPR associated protein 9)
+[21] .
+Among these genome editing technologies, CRISPR/Cas9 has been widely used for genome editing in various organisms, including animals, plants, and microorganisms, because of the ease of changing target sequences and targeting multiple genes.
+The CRISPR/Cas9 system recognises and cleaves the complementary genomic DNA through the endonuclease- _
+Streptococcus pyogenes_
+Cas9-guide RNA (gRNA) ­complex
+[21] .
+The target sequence can be easily modified by changing the 20 bp gRNA sequence in the CRISPR/Cas9 system.
+Cleaved double-stranded DNA is repaired by non-homologous end ­joining [21] ; however, repair errors such as deletion, insertion, or substitution of nucleotides can occur during this process.
+CRISPR/Cas9 system is used to alter or disrupt promoter or gene function not only for research but also for plant breeding.
+Furthermore, nuclease deficient Cas9 (dCas9) was developed and used with gRNA to recognise specific DNA sequences without inducing DNA breakage.
+CRISPR imaging, which involves imaging specific loci using dCas9 fused with fluorescent ­protein [22][,][23] and regulation of gene expression using dCas9 fused with transcriptional activator or ­repressor [24][,][25] have been reported.
+Target-AID (Target Activation Induced Cytidine Deaminase) is an ­application [26] which uses cytidine deaminase PmCDA1 from _Petromyzon marinus_ fused with dCas9 or nCas9 (nickase Cas9 which has single-strand DNA cleavage activity).
+Target-AID using dCas9 causes highly efficient and accurate substitution of cytosine to thymine in the target site by PmCDA1.
+Target-AID using nCas9 not only caused base substitution but also deletion and insertion in the target site at high efficiency and has demonstrated the feasibility of genome editing for crop ­improvement [27] .
+A previous study reported that the knock-down of cell wall _INVINH_ by RNAi technology in tomato increased the activity of INV and sucrose unloading in fruit by maintaining a gradient of the sucrose concentration between source leaves and fruit, resulting in an increased sugar content in ­fruits [11] .
+In the present study, we aimed to increase the sugar content of tomato fruits by knock-out of the cell wall _INVINH_ using CRISPR/Cas9 and Target-AID technology.
+**Results and discussions** **Production of cell wall** _**INVINH**_ **knock‑out tomato.
+** Two genes encoding cell wall INVINHs, _SlIN-_ _VINH1_ (Solyc12g099200) and _SlINVINH2_ (Solyc12g099210), are present in the genome of tomato _
+Solanum_ _lycopersicum_
+[‘Heinz 1706’ (Sol Genomics Network, https://​solge​nomics.​net/).](https://solgenomics.net/) _SlINVINH1_ and _SlINVINH2_ have high sequence homology with each other at both the nucleotide and amino acid levels, and both genes consist of two exons and one intron. _
+SlINVINH1_ and _SlINVINH2_ are tandemly present in the tomato genome, and the distance between them is only 3,809 bp (Fig. 1a).
+Therefore, these two genes may have appeared due to gene duplication.
+The expression level of _SlINVINH2_
+[shown by the Tomato eFP browser (http://​bar.​utoro​nto.​ca/​](http://bar.utoronto.ca/efp2/Tomato/Tomato_eFPBrowser2.html)
+[efp2/​Tomato/​Tomato_​eFPBr​owser2.​html,](http://bar.utoronto.ca/efp2/Tomato/Tomato_eFPBrowser2.html)
+[28] ) was lower in all organs and tissues.
+A study reported that specific silencing of _SlINVINH1_ increased hexose levels in tomato ­fruits [11] .
+Therefore, we considered that _SlINVINH2_ is a pseudogene or does not play an important role in tomato fruit.
+To be sure, we selected three consensus sequences between _SlINVINH1_ and _SlINVINH2_ as target sequences for CRISPR/Cas9 and Target-AID, expecting knockout of not only _SlINVINH1_
+but also of _SlINVINH2_ (Fig. 1a,d).
+The efficiency of mutations by CRISPR/Cas9 was reported to depend on the target ­sequence [29] .
+In this study, two target sequences in the first exon (Target 1 and Target 2) and one target sequence in the second exon (Target 3), a total of three target sequences were used for multiplex genome editing (Fig.
+1a,d).
+The proline-lysine-phenylalanine (PKF) motif in INVINH competes with sucrose in the binding site of INV; thus, the PKF motif in INVINH is important for the inhibition of INV ­activity [6] .
+Target 1 and Target 2 exist upstream of the PKF motif (Fig. 1a); therefore, the mutation in Target 1 or Target 2 can lead to loss of function of INVINH.
+To produce _SlINVINH_ knock-out tomato lines, cotyledon explants of tomato ‘Suzukoma’ were transformed with _Agrobacterium tumefaciens_ GV2260 harbouring CRISPR/Cas9 vector (Fig.
+1b, Fig.
+S1) or Target-AID vector (Fig.
+1c, Fig. S2).
+Gene transformation in the differentiated shoots from callus was checked by PCR, and only transformants were selected.
+Tomato frequently produces polyploid plants during de-differentiation and differentiation processes.
+Therefore, ploidy of the transformants was confirmed, and only diploid plants were    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4   Vol:.(1234567890)    2   www.nature.com/scientificreports/   **Figure 1.** Schematic diagram of CRISPR/Cas9 and Target-AID target sites in _SlINVINHs_ and vector construction.
+( **a** )
+Position of _SlINVINH1_, _SlINVINH2_ and three guide RNA targets in _SlINVINHs.
+_
+Boxes indicate exons.
+The black arrowhead indicates the PKF (proline-lysine-phenylalanine) motif.
+( **b** )
+Schematic map of the CRISPR/Cas9 vector, and ( **c** )
+Target-AID vector.
+RB: right border.
+LB: left border.
+U6pro: AtU6-26 promoter.
+gRNA: guide RNA.
+PcUbi: _Petroselinum crispum_ ubiquitin promoter.
+Cas9: _Streptococcus pyogenes_ Cas9 gene.
+nCas9: nickase Cas9 gene.
+PmCDA1: _
+Petro myzontiformes_ cytidine deaminase 1 gene.
+PeathreeAter:
+3A terminator.
+35S pro: _Cauliflower mosaic virus_ 35S promoter.
+NPTII:
+Kanamycin resistance gene.
+Hspter: heat shock protein gene terminator.
+( **d** )
+Sequences of the three targets.
+The PAM sequences (NGG) are underlined.   selected.
+Furthermore, considering the selection efficiency of vector-free plants (null segregant plants) in the next generation, the copy number of the transformed gene was determined by qPCR, and only transformants with single copy transformed gene were selected.
+**Mutation patterns in** _**SlINVINH1**_ **by CRISPR/Cas9 or Target‑AID.
+**
+The mutation pattern of _SlIN-_ _VINH1_ by CRISPR/Cas9 or Target-AID was confirmed by direct sequencing of _SlINVINH1_ in the transformants.
+Therefore, five transformants by CRISPR/Cas9 and eight transformants by Target-AID, which have nucleotide(s) insertion or deletion in the exon of _SlINVINH1_, were obtained.
+These transformants ­(T 0 generation) were selfpollinated and ­T 1 seeds were obtained.
+Among the ­T 1 plants, null segregants with homozygous mutations in _SlINVINH1_ were selected.
+In the CRISPR/Cas9 genome-edited lines, nucleotide(s) insertion or deletion at 3 bp downstream from the Proto-spacer Adjacent Motif (PAM) sequence occurred frequently, such as the adenine insertion 3 bp downstream of the PAM sequence of Target 1 in line 247–2 (Fig. 2).
+This trend was consistent with the report by Jinek et al.
+[21], which shows that the mutations by CRISPR/Cas9 occurred frequently around 3 bp downstream of the PAM sequence.
+In contrast, in the genome-edited lines by Target-AID using nCas9, insertion or deletion at 3 bp downstream of the PAM sequence, but also substitution of cytosine around 18 bp downstream of PAM sequence occurred frequently, such as the substitution from cytosine to guanine of Target 1 in line 193–3 (Fig. 2).
+This trend was consistent with the report by Nishida et al.
+[26], where mutations by Target-AID using nCas9 occurred frequently around 3 bp downstream of the PAM sequence and at 15–19 bp downstream from the PAM sequence.
+**Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4    3   Vol.:(0123456789)   www.nature.com/scientificreports/   **Figure 2.*
+* Mutations in _SlINVINH1_ of the genome edited lines.
+Target sequence in original cultivar ‘Suzukoma’ is shown at the top in each panel and the sequence in three genome edited lines (193–3, 199–2, and 247–2) are shown below.
+Grey shade indicates PAM sequence.
+Red shade, blue shade or red small letter show insertion, deletion, or substitution of nucleotide(s), respectively.
+**Phenotyping of the** _**SlINVINH1**_ **knock‑out tomato.
+**
+In 13 of the genome-edited lines ­(T 1 generation), which are null segregants with homozygous mutations in _SlINVINH1,_ fruit weight and soluble solid content (SSC) of mature fruit were measured.
+Although the SSC average was higher in the genome-edited lines than the original cultivar ‘Suzukoma’ (Fig. S3a), fruit weight differed among the genome-edited lines (Fig. S3b).
+From the 13 genome-edited lines, three lines (193–3, 199–2, and 247–2), whose SSC average was higher than ‘Suzukoma’ and fruit weight almost equal to ‘Suzukoma’ (Fig. S3) were selected for further analysis.
+Overall plant growth and visual vegetative phenotype of the three selected genome-edited lines ­(T 2 generation) showed no difference compared with the original cultivar (Fig. 3).
+On comparison with ‘‘Suzukoma’, lines 193–3, 199–2, and 247–2 showed 37.6%, 14.5%, and 21.4% significantly higher SSC, respectively (Fig. 4a), while no significant difference, 13.7% significantly lower, and no significant difference in fruit weight was observed, respectively (Fig. 4b).
+Thus, we succeeded in producing tomato lines with high sugar content (193–2 and 247–2) without a decrease in fruit weight and deterioration of plant growth.
+These results indicate that knock-out of _SlINVINH1_
+by genome editing is an effective approach to produce high-sugar content tomato cultivars.
+Mutation patterns of _SlINVINH1_ and _SlINVINH2_ in the three genome-edited lines (193–3, 199–2, and 247–2) are shown in Fig.
+2 and Figure S4, respectively.
+As described above, frameshift mutations presumably lead to loss of function in _SlINVINH1_ in the three lines (Fig. 2), and in _SlINVINH2_ in lines 199–2 and 247–2 (Fig. S4).
+Only base substitution occurred in _SlINVINH2_ in line 193–3, in which SSC of mature fruit was the highest among the three lines.
+These results reinforce our hypothesis that _
+SlINVINH2_ does not play an important role, and the knock-out of only _SlINVINH1_ is sufficient to increase the sugar content of tomato fruit.
+Knock-down of _SlINVINH1_ by RNAi technology in tomato increases the hexose content of ­fruits [11] .
+Among the three genome-edited lines (193–3, 199–2, and 247–2), two lines (193–3 and 247–2) showed significantly higher fructose and glucose content in mature fruits than the original cultivar ‘Suzukoma’ (Fig. 5).
+The mature fruits of line 193–3 showed the highest sugar content in mature fruit with fructose and glucose contents 29% and 36% higher than ‘Suzukoma’, respectively (Fig. 5).
+The increase in hexose content of the _SlINVINH1_ genomeedited lines might have been caused by higher sucrose hydrolysis in the apoplast of fruits by retention of high cell wall INV activity, as reported in earlier ­studies [11] .
+**Transcript level of** _**SlINVINH1**_ **and mutation in the** _**SlINVINH1**_ **transcript.
+**
+To determine the transcript level of _SlINVINH1_ in the genome-edited lines, quantitative RT-PCR analysis of _SlINVINH1_ was performed using RNA from mature fruit, which showed high _SlINVINH1_ expression.
+Therefore, the transcript level of _SlINVINH1_ decreased in the genome-edited lines compared to the original cultivar ‘Suzukoma’.
+However, the difference in _SlINVINH1_ transcript levels between the genome-edited lines and ‘Suzukoma’ was not significant (Fig.
+S5).
+This was expected because the target sequences of genome editing were chosen in the coding region of _SlINVINH1_, but not in the promoter region.
+To prove that the transcript of _SlINVINH1_ lost its function in the genome-edited lines, the sequence of the _SlINVINH1_ transcript was determined.
+Similar patterns of insertions, deletions, and substitutions, which were found in the genome of the genome-edited lines (Fig. 2), were found in the _SlINVINH1_ transcripts of the    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4   Vol:.(1234567890)    4   www.nature.com/scientificreports/   **Figure 3.**
+Phenotypes of the _SlINVNH1_ genome edited lines.
+( **a** )
+Visual vegetative phenotype of original cultivar ‘Suzukoma’ and the _SlINVINH1_ genome edited lines (193–3, 199–2, and 247–2).
+Scale bar = 15 cm.
+( **b** ) Fruits at mature stage from ‘Suzukoma’ and the _SlINVINH1_ genome edited lines.
+Scale bar = 1 cm.   genome-edited lines (Fig. S6), indicating that _
+SlINVINH1_ mRNA lost its function.
+This result supported that the phenotypic effect was due to genome editing of the _SlINVINH1_ gene.
+**Off‑target mutation analysis of the** _**SlINVINH1**_ **knock‑out tomato.
+**
+Genome editing by CRISPR/ Cas9 can induce off-target mutations as well as in the sequences similar to those of the target ­sequence [29] .
+Therefore, to confirm the presence of any off-target mutations in the genome-edited lines (193–3, 199–2, and 247–2), whole genome sequencing was performed and the sequences with mismatches of three bases or less with the target sequences (Target 1, Target 2, and Target 3) in the tomato genome were checked.
+Therefore, no off-target mutations were found in the _SlINVINH1_ genome-edited lines in the checked sequences (Table S1).
+**Non‑target metabolome analysis of the** _**SlINVINH1**_ **knock‑out tomato.
+**
+To evaluate the fruit quality of the _SlINVINH1_ knock-out tomato, non-target metabolome analysis was performed using GC-TOF/MS and fruit metabolites between the _SlINVINH1_ genome editing line 193–3 and the original cultivar ‘Suzukoma’ were compared.
+Metabolome analysis revealed 148 metabolite peaks, including unidentified peaks.
+Among them, 76 metabolites were identified, and 19 metabolite levels, including fructose, glucose, and sucrose levels, were significantly different between the genome-edited line and the original cultivar ‘Suzukoma’.
+The relative abundance of the 19 metabolites were 0.51–4.01 fold-change (Table S2).
+Among the 16 metabolites, excluding fructose, glucose, and sucrose, 10 metabolites significantly increased and 6 metabolites significantly decreased in the genome-edited line compared to the original cultivar (Table S2).
+Metabolites, such as Trehalose, glucose6-phosphate, isomaltose, and myo-inositol were found to increase in the genome-edited line.
+These metabolites are synthesised from glucose.
+Therefore, the higher glucose levels may have increased the biosynthesis of these metabolites in the genome-edited line (Fig. 5).
+Two amino acids (asparagine and glutamine) and one organic acid (malic acid) were found to be the decreased metabolites in the genome-edited line.
+Although the reason for the decrease in these metabolites is unclear, the taste of tomato fruits may be affected because these metabolites are associated to ­taste [30][,][31] .
+No unexpected metabolite peak appeared in the genome-edited line, indicating that no unexpected metabolite accumulated in the fruits of the genome-edited line.
+The metabolome data obtained were subjected to variable standardisation and principal component analysis (PCA).
+In the PCA score scatter plot, _SlINVINH1_ genome-edited line 193–3 and original cultivar ‘Suzukoma’    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4    5   Vol.:(0123456789)   www.nature.com/scientificreports/   **Figure 4.** SSC and weight of fruits from the _SlINVINH1_ genome edited lines.
+( **a** ) SSC of fruits at mature stage from original cultivar ‘Suzukoma’ and the _SlINVINH1_ genome edited lines (193–3, 199–2, and 247–2).
+Error bars indicate standard error for 15 fruits from 5 plants.
+An asterisk indicates a significant difference (Dunnett’s test, * _
+P_ < 0.05; ** _P_ < 0.01).
+( **b** )
+Fruit weight at mature stage from original cultivar ‘Suzukoma’ and the _SlINVINH1_ genome edited lines (193–3, 199–2, and 247–2).
+Error bars indicate standard error for 15 fruits from 5 plants.
+An asterisk indicates a significant difference (Dunnett’s test, * _
+P_ < 0.05).   were separated in the direction of the first principal component axis (Fig. 6a).
+In the PCA loading scatter plot, fructose was found to have the highest loading factor (80.2%) and the other metabolites had a low loading factor 6 (less than 30%) in the first principal component separation (Fig. b).
+These results show that fructose was the highest contributing factor for principal component separation between _SlINVINH1_ genome edited line 193–3 and ‘Suzukoma’.
+**Approaches to produce high sugar content tomato.
+**
+For the production of tomato with high sugar content, two approaches, including breeding and cultivation, have been applied.
+Under cultivation approach, water stress and salt stress have been applied to tomato cultivation to increase starch accumulation in fruit at an early developmental ­stage [32] and to induce the concentration effect of metabolites in fruit at a later developmental ­stage [33] .
+However, the application of water stress or salt stress induces cracking of fruit and blossom-end rot.
+Therefore, a high cultivation technique to control water status and labour for this control is necessary for such cultivation.
+The most serious disadvantage of water stress or salt stress in cultivation to produce high sugar content tomato is a large decrease in fruit ­weight
+[34], with more than 50% decrease in some cases.
+However, in the case of _SlINVINH1_ genome-edited tomato, no high cultivation technique and labour are necessary, and there was no decrease in fruit weight (Fig. 4b).
+**Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4   Vol:.(1234567890)    6   www.nature.com/scientificreports/   **Figure 5.**
+Sugar content of fruits from the _SlINVINH1_ genome edited lines.
+Sucrose, glucose and fructose content in mature fruits from original cultivar ‘Suzukoma’ and the _SlINVINH1_ genome edited lines (193–3, 199– 2, and 247–2).
+Error bars indicate standard error for 15 fruits from 5 plants.
+An asterisk indicates a significant difference (Dunnett’s test, * _
+P_ < 0.05; ** _P_ < 0.01).
+**Figure 6.
+**
+Principal component analysis (PCA) of metabolites in mature fruits from the _SlINVINH1_ genome edited line.
+Metabolite levels in mature fruits obtained from original cultivar ‘Suzukoma’ and the _SlINVINH1_ genome edited line (193–3) were determined by GC-TOF/MS.
+( **a**
+)
+Score scatter plot of the PCA.
+Black symbol indicates ‘Suzukoma’ and red symbol indicate the _SlINVINH1_ genome edited lines ( _n_ = 5 for each sample).
+( **b** )
+Loading scatter plot of the PCA analysis ( _n_ = 148 metabolite peaks).
+Numbers indicate unknown peak of metabolites.
+**Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4    7   Vol.:(0123456789)   www.nature.com/scientificreports/   Cross breeding and mutation breeding have been performed as breeding approaches.
+By gamma ray irradiation, the mutant of tomato dwarf cultivar ‘Micro-Tom’, whose SSC in fruit is four degrees higher than the original cultivar, was ­screened [35] .
+Among the introgression lines of _S. lycopersicum_ ‘M82’ containing chromosome fragments of the wild tomato species _S. pennellii,_ the lines with higher sugar content in the fruit were ­screened [35] .
+Later, cell wall ­INV [37][,][38] and ADP-glucose pyrophosphorylase (AGPase)
+[39] from _S. pennellii_ were identified as the genes responsible for high sugar content of the introgression lines.
+Transgenic technology has also been used to produce tomato cultivars with high sugar content.
+Introduction of the apple hexose transporter gene ( _MdHT2.2_ )
+[40] or peach sucrose non-fermenting-1-related protein kinase 1 gene ( _SnRK1_ )
+[41] into tomato increased the sugar content of fruit.
+Overexpression of the tomato phosphoenolpyruvate carboxykinase gene ( _SlPEPCK_ )
+[42] or auxin response factor 10 gene ( _SlARF10_ )
+[43] also promoted sugar accumulation in fruits.
+**Advantages of the** _**SlINVINH1**_ **knock‑out tomato.
+**
+Jin et al.
+[11] reported an increase in the hexose content of tomato fruit by knock-down of _SlINVINH1_ using RNAi technology.
+In this study, we succeeded in producing tomatoes with high sugar content by knock-out of _SlINVINH1_ using genome editing technology, without deterioration in plant growth and decrease in fruit weight.
+The _SlINVINH1_ knock-out tomato can produce high sugar content fruit without a high cultivation technique that needs control water and labour.
+These characteristics of the _SlINVINH1_ knock-out tomato show that it can be a useful high sugar content tomato cultivar, and the knock-out of _SlINVINH1_ by genome editing technology is an effective approach to produce them.
+To sell genome-edited crops on the market, it is necessary to provide sufficient and reliable information to consumers.
+In this study, we confirmed that the _SlINVINH1_ knock-out tomato lines are transgene-free and free of off-target mutations using whole genome sequencing.
+In addition, to confirm metabolome equivalence between the genome-edited line and the original cultivar, non-target metabolome analysis was performed.
+Therefore, although the levels of 19 metabolites, including fructose, glucose, and sucrose, were significantly different between the genome-edited line and the original cultivar ‘Suzukoma’, the differences were not so large, and no unexpected metabolite accumulation appeared in the genome-edited line.
+These data may help consumers accept genome-edited tomatoes.
+In this study, we succeeded in producing high sugar content tomato by knock-out of cell wall _INVINH_ using genome editing technology.
+Cell wall _INVINH_ is highly conserved among various plant species.
+Hence, knock-out of cell wall _INVINH_ by genome editing can increase the sugar content of various other fruits, and this technology is expected to be widely used in breeding to produce high sugar content fruit crops.
+**Materials and methods** All experimental research on plants complied with relevant institutional, national, and international guidelines and legislation.
+**Plant material.
+**
+Tomato ( _Solanum lycopersicum_ ‘Suzukoma’) was grown in the greenhouse at Nagoya University (Nagoya, Japan).
+Peat Pot P (Hokkaido Peat Moss, Saitama, Japan) was used as the culture soil.
+Water containing liquid fertiliser (Otsuka House No. 1 and No. 2, Otsuka Chemical, Osaka, Japan) was applied to plants by bottom irrigation.
+Five plants from each line and three fruits from each plant were used for phenotyping.
+**Vector construction.
+** Three consensus sequences with the PAM sequence (5’-NGG-3’) in the exons of _SlINVINH1_ and _SlINVINH2_ as target sequences of CRISPR/Cas9 and Target-AID were selected (Fig.
+1a,d).
+These three target sequences (Target1-3) were cloned downstream of the Arabidopsis U6-26 promoter (U6pro) in the CRISPR/Cas9 (Fig.
+1b, Fig.
+S1), or Target-AID vectors (Fig.
+1c, Fig. S2).
+These vectors were transformed into _A. tumefaciens_ GV2260 by electroporation and used for the genetic transformation of tomatoes.
+**Genetic transformation of tomato.
+*
+*
+Transformation of tomatoes was performed by modifying the method described by Amemiya et al.
+[44] .
+Cultured _A. tumefaciens_ harbouring CRISPR/Cas9 (Fig.
+1b, Fig.
+S1) or Target-AID vectors (Fig.
+1c, Fig. S2) was suspended in liquid MS medium containing 100 µM acetostringone and 10 µM 2-mercaptoethanol.
+Cotyledon explants from tomato seedlings at ca.
+10 days after sowing were immersed in the _A. tumefaciens_ suspension for 10 min.
+The explants were co-cultured with _A. tumefaciens_ on MS basal medium (MS medium containing 2% (w/v) sucrose and 0.8 (w/v) agar, pH 5.8) containing 50 µM acetosyringone in the dark.
+The explants were then transferred to the callus induction medium (MS basal medium containing 50 µg/mL kanamycin, 375 µg/mL augmentin, and 1.5 µg/mL _trans_ -zeatin) for selection of transformants, callus induction, and sterilisation of _A. tumefaciens_ .
+After shoot induction from the callus, the calluses were transferred to shoot elongation medium (basal MS medium containing 50 µg/mL kanamycin, 375 µg/mL augmentin, and 1 µg/mL _trans_ -zeatin) for selection of transformants, shoot elongation, and sterilisation of _A._ _tumefaciens_ .
+After shoot elongation, the shoots were transferred to the root induction medium (MS medium containing 2% (w/v) sucrose, 50 µg/mL kanamycin, 375 µg/mL augmentin, and 0.3% (w/v) gelrite, pH 5.8) for selection of transformants, root induction, and sterilisation of _A. tumefaciens_ .
+After rooting, the shoots with roots were transferred to the soil and acclimated.
+Explants, calluses, and shoots were grown under 16 h light/8 h dark at 25 °C and transferred to new medium every 2 weeks.
+**Ploidy analysis.
+** Nuclei were extracted from young leaves by chopping and fluorescently stained with CyStain UV Precise P (Sysmex, Hyogo, Japan).
+Fluorescence was detected using a PA type Ploidy Analyser (Partec,    **Scientific Reports** |    (2021) 11:21534 | https://doi.org/10.1038/s41598-021-00966-4   Vol:.(1234567890)    8   www.nature.com/scientificreports/   Görlitz, Germany).
+Ploidy of transformants was confirmed by comparison with the peak of the original cultivar ‘Suzukoma’.
+**Confirmation of genetic transformation and copy number of the transformed gene.
+** Genomic DNA was extracted from young leaves according to the method described in Edwards et al.
+[45] .
+The DNA precipitate was added to 200 µL isopropanol and centrifuged at 18,000 × _g_ for 5 min at 20 °C, 200 µL 70% (v/v) ethanol was added, and the mixture was centrifuged at 18,000 × _g_ for 5 min at 20 °C for purification.
+The DNA precipitate was suspended in TE buffer (1 mM EDTA, 10 mM Tris–HCl, pH 8.0).
+Genetic transformation was confirmed by PCR amplification of the _Cas9_ and _PcUbi_ promoter regions (Fig.
+1b,c) with the primers under the conditions described in Table S3.
+The copy number of the transformed gene was confirmed by quantitative PCR (qPCR) amplification of the _Cas9_ fragment (Fig.
+1b,c) with the primers under the conditions described in Table S4.
+qPCR analysis was performed using the Step One Plus Real-Time PCR System (Applied Biosystems, Massachusetts, USA) and TB Green Premix Ex Taq II (Takara Bio, Shiga, Japan).
+Copy number was estimated by calculating the relative value of _Cas9_ to _LAT52_, which was reported to be a single copy gene in the tomato ­genome [46] .
+**Confirmation of mutation of** _**SlINVINH1**_ **in genome and transcript.
+**
+The fragments covering the three target sequences in _SlINVINH1_ (Fig. 1a) were amplified by PCR using genomic DNA or cDNA prepared for quantitative RT-PCR analysis as described below.
+The primers and PCR conditions for genomic DNA or cDNA are described in Table S5 and S6, respectively.
+The obtained PCR product was purified using ExoSAPIT for PCR Product Cleanup kit (Applied Biosystems).
+Sequencing reaction was performed using the Big Dye Terminator v3.1 Cycle Sequence Kit (Thermo Fisher Scientific, Massachusetts, USA) and, DNA sequencing was performed using a 3730xl DNA Analyser (Thermo Fisher Scientific).
+**Quantitative RT‑PCR analysis of** _**SlINVINH1**_ **.
+** Total RNA was extracted from the 100 mg pericarp of mature fruit using the innuPREP Plant RNA Kit (Analytik Jena, Jena, Germany), according to the manufacturer’s protocol.
+cDNA was synthesised from total RNA using the PrimeScript RT reagent kit (Takara Bio).
+Quantitative PCR 0.4 μL of ROX II dye (50X) and 7 μL of sterilised water.
+The primers and PCR conditions are described in Table S7.
+Amplification was performed using the Step One Plus Real-Time PCR System (Applied Biosystems).
+Relative expression levels were normalised to _SlUBQ3_ as the reference gene and calculated using the standard curve method.
+Three biological replicates of each genome-edited line were analysed.
+**Measurement of SSC and sugar content.
+** SSC of the pericarp of mature fruit was measured using a Digital Refractometer PR-101 (ATAGO, Tokyo, Japan).
+Fifteen fruits from five plants of each line were used for the measurement.
+Sugar content was measured as described below: 800 µL of ethanol and 50 µL of 1 M mannitol were added to 200 mg pericarp of mature fruit and incubated at 80 °C for 30 min, then centrifuged at 21,000 × _g_ for 5 min at 20 °C.
+The supernatant was dried under vacuum and suspended in water.
+The suspension was passed through a Sep-Pak light C18 (Waters, Massachusetts, USA) and 0.45 µm microfilter (ADVANTEC, Tokyo, Japan) and used as a sample for high-performance liquid chromatography (HPLC) analysis.
+A Chromaster UV–VIS system (Hitachi High-Tech Science, Tokyo, Japan) and Shodex Sugar SP0810 (SHOWA DENKO, Tokyo, Japan) were used for HPLC analysis.
+Column temperature was maintained at 80 °C.
+A refractive index detector (Refractive Index Detector RI-3H, Japan Analytical Industry, Tokyo, Japan) was used.
+**Whole genome sequencing and off‑target mutation analysis.
+** Genomic DNA was extracted from young leaves using a DNeasy Plant Kit (QIAGEN, Hilden, Germany).
+The DNA library was prepared using the Illumina TruSeq Library Construction Kit (Illumina, California, USA), and sequencing was performed using Hiseq 2500 (Illumina).
+Adapter sequences and low-quality sequences were removed from raw sequence data by [Cutadapt3 ver1.1 (https://​cutad​apt.​readt​hedocs.​io/​en/​stable/) and Trimmomatic ver0.32 (http://​www.​usade​llab.​](https://cutadapt.readthedocs.io/en/stable/)
+[org/​cms/?​page=​trimm​omatic), respectively.
+The sequence data was mapped on the](http://www.usadellab.org/cms/?page=trimmomatic) _
+S. lycopersicum_ ‘Heinz 1706’ genome sequence (SL2.50, [ftp://​ftp.​solge​nomics.​net/​tomato_​genome/​assem​bly/​build_2.​50/) using the short](ftp://ftp.solgenomics.net/tomato_genome/assembly/build_2.50/)
+[reads mapping program BWA ver0.7.10 (http://​bio-​bwa.​sourc​eforge.​net/).
+The resulting mapping data were](http://bio-bwa.sourceforge.net/)
+[realigned using SAMtools ver1.2 (http://​www.​htslib.​org/​man/​samto​ols/) and GATK Lite version 2.3.0 (https://​](http://www.htslib.org/man/samtools/)
+[softw​are.​broad​insti​tute.​org/​gatk/) to improve the mapping accuracy.
+PCR duplicates were removed using Picard](https://software.broadinstitute.org/gatk/)
+[ver1.133 (http://​broad​insti​tute.​github.​io/​picard/).](http://broadinstitute.github.io/picard/) Off-target sites with a mismatch of three bases or less were searched using CRISPR RGEN Tools Cas-OFFinder [(http://​www.​rgeno​me.​net/​cas-​offin​der/,](http://www.rgenome.net/cas-offinder/)
+[47] ).
+The presence or absence of mutations at the off-target site was con[firmed by IGV viewer (http://​softw​are.​broad​insti​tute.​org/​softw​are/​igv/).](http://software.broadinstitute.org/software/igv/)   **Metabolome analysis.
+**
+Metabolome analysis was performed according ­to
+[48][–][51] .
+Five fruits from each line were used for the analysis.
+Metabolites in the pericarp of mature fruit were crushed and then extracted by adding methanol/chloroform/water (3:1:1, v/v/v) containing 10 stable isotope references to a concentration of 25 mg FW/mL. After centrifugation, the supernatant was decompressed and dried.
+To derivatise metabolites, 30 µL of 20 mg/mL of methoxylamine hydrochloride in pyridine solution was added and kept at room temperature for 24 h. Subsequently, to trimethylated, 30 µL of _N_ -methyl- _
+N_ -trimethylsilyltrifluoro acetamide was added and incubated at 37 °C for 1 h.
+Prior to analysis, 30 uL of _n_ -heptane was added to each sample (18.5 µg FW equivalent per µL of the solution).
+The derivatised metabolites were analysed by Agilent 6890 N GC gas chromatography    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4    9   Vol.:(0123456789)   www.nature.com/scientificreports/   (Agilent Technologies, California, USA) with a Rxi-5 Sil MS column (30 m, 0.25 mm, 0.25 µm, RESTEK, Pennsylvania, USA) and a time-of-flight mass spectrometer (Pegasus IV TOF MS, LECO, Michigan, USA).
+Raw data obtained from GC-TOF/MS analysis were transferred from the ChromaTOF software in NetCDF format to [MATLAB software 7.13 (https://​jp.​mathw​orks.​com/​produ​cts/​matlab.​html, MathWorks, Massachusetts, USA).](https://jp.mathworks.com/products/matlab.html)
+The chromatograms were pre-processed using the high-throughput data analysis ­method [48] and then normalised using the cross-contribution compensating multiple standard normalisation ­algorithm
+[51] .
+The intensity data of each metabolite mass spectrum were subjected to variable standardisation by pareto scaling.
+Principal component analysis (PCA) was performed using SIMCA ver15.0 (Sartorius, Göttingen, Germany).
+**Statistical analysis.
+** Multiple tests were performed by R statistical software version 4.0.4 (R Project for [Statistical Computing, https://​www.r-​proje​ct.​org/) within RStudio statistical software version 1.4.1106 (RStudio,](https://www.r-project.org/)
+[https://​www.​rstud​io.​com/) using two-tailed Dunnett’s test and](https://www.rstudio.com/) _
+P_ < 0.05 or _P_ < 0.01 was considered as significant difference.
+_
+P_ t test was performed by Microsoft EXCLE 2019 and < 0.05 was considered as significant difference.
+Received: 31 March 2021; Accepted: 19 October 2021   **References** 1.
+Ruan, Y. L., Jin, Y., Yang, Y. J., Li, G. J. & Boyer, J. S. Sugar input, metabolism, and signaling mediated by invertase: roles in development, yield potential, and response to drought and heat.
+_
+Mol.
+Plant_ **3**
+[, 942–955.
+https://​doi.​org/​10.​1093/​mp/​ssq044 (2010).](https://doi.org/10.1093/mp/ssq044) 2.
+Klann, E. M., Hall, B. & Bennett, A. B. Antisense acid invertase ( _TIV1_ ) gene alters soluble sugar composition and size in transgenic tomato fruit.
+_
+Plant Physiol.
+_
+**112**
+[, 1321–1330. https://​doi.​org/​10.​1104/​pp.​112.3.​1321 (1996).](https://doi.org/10.1104/pp.112.3.1321) 3. Dickinson, C. D., Altabella, T. & Chrispeels, M. J. Slow-growth phenotype of transgenic tomato expressing apoplastic invertase.
+_
+Plant Physiol.
+_
+**95**
+[, 420–425. https://​doi.​org/​10.​1104/​pp.​95.2.​420
+(1991).](https://doi.org/10.1104/pp.95.2.420) 4.
+Sturm, A. Invertases.
+Primary structures, functions, and roles in plant development and sucrose partitioning.
+_
+Plant Physiol.
+_
+**121**, [1–7, https://​doi.​org/​10.​1104/​pp.​121.1.1 (1999).](https://doi.org/10.1104/pp.121.1.1) 5.
+Masuda, H., Takahashi, T. & Sugawara, S.
+The occurrence and properties of alkaline invertase in mature roots of sugar-beets.
+_
+Agric._ _
+Biol.
+Chem.
+_
+**51**, 2309–2314 (1987).
+6. Hothorn, M., Van den Ende, W., Lammens, W., Rybin, V. & Scheffzek, K. Structural insights into the pH-controlled targeting of plant cell-wall invertase by a specific inhibitor protein.
+_
+Proc.
+Natl.
+Acad.
+Sci.
+U.S.A._ **107**
+[, 17427–17432.
+https://​doi.​org/​10.​1073/​](https://doi.org/10.1073/pnas.1004481107)
+[pnas.​10044​81107 (2010).](https://doi.org/10.1073/pnas.1004481107) 7. Schwimmer, S., Makower, R. U. & Rorem, E. S. Invertase and invertase inhibitor in potato.
+_
+Plant Physiol.
+_
+**36**
+[, 313–316. https://​doi.​](https://doi.org/10.1104/pp.36.3.313)
+[org/​10.​1104/​pp.​36.3.​313 (1961).](https://doi.org/10.1104/pp.36.3.313) 8.
+Pressey, R. & Shaw, R. Effect of temperature on invertase invertase inhibitor and sugars in potato tubers.
+_
+Plant Physiol.
+_
+**41**, [1657–1661.
+https://​doi.​org/​10.​1104/​pp.​41.​10.​1657 (1966).](https://doi.org/10.1104/pp.41.10.1657) 9.
+Greiner, S., Krausgrill, S. & Rausch, T. Cloning of a tobacco apoplasmic invertase inhibitor proof of function of the recombinant protein and expression analysis during plant development.
+_
+Plant Physiol.
+_
+**116**
+[, 733–742.
+https://​doi.​org/​10.​1104/​pp.​116.2.​733](https://doi.org/10.1104/pp.116.2.733) (1998).
+10.
+Bate, N. J., Niu, X. P., Wang, Y. W., Reimann, K. S. & Helentjaris, T. G.
+An invertase inhibitor from maize localizes to the embryo surrounding region during early kernel development.
+_
+Plant Physiol.
+_
+**134**
+[, 246–254.
+https://​doi.​org/​10.​1104/​pp.​103.​027466 (2004).](https://doi.org/10.1104/pp.103.027466) 11.
+Jin, Y., Ni, D. A. & Ruan, Y. L. Posttranslational elevation of cell wall invertase activity by silencing its inhibitor in tomato delays leaf senescence and increases seed weight and fruit hexose level.
+_
+Plant Cell_ **21**
+[, 2072–2089.
+https://​doi.​org/​10.​1105/​tpc.​108.​063719](https://doi.org/10.1105/tpc.108.063719) (2009).
+12.
+Qin, G. Z. _et al._
+A tomato vacuolar invertase inhibitor mediates sucrose metabolism and influences fruit ripening.
+_
+Plant Physiol.
+_
+**172**
+[, 1596–1611.
+https://​doi.​org/​10.​1104/​pp.​16.​01269 (2016).](https://doi.org/10.1104/pp.16.01269) 13.
+Reca, I. B. _et al._
+Molecular cloning, expression and characterization of a novel apoplastic invertase inhibitor from tomato ( _Solanum_ _lycopersicum_ ) and its use to purify a vacuolar invertase.
+_
+Biochimie_ **90**
+[, 1611–1623.
+https://​doi.​org/​10.​1016/j.​biochi.​2008.​04.​019](https://doi.org/10.1016/j.biochi.2008.04.019) (2008).
+14.
+Liu, X. _et al._
+Cloning and molecular characterization of putative invertase inhibitor genes and their possible contributions to coldinduced sweetening of potato tubers.
+_
+Mol.
+Genet.
+Genom._
+**284**
+[, 147–159.
+https://​doi.​org/​10.​1007/​s00438-​010-​0554-3 (2010).](https://doi.org/10.1007/s00438-010-0554-3) 15. Tang, X. F. _et al._ Suppression of extracellular invertase inhibitor gene expression improves seed weight in soybean ( _Glycine max_ ).
+_
+J. Exp.
+Bot._
+**68**
+[, 469–482. https://​doi.​org/​10.​1093/​jxb/​erw425 (2017).](https://doi.org/10.1093/jxb/erw425) 16.
+Su, T. _et al._
+Reassessment of an Arabidopsis cell wall invertase inhibitor AtCIF1 reveals its role in seed germination and early seedling growth.
+_
+Plant Mol.
+Biol.
+_
+**90**
+[, 137–155. https://​doi.​org/​10.​1007/​s11103-​015-​0402-2 (2016).](https://doi.org/10.1007/s11103-015-0402-2) 17.
+Xu, X. X., Hu, Q., Yang, W. N. & Jin, Y.
+The roles of call wall invertase inhibitor in regulating chilling tolerance in tomato.
+_
+BMC_ _
+Plant Biol._
+[https://​doi.​org/​10.​1186/​s12870-​017-​1145-9 (2017).](https://doi.org/10.1186/s12870-017-1145-9) 18.
+Osakabe, Y. & Osakabe, K. Genome editing with engineered nucleases in plants.
+_
+Plant Cell Physiol.
+_
+**56**
+[, 389–400.
+https://​doi.​org/​](https://doi.org/10.1093/pcp/pcu170)
+[10.​1093/​pcp/​pcu170 (2015).](https://doi.org/10.1093/pcp/pcu170) 19.
+Cermak, T. _et al_ .
+Efficient design and assembly of custom TALEN and other TAL effector-based constructs for DNA targeting.
+_
+Nucleic Acids Res._
+[https://​doi.​org/​10.​1093/​nar/​gkr218 (2011).](https://doi.org/10.1093/nar/gkr218) 20.
+Govindan, G. & Ramalingam, S. Programmable site-specific nucleases for targeted genome engineering in higher eukaryotes.
+_
+J._ _
+Cell.
+Physiol.
+_
+**231**
+[, 2380–2392.
+https://​doi.​org/​10.​1002/​jcp.​25367 (2016).](https://doi.org/10.1002/jcp.25367) 21.
+Jinek, M. _et al._
+A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity.
+_
+Science_ **337**, 816–821.
+[https://​doi.​org/​10.​1126/​scien​ce.​12258​29 (2012).](https://doi.org/10.1126/science.1225829) 22.
+Ma, H. H. _et al._
+Multiplexed labeling of genomic loci with dCas9 and engineered sgRNAs using CRISPRainbow.
+_
+Nat.
+Biotechnol._
+**34**
+[, 528–530.
+https://​doi.​org/​10.​1038/​nbt.​3526 (2016).](https://doi.org/10.1038/nbt.3526) 23.
+Fu, Y. F., Sander, J. D., Reyon, D., Cascio, V. M. & Joung, J. K. Improving CRISPR-Cas nuclease specificity using truncated guide RNAs. _
+Nat.
+Biotechnol._
+**32**
+[, 279–284. https://​doi.​org/​10.​1038/​nbt.​2808 (2014).](https://doi.org/10.1038/nbt.2808) 24.
+Gilbert, L. A. _et al._
+CRISPR-mediated modular RNA-guided regulation of transcription in eukaryotes.
+_
+Cell_ **154**
+[, 442–451.
+https://​](https://doi.org/10.1016/j.cell.2013.06.044)
+[doi.​org/​10.​1016/j.​cell.​2013.​06.​044 (2013).](https://doi.org/10.1016/j.cell.2013.06.044) 25.
+Konermann, S. _et al._
+Genome-scale transcriptional activation by an engineered CRISPR-Cas9 complex.
+_
+Nature_ **517**, 583-U332.
+[https://​doi.​org/​10.​1038/​natur​e14136 (2015).](https://doi.org/10.1038/nature14136) 26.
+Nishida, K. _et al_ .
+Targeted nucleotide editing using hybrid prokaryotic and vertebrate adaptive immune systems.
+_
+Science_
+[https://​](https://doi.org/10.1126/science.aaf8729)
+[doi.​org/​10.​1126/​scien​ce.​aaf87​29 (2016).](https://doi.org/10.1126/science.aaf8729)    **Scientific Reports** |    (2021) 11:21534 | https://doi.org/10.1038/s41598-021-00966-4   Vol:.(1234567890)    10   www.nature.com/scientificreports/   27.
+Shimatani, Z. _et al._
+Targeted base editing in rice and tomato using a CRISPR-Cas9 cytidine deaminase fusion.
+_
+Nat.
+Biotechnol._
+**35**,
+[441.
+https://​doi.​org/​10.​1038/​nbt.​3833 (2017).](https://doi.org/10.1038/nbt.3833) 28.
+Sato, S. _et al._
+The tomato genome sequence provides insights into fleshy fruit evolution.
+_
+Nature_ **485**
+[, 635–641. https://​doi.​org/​10.​](https://doi.org/10.1038/nature11119)
+[1038/​natur​e11119 (2012).](https://doi.org/10.1038/nature11119) 29.
+Zhang, X. H., Tee, L. Y., Wang, X. G., Huang, Q. S. & Yang, S. H. Off-target effects in CRISPR/Cas9-mediated genome engineering.
+_
+Mol.
+Therapy-Nucleic Acids_
+[https://​doi.​org/​10.​1038/​mtna.​2015.​37 (2015).](https://doi.org/10.1038/mtna.2015.37) 30.
+Kawai, M., Sekine-Hayakawa, Y., Okiyama, A. & Ninomiya, Y. Gustatory sensation of (L)- and (D)-amino acids in humans.
+_
+Amino_ _
+Acids_ **43**
+[, 2349–2358. https://​doi.​org/​10.​1007/​s00726-​012-​1315-x (2012).](https://doi.org/10.1007/s00726-012-1315-x) 31.
+Petro-Turza, M. Flavor of tomato and tomato products.
+_
+Food Reviews Int.
+2_ [, 309–351 https://​doi.​org/​10.​1080/​87559​12860​95408​](https://doi.org/10.1080/87559128609540802)
+[02 (1987)](https://doi.org/10.1080/87559128609540802) 32.
+Yin, Y. G. _et al_ .
+Salinity induces carbohydrate accumulation and sugar-regulated starch biosynthetic genes in tomato ( _Solanum_ _lycopersicum_ L. cv.
+‘Micro-Tom’) fruits in an ABA- and osmotic stress-independent manner.
+_J. Exper.
+Bot._
+**61**
+[, 563–574.
+https://​](https://doi.org/10.1093/jxb/erp333)
+[doi.​org/​10.​1093/​jxb/​erp333 (2010).](https://doi.org/10.1093/jxb/erp333) 33.
+Ho, L. C., Grange, R. I. & Picken, A. J.
+An analysis of the accumulation of water and dry-matter in tomato fruit.
+_
+Plant Cell Environ.
+_
+**10**
+[, 157–162.
+https://​doi.​org/​10.​1111/j.​1365-​3040.​1987.​tb020​92.x (1987).](https://doi.org/10.1111/j.1365-3040.1987.tb02092.x) 34.
+Itoh, M. _et al._
+Production of high soluble solids fruits without reducing dry matter production in tomato plants grown in salinized nutrient solution controlled by electrical conductivity.
+_
+Horticult.
+J._ **89**
+[, 403–409. https://​doi.​org/​10.​2503/​hortj.​UTD-​148 (2020).](https://doi.org/10.2503/hortj.
+UTD-148) 35.
+Matsukura, C. _et al_ .
+Generation of gamma irradiation-induced mutant lines of the miniature tomato ( _Solanum lycopersicum_ L.) cultivar ‘Micro-Tom’.
+_
+Plant Biotechnol._
+**24**
+[, 39–44. https://​doi.​org/​10.​5511/​plant​biote​chnol​ogy.​24.​39 (2007).](https://doi.org/10.5511/plantbiotechnology.24.39) 36.
+Baxter, C. J. _et al._
+Fruit carbohydrate metabolism in an introgression line of tomato with increased fruit soluble solids.
+_
+Plant Cell_ _Physiol.
+_
+**46**
+[, 425–437.
+https://​doi.​org/​10.​1093/​pcp/​pci040 (2005).](https://doi.org/10.1093/pcp/pci040) 37.
+Fridman, E., Pleban, T. & Zamir, D. A recombination hotspot delimits a wild-species quantitative trait locus for tomato sugar content to 484 bp within an invertase gene.
+_
+Proc.
+Natl.
+Acad.
+Sci.
+U.S.A._ **97**
+[, 4718–4723.
+https://​doi.​org/​10.​1073/​pnas.​97.9.​4718](https://doi.org/10.1073/pnas.97.9.4718) (2000).
+38.
+Fridman, E., Carrari, F., Liu, Y. S., Fernie, A. R. & Zamir, D. Zooming in on a quantitative trait for tomato yield using interspecific introgressions.
+_
+Science_ **305**
+[, 1786–1789.
+https://​doi.​org/​10.​1126/​scien​ce.​11016​66 (2004).](https://doi.org/10.1126/science.1101666) 39.
+Ikeda, H., Shibuya, T., Nishiyama, M., Nakata, Y. & Kanayama, Y. Physiological mechanisms accounting for the lower incidence of blossom-end rot in tomato introgression line IL8-3 fruit.
+_
+Horticult.
+J._ **86**
+[, 327–333. https://​doi.​org/​10.​2503/​hortj.​OKD-​015 (2017).](https://doi.org/10.2503/hortj.
+OKD-015) 40.
+Wang, Z. Y. _et al_ .
+Heterologous expression of the apple hexose transporter _MdHT2.2_ altered sugar concentration with increasing cell wall invertase activity in tomato fruit.
+_
+Plant Biotechnol.
+J._ **18**
+[, 540–552.
+https://​doi.​org/​10.​1111/​pbi.​13222 (2020).](https://doi.org/10.1111/pbi.13222) 41.
+Yu, C. Y. _et al._ _
+ShCIGT_, a Trihelix family gene, mediates cold and drought tolerance by interacting with _SnRK1_ in tomato.
+_
+Plant_ _
+Sci._
+**270**
+[, 140–149.
+https://​doi.​org/​10.​1016/j.​plant​sci.​2018.​02.​012 (2018).](https://doi.org/10.1016/j.plantsci.2018.02.012) 42.
+Huang, Y. X. _et al_ .
+Overexpression of the phosphoenolpyruvate carboxykinase gene ( _SlPEPCK_ ) promotes soluble sugar accumulation in fruit and post-germination growth of tomato ( _Solanum lycopersicum_ L.).
+_
+Plant Biotechnol._
+**32**
+[, 281-U116.
+https://​doi.​org/​](https://doi.org/10.5511/plantbiotechnology.15.1019a)
+[10.​5511/​plant​biote​chnol​ogy.​15.​1019a (2015).](https://doi.org/10.5511/plantbiotechnology.15.1019a) 43.
+Yuan, Y. J. _et al._ SIARF10, an auxin response factor, is involved in chlorophyll and sugar accumulation during tomato fruit development.
+_
+J. Exp.
+Bot._
+**69**
+[, 5507–5518.
+https://​doi.​org/​10.​1093/​jxb/​ery328 (2018).](https://doi.org/10.1093/jxb/ery328) 44.
+Amemiya, T., Kanayama, Y., Yamaki, S., Yamada, K. & Shiratake, K. Fruit-specific V-ATPase suppression in antisense-transgenic tomato reduces fruit growth and seed formation.
+_
+Planta_ **223**
+[, 1272–1280.
+https://​doi.​org/​10.​1007/​s00425-​005-​0176-x (2006).](https://doi.org/10.1007/s00425-005-0176-x) 45.
+Edwards, K., Johnstone, C. & Thompson, C. A simple and rapid method for the preparation of plant genomic DNA for PCR analysis.
+_
+Nucleic Acids Res._
+**19**
+[, 1349–1349.
+https://​doi.​org/​10.​1093/​nar/​19.6.​1349 (1991).](https://doi.org/10.1093/nar/19.6.1349) 46.
+Yang, L. T. _et al._
+Validation of a tomato-specific gene, _LAT52_, used as an endogenous reference gene in qualitative and real-time quantitative PCR detection of transgenic tomatoes.
+_J. Agric.
+Food Chem.
+_
+**53**
+[, 183–190. https://​doi.​org/​10.​1021/​jf049​3730
+(2005).](https://doi.org/10.1021/jf0493730) 47.
+Bae, S., Park, J. & Kim, J. S. Cas-OFFinder: a fast and versatile algorithm that searches for potential off-target sites of Cas9 RNAguided endonucleases.
+_
+Bioinformatics_ **30**
+[, 1473–1475. https://​doi.​org/​10.​1093/​bioin​forma​tics/​btu048 (2014).](https://doi.org/10.1093/bioinformatics/btu048) 48.
+Jonsson, P. _et al._
+High-throughput data analysis for detecting and identifying differences between samples in GC/MS-based metabolomic analyses.
+_
+Anal.
+Chem.
+_
+**77**
+[, 5635–5642.
+https://​doi.​org/​10.​1021/​ac050​601e (2005).](https://doi.org/10.1021/ac050601e) 49.
+Kusano, M. _et al_ .
+Unbiased characterization of genotype-dependent metabolic regulations by metabolomic approach in _Arabidopsis_ _thaliana_ .
+_
+BMC Syst.
+Biol_
+[. https://​doi.​org/​10.​1186/​1752-​0509-1-​53 (2007).](https://doi.org/10.1186/1752-0509-1-53) 50.
+Kusano, M. _et al._ Application of a metabolomic method combining one-dimensional and two-dimensional gas chromatographytime-of-flight/mass spectrometry to metabolic phenotyping of natural variants in rice.
+_J. Chromatogr.
+B-Anal.
+Technol. Biomed._ _
+Life Sci._
+**855**
+[, 71–79.
+https://​doi.​org/​10.​1016/j.​jchro​mb.​2007.​05.​002 (2007).](https://doi.org/10.1016/j.jchromb.2007.05.002) 51.
+Redestig, H. _et al._
+Compensation for systematic cross-contribution improves normalization of mass spectrometry based metabolomics data.
+_
+Anal.
+Chem.
+_
+**81**
+[, 7974–7980.
+https://​doi.​org/​10.​1021/​ac901​143w (2009).](https://doi.org/10.1021/ac901143w)   **Acknowledgements**
+This work was supported by Cross-ministerial Strategic Innovation Promotion Program (SIP), Technologies for Creating Next-generation Agriculture, Forestry and Fisheries, Grant Number 14537460 to K.N., T.A., H.E. and K.S. from the Cabinet Office Japan, and Grants-in-Aids for Scientific Research (KAKENHI)
+Grant Numbers JP16K14850, JP18H05361 and JP18H03950 to K.S. and Grant-in-Aid for JSPS Fellows Grant Number JP20J13580 to K.K. from Japan Society for the Promotion of Science (JSPS).
+The authors would like to thank to Mr. Keiichi Kawamoto of Aisan Seed Co. for advice of tomato cultivation.
+We also thank to Dr. Daisuke Sugiura of Nagoya University for technical advice and discussion of experiment.
+**Authors’ Contributions** K.S. conceived the research.
+K.S., T.A. and H.E. managed the research project.
+K.K., R.T.H., I.Y., M.Ku., M.Ko. and Y.L. performed experiments and analyzed the data.
+K.K. drew all Figures and Tables.
+S.O. and S.M. provided scientific suggestions.
+K.N. produced the genome editing vectors.
+K.K. wrote the manuscript and K.S., S.O., M.Ku.
+and T.A. edited the manuscript.
+All authors read and approved the final manuscript.
+**Competing interests**
+The authors declare no competing interests.
+**Additional information** **Supplementary Information**
+[The online version contains supplementary material available at https://​doi.​org/​](https://doi.org/10.1038/s41598-021-00966-4)
+[10.​1038/​s41598-​021-​00966-4.](https://doi.org/10.1038/s41598-021-00966-4)    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4    11   Vol.:(0123456789)   www.nature.com/scientificreports/   **Correspondence** and requests for materials should be addressed to K.S.   **Reprints and permissions information** is available at www.nature.com/reprints.
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+**Open Access**
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material.
+If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from [the copyright holder.
+To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.](http://creativecommons.org/licenses/by/4.0/)
+© The Author(s) 2021    **Scientific Reports** |    (2021) 11:21534
+| https://doi.org/10.1038/s41598-021-00966-4   Vol:.(1234567890)    12

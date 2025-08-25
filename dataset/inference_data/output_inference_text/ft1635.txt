@@ -1,0 +1,979 @@
+**Int.
+J. Dev.
+Biol.
+53:** 1635-1648 (2009) doi: 10.1387/ijdb.072440rl    THE INTERNATIONAL JOURNAL OF ### DEVELOPMENTAL # BIOLOGY   www.intjdevbiol.com   ## **Genetic analysis of reproductive development in tomato**  RAFAEL LOZANO*
+[,1], ESTELA GIMÉNEZ
+[1], BEATRIZ CARA
+[1,#], JUAN CAPEL
+[1] and TRINIDAD ANGOSTO
+[2]   1 Departamento de Biología Aplicada and 2 Departamento de Biología Vegetal y Ecología, Universidad de Almería, Almería, Spain   **ABSTRACT Besides being an important commercial crop, tomato (Solanum lycopersicum L.)** **constitutes a model species for the study of plant developmental processes.
+Current research** **tends to combine classic disciplines such as physiology and genetics with modern approaches** **coming from molecular biology and genomics with a view to elucidating the biological mecha-** **nisms underlying plant architecture, floral transition and development of flowers and fruits.
+** **Comparative and functional analyses of tomato regulatory genes such as LATERAL SUPPRESSOR** **(LS), SELF PRUNING (SP), SINGLE FLOWER TRUSS (SFT) and FALSIFLORA (FA) have revealed** **mechanisms involved in shoot development and flowering time which are conserved among** **Arabidopsis, tomato and other plant species.
+Furthermore, several regulatory genes encoding** **transcription factors have been characterized as responsible for singular features of vegetative** **and reproductive development of tomato.
+Thus, the sympodial growth habit seems to require a** **specific control of the developmental fate followed by shoot meristems.
+In this process, novel** **genetic and molecular interactions involving SP, SFT and FA genes would be essential.
+Also this** **latter, but mainly ANANTHA (AN) and COMPOUND INFLORESCENCE (S) have recently been** **found to regulate the inflorescence architecture of the tomato.
+Concerning fruit development,** **genetic and molecular analyses of new genes such as fw2.2, FASCIATED, OVATE and SUN have** **proved their contribution to the domestication process and most importantly, their function as** **key regulators of fruit size and shape variation.
+Tomato ripening is also being elucidated thanks** **to the characterization of regulatory genes such as RIPENING INHIBITOR (RIN), NON-RIPENING** **(NOR), TDR4 and COLORLESS NON-RIPENING (CNR), which have been found to control early** **stages of fruit development and maturation.
+At the same time, much research is dedicated to** **isolating the targets of the ripening regulators, as well as the key genes promoting the partheno-** **carpic development of tomato fruits.
+Hopefully, the ongoing sequencing project and the progress** **made by integrating several research fields will help to unravel the genetic and molecular** **pathways controlling tomato development.
+**   KEY WORDS: _tomato, flowering, fruit development, transcription factor_    **Introduction**   Tomato is a perennial vegetable which is almost universally cultivated as an annual crop.
+It belongs to the _Solanaceae_ family as do its close cousins potato, eggplant, pepper, tobacco and petunia.
+The origins of cultivated tomato can be traced to the Andean region of South America -from Ecuador to Chile- but its native wild species was less attractive in size, shape and colours than the domesticated cultigens taken to Europe in the mid-sixteenth century.
+Several data point to Mexico as the    probable region of domestication and the word “tomatl _”_ in the Nahuatl language of Mexico is undoubtedly the origin of the modern name (Rick, 1978).
+While morphological descriptions usually made from herbarium material placed wild tomato as belonging to the genus _Lycopersicon_, a recent study on the tomato variability, including genetic and molecular markers, has shown that it is deeply nested in the _Solanum_ genus, forming the sister clade to potato (Peralta _et al_ ., 2005).
+Therefore, _Lycopersicon esculentum_ Mill. has been renamed _Solanum_ _lycopersicum_ L.    ***Address correspondence to:** Rafael Lozano.
+Departamento de Biología Aplicada (Genética), Edificio CITE II-B, Universidad de Almería, Carretera de Sacramento s/n, 04120 Almería, Spain.
+Fax: +34-950-01-5476.
+e-mail
+: rlozano@ual.es   **#** **Present address:**
+Centro de Edafología y Biología Aplicada del Segura (CEBAS), CSIC.
+3100 Murcia, Spain.
+Final author-corrected PDF published online: 11 November 2009.
+ISSN:
+Online 1696-3547, Print 0214-6282
+© 2009 UBC Press  Printed in Spain   1636 _R. Lozano et al._   Thought to be poisonous due to its relationship with belladonna and mandrake, tomato is now a major crop for human consumption.
+Together with its economic importance, it has also become a model plant for research purposes (Emmanuel and Levy, 2002; Van der Hoeven _et al_ ., 2002; Giovannoni, 2007).
+It is easy to cultivate, has a short life cycle and tends itself to horticultural manipulation including grafting or cutting.
+Various types of explants can be cultured _in vitro_ and plant regeneration is feasible, allowing efficient transformation procedures.
+In addition, tomato has several features that distinguish it from other model plant species: it is phylogenetically distant either from maize, _Arabidopsis_, snapdragon, rice, _
+Medicago_ or poplar, it contains sequences that share no significant similarity to those from other plant species and it grows as an indeterminate plant due to reiterate switches from vegetative to reproductive stages.
+Together, genetic research has progressed further than in other crop species, and lately, tomato is the most advanced model among species bearing a fleshy berry type of fruit.
+Other properties of tomato, such as the small genome size (0.9 pg per haploid genome; Arumuganathan and Earle, 1991), the availability of a large set of mutants and the development of genomic and sequencing resources (genetic and physical maps, ESTs and microarrays), have favoured an international sequencing project and are contributing to the current progress in understanding the biological bases of plant development.
+Extensive details on these topics can be obtained at the following website: http://www.sgn.cornell.edu/. Noteworthy, tomato mutants constitute not only an essential source of plant material for breeders but also a valuable tool for isolating important genes which regulate developmental patterns of tomato, and whose functional roles are now being elucidated.
+Many spontaneous mutants are being preserved and characterized by the Tomato Genetic Resource Center (Chetelat, 2005).
+Also, induced mutations, mainly generated through chemical ethylmethane sulfonate (EMS) and irradiation, are providing available screening populations and the possibility to identify new developmental genes.
+Exhaustive data about these tomato mutants can be obtained from the following Websites: http://tgrc.ucdavis.edu/ and http:// zamir.sgn.cornell.edu/mutants/.
+Nevertheless, as few insertional mutants have been described to date, more research is required in approach to facilitate the cloning of tomato genes and unveil their functions and molecular interactions.
+**Shoot architecture**
+For most tomato cultivars the vegetative phase is short; typically 6 to 12 leaves are produced below the first inflorescence and the floral transition usually starts when the third leaf is expanding.
+Contrary to _Arabidopsis thaliana_ and _Antirrhinum_ _majus_, which have a monopodial growth pattern, tomato shows a sympodial growth habit.
+While in monopodial species the shoot apical meristem (SAM) is indeterminate and the vegetative or reproductive organs are generated on its flanks, the SAM of tomato is determinate and the primary shoot is completed by the first inflorescence (Figs. 1 and 2).
+This first stem fragment is called the “initial segment”.
+A new vegetative shoot then arises from the uppermost (proximal) axillary meristem, i.e. the sympodial meristem located at the axil of the youngest leaf just    **Fig.
+1.
+Development of tomato meristems** _(analysed by scanning_ _electron microscopy)_ **.
+** _
+The shoot apical meristem (SAM) develops leaf_ _primordia_ **(A)** _.
+Upon floral transition, the SAM is converted into a repro-_ _ductive meristem_ **(B)** _, which in turn gives rise to the first floral meristem_ _(FM) and a mound of dividing cells, the latter functioning as an inflores-_ _cence meristem (IM).
+The successive splitting of the IM produces new_ _
+FMs until the inflorescence development is completed; organ primordia_ _emerging from the floral meristem can be observed in the floral buds (FB).
+_ _
+The indeterminate growth of tomato plant occurs by the activity of the_ _sympodial meristem (SM), which is located at the axil of the uppermost_ _leaf_ **(C)** _.
+Two flower buds at different developmental stages can be_ _observed along the inflorescence_ **(D)** _; they bear organ primordia (s, sepal;_ _p, petal; e, stamen; c, carpel) placed in four consecutive flower whorls_ _(sepal primordia removed).
+Scale, 100_ μ _m._   below the terminating inflorescence (Fig. 1C).
+The sympodial meristem allows the plant to continue its growth carrying up the leaf which, due to the active growth of this bud and the partial fusion of its petiole with the new vegetative shoot, is finally located above the inflorescence.
+This sympodial shoot forms three vegetative nodes (leaves) and terminates in a new inflorescence.
+This growth pattern is repeated by the formation of successive determinate units or sympodial segments, resulting from the newly arisen sympodial meristems (see wt phenotype in Fig. 2).
+Thus, the architecture of a tomato plant means a regular alternation of vegetative and reproductive phases along the primary and axillary shoots (Atherton and Harris, 1986).
+Despite the differences between the monopodial and sympodial systems, genes that maintain the indeterminate state of the shoot apex in _Arabidopsis, TERMINAL FLOWER 1_ ( _TFL1_ ), and _Antirrhinum,_ _
+CENTRORADIALIS_ ( _CEN_ ), have an orthologue in the tomato genome, the _SELF PRUNING_ ( _SP_ ) gene (Table 1), which controls the regular vegetative-to-reproductive switch of inflorescence meristems (Pnueli _et al._, 1998).
+A mutation in _SP_ or the suppression of gene activity by antisense RNA has no effect on the architecture of the initial segment or the flowering time (in terms of node number).
+However, _sp_   mutant allele promotes a gradual reduction in the number of vegetative nodes arising on successive sympodial segments until the vegetative phase is completely by-passed with the development of two consecutive inflorescences (Fig. 2) (Yeager, 1927).
+Overexpression of _SP_ or _CEN_ in tomato plants results in an extended vegetative phase of sympodial shoots and in an increased leafiness of the inflorescence itself (Pnueli _et al._, 1998).
+_
+CEN_, _TFL1_ and _SP_ are members of a novel family of regulatory genes denominated _CETS_, which encode a family of modulator/adapter proteins capable of interacting with a variety of signalling proteins.
+Among the tomato members of this family, _SINGLE FLOWER TRUSS_ ( _SFT_ ) gene is involved both in the transition to flowering (see the following section) and the shoot development (Lifschitz _et al._, 2006).
+In fact, _sft_ mutation arrests the growth of the sympodial buds and allows the plant to grow from the ectopic vegetative meristems appearing in the inflorescence (Kerr, 1982).
+Therefore, _SFT_ gene is required for the normal development of the sympodial meristem.
+Reduced expression level of _SP_ in the apical buds of the _sft_ mutant suggests that the function of _SFT_ controlling sympodial development depends on its interaction with _SP_, probably acting as an upstream regulator of _SP_ in the sympodial meristem (Molinero-Rosales _et al._, 2004).
+The formation of lateral branches is regulated by _LATERAL_ _SUPPRESSOR_ ( _LS_ ) and _BLIND_ ( _BL_ )
+genes (Fig. 2).
+While _BL_ affects both sympodial and axillary meristems (Rick and Butler, 1956; Schmitz _et al._, 2002), _LS_ is only involved in the development of the latter (Malayer and Guard, 1964; Schumacher _et al._, 1999).
+Among the phenotypic abnormalities showed by _ls_ mutant, the lack of lateral meristems during vegetative growth of the initial segment is particularly apparent (Fig. 2).
+Cloning and characterization of _LS_ has revealed that it encodes a putative transcription factor of the GRAS family to which some negative regulators of gibberellin response also belong (Schumacher _et al._, 1999).
+Furthermore, expression of the _Arabidopsis_ orthologous _LAS_ gene in the tomato _ls_ mutant restores the wild-type phenotype, indicating a conserved mechanism in the control of axillary meristem initiation (Greb _et al._, 2003).
+The _BL_ gene is a member of the R2R3 class of MYB transcription factors involved in the regulation of various bio   _Developmental genetics of tomato_ 1637   logical processes.
+The phenotype of the double mutant _ls_ _bl_ suggests that _BL_ and _LS_ participate in different pathways which promote the development of lateral meristems (Schmitz _et al._, 2002).
+**Transition to flowering**   In tomato, the transition to flowering means that the apical meristem is completely consumed in the development of the first inflorescence.
+This process is under control of environmental and endogenous factors, the later being of genetic and hormonal nature.
+This crop species is considered a day-neutral plant since the time to flowering, as measured by the number of leaves developed before floral transition, is not affected by photoperiod (Kinet and Peet, 1997).
+In fact, some genes have been identified and characterized as members of an autonomous pathway controlling floral transition.
+In the initial segment, _FALSIFLORA_ ( _FA_ ) and _SINGLE FLOWER TRUSS_ ( _SFT_ ) promote floral transition (Molinero-Rosales _et al._, 1999; MolineroRosales _et al._, 2004; Lifschitz _et al._, 2006), while _SP_ regulates this process in the sympodial segments (Pnueli _et al._, 1998).
+Mutations at either _FA_ or _SFT_ loci result in a photoperiodindependent late flowering phenotype and in abnormalities affecting inflorescence development (Fig. 2).
+_
+FA_ is orthologous to _LEAFY_ ( _LFY)_ and _FLORICAULA_ ( _FLO_ ), two floral identity genes of _Arabidopsis_ and _Antirrhinum_, respectively, although only _LFY_ regulates floral transition as _FA_ does (MolineroRosales _et al._, 1999).
+_
+SFT_ is orthologous to the _Arabidopsis FLOWERING LOCUS_ _
+T_ ( _FT_ )
+and triggers systemic signals that regulate floral transition and sympodial growth in tomato (Lifschitz _et al._, 2006).
+Double mutant _sft fa_ is unable to flower suggesting that _
+FA
+_ and _SFT_ regulate floral transition by independent pathways.
+This agrees with the fact that _FA_ expression is not affected by _sft_ mutation (Molinero-Rosales _et al._, 2004).
+In petunia, floral transition is abolished by a single mutation in the _PETUNIA_ _FLOWERING GENE_ ( _PFG_ ), a MADS-box gene highly homologous to _Arabidopsis APETALA1_ ( _AP1_ )
+(Immink _et al._, 1999).
+Interestingly, _AP1_ overexpression in tomato caused early flowering with no obvious effects on sympodial development (Ellul    TABLE 1   **TOMATO MUTATIONS AFFECTING EITHER INFLORESCENCE OR FLORAL MERISTEM IDENTITY GENES**   **Mutant** **Phenotype** **Isolated gene** **References** _**Arabidopsis**_ **orthologue**   _self-pruning_ ( _sp_ )
+Altered sympodial meristem development _
+SP_ Yeager, 1927 _TERMINAL FLOWER1_ Pnueli _et al_ ., 1998   _single flower truss_ ( _sft_ )
+Late flowering, altered sympodial development _SPD3_ ( _SFT_ in text) Kerr, 1982 _FLOWERING LOCUS T_ Lifschitz _et al_ ., 2006   _lateral suppressor_ ( _ls_ )
+Lack of axillary lateral meristems _LS_ Rick and Butler, 1956 _LAS_ Schumacher et al. 1999   _blind_ ( _bl_ )
+= _torosa_ ( _to_ )
+Absence of sympodial meristem _BL_ Malayer and Guard, 1964 _RAX_ R2R3 Myb Schmitz _et al_ ., 2002   _falsiflora_ ( _fa_ )
+Late flowering, loss of floral meristem identity _FA_ Stubbe, 1963 _LEAFY_
+Molinero-Rosales _et al_ ., 1999   _uniflora_ ( _uf_ )
+Late flowering, inflorescence composed by a single flower Dielen _et al_ ., 1998   _compound inflorescence_ ( _s_ )
+Late flowering, affected inflorescence meristem development _
+S_ Quinet _et al_ ., 2006 _WOX9/STIMPY_
+Lippman _et al_ ., 2008   _anantha_ ( _an_ )
+Highly branched inflorescence, altered floral meristem identity _AN_ Allen and Sussex, 1996 _UNUSUAL FLORAL_ Lippman _et al_ ., 2008 _ORGANS_   _jointless_
+( _j_ )
+Altered inflorescence meristem identity _J_ Rick and Butler, 1956 _
+AGL24_ Mao et al., 2000   1638 _R. Lozano et al._   _et al._, 2004).
+By contrast, mutations of three flowering genes, each involved in a different regulatory pathway, are required to avoid flowering in _Arabidopsis_ (Reeves and Coupland, 2001).
+The domestication process of petunia (ornamental species) and tomato (crop species) may have favoured a reduction in the number of genes needed to flower by eliminating redundancy in flowering genes.
+Alternatively, gene interactions controlling floral transition may differ among plant species, yet the functional roles of individual genes may be similar.
+Late flowering mutants _uniflora_ ( _uf_ ) and _compound inflores-_ _cence_ ( _s_ )
+(Fig. 2) show enhanced phenotypes under winter conditions, namely low irradiance (daily light energy integral) and poor assimilate availability perceived by the apical meristem.
+Thus, an environment-dependent pathway also seems to regulate floral transition in tomato (Dielen _et al_ ., 1998; Quinet _et al._, 2006b).
+As the _fa sft_ double mutant, introducing _sft_ into the _uf_ background completely suppresses floral transition, which suggests that _
+UF_ and _SFT_ promote flowering but participating in parallel regulatory pathways (Lifschitz and Eshed, 2006).
+Although the genetic interactions between _UF_ and _FA_ remain to be clarified, _uf_ is epistatic over most of flowering mutations (Quinet _et al_ . 2006a), indicating that _
+UF_ is a key regulator of tomato flowering.
+Moreover, _UF_ might function upstream to _SFT_ as is indicated by the fact that constitutive expression of _SFT_ rescues the flowering time phenotype of the _uniflora_ mutant, substituting its high light requirements (Lifschitz _et al._, 2006).
+_SP_ gene does not affect the time to flowering in the initial segment, since its mutation produces a progressive shortening of the floral transition in the sympodial segments (Pnueli _et al._, 1998).
+However, the capability of _sp_ allele to rescue the flowering phenotype avoided in the non-flowering double mutants _sft_ _fa_ and _sft uf_ (Lifschitz and Eshed, 2006) agrees with a role of _SP_ in floral induction, which deserves greater attention.
+Additionally, _fa_ mutation produces the opposite effect to _sp_, i.e. an increased number of vegetative nodes in the first sympodial segments.
+This feature, and the expression pattern of _FA_, proves its involvement in sympodial development.
+Although the function of _SP_ seems to be antagonistic to _FA_, the vegetativeto-reproductive switch in the sympodial segment may depend on a balance between _FA_ and _SP_ transcription levels (MolineroRosales _et al._, 1999).
+Likewise, a balance in the activities of _SFT_ and _SP_ could be responsible for the floral transition of both initial and sympodial segments (Lifschitz and Eshed, 2006).
+Thus, different developmental scenarios may be possible as result of genetic interactions among flowering genes at the apical and sympodial meristems, which should be further investigated.
+Additionally, _JOINTLESS_ ( _J_ ) and _BLIND_ ( _BL_ ) genes seem to promote autonomous flowering in tomato, although the most evident alterations produced by _j_ and _bl_ mutations affect the inflorescence development (Fig. 2).
+Molecular characterization of these genes and their interactions with meristem identity genes support this functional role (Mao _et al._, 2000; Schmitz _et_ _al._, 2002; Szymkowiak and Irish, 2006).
+Although tomato flowers autonomously, environmental cues can modify this developmental pattern.
+Low temperatures (1015 ° C) reduce the number of nodes up to the first inflorescence, and also the rate at which these leaves are produced.
+Similarly,    a scarce but significant reduction in flowering time has been observed in many cultivars grown under short day conditions (see Samach and Lotan, 2007).
+Most importantly, high irradiance accelerates flowering, an effect associated with a higher rate of leaf initiation and an increased assimilate availability in the meristem (Kinet and Peet, 1997; Dielen _et al_ ., 2004).
+Light is perceived by the plant through photoreceptors, particularly red/far red light PHYTOCHROME (PHY) and blue light CRYPTOCHROME (CRY) receptors.
+Overexpression of tomato _CRY2_ does not alter flowering time but does increase the number of days to the first floral anthesis (Giliberto _et al._, 2005).
+Interestingly, a QTL mapping approach has revealed that _PHY2B_ gene, as well as _FALSIFLORA_, co-localize with major QTLs responsible for floral transition in this species _,_ making them candidate genes for the domestication process of tomato (Jiménez-Gómez _et al._, 2007).
+Autonomous flowering of tomato is also modulated by hormones, though their roles during floral transition have been poorly studied.
+Gibberellins (GAs) promote tomato flowering since GA-deficient mutants require exogenous gibberellins to flower (Koornneef _et al._, 1990).
+Elevated GA contents increase the number of leaves before flowering and the rate of leaf initiation (Kinet and Peet, 1997).
+Furthermore, _in vitro_ experiments show that cytokinin-mediated stimulating effect on floral initiation could be inhibited by GA.
+Most probably, plant hormones modulate tomato flowering by gene interactions involving several regulatory pathways although the nature of such interactions is still unknown.
+Most flowering mutants already characterized in tomato flower later than the corresponding wild type backgrounds.
+Of forty one flowering mutants identified by an “ _in silico_ ” screening, only four showed an early flowering phenotype (Menda _et al._,
+I 2    _sp_   _uf_
+L 14    L
+20   L 8   Modified flower   Vegetative shoot    _ls_   _j_
+L 8    wt   _bl_
+L 8   L 15    _sft_    _fa_   _an_
+L 10   _s_   Leaf bearing an axillary meristem   Modified shoot inflorescence   Modified sympodial meristem    Sympodial meristem   Sympodial segment
+Flower    Arrested floral meristem    **Fig.
+2.
+Schematic representations of shoot architecture and repro-** **ductive structures** _of wild type (wt) tomato and several mutants altered_ _in floral transition_ (sft _,_ fa _,_ bl _and_ uf) _, sympodial growth_ (sp _,_ sft _and_ bl) _and_ _inflorescence/floral development_ (fa _,_ sft _,_ bl _,_ uf _,_ s _,_ an _and_ j) _.
+Note that the_ _wild type genotype used as reference in this paper usually flowers after_ _
+the formation of seven leaves (L7); however this number may differ in_ _other tomato backgrounds.
+See text for mutant descriptions.
+The first_ _vegetative segment (green) is referred as the initial segment in the text;_ _the remaining vegetative segments have a sympodial origin.
+_   2004).
+These observations, together with the influence of environmental cues on flowering time, suggest that selection of favourable combinations of flowering genes has played a crucial role throughout the tomato domestication process, enabling early flowering and ensuring fruit yield under several conditions.
+**Reproductive development**   Tomato inflorescence has been classically described as a cyme, although available evidences also permit to interpret it as a raceme (Quinet and Kinet, 2007; Lippman _et al_ ., 2008).
+Irrespectively, initiation of reproductive development entails the conversion of the apical meristem into an inflorescence meristem (IM) from which the floral meristem is produced laterally, giving rise to the first flower.
+The successive floral meristems developed from the IM are located at the base of each preceding flower bud.
+This process culminates in the production of a terminal flower, once the determinate inflorescence is composed of about five to ten flowers (Allen and Sussex, 1996).
+_**Inflorescence and flower initiation**_
+In tomato, the activity of the inflorescence meristem is affected by _BL_ and _UF_ genes, since the inflorescence is prematurely terminated by a reduced number of flowers in the _bl_ mutant, or by a single flower in the _uf_ mutant (Rick and Butler, 1956; Fehleisen, 1967;
+Dielen _et al._, 1998; Schmitz _et al._, 2002).
+The unusual reproductive structure of the _uf_ mutant (Fig. 2) results from its inability to produce an inflorescence, not from abortion of flower buds (Dielen _et al._, 2004).
+Moreover, doublemutants which involve _uf_ allele in combinations with _sft_, _bl_ or _j_ mutations all develop a single normal flower (Quinet _et al_ ., 2006a; Quinet and Kinet, 2007), demonstrating the epistatic interaction of _UF_ respect to the remaining IM genes.
+Phenotypes of _jointless_ ( _j_ ) and _macrocalyx_ ( _mc_ ) mutants display a reversion of the IM to a vegetative developmental programme (Fig. 2), allowing normal shoot formation and indicating that maintenance of IM identity requires _J_ and _MC_ genes (Rick and Sawant, 1955; Rick and Butler, 1956; Vrebalov _et al._, 2002; Szymkowiak and Irish, 2006).
+Also the identity of IM is lost in the _sft_ mutant after one or two flowers are developed (Fig. 2).
+It then reverts to a vegetative state and the position of the following flower is occupied by a sympodial shoot.
+Thus, _SFT_ prevents the change of identity of the inflorescence meristem once flowering is initiated (Molinero-Rosales _et al._, 2004).
+Before flower development, floral identity is determined in the IM by the _FALSIFLORA_ gene (Molinero-Rosales _et al._, 1999).
+The _fa_ allele promotes a strong inflorescence phenotype due to the replacement of flowers by secondary leafy shoots (Fig. 2 and Fig.
+3B), as occurs in _Antirrhinum flo_ and _Arabidopsis_ _lfy_ mutants.
+A careful examination of early development of _fa_ inflorescence has shown that it is not the inflorescence meristem, but rather derived vegetative meristems which are unable to acquire floral identity (Allen and Sussex 1996).
+_
+FA_ is the orthologue to the _Arabidopsis LFY_ gene, the latter being extensively analysed since it is the major responsible for the transition from inflorescence to floral meristem in the model species (Weigel _et al._, 1992; Blázquez and Weigel, 2000).
+The    _Developmental genetics of tomato_ 1639   high sequence similarity observed between _FA_ and _LFY_ affecting DNA-binding domains and other regulatory elements should lead to further analyses about the mechanism determining floral meristem identity in tomato.
+Mutations of _ANANTHA_ ( _AN_ ) and _S_ genes also modify the developmental fate of IM giving rise to highly branched inflorescences composed either by reproductive meristems or normal flowers, respectively (Rick and Butler, 1956; Allen and Sussex, 1996).
+Such observations indicate the failure of the meristems emerging from the IM to specify floral identity.
+Recently, Lippmann _et al_ .
+(2008) have demonstrated that _
+AN_ encodes an F-box ortholog of the Arabidopsis floral gene _UNUSUAL FLO-_ _
+RAL ORGANS_ ( _UFO_ )
+while _S_ gene codes for a transcription factor homologous to _WUSCHEL-HOMEOBOX9_ ( _WOX9/_ _STIMPY_ ).
+Functional analyses of these two genes indicated that sympodial architecture of tomato inflorescence is made by the sequential expression of _S_ and _AN_, which in turn promotes the phase transition of a IM to a floral meristem.
+Double-mutant analyses have shown that _FA_ acts upstream to _AN_, confirming the key function of _FA_ gene in the specification of floral identity.
+The leafy phenotype of _fa_ mutant is also achieved by overexpression of _SP_ in wild type tomato and _sp_ mutant plants.
+Similarly, the reproductive nature of _an_ proliferating meristems is changed and vegetative shoots are also developed when _
+SP_ is overexpressed.
+Both results make that the contribution of _SP_ to the control of floral meristem identity can not be discarded.
+Moreover, expression domains of _SP_ coincide with those of _FA_ being the latter gene, epistatic to _SP_ (Pnueli _et al._, 1998; Molinero-Rosales _et al._, 1999) _._
+Thus, the mutual negative regulation existing in _Arabidopsis_ between _LFY_ and _TFL1_ is unlikely to occur between _FA_ and _SP_ in tomato.
+Most probably, _FA_ could regulate floral identity by both activating _AN_ and decreasing _SP_ activity in the reproductive meristems.
+In summary, _BL_, _J_, _SFT_, _MC_, _UF_, _AN_ and _S_ genes play important roles in the maintenance of reproductive meristem identity and together with _FA_ and _SP_ are required for other flowering-related processes (Fig. 2), i.e. floral transition ( _FA_, _SFT, BL_ and _UF_ ), sympodial growth of plant ( _SP, SFT_ and _BL_ ), inflorescence architecture ( _AN_ and _S_ ) and floral organ development _(MC)_ .
+Therefore, further research should distinguish the main function of these genes from their pleiotropic effects during plant development, as Lifschitz _et al._ (2006) have recently done for _SFT_ .   _**Floral organ development**_ At maturity, the hermaphrodite and symmetric flower of tomato consists of four whorls each formed from the outermost by 5-6 green sepals, which alternate to a similar number of yellow petals at the second whorl, about 6 stamens displaying anthers forming a cone around the style, and a variable number of fused carpels in the innermost whorl.
+Genetic analyses in _Arabidopsis_ and _Antirrhinum_ have led to propose three main gene functions, A, B and C, each including a few number of genes, which acting alone or in combination determine organ identity in the four floral whorls.
+The so-called ABC model (Coen and Meyerowitz, 1991; Meyerowitz _et al._, 1991) has been confirmed in several plant species and assumes that mutations affecting A-, B- and C-class genes promote homeotic changes in the floral organs of two consecutive   1640 _R. Lozano et al._   whorls.
+Most of the ABC genes belong to the MADS-box family encoding transcription factors, which are highly conserved among plant species.
+MADS proteins bind to DNA as multimeric complexes which ultimately control the development of floral organs (see Robles and Pelaz, 2005).
+Characterization both of homeotic mutants and transgenic plants where homologous ABC genes have been up- or downregulated seems to confirm the ABC model in tomato (Table 2).
+The _macrocalyx_ mutation resides in a homologue to the _AP1_, an _Arabidopsis_
+A-function gene (Vrebalov _et al._, 2002).
+Expression of _MC_ is detected in sepals, petals and carpels while either mutation or gene silencing of _MC_ causes homeotic conversion from sepals to leaf-like structures (Rick and Butler, 1956; Vrebalov _et al._, 2002).
+Both the mutant phenotype and the pattern expression of _MC_ are however more similar to _SQUA-_ _MOSA_ ( _SQUA_ ), the _AP1_ orthologue of _Antirrhinum_ .
+Several B-class mutants showing partial or complete transformations in the second and third organ whorls have been identified in tomato (Nash _et al._, 1985; Sawhney, 1992).
+Among them, _stamenless_ ( _sl_ ) and its allelic mutant _corollaless_ ( _cs_ ) show sepals instead of petals in the second whorl and stamens replaced by carpels in third whorl (Fig.
+3D; Gómez _et al._, 1999).
+Mutation of _SL_ affects to a B-class gene homologous to _DEFICIENS_ ( _DEF_ ) in _Antirrhinum_ and _APETALA3_ ( _AP3_ ) in _Arabidopsis_, both involved in the development of petals and stamens.
+In addition, among the several _TOMATO MADS BOX_ genes (abbreviated as _TM_ or _TDR_ ), _TM6_ also shares homology to _AP3_, yet mapping data reject it as candidate for _SL_ gene (Gómez _et al._, 1999).
+Regarding tomato C-class genes, tomato mutants with homeotic changes in both reproductive organs (whorls 3 and 4) have not been described until now.
+However, _TOMATO AGA-_ _MOUS1_ ( _TAG1_ ), a tomato orthologue to the _Arabidopsis AGA-_ _MOUS_ ( _AG_ ) gene has been isolated.
+Tomato plants expressing sense and antisense _TAG1_ transcripts corroborate the role of _TAG1_ in the specification of stamen and carpel identities (Pnueli _et al._, 1994a).
+Recently, the ABC model has been extended with two new classes of genes.
+D-class genes control ovule identity and were initially described in _Petunia_ after the functional and molecular analyses of _FLORAL BINDING PROTEIN7_ ( _FBP7_ ) and _
+FBP11_ (Angenent _et al_ ., 1995).
+The Arabidopsis D-class gene is _SEEDSTICK_ ( _STK_ ) which, like _FBP7_ and _FBP11_, is specifically expressed in ovules (Pinyopich _et al._, 2003).
+Furthermore, it has been proven that A, B and C genes require an additional function which cooperates with them in the development of the four floral organs.
+Such function is carried out by the E-class _SEPALLATA_ ( _SEP_ ) genes.
+Strong evidence was found to support the formation of multimeric complex involving A, B, C and SEP proteins, as mechanism which triggers flower development (see Robles and Pelaz, 2005 for references).
+In tomato, _TM5_ (Pnueli _et al._, 1994b) and _TM29_ (Ampomah-Dwamena _et_ _al._, 2002) have been described as two _SEP-_ like genes on the basis of their expression pattern and down-regulated phenotypes.
+These and other tomato genes involved in carpel and ovule development are further described in the next section.
+Activity of floral organ identity genes seems to depend on _FA_ gene, as suggested by the inhibition of _TM5_, _TM6_ and _TAG1_ expression in _fa_ inflorescences, as well as by the phenotype of    weak mutant alleles of _FA_ which allow floral organ development (Kato _et al._, 2005; R. Lozano, unpublished).
+Therefore, _FA_ plays in important role in the control of floral meristem identity but it may also induce floral organ identity genes.   _**More about carpel and ovule development**_
+Bearing in mind the importance of the carpels as sexual floral organs which protect ovules and allow seed formation, much progress has been made in the identification of genes and protein interactions regulating carpel development.
+As previously mentioned, _AG_ gene determines the identity of carpel primordia located at the fourth whorl of a developing flower, which also requires the activity of _SEPALLATA_ genes in _Arabidopsis_ (Pelaz _et al_ ., 2000).
+However, carpelloid organs instead of sepals can be developed in the absence of _AG_, as happens in the first whorl of _ag ap2_ flowers, indicating that an additional _AG_ -independent pathway can also specify carpel features (Pinyopich _et al._, 2003).
+_
+SHATTERPROOF1_ ( _SHP1_ ), _SHP2_ and _SEEDSTICK_ ( _STK_ ), members of the same _AG_ clade, have been identified as key genes of this pathway.
+_
+AG_ acts redundantly to _SHP_ genes to promote carpel development, while _AG, SHP_ and _
+STK_ play redundant roles in the specification of ovule identity (Liljegren _et al._, 2000; Pinyopich _et al._, 2003; Favaro _et al._, 2003).
+While no protein-protein interactions were observed among _AG, STK_ and _SHP_ genes, all three interact with _SEP3_, suggesting that SEP proteins mediate the formation of a protein complex directing ovule and carpel identity (Favaro _et al._, 2003).
+Likewise, overexpression and down-regulation of _FBP7_ and _FBP11_, two _STK_ orthologous genes of _Petunia_, confirm that an ovule-specific function is carried out by these MADS-box transcription factors, which in   **Fig. 3.
+Tomato mutants affected in floral meristem identity or flower** **development.
+** _Respect to the wild type inflorescence_ **(A)** _, flowers of the_ falsiflora _(_ fa _)
+mutant are replaced by secondary vegetative shoots_ **(B)** _,_ _demonstrating that_ FA _gene controls floral meristem identity.
+The devel-_ _opment of a normal tomato flower_ **(C)** _is altered in the_ stamenless _(_ sl _)_ _mutant, which shows homeotic conversion of petals into sepals in whorl_ _2, and carpels instead of stamens in whorl 3_ **(D)** _.
+_   _Developmental genetics of tomato_ 1641   TABLE 2   **TOMATO MUTANTS AND GENES IMPLICATED IN FLOWER DEVELOPMENT**   **Mutant or gene** **Phenotype** **Gene** **Reference** **Arabidopsis orthologue**   A-class _macrocalyx_ ( _mc_ )
+Large sepals, indeterminate inflorescence _LeMADS-MC_ ( _MC_ in text) Rick and Sawant, 1955 A-class Verbalov _et al_ ., 2002   B-class _stamenless_ ( _sl_ )
+Homeotic conversion of petals and stamens into sepals and carpels, _SL_ Nash _et al_ ., 1985 B-class respectively Gomez _et al_ ., 1999   _TM6_
+Silencing of _TM6_ alters stamen development _TM6_ de Martino _et al_ ., 2006   C-class _TAG1_ Down-regulation of _TAG1_ causes homeotic transformations of stamens and _TAG1_ Pnueli _et al_ ., 1994a C-class carpels   E-class _TM5_ Down-regulation alters organ differentiation in the inner three floral whorls _TM5_ Pnueli _et al_ ., 1994b E-class   _TM29_ Down-regulation of _TM29_ affects the maintenance of floral meristem identity _TM29_ Ampomah-Dwamena _et al_ ., 2002 (flowers altered in the inner three whorls)    turn are able to interact with SEP _-_ like proteins such as _FBP2,_ _FBP5_ and _FBP9_ (Angenent _et al._, 1995; Ferrario _et al._, 2003).
+Genes homologous to some of those mentioned above as being involved in the control of carpel and ovule development have been also described in tomato (Table 2).
+_
+SEPALLATA_ homologues _
+TM5_ and _TM29_ ( _TAGL2_ )
+regulate floral organ identity and fruit development (Pnueli _et al._, 1994b, AmpomahDwamena _et al._, 2002).
+Co-suppression or antisense expression of these tomato _SEP_ genes result in homeotic alterations in the inner three whorls resembling those observed in petunia transgenic plants lacking activity of _FBP2_ or _FBP5_ genes.
+After fertilization _TM29_ expression is confined to the ovary, in particular to developing seeds and vascular bundles, which would link the post-fertilization process to fruit formation in tomato.
+As previously mentioned, _TAG1,_ the tomato _AG_ orthologue, is required for the appropriate development of carpels at the fourth whorl of tomato flower (Pnueli _et al._, 1994a).
+Other _AG-_ like MADS-box genes expressed during tomato reproductive development have been isolated (Busi _et al._, 2003).
+Nucleotide sequences of _TAGL1_ and _TAGL11_ genes show a high similarity to _SHP1 (AGL1),_ and _STK (AGL11_ ), respectively.
+Moreover, expression patterns of _TAGL1’_ and _TAGL11_ are quite similar, being their transcripts detected at the inner integument of the ovules and the carpel walls.
+These results suggest overlapping functions of the two genes in the specification of ovule identity and in the control of fruit development, as occurs with their homologues _SHP1_ and _STK_ in _Arabidopsis_ .
+Accordingly, yeast two-hybrid experiments have revealed dimer formation between _TM29_ and each of _TAG1_, _TAGL1_ and _TAGL11._
+Taken together, these data seem to indicate that the proteins encoded by _TM29_, _TAG1_, _TAGL11_ and _TAGL1_ play an important role in the regulation of gene expression during early fruit development (ovule, seed and carpel development), functioning together as transcriptional complexes (Busi _et al._, 2003).
+Despite the formation of different fruit types (siliques in _Arabidopsis_, berries in tomato), the molecular pathway involved in fruit development is most likely conserved, as suggested by the presence of genes sharing similarities in their structure and function, as well as comparable expression patterns and interactions.
+The development of a flower as a whorled and determinate reproductive structure implies that determinacy of the floral meristem should be achieved once the carpel identity has been acquired by the fourth whorl organ primordia.
+In _Arabidopsis_, this process is regulated by the homeodomain encoding genes    _WUSCHEL_ ( _WUS_ ) and _SHOOTMERISTEMLESS_ ( _STM_ ) which operate at different meristematic domains.
+The ceasing of activity in the floral meristem depends on a negative feedback loop involving _WUS_, _LFY_ and _AG_, in such a way that the first two genes would activate _AG_, which in turn would repress _WUS_ once the flower has completed floral organ development (Lohmann _et al._, 2001).
+In petunia, the formation of multimeric complex involving C-, D- and E-class MADS-box transcription factors could be responsible for the repression of _TERMINA-_ _TOR_, the _WUS_ homologue in this species (Ferrario _et al._, 2006).
+Concerning tomato, down-regulation of _TAG1_ promotes flower indeterminacy featured by the replacement of carpels at the fourth whorl by ectopic floral-like structures bearing indeterminate floral meristems.
+Such homeotic changes support a role of _TAG1_ in the determinacy of floral meristem (Pnueli _et al._, 1994a).
+Molecular isolation of new mutants and orthologous genes affected in the floral meristem size are required in tomato, as well as new insights into the genetic interactions they keep with floral meristem identity genes such as _FA_ and _TAG1_ .
+They could provide evidence about the conservation of the genetic pathway which regulates floral meristem determinacy in different plant species, as well as genetic and molecular singularities that distinguish the sympodial meristem from the SAM.
+**Tomato as model system for fruit development**   Upon fertilization of the ovules, the carpels become a complex organ, forming the mature fruit, this ensuring seed dispersal and therefore survival of the plants.
+Mature fruits can be classified generally as either fleshy or dry, which mainly differ in the mechanism achieved to permit seed dispersal.
+A senescence program leading to fruit dehiscence is needed before some external agent (e.g. wind, rain, and physical contact) can force seeds to be released from dry fruits.
+However, fleshy fruits have evolved edible components making them attractive for animals, which facilitate dispersion of the seeds without any other requirements.
+Tomato plants produce fleshy red fruits as result of a developmental process which includes three phases (Gillaspy _et al._, 1993).
+The first phase starts just at anthesis and involves the development of the ovary and the decision to abort or to proceed with fruit development (i.e. fruit set).
+In the second phase, fruit growth is due primarily to cell division and the embryos begin their development.
+Finally, cell division ceases at the third phase and fruit growth continues by cell expansion   1642 _R. Lozano et al._   until the fruit reaches its final size.
+Once a fully developed fruit has been formed and seeds are mature, respiration and ethylene synthesis are significantly increased allowing ripening and maturation.
+As result, biochemical and physiological changes affecting colour, texture, flavour, aroma, nutritional content and susceptibility to opportunistic pathogens are made visible from the onset of ripening.
+Later, a softening process occurs as part of ethylene-induced gene activities which promote degradation of cell walls in different fruit compartments (Giovannoni, 2004).
+On the other hand, the sharp increase in respiration rate, which usually occurs in combination with elevated ethylene production at the onset of fruit ripening, are considered specific features of climacteric fruits like tomato.
+Indeed, such features are absent during ripening of non-climateric fruits such as strawberry, grapes, legumes or citrus.
+Taking into account the economic and nutritional importance of the fruits as essential components of human and animal diets, considerable scientific work is required to improve fruit yield and quality.
+_
+Arabidopsis thaliana_ has proven to be an exceptional model for gaining insight into the genetic, molecular and hormonal factors which regulate development and dehiscence of fruits.
+However, significant contributions in the fields of hormonal regulation of ovary growth, physiology of ripening, and genetic control of fruit size and shape have taken tomato as a model system given the developmental features of fleshy fruits (see reviews by Giovannoni, 2004; Tanksley, 2004; Gorguet _et al._, 2005).
+Recent discoveries on the regulatory mechanisms of fruit development and ripening have revealed the key role played by certain transcriptional factors, suggesting that some developmental regulators are conserved among plant species.
+Furthermore, ethylene perception and signalling pathways which control fruit development seem to share a common molecular basis in different species, although alterations in gene expression patterns and gene family composition may account for differences in fruit developmental patterns among species.
+This review focuses on the early stages of fruit development and ripening.
+Subsequent stages of fruit maturation is not considered since exhaustive reviews have recently been published on these topics (Giovannoni, 2004, 2007).
+**Hormonal control of fruit development and partheno-** **carpy**
+Fertilization of the ovules usually triggers development of the ovary into a fruit as pollen germination generates growth stimuli (Gillaspy _et al._, 1993).
+Some of the growth factors controlling fruit set by pollen include auxins and gibberellins.
+Furthermore, auxins and ethylene control early stages of fruit development by inducing the expression of several gene families (Balbi and Lomax, 2003).
+However, successful development of tomato fruits can also occur in the absence of fertilization, a physiological event called parthenocarpy, which leads to the formation of seedless fruits (Lukyanenko, 1991).
+Classic research into plant physiology has suggested that tomato parthenocarpy is related to an imbalance in hormonal control, as revealed by the fruit phenotypes observed after hormone applications or when plants grow under adverse conditions, mainly extreme temperatures (see Gorguet _et al._, 2005).
+Parthenocarpic development has also been observed in    tomato backgrounds displaying deficiencies in pollen formation and/or anther dehiscence (male sterility) which result in failure of fertilization.
+The low level of both cytokinins and gibberellins detected in the male-sterile _stamenless-2_ of tomato suggests that these hormones may alter fertility (Sawhney and Shukla, 1994).
+Accordingly, anther- and pollen-specific expression of negative regulatory genes of cytokinin- or GA-signalling produce abortion of anther and pollen in transgenic plants of maize, tobacco and Arabidopsis (Huang _et al._, 2003).
+These results agree with the functional implications of cytokinins and GAs in the reproductive development of plants.
+Additionally, jasmonic acid and ethylene have been found to synchronize pollen maturation, anther dehiscence and flower anthesis (see references in Gorguet _et al._, 2005).
+Parthenocarpic fruits can be developed in absence of this normal synchronous development of male and female gametophytes, particularly in selfpollinating crops.
+Besides the importance of plant hormones during pollination, gibberellins constitute a key factor for setting and development of tomato fruit.
+GA produced by developing seeds promotes a normal fruit development (García-Martínez _et al._, 1991).
+Accordingly, exogenous GA can replace the promoter growth effects of GA-producing seeds, which result in a successful fruit set and parthenocarpy.
+Together with gibberellins, auxins are also involved in the parthenocarpic development of fruits.
+Enzyme activities involved in GA biosynthesis are regulated by auxins, which in turn are needed to maintain the level of active GAs (García-Martínez _et al._, 1997; Ross _et al._, 2000).
+Recent evidences have shown that early stages of fruit development in tomato are also dependent on auxin- and ethylenemediated gene expression and that both auxin and ethylene responses are regulated specifically by the _Diageotropica_ ( _DGT_ ) gene (Balbi and Lomax, 2003).
+Therefore, it is likely that GA is involved in later stages of fruit and seed development, whereas the remaining hormones regulate early stages of these pro cesses.
+The physiological mechanisms underlying parthenocarpic development of the fruits remain largely unknown.
+Nevertheless, characterization of parthenocarpic tomato mutants has favoured a better understanding of the genetic and molecular basis of this process (Table 3).
+The recessive _parthenocarpic_ ( _pat_ ) mutant exhibits abnormal flower development, mainly premature ovary growth, reduced number of viable ovules and increased number of pericarp cell layers (Soressi and Salamini, 1975; Mazzucato _et al._, 1998), the former two being responsible for the impaired fertilization and development of seedless fruits.
+Parthenocarpy is also induced by an independent recessive mutation _pat-2_ (Philouze and Maisonneuve, 1978; Nuez _et al._, 1986), which also produces unfavourable pleiotropic features (i.e. less plant vigour and reduced fruit set and yield) depending on the genetic background.
+The third genetic source of parthenocarpy is polygenic, with two genes _pat-3_ and _pat-4_ as the most probable determinants of this trait (Nuez _et al._, 1986).
+It has been suggested that parthenocarpy of _pat_ mutant could be related to a gene with homeotic functions in accordance with the phenotypic similarities observed when _TM5_ or _TM29_ MADS-box genes are down-regulated (Mazzucato _et al._, 1998).
+Nevertheless, it remains unclear whether the parthenocarpy is directly regulated by TM proteins or is caused by   hormonal changes related to abnormal development of reproductive organs which finally results in unsuccessful fertilization.
+Interestingly, steady-state levels of expression of _TM4_ ( _TDR4_ )
+_,_ a tomato MADS-box gene homologous to _FUL_, are highly increased in parthenocarpic ovaries grown under low temperatures (Lozano _et al._, 1998).
+Similarly, transcripts of _Le-DEF_, a tomato B-class MADS-box required for petal and stamen development, are significantly accumulated in GA-treated flowers, which give rise to parthenocarpic fruits, while they are completely abolished by paclobutrazol, an inhibitor of GA biosynthesis (authors’ unpublished data).
+These results suggest that GA-mediated expression changes of MADS-box genes could be at the origin of tomato parthenocarpy, whether through regulation of reproductive organ development (stamens and carpels) or changes in GA-signalling or biosynthesis.
+Additionally, _PAT_ interactions may regulate the ovary-pollen developmental synchrony and hence, fruit formation.
+Beraldi _et al._ (2004) has recently mapped the _PAT_ gene, which will allow not only the cloning of the gene but also a more detailed analysis of genetic interactions regulating parthenocarpic development of fruits.
+Differential expression analyses have found that _pat2_ and _pat3/pat4_ alleles enhance GA biosynthesis pathways, the high level of active GAs being responsible for parthenocarpic development of tomato fruits observed in both mutant backgrounds (Fos _et al._, 2000; Fos _et al._, 2001).
+Moreover, seedless fruit development of _pat2_ requires _LATERAL SUPPRESSOR_ activity since parthenocarpy is avoided by the presence of _ls_ mutant allele (Philouze, 1983).
+These results agree with the function proposed for _LS_ as a gene regulator of GA sensitivity (Schumacher _et al._, 1999).
+Therefore, mechanisms which explain parthenocarpic development in _pat2_ and _pat3/pat4_ tomato mutants should include changes in the GA regulation.
+Taking as a whole, these results indicate that parthenocarpy is a complex developmental process regulated by genetic, hormonal and environmental factors.
+Its scientific and agro   _Developmental genetics of tomato_ 1643   nomic interest should promote additional efforts to elucidate the molecular and genetic basis of the mechanisms underlying parthenocarpic fruit development.
+To this end, tomato is an excellent model system, even more so when current progress in functional genomic studies and the ongoing sequencing project can be exploited.
+**Tomato genes controlling fruit size and shape**   Among the evolutionary features affected by the domestication are those related to external appearance of fruits.
+In this context, tomato is an excellent model to study natural variation and gene function since a wide diversity of phenotypes affected in fruit size and shape can nowadays be observed in the cultivated and wild-related tomato germplasm.
+Genetic mapping approaches have identified a small number of quantitative genes as responsible for the great variation affecting tomato fruit size (Grandillo _et al._, 1999).
+Among them, only _fw2.2_ has been isolated to date and its function is involved in the evolution of small fruited wild tomatoes in to large fruited cultivated tomatoes (see review of Tanksley, 2004).
+Detailed studies on the expression pattern and the gene dosage effect of this gene have proved that the FW2.2 protein is a negative regulator of cell proliferation in tomato that causes changes in overall fruit size but not in fruit shape (Frary _et al_ ., 2000; Liu _et al_ . 2003).
+In fact, remarkable results on the physical interaction between FW2.2 and _Le_ CKII β 1, the regulatory subunit of casein kinase II, have been published (Cong and Tanksley, 2006).
+Nevertheless, essential questions remain to be determined, mainly how this novel gene function has arisen in the plant kingdom and how it has evolved to interact with the well-known component of the cell cycle signaling pathway.
+Together with the control exercised by the cell cycle, the fruit size also depends on the number of carpels which are determined during early development of tomato fruit and hence, the number of locules forming the mature fruit.
+Two independent mutations, _locule-number_    TABLE 3   **TOMATO MUTANTS AND GENES ISOLATED TO DATE AS INVOLVED IN FRUIT DEVELOPMENT AND RIPENING**   **Arabidopsis orthologue** **Mutant or gene Phenotype** **Isolated Gene** **Reference** **or encoded protein**   _pat_ Parthenocarpic fruit, homeotic alteration of reproductive floral organs Soressi and Salamini, 1975 Mazzucato _et al_ ., 1998   _pat-2_ Parthenocarpic fruit (altered GA metabolism) Phylouze and Maisonneuve, 1978 Fos _et al_ ., 2000   _pat-3_ / _pat-4_ Parthenocarpic fruit (altered GA metabolism) Nuez _et al_ ., 1986 Fos _et al_ ., 2001   _TM29_
+Parthenocarpic fruit _TM29_ Ampomah-Dwamena _et al_ ., 2002 _SEPALLATA_    _TDR4_ Gene silencing makes a fruit unable to complete ripening and alters cell wall structure _TDR4_ Seymour _et al_ ., 2002 Eriksson _et al_ ., 2004 Angosto _et al._ (unpublished)    _FRUITFULL_    _fw2.2_
+Quantitative variation of fruit size _Fw2.2_ Frary _et al_ ., 2000 Negative regulator of cell division Cong _et al_ ., 2002   _fasciated_ Higher number of carpels/locules in the fruit _
+FAS_ Cong _et al_ ., 2008
+YABBY-like transcription factor   _ovate_
+Pear-shape or elongated fruit _OVATE_ Liu _et al_ ., 2002 New class of nuclear-localized proteins   _sun_ Quantitative fruit size variation _SUN_ Xiao _et al_ ., 2008 IQ67-domain family Jiang _et al_ ., 2009   _nor_ Non-ripening fruits _NAC_
+Tigchelaar _et al_ .
+, 1978 NAC domain transcription factor Giovannoni _et al_ ., 2004   _Rin_
+Non-ripening fruits _LeMADS-RIN_ Dostal _et al_ ., 1974 _SEPALLATA_ -like ( _RIN_ in text) Vrebalov _et al_ ., 2002   _Cnr_ Unripe fruit, loss of cell-to-cell adhesion _
+LeSPB-CNR_ Thompson _et al_ ., 1999 _SBL3_ ( _CNR_ in text) Manning _et al_ ., 2006   1644 _R. Lozano et al._              **Fig.
+4. Genetic regulation of tomato ripening.
+** _
+Transcription factors_ _encoded by_
+RIN _and_ CNR _genes are involved in an ethylene-mediated_ _control of fruit ripening and also participate in an ethylene-independent_ _pathway.
+Presumably,_ TDR4 _gene is also involved in this mechanism of_ _ripening control, while other regulatory and target genes remain to be_ _characterized.
+Ethylene receptor proteins involved in the ethylene signal_ _transduction promote a cascade of gene activation allowing the ripening_ _of tomato fruits (adapted from Giovannoni, 2007).
+_   and _fasciated (fas)_, identified the quantitative loci involved in this feature, the latter having a greater effect (Barrero and Tanksley, 2004).
+Positional cloning of the _FASCIATED_ gene has revealed that it encodes a YABBY-like transcription factor and that the high locule-number-phenotype of modern tomato cultivars is caused by downregulation of this gene during floral development.
+An insertion in the first intron is likely to be responsible for this regulatory change (Cong _et al._, 2008).
+Comparative sequencing of either _fw2.2_ or _fas_ alleles, has led to two important conclusions: i) fruit size variation is modulated not by changes in the coding sequence of either the 22-kD FW2.2 or the FAS protein but due to differences in the transcriptional activity during flower development associated to changes in the 5’ regulatory sequence of the corresponding genes (Cong _et al_ ., 2002;
+Cong _et al.,_ 2008), and ii) _fw2.2_ and _fas_ represent early and late steps, respectively, in the fruit size variation accounted for domestication (Tanksley, 2004; Cong _et al.,_ 2008).
+Genetic pathways which regulate fruit size and shape of tomato seem to share some components as the organ-determining genes _fasciated_ and _locule-number,_ which affect both external features (Tanksley, 2004).
+Nevertheless, two major genes involved in fruit shape variation (described as the ratio of fruit height over width) with little or no effects on fruit size, have recently been isolated.
+_
+OVATE_ was cloned and found to code a new class of hydrophyllic proteins with a putative nuclear localization signal (Liu _et al._, 2002).
+Recessive effects of the single _ovate_ mutation promote an elongated or pear-shaped    fruit as a result of a premature stop codon in the second exon which generates a truncated protein.
+This locus is early expressed during flower development although its transcripts can be detected two weeks after anthesis coinciding with the first step of fruit formation.
+However, the second major locus, the _SUN_ gene, affects fruit shape after anthesis (Xiao _et al.,_ 2008).
+Besides, whereas _ovate_ mutation usually results in an asymmetric elongation of fruits, _sun_ mutant plants yield elongated and oval shaped tomatoes that maintain the bilateral symmetry.
+The _sun_ phenotype was caused by an unusual 24.7-kilobase interchromosomal gene duplication event mediated by retrotransposon _Rider_ .
+When situated in a new genomic context, _SUN_ is expressed at increased levels regarding the ancestral copy, most likely driven by regulatory control of the _defensin_ gene ( _DEFL1_ ), which culminates in an elongated fruit shape (Xiao _et al.,_ 2008; Jiang _et al.,_ 2009).
+The _SUN_ locus encodes an IQD12 protein belonging to the IQ67 domaincontaining family and its transcription levels are responsible for the variation of tomato fruit shape (Xiao _et al.,_ 2008).
+Together with these two loci, quantitative mapping studies (Grandillo _et_ _al.,_ 1999; Ku _et al.,_ 2000; Brewer _et al.,_ 2007; Gonzalo and Van der Knaap, 2008) have shown that several QTLs, emphasizing the well studied _fruit shape 8.1_ QTL ( _fs8.1),_ are also associated to fruit shape variation.
+Like _fasciated_ and _ovate_, _fs8.1_ functions mostly during early floral development and has little if any activity after anthesis (Ku _et al._, 2000).
+Presumably, gene interactions controlling shape and size of tomato fruit will soon be elucidated and with this, the molecular mechanisms underlaying morphological variation of tomato fruit.
+**Genetic regulation of fruit ripening**
+The onset of ripening in tomato occurs after the cell expansion stage in the developing ovary has finished and seeds are mature.
+Physiological studies have concluded that ripening process is characterized by a higher respiration and the autocatalytic synthesis of ethylene (Lelievre _et al._, 1997), the latter being a major determinant of the phenotypic changes affecting colour, texture, aroma and pathogen susceptibility of fruits.
+Given the importance of ethylene, most of the research into fruit development has focused on the ethylene-dependent regulatory genes (Cara and Giovannoni, 2008), mainly those involved in the perception and biosynthesis of this hormone (Fig. 4).
+However, here we review the genes acting upstream or in parallel to the ethylene-regulated pathway.
+Their functional roles should help us to understand the genetic framework, hormonal interactions and molecular pathways which together regulate fruit development in tomato.
+Tomato _TDR4_ gene was one of the first reported to be involved in tomato fruit development (Seymour _et al._, 2002; Busi _et al._, 2003).
+_TDR4_ encodes a SQUAMOSA MADS-box transcription factor and is expressed early in the floral meristem, while later at anthesis, _TDR4_ transcripts are accumulated in ovules and carpel walls.
+Upon fruit set and during cell division stage, expression of _TDR4_ is observed in several tissues of the growing ovary.
+Although the expression level of this gene seems to be low during fruit development, a significant increase is detected at the onset of ripening.
+Taken into account the expression pattern and the high sequence homol  ogy, Seymour _et al._ (2002) proposed _TDR4_ as an orthologue of _FRUITFULL_ ( _FUL_ ) gene of _Arabidopsis_, the latter being a negative regulator of _SHP_ genes during fruit dehiscence (Ferrándiz _et al._, 2000).
+Moreover, the putative formation of TDR4-TM29 and TDR4-TAG1 dimers described by Busi _et al._ (2003) would support that _TDR4_ may participate as a linking factor between flower and fruit development.
+In fact, tomato MADS-box genes involved in fruit development are also expressed in different stages of floral development, suggesting that fruit and seed development may be considered as a continuation of the floral development program.
+_
+TM29_, _TAGL1_ and _TAGL11_ are induced immediately after anthesis in the ovary (Busi _et al_ ., 2003), making them candidates to participate in the signalling pathways which trigger fruit development once successful fertilization has taken place (Fig. 4).
+Nevertheless, other functional similarities between _FUL_ and _TDR4_, in particular the existence of genetic interactions of _TDR4_ with MADSbox genes involved in fruit ripening, similar to those described between _FUL_ and _SHP_ genes, remain to be investigated.
+Some of the first evidences supporting an upstream transcriptional control of fruit development came from the characterization of tomato mutants altered in the ripening process (reviewed by Giovannoni, 2004, 2007).
+Among them, _ripening-_ _inhibitor_ ( _rin_ ), _non-ripening_ ( _nor_ ) and _Colorless non-ripening_ ( _Cnr_ ) mutants all produce fruits which are unable to ripen (Table 3) even after being treated with exogenous ethylene.
+Also, the lack of ethylene production and increased climacteric respiration are features shared by these mutants (Vrebalov _et al._, 2002; Giovannoni _et al._, 2004; Manning _et al._, 2006).
+Such results indicate that the affected genes _RIN, NOR_ and _CNR_ promote fruit ripening by a regulatory pathway acting upstream to the ethylene biosynthesis and signalling.
+Additionally, these genes should also participate in an ethylene-independent pathway (Fig. 4) as indicated by the expression changes of ethylene-regulated genes induced by this hormone in _rin, nor_ and _Cnr_ fruits (see Giovannoni, 2007).
+_
+RIN_ is a MADS-box gene of the _SEP_ -clade
+whose mutant recessive allele is caused by a partial deletion which results in a chimeric transcript (Vrebalov _et al._, 2002).
+_
+Cnr_ mutation promotes a dominant epigenetic alteration in the promoter of a SBP-box (SQUAMOSA promoter binding protein) gene (Manning _et al._, 2006), while the less analysed _NOR_ gene encodes a NAC domain transcription factor (Giovannoni _et al._, 2004).
+Genetic interactions among ripening regulators and other fruit developmental genes are being elucidated, but hierarchic relationships among the encoded proteins remains unknown.
+In agreement with the increased level of _TDR4_ transcripts detected when tomato fruits start to ripen (Seymour _et al._, 2002; Eriksson _et al._, 2004), _TDR4_ expression is reduced in the nonripening mutants _
+rin_, _nor_ and _Cnr_ .
+Furthermore, _TDR4_ loss-offunction produces a slight increase in cell wall stiffness of fruits consistent with a _TDR4_ ’s role in regulating cell wall structure (Eriksson _et al._, 2004).
+In agreement, RNAi-mediated inactivation of _TDR4_ makes tomato fruits unable to complete ripening (Angosto _et al._, unpublished data).
+Therefore, _TDR4_ gene has been proposed as a suitable candidate to regulate the ripening process, together _RIN, NOR_ and _CNR_ (Eriksson _et al._, 2004).
+Even more, the formation of putative dimers between TDR4 and other MADS-box proteins (TM29 and TAG1) detected by yeast    _Developmental genetics of tomato_ 1645   two-hybrid analysis could be extended to RIN, as a hypothetical mechanism of ripening control similar to that operating for the specification of floral organ identity (Giovannoni, 2004).
+In the same way, putative interactions between CNR and TDR4 proteins have been proposed by Manning _et al._ (2006) based on the ability of SBP-box gene products to interact with a sequence motif of the _SQUAMOSA_ promoter.
+The expression of _RIN_ and _NOR_ appear unaffected in _Cnr_ mutant fruits, suggesting that they either participate in a separate pathway from _CNR_ or act upstream in the ripening cascade (Eriksson _et al._, 2004; Giovannoni, 2007).
+Additional work is needed to determine genetic and molecular relationships among ripening genes and to identify their targets.
+**Future prospects**   Significant contributions to the developmental genetics of tomato have been made during the last two decades.
+Genetic analysis of tomato mutants and candidate gene approaches are providing excellent tools to isolate key genes involved in vegetative and reproductive development.
+The cloning and functional analysis of tomato homologous genes have revealed that many developmental processes are controlled by genes and proteins which are highly conserved among plant species (e.g. _Arabidopsis_, _Anthirrinum_, petunia).
+However, specific features of tomato fruit seem to require novel gene functions, which have begun to be identified with the isolation of transcription factors involved in fruit development and ripening.
+Recent genomic research indicates that new tomato regulatory genes should be characterized as regulators of the reproductive development in this crop species.
+In fact, new mutations affecting floral transition and fruit development have been isolated from an _in silico_ screening of a saturated tomato library (Menda _et al_ ., 2004) and by insertional mutagenesis (R. Lozano, unpublished data).
+In addition, EST and microarray analyses have allowed the identification of thirteen additional MADS-box genes and more than fifteen putative transcription factors which are expressed in ripening fruits (Giovannoni, 2007).
+In coming years, major challenges will focus on isolating new developmental genes and bridging the gap between these genes and their functions.
+Genomic and sequencing initiatives currently in progress can be expected to unveil the genetic pathways and molecular interactions among transcription factors which regulate when and how flowers and fruits are formed.
+Taken as a whole, these results would favour novel strategies to improve the productivity and fruit quality of tomato.
+_
+Acknowledgements_ _
+We thank Cristina Ferrándiz and Marcos Egea-Cortines for their_ _comments and critical reading of the manuscript.
+This work has been_ _supported by grants BIO2005-09038 and AGL2006-15290-C03-02_ _from the Ministerio de Educación y Ciencia (Spain).
+_   **References**   ALLEN.
+K.D. and SUSSEX, I.M. (1996).
+_
+Falsiflora_ and _anantha_ control early stages of floral meristem development in tomato ( _Lycopersicon esculentum_ Mill.).
+_
+Planta_ 200: 254–264.
+AMPOMAH-DWAMENA, C., MORRIS, B.A., SUTHERLAND, P., VEIT, B. and YAO, J.L. (2002).
+Down-regulation of _TM29_, a tomato _SEPALLATA_ homolog,   1646 _
+R. Lozano et al._   causes parthenocarpic fruit development and floral reversion.
+_
+Plant Physiol-_ _ogy_ 130: 605 - 617.
+ANGENENT, G.C., FRANKEN, J., BUSSCHER, M., VAN DIJKEN, A., VAN WENT, J.L., DONS, H.J. and VAN TUNEN, A.J. (1995).
+A novel class of MADS box genes is involved in ovule development in petunia.
+_
+Plant Cell_ 7: 1569-1582.
+ARUMUGANATHAN, K. and EARLE, E. (1991).
+Nuclear DNA content of some important plant species.
+_
+Plant Mol.
+Biol.
+Rep._ 9: 208-218.   ATHERTON, J.G. and HARRIS, G.P. (1986).
+Flowering.
+In _The Tomato Crop—_ _A Scientific Basis for Improvement_ (Eds.
+J.G. Atherton and J. Rudich).
+Chapman and Hall, London.
+pp.
+167–200.
+BALBI, V. and LOMAX, T.L. (2003).
+Regulation of early tomato fruit development by the _Diageotropica_ gene.
+_
+Plant Physiology_ 131: 186-197.   BARRERO, L.S. and TANKSLEY, S.D. (2004).
+Evaluating the genetic basis of multiple-locule fruit in a broad cross section of tomato cultivars.
+_
+Theor.
+Appl._ _
+Genet.
+_ 109: 669-679.
+BERALDI, D., PICARELLA, M.E., SORESSI, G.P. and MAZZUCATO, A. (2004).
+Fine mapping of the parthenocarpic fruit ( _pat_ ) mutation in tomato.
+_
+Theor.
+_ _
+Appl.
+Genet.
+_ 108: 209-216.
+BLÁZQUEZ, M.A. and WEIGEL, D. (2000).
+Integration of floral inductive signals in _Arabidopsis_ .
+_
+Nature_ 404: 889–892.
+BREWER, M. T., MOYSEENKO, J. B., MONFORTE, A. J. and VAN DER KNAAP, E. (2007).
+Morphological variation in tomato: a comprehensive study of quantitative trait loci controlling fruit shape and development.
+_
+J. Exp.
+Bot._ 58: 1339-1349.
+BUSI, M.V., BUSTAMANTE, C., D’ANGELO, C., HIDALGO-CUEVAS, M., BOGGIO, S., VALLE, E.M. and ZABALETA, E. (2003).
+MADS-box genes expressed during tomato seed and fruit development.
+_
+Plant Mol.
+Biol.
+_ 52: 801-815.
+CARA, B. and GIOVANNONI, J.J. (2008).
+Molecular biology of ethylene during tomato fruit development and maturation.
+_
+Plant Sci._ 175: 106-113.
+CHETELAT, R.T. (2005).
+Revised list of miscellaneous stocks.
+_
+Tomato Genetics_ _
+Cooperative Reports_ 55: 48–69.
+COEN, E.S. and MEYEROWITZ, E. (1991).
+The war of the whorls.
+Genetic interactions controlling flower development.
+_
+Nature_ 353: 31-37.
+CONG, B., LIU, J. and TANKSLEY, S.D. (2002).
+Natural alleles of a tomato QTL modulate fruit size through heterochronic regulatory mutations.
+_
+Proc.
+Natl._ _
+Acad.
+Sci.
+USA_ 99: 13606–13611.
+CONG, B. and TANKSLEY S.D. (2006).
+_
+Fw2.2_ and cell cycle control in developing tomato fruit: a possible example of gene co-option in the evolution of a novel organ.
+_
+Plant Molecular Biology_ 62: 867–880.
+CONG, B., BARRERO, L.S. and TANKSLEY, S.D. (2008).
+Regulatory change in YABBY-like transcription factor led to evolution of extreme fruit size during tomato domestication.
+_
+Nature Genetics_ 40: 800-804.
+DE MARTINO, G., PAN, I., EMMANUEL, E., LEVY, A. and IRISH, V.F. (2006).
+Functional analyses of two tomato _APETALA3_ genes demonstrate diversification in their roles in regulating floral development.
+_
+Plant Cell_ 18: 1833-1845.   DIELEN, V., MARC, D. and KINET, J.M. (1998).
+Flowering in the _uniflora_ mutant of tomato ( _Lycopersicon esculentum_ Mill.):
+description of the reproductive structure and manipulation of flowering time.
+_
+Plant Growth Regulation_ 25: 149-157.   DIELEN, V., QUINET, M., CHAO, J., BATOKO, H., HAVELANGE, A. and KINET J.M. (2004).
+_UNIFLORA_, a pivotal gene that regulates floral transition and meristem identity in tomato ( _Lycopersicon esculentum_ ).
+_
+New Phytologist_ 161: 393-400.
+DOSTAL, H.C., MCGLASSON, E.C. and TIGCHELAAR, E.C. (1974).
+Ripening mutants-
+A tool to study fruit ripening.
+_
+Plant Physiology_ 53: S-61.
+ELLUL, P., ANGOSTO, T., GARCIA-SORGO, B., GARCIA-HURTADO, N., MARTIN-TRILLO, M., SALINAS, M., MORENO, V., LOZANO, R. and MARTINEZZAPATER JM. (2004).
+Expression of _Arabidopsis APETALA1_ in tomato reduces its vegetative cycle without affecting plant production.
+_
+Molecular_ _
+Breeding_ 13: 155-163.
+EMMANUEL, E. and LEVY, A.A. (2002).
+Tomato mutants as tools for functional genomics.
+_
+Curr.
+Op.
+Plant Biol.
+_ 5: 112-117.   ERIKSSON, E.M., BOVY, A., MANNING, K., HARRISON, L., ANDREWS, J., DE    SILVA, J., TUCKER, G.A. and SEYMOUR, G.B. (2004).
+Effect of the _colorless_ _
+non_  - _ripening_ mutation on cell wall biochemistry and gene expression during tomato fruit development and ripening.
+_
+Plant Physiology_ 136: 4184-4197.
+FAVARO, R., PINYOPICH, A., BATTAGLIA, R., KOOIKER, M., BORGHI, L., DITTA, G., YANOFSKY, M.F., KATER, M.M. and COLOMBO, L. (2003).
+MADS-box protein complexes control carpel and ovule development in _Arabidopsis_ .
+_
+Plant Cell_ 15: 2603-2611.   FEHLEISEN, S. (1967).
+_
+Uniflora_ and _conjunctiflora_ :
+Two new mutants in tomato.
+_
+Tomato Genetics Cooperative Reports_ 17: 26   FERRANDIZ, C., LILJEGREN, S.J. and YANOFSKY, M.F. (2000).
+Negative regulation of the _SHATTERPROOF_ genes by _FRUITFULL_ during _Arabidopsis_ fruit development.
+_
+Science_ 289: 436-438.
+FERRARIO, S., IMMINK, R.G.H., SHCHENNIKOVA, A., BUSSCHER-LANGE, J. and ANGENENT, G.C. (2003).
+The MADS box gene _FBP2_ is required for SEPALLATA function in petunia.
+_
+Plant Cell_ 15: 914-925.
+FERRARIO, S., SHCHENNIKOVA, A.V., FRANKEN, J., IMMINK, R.G.H. and ANGENENT, G.C. (2006).
+Control of floral meristem determinacy in petunia by MADS-box transcription factor.”
+_
+Plant Physiology_ 140: 890-898.
+FOS, M., NUEZ, F. and GARCIA-MARTINEZ, J.L. (2000).
+The gene _pat-2_, which induces natural parthenocarpy, alters the gibberellin content in unpollinated tomato ovaries.
+_
+Plant Physiology_ 122: 471-480.
+FOS, M., PROANO, K., NUEZ, F. and GARCIA-MARTINEZ, J.L. (2001).
+Role of gibberellins in parthenocarpic fruit development induced by the genetic system pat-3/pat-4 in tomato.
+_
+Physiologia Plantarum_ 111: 545-550.
+FRARY, A., NESBITT, T.C., GRANDILLO, S., VAN DER KNAAP, E., CONG, B., LIU, J., MELLER, J., ELBER, R., ALPERT, K.B. and TANKSLEY, S.D. (2000).
+_fw2.2_ : a quantitative trait locus key to the evolution of tomato fruit size.
+_
+Science_ 289: 85–88.
+GARCÍA-MARTÍNEZ, J.L., LÓPEZ-DIAZ, I., SÁNCHEZ-BELTRÁN, M.J., PHILLIPS, A.L., WARD, D.A., GASKIN, P. and HEDDEN, P. (1997).
+Isolation and transcript analysis of gibberellin 20-oxidase genes in pea and bean in relation to fruit development.
+_
+Plant Molecular Biology_ 33: 1073-1084.
+GARCÍA-MARTÍNEZ, J.L., MARTÍ, M., SABATER, T., MALDONADO, A. and VERCHER, Y. (1991).
+Development of fertilized ovules and their role in the growth of the pea pod. _
+Physiologia Platarum_ 83: 411-416.
+GILIBERTO, G. PERROTTA, G., PALLARA, P., WELLER, J.L., FRASER, P.D., BRAMLEY, P.M., FIORE, A., TAVAZZA, M. and GIULIANO, G. (2005).
+Manipulation of the blue light photoreceptor Cryptochrome 2 in tomato affects vegetative development, flowering time, and fruit antioxidant content.
+_
+Plant_ _
+Physiology_ 137: 199-208.
+GILLASPY, G., BEN-DAVID, H. and GRUISSEM, W. (1993).
+Fruits: A developmental perspective.
+_
+Plant Cell_ 5: 1439-1451.
+GIOVANNONI, J.J. (2004).
+Genetic regulation of fruit development and ripening.
+_
+Plant Cell_ 16: S170-S180.
+GIOVANNONI, J.J. (2007).
+Fruit ripening mutants yield insights into ripening control.
+_
+Curr.
+Op.
+Plant Biol.
+_ 10: 283-289.
+GIOVANNONI, J.J., TANKSLEY, S.D., VREBALOV, J. and NOENSIE, E. (2004).
+_
+NOR_ gene for use in manipulation of fruit quality and ethylene response.
+US Patent No. 5, 234, 834-issued 13 July 2004.
+GÓMEZ, P., JAMILENA, M., CAPEL, J., ZURITA, S., ANGOSTO, T. and LOZANO, R. (1999).
+_
+Stamenless_, a tomato mutant with homeotic conversions in petals and stamens.
+_
+Planta_ 209: 172-179.
+GONZALO, M. J. AND VAN DER KNAAP, E. (2008).
+A comparative analysis into the genetic bases of morphology in tomato varieties exhibiting elongated fruit shape.
+_
+Theor.
+Appl.
+Genet_ .
+116: 647-656.
+GORGUET, B., VAN HEUSDEN, A.W. and LINDHOUT, P. (2005).
+Parthenocarpic fruit development in tomato.
+_
+Plant Biology:_ 131-139.
+GRANDILLO, S., KU, H.M. and TANKSLEY, S.D. (1999).
+Identifying the loci responsible for natural variation in fruit size and shape in tomato. _
+Theor.
+Appl._ _
+Genet.
+_ 99: 978–987.
+GREB, T., CLARENZ, O., SCHÄFER, E., MÜLLER, D., HERRERO, R., SCHMITZ, G. and THERES, K. (2003).
+Molecular analysis of the _LATERAL SUPPRES-_ _SOR_ gene in _Arabidopsis_ reveals a conserved control mechanism for axillary meristem formation.
+_
+Genes and Development_ 17: 1175-1187.
+HUANG, S., CERNY, R.E., QI, Y., BHAT, D., AYDT, C.M., HANSON, D.D., MALLOY, K.P. and NESS, L.A. (2003).Transgenic studies on the involvement   of cytokinin and gibberellin in male development.
+_
+Plant Physiology_ 131: 12701282.
+IMMINK, R.G.H., HANNAPEL, D.J., FERRARIO, S., BUSSCHER, M., FRANKEN, J., LOOKEREN CAMPAGNE, M.M. and ANGENENT, G.C. (1999).
+A Petunia MADS box gene involved in the transition from vegetative to reproductive development.
+_
+Development_ 126: 5117-5126.
+JIANG, N., GAO, D., XIAO, H., AND VAN DER KNAAP, E. (2009).
+Genome organization of the tomato _sun_ locus and characterization of the unusual retrotransposon Rider.
+_
+The Plant Journal_ .
+Doi: 10.1111/j.1365313X.2009.03946.x   JIMÉNEZ-GOMEZ, J.M., ALONSO-BLANCO, C., BORJA, A., ANASTASIO, G., ANGOSTO, T., LOZANO, R. and MARTINEZ-ZAPATER, J.M. (2007).
+A quantitative genetic analysis of flowering time in tomato.
+_
+Genome_ 50: 303315.
+KATO, K., OHTA, K., SOMATA, Y., ARAKI, T., KANAHAMA, K. and KANAYAMA, Y. (2005).
+Morphological and molecular analyses of the tomato floral mutant _leafy inflorescence_, a new allele ofÄ _falsiflora_ .
+_
+Plant Sci._ 169: 131-138.
+KERR, E.A. (1982).
+_
+Single flower truss ‘sft’_ appears to be on chromosome 3. _
+Tomato Genetics Cooperative Reports_ 32: 31.
+KINET, J.M. and PEET, M.M. (1997).
+Tomato.
+In _The Physiology of Vegetable_ _Crops_ (Ed. H.C. Wien).
+Wallingford: CAB International.
+pp.
+207-258.
+KOORNNEEF, M.K., BESMA, T.D.G., HANHART, C.J., VAN DER VEEN, J.H. and ZEEVAART, J.A.D. (1990).
+The isolation and characterization of gibberellin-deficient mutants in tomato. _Theor.
+Appl.
+Genet_ .
+80: 852-857.
+KU, H., GRANDILLO, S. AND TANKSLEY, S. D. (2000).
+_
+fs8.1_, a major QTL, sets the pattern of tomato carpel shape well before anthesis.
+_
+Theor.
+Appl.
+Genet_ .
+101:873-878.
+LELIEVRE, J.M., LATCHE, A., JONES, B., BOUZAYEN, M. and PECH, J.C. (1997).
+Ethylene and fruit ripening.
+_
+Physiol.
+Plant.
+_ 101: 727.
+LIFSCHITZ, E. and ESHED, Y. (2006).
+Universal florigenic triggered by _FT_ homologues regulate growth and flowering cycles in perennial day-neutral tomato.
+_
+J. Exp.
+Bot._ 57: 3405-3414.
+LIFSCHITZ, E., EVIATAR, T., ROZMAN, A., SHALIT, A., GOLDSHMIDT, A., AMSELLEM, Z., ALVAREZ, J.P. and ESHED, Y. (2006).
+The tomato _FT_ ortholog triggers systemic signals that regulate growth and flowering and substitute for diverse environmental stimuli.
+_
+Proc.
+Natl.
+Acad.
+Sci.
+USA_ 103:  6398–6403.
+LILJEGREN, S.J., DITTA, G.S., ESHED, Y., SAVIDGE, B., BOWMAN, J.L. and YANOFSKY, M.F. (2000).
+_SHATTERPROOF_ MADS-box genes control seed dispersal in _Arabidopsis_ .
+_
+Nature_ 404: 766–770.
+LIPPMAN, Z. B., COHEN, O., ALVAREZ, J.P., ABU-ABIED, M., PEKKER, I., PARAN, I., ESHED, Y., ZAMIR, D. (2008).
+The making of a compound inflorescence in tomato and related nightshades.
+_PLoS Biology_ 6(11): e288.
+LIU, J., CONG, B. and TANKSLEY, S.D. (2003).
+Generation and analysis of an artificial gene dosage series in tomato to study the mechanisms by which the cloned quantitative trait locus _fw2.2_ controls fruit size.
+_
+Plant Physiol.
+_ 132: 292-299.
+LIU, J., VAN ECK, J., CONG, B. AND TANKSLEY, S. D. (2002).
+A new class of regulatory genes underlying the cause of pear-shaped tomato fruit.
+_PNAS_ .
+99: 13302-13306.
+LOHMANN, J.U., HONG, R.L., HOBE, M., BUSCH, M.A., PARCY, F., SIMON, R. and WEIGEL, D. (2001).
+A molecular link between stem cell regulation and floral patterning in _Arabidopsis_ .
+_
+Cell_ 105: 793-803.
+LOZANO, R., ANGOSTO, T., GOMEZ, P., PAYAN, C., CAPEL, J., HUIJSER, P., SALINAS; J. and MARTINEZ-ZAPATER, J.M. (1998) Tomato flower abnormalities induced by low temperatures are associated with changes of expression of MADS-box genes.
+_
+Plant Physiology_ 117: 91-100.
+LUKYANENKO, A.N. (1991).
+Parthenocarpy in tomato.
+In _Genetic Improvement_ _of Tomato,_ Monographs on Theoretical and Applied Genetics 14.
+(Ed.
+G Kalloo).
+Springer-Verlag, Berlin.
+pp. 167-178.
+MALAYER, J.C. and GUARD, A.T. (1964).
+A comparative developmental study of the mutant side-shootless and normal tomato plants.
+_
+Am.
+J. Bot._ 51: 140– 143.
+MANNING, K., TOR, M., POOLE, M., HONG, Y., THOMPSON, A.J., KING, G.J., GIOVANNONI, J.J. and SEYMOUR, G.B. (2006).
+A naturally occurring epigenetic mutation in a gene encoding an SBP-box transcription factor    _Developmental genetics of tomato_ 1647   inhibits tomato fruit ripening.
+_
+Nature Genet.
+_ 38: 948-952.
+MAO, L., BEGUM, D., CHUANG, H.W., BUDIMAN, M,A,, SYMKOWIAK, E,J., IRISH, E.E. and WING, R.A. (2000).
+_
+JOINTLESS_ is a MADS-box gene controlling tomato flower abscission zone development.
+_
+Nature_ 206: 910913.
+MAZZUCATO, A., TADDEI, A.R. and SORESSI, G.P. (1998).
+The parthenocarpic fruit ( _pat_ ) mutant of tomato ( _Lycopersicon esculentum_ Mill.) sets seedless fruits and has aberrant anther and ovule development.
+_
+Develop-_ _ment_ 125: 107.
+MENDA, N., SEMEL, Y., PELED, D., ESHED, Y. and ZAMIR, D. (2004).
+_
+In silico_ screening of a saturated mutation library of tomato.
+_
+Plant Journal_ 38: 861872.
+MEYEROWITZ, E.M., BOWMAN, J.L., BROCKMAN, L.L., DREWS, G.N., JACK, T., SIEBURTH, L.E. and WEIGEL, D. (1991).
+A genetic and molecular model for flower development in _Arabidopsis thaliana_ .
+_
+Development_
+S1: 157-167.
+MOLINERO-ROSALES, N., JAMILENA, M., ZURITA, S., GOMEZ, P., CAPEL, J. and LOZANO, R. (1999).
+_
+FALSIFLORA_, the tomato orthologue of _FLORICAULA_ and _LEAFY_, controls flowering time and floral meristem identity.
+_
+Plant Journal_ 20: 685-693.
+MOLINERO-ROSALES, N., LATORRE, A., JAMILENA, M. and LOZANO R. (2004).
+_
+SINGLE FLOWER TRUSS_ regulates the transition and maintenance of flowering in tomato.
+_
+Planta_ 218: 427-434.
+NASH, A.F., GARDNER, R.G. and HENDERSON, W.R. (1985).
+Evaluation of allelism and seed set of eight stamenless tomato mutants.
+_
+HortScience_ 20: 440-442.
+NUEZ, F., COSTA, J. and CUARTERO, J. (1986).
+Genetics of the parthenocarpy for tomato varieties “Sub-Artic Plenty”, “75/59” and “Severianin”.
+_
+Zeitschrift_ _
+für
+Pflanzebzüchtung_ 96: 200-206.
+PELAZ, S., DITTA, G.S., BAUMANN, E., WISMAN, E. and YANOFSKY, M.F. (2000).
+B and C floral organ identity functions require _SEPALLATA_ MADSbox genes.
+_
+Nature_ 405: 200-203.
+PERALTA, I.E., KNAPP, S.K. and SPOONER, D.M. (2005).
+New species of wild tomatoes ( _Solanum_ section _
+Lycopersicon: Solanaceae_ ) from Northern Peru.
+_Systematic Botany_ 30: 424-434.
+PHILOUZE, J. (1983).
+Epistatic relations between _ls_ and _pat-2_ .
+_
+Tomato Genetics_ _
+Cooperative Reports_ 33: 9-12.
+PHILOUZE, J. and MAISONNEUVE, B. (1978).
+Heredity of the natural ability to set parthenocarpic fruits in the Soviet variety Severianin.
+_
+Tomato Genetics_ _
+Cooperative Reports_ 28: 12-13.
+PINYOPICH, A., DITTA, G.S., SAVIDGE, B., LILJEGREN, S.J., BAUMANN, E., WISMAN, E. and YANOFSKY, M.F. (2003).
+Assessing the redundancy MADS-box genes during carpel and ovule development.
+_
+Nature_ 424: 85-88.
+PNUELI, L., CARMEL-GOREN, L., HAREVEN, D., GUTFINGER, T., ALVAREZ, J., GANAL, M., ZAMIR, D. and LIFSCHITZ, E. (1998).
+The _SELF PRUNING_ gene of tomato regulates vegetative to reproductive switching of sympodial meristems and is the ortholog of _CEN_ and _TFL1_ .
+_
+Development_ 125: 19791989   PNUELI, L., HAREVEN, D., BRODAY, L., HURWITZ, C. and LIFSCHITZ, E. (1994b).
+The _TM5_ MADS box gene mediates organ differentiation in the three inner whorls of tomato flowers.
+_
+Plant Cell_ 6: 175-186.
+PNUELI, L., HAREVEN, D., ROUNSLEY, S.D., YANOFSKY, M.F. and LIFSCHITZ, E. (1994a).
+Isolation of the tomato _AGAMOUS_ gene _TAG1_ and analysis of its homeotic role in transgenic plants.
+_
+Plant Cell_ 6: 163-173.
+QUINET, M. and KINET, J.M. (2007).
+Transition to flowering and morphogenesis of reproductive structures in tomato.
+_
+Int.
+J. Plant Dev.
+Biol.
+_ 1: 64-74.
+QUINET, M., DIELEN, V., BATOKO, H., BOUTRY, M., HAVELANGE, A. and KINET J.M. (2006a).
+Genetic interactions in the control of flowering time and reproductive structure development in tomato ( _Solanum lycopersicum_ ).
+_
+New_ _
+Phytologist_ 170: 701-710.
+QUINET, M., DUBOIS, C., GOFFIN, M.C., CHAO, J., DIELEN, V., BATOKO, H., BOUTRY, M. and KINET J.M. (2006b) Characterization of tomato ( _Solanum_ _lycopersicum_ L.) mutants affected in their flowering time and in the morphogenesis of their reproductive structure.
+_
+J. Exp.
+Bot._ 57: 1381-1390.
+REEVES, P.H. and COUPLAND, G. (2001).
+Analysis of flowering time control in _Arabidopsis_ by comparison of double and triple mutants.
+_
+Plant Physiology_ 126: 1085–1091.   1648 _R. Lozano et al._   RICK, C.M. (1978).
+The tomato. _
+Science_ 239: 66-76.   RICK, C.M. and BUTLER, L. (1956).
+Cytogenetics of tomato.
+_
+Advanced Genetics_ 8: 847-857.   RICK, C.M. and SAWANT, A.C. (1955).
+Factor interactions affecting the phenotypic expression of the _jointless_ character in tomatoes.
+_
+Amer.
+Soc.
+Hort.
+Sci._ 66: 354–360.
+ROBLES, P. and PELAZ, S. (2005).
+Flower and fruit development in _Arabidopsis_ _thaliana_ .
+_
+Int.
+J. Dev.
+Biol.
+_ 49: 633-643.
+ROSS, J.J., O’NEILL, D.P., SMITH, J.J., KERCKHOFFS, L.H.J. and ELLIOTT, R.C. (2000).
+Evidence that auxin promotes gibberellin A1 biosynthesis in pea.
+_
+Plant Journal_ 21: 547-552.
+SAMACH, A. and LOTAN, H. (2007).
+The transition to flowering in tomato. _
+Plant_ _
+Biotechnology_ 24: 71-82.
+SAWHNEY, V.K. (1992).
+Floral mutants in tomato: development, physiology and evolutionary implications.
+_
+Can.
+J. Bot._ 70: 701-707.
+SAWHNEY, V.K. and SHUKLA, A. (1994).
+Male sterility in flowering plants: Are plant growth substances involved?.
+_
+Am.
+J. Bot._ 81: 1640-1647.
+SCHMITZ, G., TILLMANN, E., CARRIERO, F., FIORE, C., CELLINI, F.M. and THERES, K. (2002).
+The tomato _Blind_ gene encodes a MYB transcription factor that controls the formation of lateral meristems.
+_
+Proc.
+Nat.
+Acad.
+Sci._  _
+USA_ 99: 1064-1069.
+SCHUMACHER, K., SCHMITT, T., ROSSBERG, M., SCHMITZ, C. and THERES, K. (1999).
+The _Lateral suppressor_ ( _Ls_ ) gene of tomato encodes a new member of the VHIID protein family.
+_
+Proc.
+Nat.
+Acad.
+Sci.
+USA_ 96: 290-295.   SEYMOUR, G.B., MANNING, K., ERIKSSON, E.M., POPOVICH, A.H. and KING, G.J. (2002).
+Genetic identification and genomic organization of factors affecting fruit texture.
+_
+J. Exp.
+Bot._ 53: 2065 – 2071.
+SORESSI, G.P. and SALAMINI, F. (1975).
+A monomendelian gene inducing parthenocarpic fruits.
+_
+Tomato Genetics Cooperative Reports_ 25: 22.
+STUBBE, H. (1963).
+Mutanten der Kulturtomate _Lycopersicon esculentum_ Millar.
+IV. _
+Kulturpflanze_ 11: 603-644.
+SZYMKOWIAK, E.J. and IRISH, E.E. (2006).
+_
+JOINTLESS_ suppresses sympodial identity in inflorescence meristems of tomato.
+_
+Planta_ 223: 646–658.
+TANKSLEY, S.D. (2004).
+The genetic, developmental, and molecular bases of fruit size and shape variation in tomato.
+_
+Plant Cell_ 16: S181-S189.
+THOMPSON, A.J., TOR, M., BARRY, C.S., VREBALOV, J., ORFILA, C., JARVIS, M.C., GIOVANNONI, J.J., GRIERSON, D. and SEYMOUR, G.B. (1999).‘Molecular and genetic characterization of a novel pleiotropic tomato-ripening mutant.
+_
+Plant Physiology_ 120: 383-389.
+TIGCHELAAR, E.C., McGLASSON, W.B. and BUESCHER R.W. (1978).
+Genetic regulation of tomato fruit ripening.
+_
+HortScience_ 13: 508–513.
+VAN DER HOEVEN, R., RONNING, C., GIOVANNONI, J., MARTIN, G. and TANKSLEY, S. (2002).
+Deductions about the Number, Organization, and Evolution of Genes in the Tomato Genome Based on Analysis of a Large Expressed Sequence Tag Collection and Selective Genomic Sequencing.
+_
+Plant Cell_ 14: 1441–1456.
+VREBALOV, J., RUEZINSKY, D., PADMANABHAN, V., WHITE, R., MEDRANO, D., DRAKE, R., SCHUCH, W. and GIOVANNONI, J. (2002).
+A MADS-Box gene necessary for fruit ripening at the tomato ripening-inhibitor ( _Rin_ ) locus.
+_
+Science_ 296: 343 - 346.
+WEIGEL, D., ALVAREZ, J., SMYTH, D.R., YANOFSKY, M.F. and MEYEROWITZ, E.M. (1992).
+_
+LEAFY_ controls floral meristem identity in _Arabidopsis.
+Cell_ 69: 843–859.
+XIAO, H., JIANG, N., SCHAFFNER, E, STOCKINGER, E. J. AND VAN DER KNAAP, E. (2008).
+A retrotransposon-mediated gene duplication underlies morphological variation of tomato fruit.
+_
+Science_ 310: 1527-1530.
+YEAGER, A.F. (1927).
+Determinate growth in tomato.
+_J. Hered.
+_ 18: 263–265.
+**5 yr ISI Impact Factor (2008)
+= 3.271**   _Developmental genetics of tomato_ 1649    **Further Related Reading,** published previously in the _Int.
+J. Dev.
+Biol.
+_   See our recent Special Issue **Epigenetics & Development** edited by Saadi Khochbin and Stefan Nonchev at: http://www.ijdb.ehu.es/web/contents.php?vol=53&issue=2-3   See Special Issue **Pattern Formation** edited by Michael K. Richardson and Cheng-Ming Chuong at: http://www.ijdb.ehu.es/web/contents.php?vol=53&issue=5-6
+**Chromatin remodeling in plant development** José A. Jarillo, Manuel Piñeiro, Pilar Cubas and José M. Martínez-Zapater Int.
+J. Dev.
+Biol.
+(2009) 53: 1581-1596.
+(doi: 10.1387/ijdb.072460jj)   **Animal reproduction biotechnology in Poland**
+Zdzislaw Smorag, Lucyna Katska-Ksiazkiewicz, Maria Skrzyszowska, Jacek Jura, Barbara Gajda and Michal Bochenek  Int.
+J. Dev.
+Biol.
+(2008)
+52: 151-155   **Gametophyte interaction and sexual reproduction: how plants make a zygote** Leonor C. Boavida, Ana Maria Vieira, Jörg D. Becker and José A. Feijó Int.
+J. Dev.
+Biol.
+(2005) 49: 615-632   **Regulation of phyllotaxis**
+Didier Reinhardt  Int.
+J. Dev.
+Biol.
+(2005) 49: 539-546   **Long-range signalling in plant reproductive development*
+* Paula Suárez-López Int.
+J. Dev.
+Biol.
+(2005) 49: 761-771   **Regulated RNA processing in the control of Arabidopsis flowering** Victor Quesada, Caroline Dean and Gordon G. Simpson Int.
+J. Dev.
+Biol.
+(2005) 49: 773-780   **Environmental regulation of flowering** Israel Ausín, Carlos Alonso-Blanco and José-Miguel Martínez-Zapater Int.
+J. Dev.
+Biol.
+(2005) 49: 689-705   **Flowering: a time for integration** François Parcy Int.
+J. Dev.
+Biol.
+(2005) 49: 585-593   **Flower and fruit development in Arabidopsis thaliana** Pedro Robles and Soraya Pelaz Int.
+J. Dev.
+Biol.
+(2005) 49: 633-643   **Different roles of flowering time genes in the activation of floral initiation genes in Arabidopsis.
+** F Madueño, L Ruiz Garcia, M Wilkinson, G Haughn, J Salinas and J Martinez Zapater Int.
+J. Dev.
+Biol.
+(1996) 40: S125-S126    **5 yr ISI Impact Factor (2008)
+= 3.271**

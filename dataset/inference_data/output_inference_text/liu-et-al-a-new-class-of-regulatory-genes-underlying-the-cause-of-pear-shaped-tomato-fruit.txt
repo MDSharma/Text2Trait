@@ -1,0 +1,281 @@
+## **A new class of regulatory genes underlying the cause** **of pear-shaped tomato fruit**  **Jiping Liu*, Joyce Van Eck** **[†]** **, Bin Cong*, and Steven D. Tanksley*** **[‡]**   *Departments of Plant Breeding and Plant Biology, Cornell University, Ithaca, NY 14853; and [†] Boyce Thompson Institute for Plant Research, Tower Road, Ithaca, NY 14853   Contributed by Steven D. Tanksley, August 13, 2002    **A common, recurring theme in domesticated plants is the occur-** **rence of pear-shaped fruit.
+A major quantitative trait locus (termed** _**ovate**_ **) controlling the transition from round to pear-shaped fruit** **has been cloned from tomato.
+** _**OVATE**_ **is expressed early in flower** **and fruit development and encodes a previously uncharacterized,** **hydrophilic protein with a putative bipartite nuclear localization** **signal, Von Willebrand factor type C domains, and an** � **70-aa** **C-terminal domain conserved in tomato,** _**Arabidopsis**_ **, and rice.
+A** **single mutation, leading to a premature stop codon, causes the** **transition of tomato fruit from round- to pear-shaped.
+Moreover,** **ectopic, transgenic expression of** _**OVATE**_ **unevenly reduces the size** **of floral organs and leaflets, suggesting that OVATE represents a** **previously uncharacterized class of negative regulatory proteins** **important in plant development.
+**  # F ruit-bearing crop plants have been domesticated from a widerange of wild plant species.
+One of the hallmarks of fruit-crop  domestication has been an explosion in fruit shape variation (1, 2), and it is this variation that often determines the market of fruit-bearing crops.
+Despite its historical and economic importance, the molecular basis for fruit shape variation is largely unknown.
+Pear-shaped fruit is one of the most common recurring shape themes.
+Although uncommon in the wild, pearshaped fruit can be found in modern varieties of tomatoes, eggplants, melons, squash, pears, and other fruit-bearing plants.
+However, little is known about the ontology of pear-shaped fruit, except that the molecular events derailing the normal process of spherical growth apparently occur early in flower development (3).
+Pear-shaped fruit possess several phenotypes that differ from those of wild-type fruit: whereas the wild types possess round shaped fruit with seeds distributed around the center of the fruit, pear-shaped fruit are elongated with conspicuous neck constrictions and seeds distributed asymmetrically toward one end of the fruit (4).
+In early literature on tomato genetics, _ovate_ was described as a single recessive gene on chromosome 2 that is responsible for the pear-shaped tomato fruit traits (5–7).
+Recent genetic analyses have further identified _ovate_ as a major quantitative trait (QTL) controlling pear-shaped fruit development in both tomato and eggplant (4, 8).
+To shed light on the molecular basis and genetic lesion(s) involved in the creation of pear-shaped fruit, we have cloned the _ovate_ locus from tomato.
+Protein annotation, overexpression studies, and the recessive nature of _ovate_ indicate that OVATE represents a previously uncharacterized class of negative regulatory proteins important in plant development.
+**Materials and Methods**   **Plant Materials, Growth Conditions, and Floral Organ Measurements.
+** Tomato plants were grown in greenhouses in Ithaca, NY.
+Transgenic plants were generated as described (9).
+To prepare samples for DNA or RNA extractions, leaf, flower, or fruit tissues were frozen in liquid nitrogen immediately after harvests.
+For measurements, 10 anthesis flowers from each transgenic or nontransgenic plant were collected.
+The floral organs, i.e., sepals, petals, stamens, and pistils, were separated from each    other and scanned.
+The length of each organ was measured from the scanned image with SCION software (Scion, Frederick, MD).
+**RNA Extraction, First-Stranded cDNA Synthesis, and RT-PCR.
+** Total RNA from TA496 ( _Lycopersicon esculentum_ ) and TA503 ( _L._ _esculentum_ cv.
+Yellow Pear) was extracted from leaf, flower, or fruit tissues with TRIzol reagent (Invitrogen).
+Superscript RNaseH� Reverse Transcriptase (Invitrogen) was used to synthesize the first-stranded cDNA with the B24 primer (5�-GAC TCG AGT CGA CAT CGA (dT) 17 -3�).
+Full-length cDNA was amplified by PCR from the first-stranded cDNA with primers B25 (5�-GAC TCG AGT CGA CAT CGA-3�) and OV5� (5�GCA GAG ACA AAA AGA ATG GGA A-3�) and subsequently cloned into the pCR2 vector (Invitrogen, Carlsbad, CA).
+**5** � **and 3** � **RACE.
+** 3� RACE was used to amplify _OVATE_ transcripts with primers B25 and RT-CDS6-5� (5�-CAA TCA AGC AAT CCA GAC CA-3�).
+The 5� RACE system (Invitrogen) was used to determine the initial _OVATE_ transcription.
+The first-stranded cDNA was synthesized as described above except that the primer used was CDS6-5�-1 (5�-GGA GGT TCT TCT ACT ACT ACC TA-3�).
+5� RACE PCR primers were AAP (Invitrogen) and CDS6-5�-2 (5�-CGC CTC AAC TAT CAC TCC AT-3�).
+Nest PCR was performed with primers AUAP (Invitrogen) and CDS6-5�-3 (5�-CGA CGA TCT TCT ACC TTT TGA AGA-3�).
+**Binary Constructs for Tomato Transformation.
+*
+*
+To make a complementation construct, a genomic DNA fragment spanning from 2,000 bp upstream of the initial codon to 1,550 bp downstream of the termination codon of _ORF6_ was amplified by PCR from TA496 with primers CDS6- _Nhe_
+I (5�-CAC TAG CTA GCC AAA CTT GCT GTG GCT GGA CAG AA-3�, underlined is the _Nhe_
+I site) and CDS6- _Sal_ I (5�-GTA CGC GTC GAC CAT TTC TCG AGA TGC CTT TCC ACA-3�, underlined is the _Sal_ I site).
+Restriction-digested PCR products were cloned into the pGPTV-Kan vector between the corresponding restriction sites (10).
+For the overexpression construct, a genomic DNA fragment, spanning from the initial codon to the termination codon, was amplified by PCR from TA496 with primers CONS-CDS6_Nhe_ I-L (5�-TCT AGC TAG CAT GAT CTC CGT TGG GTG TTG TA-3�, underlined is the _Nhe_ I site), CONS-CDS6- _Kpn_ I-2 (5� TCG GGG TAC CAG GTG CTA ATC GTT ACG GTA-3�, underlined is the _Kpn_ I site).
+The digested PCR products were cloned into the pPS1 vector behind the double cauliflower mosaic virus (CaMV) 35 _S_ promoters between the _Nhe_
+I and _Kpn_
+I sites.
+The constructs and vectors were individually electroporated into _Agrobacterium tumefaciens_ strain LBA4404 (Invitrogen) and used for tomato transformation.
+The presence of the transgenes was confirmed by PCR and Southern blots.
+Abbreviations: QTL, quantitative trait locus; BAC, bacterial artificial chromosome; SNP, single nucleotide polymorphism; NLS, nuclear localization signal.
+Data deposition: The sequence reported in this paper has been deposited in the GenBank database (accession no. AY140893).   - To whom reprint requests should be addressed.
+E-mail: sdt4@cornell.edu.
+**13302–13306** � PNAS � **October 1, 2002** � vol.
+99 � no. 20 www.pnas.org�cgi�doi�10.1073�pnas.162485999   **Fig.
+1.**
+Molecular cloning of the _OVATE_ QTL.
+( _A_ )
+The location of the major QTLs for both fruit elongation (red) and fruit neck constriction (blue) on chromosome 2. ( _B_ )
+High-resolution mapping of the _ovate_ region.
+Molecular marker TG645 was used to isolate a BAC clone, the BAC19, which covers the _ovate_ region.
+The recombinant events in the original mapping population (3, 4), shown by ‘‘x’’, delimit _ovate_ to a 55-kb region.
+( _C_ )
+Schematic diagram of the 105-kb BAC19 insert.
+Red horizontal arrows orient and size the 17 ORFs (11).
+Vertical arrows and a delta symbol (�) position the SNPs and the 2-bp indel between wild-type round-fruited (TA496) and pear-shaped (TA493) genotypes, respectively.
+( _D_ )
+Structure of the _ORF6_ on BAC19.
+Two exons (black bar) are separated by an intron (thin line) where a crossover event in TA1792, a homozygous recombinant from the original mapping population (3, 4), is indicated as ‘‘x’’.
+The start codon (ATG), stop codon (TAG), and polyA site are as marked.
+A G TA496 -to-T TA493 polymorphism (in red) in the second exon causes an early stop codon in TA493.
+**Real-Time PCR.
+** Levels of the _OVATE_ transcripts were quantified by the ABI Prism 7700 Sequence Detection System (Applied Biosystems).
+Diluted cDNAs were used as PCR templates with conditions recommended by the manufacturer.
+The forward and reverse primers, as well as the probe specific to _OVATE_, are CDS6-708F (5�-GAG CTA CCG GCA
+AGG TTA TCG-3�), CDS6-791R (5�-CAC TAT
+CGC GAA ACT CTC CTT CA-3�) and Probe-735 (6FAM-TTC CCA TCC ACA CTA CAC GGT ATC AGC TTC TT-TRMRA), respectively.
+Distilled water or products of room temperature reactions without reverse transcriptase were used as negative controls.
+The levels of _OVATE_ transcripts were further normalized by endogenous 18S RNA with the Taxman Ribosomal RNA Control Reagents (Applied Biosystems).
+Each set of experiments was repeated three times.
+**Results**   **Genetic and Physical Fine Mapping of the OVATE Region.
+**
+We have previously identified a region which harbors a major QTL responsible for both fruit elongation and neck constriction of the _ovate_ phenotype around the molecular marker TG645 on tomato chromosome 2 (Fig.
+1 _A_ ; ref. 4).
+TG645 was used to screen several tomato bacterial artificial chromosome (BAC) libraries, which identified a BAC clone named BAC19 containing a 105-kb genomic DNA insert that covers the _ovate_ region (Fig. 1 _
+A_ and _B_ ; ref. 3).
+Sequencing of the BAC19 clone revealed 17 putative ORFs (Fig. 1 _C_ ; ref. 11).
+On the bases of the BAC19 sequence, cleaved amplified polymorphic sequence and single nucleotide polymorphism (SNP) markers were developed and used to identify the two closest crossovers flanking the _ovate_ region, which further    **Fig.
+2.*
+*
+Complementation of pear-shaped phenotypes by _OVATE_ .
+Images represent ovaries ( _A_ ) and mature fruit ( _C_ ) as well as their corresponding longitudinal cross sections ( _B_ and _D_, respectively) from wild-type roundfruited TA496 (column 1) or a pear-shaped line (TA503) transformed with vector, native, or 35 _S_ :: _OVATE_ (columns 2, 3, and 4, respectively).
+( _E_ – _G_ )
+Progressive rescue of pear-shaped phenotypes by native _OVATE_ .
+Fruit at early, late, and mature developmental stages, respectively, from an inflorescence of a native transformant.   narrowed the _ovate_ locus to a 55-kb interval encompassing eight _ORFs_ (Fig. 1 _C_ ; ref. 3).
+**Identification of OVATE Candidate Gene.
+**
+To identify the specific gene that causes the pear-shaped phenotype, DNA fragments that cover the corresponding 55-kb region were amplified by PCR from a wild-type (round-fruited) genotype (TA496, _L._ _esculentum_ ) and sequenced.
+A comparison between this sequence and that of the same region derived from an _ovate_ genotype (TA493, _L. esculentum_ cv.
+Heinz 1706, the original BAC sequence) revealed two SNPs and a 2-bp _in_ serted or _del_ eted nucleotide (indel; Fig.
+1 _C_ ).
+The indel and one of the SNPs were located in noncoding regions, whereas the other SNP, a G TA496 to-T TA493 nucleotide polymorphism in the second exon of _ORF6_ (Fig. 1 _D_ ), results in an early stop codon in the _ovate_ genotype, which leads to a 75-aa truncation in the C terminus of the predicted protein.
+The occurrence of a premature stop codon, which would likely result in a partial or complete loss of function, is consistent with the observed allelic interactions at the _ovate_ locus; pear-shaped alleles are recessive or semirecessive to wild-type round-fruited alleles (4).
+Thus, _ORF6_ was considered as a likely candidate for the _ovate_ gene.
+Further evidence in support of this hypothesis came from sequencing _ORF6_ from several pear-shaped tomato varieties, including TA503 ( _L. esculentum_ cv.
+Yellow Pear) (Fig. 2), LA791 ( _L. esculentum_ cv.
+Longjohn), and LA0025.
+All were revealed to possess the identical _ORF6_ sequence, including the premature stop codon, suggesting that these pear-shaped varieties have a common progenitor allele for _ORF6_ .
+A homozygous recombinant line (TA1792; ref. 3), derived from the original mapping population (4), possesses a chimerical _ORF6_ as the result of a crossover in the only intron of _ORF6_ (Fig. 1 _D_ ).
+The 5� regulatory sequence and the first exon are derived from a wild-type round-fruited genotype, whereas the second exon and downstream region is from the _ovate_ genotype.
+TA1792 produced pear-shaped fruit (data not shown), further suggesting    Liu _et al_ .
+PNAS � **October 1, 2002** � vol. 99
+� no. 20 � **13303**   that the premature stop codon in the second exon of _ORF6_ is responsible for the _ovate_ phenotype.
+**Complementation of the Pear-Shaped Fruit Phenotype by OVATE.
+**
+To verify that _ORF6_ is the _ovate_ gene, a genomic DNA fragment covering _ORF6_ and its 5� and 3� untranslated region was amplified from the wild-type round-fruited line (TA496) and cloned into the binary vector pGPTV-Kan (10).
+In addition, an overexpression construct also was produced in which the _ORF6_ coding region from TA496 was cloned into the binary vector pPS1 behind the double CaMV-35 _S_ promoters in a sense orientation.
+Both constructs, as well as the control vectors, were individually transformed into TA503 plants, which contain the _ovate_ allele and normally produce pear-shaped fruit.
+Ten independent T 0 transformants were obtained in which the pear-shaped phenotype was converted to round or semi-round: the transgenes of three and seven lines were driven by native or 35 _S_ promoters, respectively.
+Preanthesis flowers of the nativepromoter transformants showed phenotypes reminiscent of TA503: somewhat elongated ovaries with slight neck constrictions and locular cavities positioned asymmetrically toward one end of the fruit (Fig.
+2 _A_ and _B_ ).
+However, after anthesis, the fruit of these lines gradually became rounder until, at maturity, most of the fruit in a single inflorescence were round (Fig. 2 _E_ – _G_ ), with the locular cavities in the center of the fruit (Fig. 2 _C_ and _D_ ).
+Only the last fruit to develop in the inflorescence showed slight pear-shaped phenotypes (Fig. 2 _G_ ).
+In the overexpression lines, a complete rescue of pear-shaped fruit phenotypes was achieved before anthesis (Fig. 2 _
+A_ and _B_ ).
+These results clearly demonstrated that _ORF6_ complements both fruit elongation and fruit neck constriction phenotypes, indicating that it is the _ovate_ gene.
+**Overexpression of OVATE Confers Abnormal Phenotypes to Tomato** **Plants.
+**
+In addition to producing round fruit, the 35 _S_ overexpression lines displayed a number of abnormal phenotypes, including exserted stigmas (Fig. 3 _
+A_ and _B_ ), slower plant growth, and changed vegetative and floral architecture (Fig. 3 _C_ – _E_ ).
+All floral organs of these overexpression lines were smaller than their nontransformant or native-promoter transformant counterparts (Fig. 3 _B_ ).
+However, the sepals and the stamens were most affected and showed 30–60% more reduction as compared with the petals and pistils (Fig. 3 _B_ ).
+In addition, slower plant growth and smaller compound-leaf size seem to correlate with the stronger overexpression lines (Fig. 3 _C_ and _D_ ).
+In moderate and strong lines (Lines 2 and 3), leaflets became rounder, and serration became less apparent (Fig. 3 _E_ ).
+These results suggest that OVATE is a suppressor of plant growth, and that the exserted stigma phenotype is caused by uneven suppression of different floral organ growth by overexpression of _ovate._
+Overexpression of _ovate_ did not significantly affect male or female fertility, as, after manual selfing, all of the overexpression lines produced fruit with normal seed set (data not shown).
+**OVATE Is Expressed in Reproductive Organs in Early Stages of Flower** **and Fruit Development.
+** There are currently more than 150,000 tomato EST sequences in public databases (www.sgn. cornell.edu), a large proportion of which are derived from cDNA libraries made from developing flower and fruit RNAs.
+A screen of these data revealed no ESTs with a match to _OVATE._
+Moreover, _OVATE_ message was not detected through Northern blots with leaf, flower, or fruit RNAs of different developmental stages, suggesting that _OVATE_ is expressed at low levels during plant development.
+Therefore, real-time PCR was applied to quantify _OVATE_ transcript levels in _ovate_ (TA503) and wild-type (TA496) plants.
+As shown in Fig.
+4, _OVATE_ is expressed primarily in reproductive organs and at an almost undetectable    **Fig.
+3.** Previously uncharacterized phenotypes of _OVATE_ -overexpression lines.
+The pear-shaped line, TA503, was transformed with the binary vector alone (column 1) or 35 _S_ :: _OVATE_ (columns 2–4).
+Lines 1, 2, and 3 represent weaker, modest, and stronger overexpression lines, respectively.
+( _A_ )
+Stigma exsertion phenotype of overexpression lines.
+( _B_ )
+Measurements of the length of different floral organs ( _n_ � 10).
+( _C_ )
+Plant growth inhibition by overexpression of _OVATE_ .
+( _D_ )
+Suppression of leaf size by overexpression of _OVATE_ .
+Shown are the tenth leaves from shoot apices of each line.
+( _E_ )
+The corresponding top leaflets in _D_ .
+Stronger overexpression lines (columns 3 and 4) show changed leaflet shape.
+level in vegetative tissues, including young leaves and shoots.
+_OVATE_ transcripts can be detected in flowers 10 days before anthesis (DBA) and until 8 days after anthesis (DAA) in developing fruit, at which time _ovate_ transcript levels begin to decrease.
+A 16-bp indel at �1,334 in the upstream region might be responsible for the slight difference in _OVATE_ expression levels between TA503 and TA496 plants.
+As pear shape is manifested in ovaries before anthesis in the pear-shaped line (3), TA503, the coincidence of _ovate_ expression and fruit phenotypes   **Fig.
+4.** Relative expression of _OVATE_ in vegetative and floral organs of round-fruited (TA496, black box) and pear-shaped (TA503, white box) genotypes.
+DBA, day before anthesis; DAA, day after anthesis.
+**13304** � www.pnas.org�cgi�doi�10.1073�pnas.162485999 Liu _et al_ .
+**Fig.
+5.** Structure and sequence alignments of OVATE.
+( _A_ )
+Hydrophilicity plot of OVATE.
+( _B_ )
+Schematic diagram of OVATE structure.
+Green box, bipartite nuclear localization signal (NLS); blue boxes, VWFC protein–protein interaction domains; orange box, conserved C-terminal domains from tomatoes, _arabidopsis_, and rice.
+( _C_ )
+Sequence alignment of the conserved carboxyl termini of OVATE with matches from the GenBank EST and nucleotide data bases.
+The consensus sequences are shaded in black boxes.
+*****, location of the premature translation termination in _ovate_ (TA503, TA493).
+further suggests that spatially restricted expression of OVATE might lead to suppression of growth in the fruit neck region.
+**OVATE Encodes a Previously Uncharacterized Class of Regulatory** **Genes Important for Plant Development.
+**
+The full-length complementary DNA (cDNA) sequence of _OVATE_ was obtained through RT-PCR and 5� and 3� RACE.
+Based on the sequence, _ovate_ is predicted to encode a 40.7-kDa hydrophilic protein with a putative bipartite nuclear localization signal (NLS; ref. 12), two putative Von Willebrand factor type C (VWFC) protein–protein interaction domains (13), and an �70-aa carboxyl-terminal domain conserved in tomato, _Arabidopsis_, and rice (Fig. 5 _A_ and _B_ ).
+The premature termination in translation that occurs in the _ovate_ allele would eliminate most of this conserved domain (Fig. 5 _B_ and _C_ ), implicating its functional significance, and may account for the loss-of-function (recessive) phenotypes exhibited by the _ovate_ genotypes.
+The unknown-functioned _OVATE_ homologues in other plant species also contain putative VWFC domains and NLSs in the unconserved region (J.L. and S.D.T., unpublished data).
+**Discussion**   **OVATE Functions as a Plant-Growth Suppressor.
+**
+In the present study, we identified and cloned the fruit shape gene, _OVATE_, which determines the conversion of tomato fruit from round to pear shaped.
+The morphological differences between these fruitshape schemes are conspicuous and complex (Fig. 2 _A_ – _D_, columns 1 and 2) and could be attributed to a well defined modulation of cell proliferation and cell differentiation in tomato fruit.
+_
+OVATE_ is apparently a key player in fueling such transition.
+Early genetic studies indicated that a recessive mutation in _ovate_ is responsible for pear-shaped fruit phenotype in tomato (5–7).
+Sequence comparisons of _OVATE_ alleles indicated that all tested pear-shaped varieties of tomato share the same non-sense mutation that causes truncation of the predicted protein and could account for the loss-of-function (recessive) nature of these alleles (data not shown).
+The homozygous recombinant line,    TA1792, has a chimerical _OVATE_ allele and produced pearshaped fruit, indicating that the mutation in the second exon from the pear-shaped allele is sufficient for fruit shape conversion (Fig.
+1 _D_ ; see _Results_ ).
+Taken together, these results indicate that the wild-type form of OVATE prevents pear-shaped fruit formation.
+As the generation of a pear-shaped fruit could be simply considered as a consequence of an outgrowth of the fruit neck region from a round fruit, OVATE might act as a growth suppressor in the fruit neck region.
+A DNA fragment encompassing the wild-type round-fruited allele of _OVATE_ could largely rescue the fruit phenotype of a pear-shaped tomato line, TA503, suggesting that OVATE is sufficient to suppress fruit neck outgrowth (Fig. 2).
+Transgenic and ectopic overexpression of _OVATE_ not only completely restored round fruit phenotype to the pear-shaped line (Fig. 2 _
+A_ – _C_ ; column 4), but it also led to growth repression and changed architecture of both vegetative and reproductive organs (Fig. 3).
+Interestingly, the fruit size and seed development were not affected by constitutive expression of _OVATE_ in the strong overexpression lines (Fig. 2; J.L. and S.D.T., unpublished data), indicating that different organs respond differently to OVATE.
+This result also suggests that the growth suppression by OVATE is unlikely caused by a nonspecific toxic effect of OVATE on basic cellular processes, as we would expect to see, if this is correct, uniform responses of all organs to overexpressed _OVATE_ .
+In native-promoter transgenic lines, the early fruit were better complemented by _OVATE_ than the late fruit from a single inflorescence of a pear-shaped line (Fig. 2 _E_ – _G_ ), suggesting that _OVATE_ is not only regulated at transcriptional levels but is also regulated by developmental cues.
+Further studies on spatial expression patterns of _OVATE_ will provide more insight into the relation of _OVATE_ expression and its function.
+**OVATE Might Represent a Previously Uncharacterized Class of Regu-** **latory Genes of Plant Growth.
+** _OVATE_ encodes a protein that has no matches to any known functions in databases.
+Sequence alignments and database searches revealed that OVATE contains a bipartite NLS, protein–protein interaction domains, and a conserved Cterminal domain of the plant systems.
+OVATE and its putative homologs in tomato and other plant species share sequence similarity only in this conserved C-terminal domain (Fig. 5 _B_ and _C_ ).
+The non-sense mutation in the tested pear-shaped _ovate_ alleles abolishes most of the conserved domain of the predicted protein (Figs. 1 _D_ and 5 _C_ ; J.L. and S.D.T., unpublished data).
+However, in the nonconserved regions, the OVATE homologs also possess bipartite NLSs and�or the VWFC domains (J.L. and S.D.T., unpublished data), implicating the importance of the structural arrangements of these genes.
+As _OVATE_ is predicted to encode a hydrophilic protein with a putative nuclear localization (Fig. 5 _A_ and _B_ ) and have a broad influence on plant development, it might represent a previously uncharacterized class of regulatory gene family important for plant development.
+Further genetic and biochemical studies of the function of these genes in tomato and other plant species will provide a better generalization for their roles in plant development.
+**Modulation of a Few Major Regulatory Genes Can Fuel Dramatic** **Morphological Changes During Evolution and Domestication.
+**
+Fruit of wild plant species are usually small and round in shape, which facilitates seed distributions by wild animals.
+Domestication has greatly increased the diversities of fruit shape and size of fruit crop plants in accompaniment with other changes, such as overall physiologic responses and adaptations to natural environments.
+Recently, a theory has emerged that major morphological changes during evolution and domestication can be attributable    Liu _et al_ .
+PNAS � **October 1, 2002** � vol. 99
+� no. 20 � **13305**   to a few major regulatory genes of large effects rather than to many genes, each of which contributes a small effect to the changes (14).
+For instance, a non-sense mutation in _BoCAL_ is responsible for the domestication of cauliflower plants (15); the _TB1_ gene of maize is a key regulatory gene that controls the morphological transition of wild maize species to modern cultivated maize (16).
+In the present study, we demonstrate that a non-sense mutation in a single gene, _OVATE_, is sufficient for the transition of   1.
+Nothmann, J. (1986) in _
+Handbook of Fruit Set and Development_, ed.
+Monselise, S. P. (CRC, Boca Raton, FL), pp.
+145–152.
+2.
+Smartt, J. & Simmonds, N. W. (1995) _Evolution of Crop Plants_ (Longman, Essex, U.K.).
+3. Ku, H.-M., Liu, J., Doganlar, S. & Tanksly, S. D. (2001) _
+Genome_ **44,** 470–475.
+4.
+Ku, H.-M., Doganlar, S., Chen, K.-Y. & Tanksley, S. D. (1999) _Theor.
+Appl._ _
+Genet.
+_
+**9,** 844–850.
+5.
+Hederick, U. P. & Booth, N. O. (1907) _
+Proc. Am.
+Soc.
+Hort.
+Sci._
+**5,** 19–24.
+6.
+MacArthur, J. W. (1926) _Genetics_ **11,** 387–405.
+7.
+Lindstrom, E. W. (1927) _J. Agric.
+Res._
+**34,** 961–985.
+8.
+Doganlar, S., Frary, A., Daunay, M.-C., Lester, R. N. & Tanksley, S. D. (2002) _Genetics_ **161,** in press.
+round fruit to pear-shaped fruit.
+The current study concerning the evolution of fruit shape development provides additional evidence in support of the regulatory theory.
+We thank J. Nasrallah and J. Hua for critical comments; and Ada Snyder, Changqin Xu, and Xiaomin Jia for technical assistance.
+This work was supported by the National Science Foundation, the U.S. Department of Agriculture Plant Genome Program, and the U.S.–Israel Binational Agriculture Research and Development Fund (S.D.T.).
+9.
+McCormick, S., Niedermeyer, J., Fry, J., Barnason, A., Horsch, R. & Fraley, R. (1986) _
+Plant Cell Rep._ **5,** 81–84.
+10.
+Becker, D., Kemper, E., Schell, J. & Masterson, R. (1992) _Plant Mol.
+Biol.
+_
+**20,** 1195–1197.
+11.
+Ku, H.-M., Vision, T., Liu, J. & Tanksley, S. D. (2000) _Proc.
+Natl.
+Acad.
+Sci._ _
+USA_ **97,** 9121–9126.
+12.
+Robbins, J., Dilworth, S. M., Laskey, R. A. & Dingwall, C. (1991) _Cell_ **64,** 615–623.
+13.
+Hunt, L. T. & Barker, W. C. (1987) _Biochem.
+Biophys.
+Res. Commun.
+_
+*
+*144,**
+876–882.
+14.
+Doebley, J. & Lukens, L. (1998) _
+Plant Cell_ **10,** 1075–1082. 15.
+Kempin, S., Savidge, S. & Yanofsky, F. (1995) _
+Science_ **267,** 522–525.
+16.
+Doebley, J., Stec, A. & Hubbard, L. (1997) _Nature (London)_ **386,** 485–488.
+**13306** � www.pnas.org�cgi�doi�10.1073�pnas.162485999 Liu _et al_ .

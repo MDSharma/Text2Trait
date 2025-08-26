@@ -159,16 +159,16 @@ def init_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--task", default='re', type=str)
     parser.add_argument("--task_type", default='pair', help="span, pair, hyperpair", type=str)
-    parser.add_argument("--data", default='nyt', type=str)
+    parser.add_argument("--data", default='gwas', type=str)
 
     parser.add_argument("--do_test", action='store_true',
                         help="if yes then need testing label in test_file",
                         default=False)  # False, True
-    parser.add_argument("--test_file", default='test.json', type=str)
+    parser.add_argument("--test_file", default='test_inference.json', type=str)
     parser.add_argument("--label_file", default='labels.json', type=str)
     parser.add_argument("--config_file", default='config/config.json', type=str)
 
-    parser.add_argument("--model_checkpoint", default=r'checkpoint/pair/re/nyt/finetuned|uie|epoch=0004|step=0001565.ckpt', type=str) # example: checkpoint/pair/re/nyt/finetuned|uie|epoch=0001|step=0000626.ckpt
+    parser.add_argument("--model_checkpoint", default=r'checkpoint/pair/re/gwas/finetuned|uie|epoch=0000|step=0000001.ckpt', type=str) # example: checkpoint/pair/re/nyt/finetuned|uie|epoch=0001|step=0000626.ckpt
     parser.add_argument("--exp_version", default=1, type=int)
 
     parser.add_argument("--max_input_seq_length", default=256, type=int)

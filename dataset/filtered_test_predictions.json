@@ -1,0 +1,138 @@
+[
+    {
+        "sentence": "Our study identified SlKLUH as the second major gene controlling fruit mass in a vegetable or fruit crop, shedding light on the molecular regulation of this trait in plants.",
+        "lhe": "【   【  SlKLUH  ，  Gene  【  is_related_to  ￥  fruit mass  ，  Tra",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit mass",
+                    "attr": "Tra"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "On the other hand, the mutations in FLORAL4 caused a moderate increase in 3-methylvaleric acid content.",
+        "lhe": "【   【  FLORAL4  ，  Gene  【  regulates  ￥  3-methylvalric acid content  ，  Tra",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "FLORAL4",
+                    "attr": "Gene"
+                },
+                "rel": "regulates",
+                "span-e": {
+                    "span": "3-methylvalric acid content",
+                    "attr": "Tra"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "The results showed that overexpression of SlOFP20 in Yellow Pear produced much rounder fruits than the non-transformed Yellow Pear as well as shortened leaves and rounder leaflets (Fig. 1c; Supplementary Fig. 3; Supplementary Data 1).",
+        "lhe": "【   【  SlOFP20  ，  Gene  【  regulates  ￥  rounder leaflets  ，  Trait",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlOFP20",
+                    "attr": "Gene"
+                },
+                "rel": "regulates",
+                "span-e": {
+                    "span": "rounder leaflets",
+                    "attr": "Trait"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "fw3.2 Regulates Fruit Mass, Delays Ripening, and Modulates Plant Architecture.",
+        "lhe": "【   【  fw3.2  ，  Gene  【  regulates  ￥  fruit mass  ，  Trait  】   】   】",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "fw3.2",
+                    "attr": "Gene"
+                },
+                "rel": "regulates",
+                "span-e": {
+                    "span": "fruit mass",
+                    "attr": "Trait"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "We also found two additional MTAs for the fruit weight (35.19 Mb) and fruit width (34.84 Mb) in the known QTL region on chromosome 2.",
+        "lhe": "【   【  QTL  ，  gene  【  is_related_to  ￥  fruit width  ，   ，  gene  ，  gene",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "QTL",
+                    "attr": "gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "gene",
+                    "attr": "gene"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "The lengths of other plant organs were not affected in the NILs, suggesting a specific role of the natural alleles of SlKLUH in the regulation of fruit and seed mass.",
+        "lhe": "【   【  SlKLUH  ，  Gene  【  is_related_to  ￥  fruit mass  ，  Tra",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlKLUH",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit mass",
+                    "attr": "Tra"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Two additional members of this subfamily, CYP78A27 and CYP78A28, control colony size in moss (28).",
+        "lhe": "【   【  CYP78A27  ，  Gene  【  regulates  ￥  colony size  ，  Trait",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "CYP78A27",
+                    "attr": "Gene"
+                },
+                "rel": "regulates",
+                "span-e": {
+                    "span": "colony size",
+                    "attr": "Trait"
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "During fruit growth, SlCDKA1, SlCDCB1, SlCDKB2 (cell cycle control), FW2.2, SlKLUH/FW3.2, FW11.3, OVATE, SUN, SlIMA (cell division control), and SlPIN4 (auxin signaling) are active",
+        "lhe": "【   【  SlCDKA1  ，  Gene  【  is_related_to  ￥  fruit growth  ，  Tra",
+        "pairs": [
+            {
+                "span-s": {
+                    "span": "SlCDKA1",
+                    "attr": "Gene"
+                },
+                "rel": "is_related_to",
+                "span-e": {
+                    "span": "fruit growth",
+                    "attr": "Tra"
+                }
+            }
+        ]
+    }
+]

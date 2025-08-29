@@ -1,0 +1,29 @@
+{
+  "re": "relation extraction",
+  "span-attribute": {
+    "Gene": "gene",
+    "Regulator": "regulator",
+    "Variant": "variant",
+    "Protein": "protein",
+    "Trait": "trait",
+    "Enzyme": "enzyme",
+    "QTL": "qtl",
+    "Coordinates": "coordinates",
+    "Metabolite": "metabolite"
+  },
+  "relation-type": {
+    "part_of": "part_of",
+    "develops_from": "develops_from",
+    "is_related_to": "is_related_to",
+    "is_not_related_to": "is_not_related_to",
+    "increases": "increases",
+    "decreases": "decreases",
+    "influences": "influences",
+    "does_not_influence": "does_not_influence",
+    "may_influence": "may_influence",
+    "may_not_influence": "may_not_influence",
+    "disrupts": "disrupts",
+    "regulates": "regulates",
+    "contributes_to": "contributes_to"
+  }
+}

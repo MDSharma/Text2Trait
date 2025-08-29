@@ -1,0 +1,1892 @@
+[
+  {
+    "type": "INFLUENCES",
+    "source": "N1",
+    "target": "N2"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N3",
+    "target": "N4"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N3",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N6",
+    "target": "N7"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N8",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N9",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N10",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N11",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N12",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N13",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N14",
+    "target": "N5"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N3",
+    "target": "N5"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N12",
+    "target": "N5"
+  },
+  {
+    "type": "DELAYS",
+    "source": "N12",
+    "target": "N15"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N12",
+    "target": "N4"
+  },
+  {
+    "type": "DELAYS",
+    "source": "N16",
+    "target": "N15"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N17",
+    "target": "N18"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N17",
+    "target": "N19"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N20",
+    "target": "N21"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N20",
+    "target": "N22"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N20",
+    "target": "N23"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N20",
+    "target": "N24"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N20",
+    "target": "N25"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N12",
+    "target": "N5"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N26",
+    "target": "N27"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N28",
+    "target": "N5"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N28",
+    "target": "N18"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N28",
+    "target": "N24"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N28",
+    "target": "N15"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N29",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N30",
+    "target": "N31"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N32",
+    "target": "N5"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N3",
+    "target": "N5"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N33",
+    "target": "N34"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N35",
+    "target": "N34"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N36",
+    "target": "N34"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N37",
+    "target": "N38"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N39",
+    "target": "N38"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N30",
+    "target": "N5"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N28",
+    "target": "N24"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N28",
+    "target": "N15"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N29",
+    "target": "N18"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N29",
+    "target": "N24"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N29",
+    "target": "N15"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N40",
+    "target": "N5"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N3",
+    "target": "N18"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N3",
+    "target": "N41"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N3",
+    "target": "N42"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N43",
+    "target": "N44"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N45",
+    "target": "N44"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N43",
+    "target": "N46"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N47",
+    "target": "N48"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N49",
+    "target": "N48"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N49",
+    "target": "N50"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N47",
+    "target": "N50"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N51",
+    "target": "N44"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N51",
+    "target": "N44"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N51",
+    "target": "N52"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N51",
+    "target": "N53"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N54",
+    "target": "N55"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N56",
+    "target": "N57"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N58",
+    "target": "N6"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N59",
+    "target": "N6"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N60",
+    "target": "N6"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N61",
+    "target": "N62"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N63",
+    "target": "N62"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N6",
+    "target": "N57"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N64",
+    "target": "N65"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N66",
+    "target": "N67"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N68",
+    "target": "N69"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N70",
+    "target": "N57"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N70",
+    "target": "N71"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N72",
+    "target": "N6"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N72",
+    "target": "N57"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N73",
+    "target": "N74"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N75",
+    "target": "N57"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N76",
+    "target": "N57"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N77",
+    "target": "N78"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N79",
+    "target": "N80"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N81",
+    "target": "N80"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N82",
+    "target": "N80"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N83",
+    "target": "N84"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N85",
+    "target": "N84"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N86",
+    "target": "N87"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N88",
+    "target": "N89"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N88",
+    "target": "N90"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N88",
+    "target": "N91"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N92",
+    "target": "N93"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N94",
+    "target": "N95"
+  },
+  {
+    "type": "DEVELOPS_FROM",
+    "source": "N95",
+    "target": "N96"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N97",
+    "target": "N98"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N99",
+    "target": "N98"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N100",
+    "target": "N98"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N101",
+    "target": "N98"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N102",
+    "target": "N103"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N104",
+    "target": "N105"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N106",
+    "target": "N103"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N106",
+    "target": "N105"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N107",
+    "target": "N108"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N107",
+    "target": "N109"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N110",
+    "target": "N108"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N110",
+    "target": "N109"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N111",
+    "target": "N112"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N111",
+    "target": "N113"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N114",
+    "target": "N115"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N116",
+    "target": "N117"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N118",
+    "target": "N119"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N120",
+    "target": "N121"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N122",
+    "target": "N123"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N124",
+    "target": "N125"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N126",
+    "target": "N127"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N128",
+    "target": "N129"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N130",
+    "target": "N131"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N132",
+    "target": "N133"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N134",
+    "target": "N133"
+  },
+  {
+    "type": "DEVELOPS_FROM",
+    "source": "N135",
+    "target": "N136"
+  },
+  {
+    "type": "DEVELOPS_FROM",
+    "source": "N135",
+    "target": "N137"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N138",
+    "target": "N139"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N140",
+    "target": "N139"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N141",
+    "target": "N142"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N143",
+    "target": "N142"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N141",
+    "target": "N144"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N143",
+    "target": "N144"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N138",
+    "target": "N44"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N140",
+    "target": "N44"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N141",
+    "target": "N44"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N143",
+    "target": "N44"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N140",
+    "target": "N46"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N141",
+    "target": "N145"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N146",
+    "target": "N147"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N146",
+    "target": "N148"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N58",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N150",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N151",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N152",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N153",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N154",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N155",
+    "target": "N149"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N156",
+    "target": "N149"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N58",
+    "target": "N157"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N150",
+    "target": "N157"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N151",
+    "target": "N158"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N152",
+    "target": "N158"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N151",
+    "target": "N159"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N152",
+    "target": "N159"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N151",
+    "target": "N160"
+  },
+  {
+    "type": "SEPTUM",
+    "source": "N152",
+    "target": "N159"
+  },
+  {
+    "type": "DISRUPTS",
+    "source": "N161",
+    "target": "N162"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N161",
+    "target": "N163"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N63",
+    "target": "N164"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N63",
+    "target": "N165"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N166",
+    "target": "N167"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N166",
+    "target": "N168"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N169",
+    "target": "N170"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N169",
+    "target": "N171"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N172",
+    "target": "N173"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N172",
+    "target": "N5"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N174",
+    "target": "N175"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N176",
+    "target": "N175"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N177",
+    "target": "N175"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N178",
+    "target": "N179"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N180",
+    "target": "N179"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N181",
+    "target": "N182"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N183",
+    "target": "N182"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N184",
+    "target": "N185"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N186",
+    "target": "N185"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N187",
+    "target": "N188"
+  },
+  {
+    "type": "ENCODE",
+    "source": "N189",
+    "target": "N190"
+  },
+  {
+    "type": "ENCODE",
+    "source": "N162",
+    "target": "N191"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N192",
+    "target": "N193"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N192",
+    "target": "N194"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N192",
+    "target": "N162"
+  },
+  {
+    "type": "DISRUPTS",
+    "source": "N195",
+    "target": "N196"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N197",
+    "target": "N149"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N197",
+    "target": "N198"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N197",
+    "target": "N199"
+  },
+  {
+    "type": "IS_A",
+    "source": "N197",
+    "target": "N200"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N197",
+    "target": "N201"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N202",
+    "target": "N203"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N203",
+    "target": "N204"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N197",
+    "target": "N205"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N197",
+    "target": "N206"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N197",
+    "target": "N207"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N197",
+    "target": "N208"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N197",
+    "target": "N209"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N210",
+    "target": "N211"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N212",
+    "target": "N213"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N214",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N216",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N217",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N218",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N219",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N220",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N221",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N222",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N223",
+    "target": "N215"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N197",
+    "target": "N224"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N225",
+    "target": "N226"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N225",
+    "target": "N227"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N225",
+    "target": "N228"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N229",
+    "target": "N230"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N231",
+    "target": "N230"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N232",
+    "target": "N233"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N234",
+    "target": "N233"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N235",
+    "target": "N233"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N236",
+    "target": "N237"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N238",
+    "target": "N237"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N239",
+    "target": "N237"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N240",
+    "target": "N229"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N229",
+    "target": "N241"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N242",
+    "target": "N243"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N244",
+    "target": "N243"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N245",
+    "target": "N243"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N246",
+    "target": "N247"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N248",
+    "target": "N247"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N248",
+    "target": "N240"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N249",
+    "target": "N250"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N251",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N252",
+    "target": "N253"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N197",
+    "target": "N254"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N197",
+    "target": "N250"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N197",
+    "target": "N255"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N256",
+    "target": "N257"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N256",
+    "target": "N258"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N138",
+    "target": "N259"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N140",
+    "target": "N259"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N260",
+    "target": "N259"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N261",
+    "target": "N259"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N141",
+    "target": "N259"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N143",
+    "target": "N259"
+  },
+  {
+    "type": "NEGATIVELY_CORRELATED",
+    "source": "N6",
+    "target": "N262"
+  },
+  {
+    "type": "NEGATIVELY_CONTRIBUTES_TO",
+    "source": "N263",
+    "target": "N264"
+  },
+  {
+    "type": "DERIVED_FROM",
+    "source": "N265",
+    "target": "N266"
+  },
+  {
+    "type": "NEGATIVELY_CONTRIBUTES_TO",
+    "source": "N265",
+    "target": "N267"
+  },
+  {
+    "type": "NEGATIVELY_CONTRIBUTES_TO",
+    "source": "N266",
+    "target": "N267"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N71",
+    "target": "N262"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N268",
+    "target": "N175"
+  },
+  {
+    "type": "HAS_COORDINATES",
+    "source": "N269",
+    "target": "N270"
+  },
+  {
+    "type": "HAS_COORDINATES",
+    "source": "N271",
+    "target": "N272"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N273",
+    "target": "N274"
+  },
+  {
+    "type": "DEVELOPS_FROM",
+    "source": "N273",
+    "target": "N98"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N275",
+    "target": "N262"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N276",
+    "target": "N262"
+  },
+  {
+    "type": "ASOCIATED_WITH",
+    "source": "N273",
+    "target": "N277"
+  },
+  {
+    "type": "HAS_COORDINATES",
+    "source": "N273",
+    "target": "N278"
+  },
+  {
+    "type": "HAS_COORDINATES",
+    "source": "N273",
+    "target": "N279"
+  },
+  {
+    "type": "HAS_COORDINATES",
+    "source": "N273",
+    "target": "N280"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N281",
+    "target": "N277"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N282",
+    "target": "N273"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N282",
+    "target": "N283"
+  },
+  {
+    "type": "CONTROLS",
+    "source": "N284",
+    "target": "N285"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N284",
+    "target": "N224"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N286",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N287",
+    "target": "N149"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N288",
+    "target": "N149"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N58",
+    "target": "N289"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N290",
+    "target": "N291"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N292",
+    "target": "N289"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N292",
+    "target": "N58"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N58",
+    "target": "N293"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N9",
+    "target": "N149"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N290",
+    "target": "N293"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N290",
+    "target": "N294"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N295",
+    "target": "N293"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N296",
+    "target": "N295"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N296",
+    "target": "N297"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N298",
+    "target": "N149"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N298",
+    "target": "N299"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N300",
+    "target": "N301"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N300",
+    "target": "N302"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N303",
+    "target": "N6"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N155",
+    "target": "N44"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N304",
+    "target": "N305"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N43",
+    "target": "N306"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N138",
+    "target": "N307"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N308",
+    "target": "N138"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N309",
+    "target": "N149"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N309",
+    "target": "N310"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N311",
+    "target": "N312"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N313",
+    "target": "N314"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N309",
+    "target": "N143"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N315",
+    "target": "N316"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N315",
+    "target": "N289"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N315",
+    "target": "N317"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N141",
+    "target": "N317"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N143",
+    "target": "N317"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N318",
+    "target": "N317"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N319",
+    "target": "N317"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N320",
+    "target": "N193"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N321",
+    "target": "N193"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N322",
+    "target": "N193"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N323",
+    "target": "N193"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N324",
+    "target": "N193"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N325",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N327",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N229",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N290",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N300",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N328",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N140",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N138",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N329",
+    "target": "N326"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N320",
+    "target": "N326"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N245",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N244",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N242",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N331",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N332",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N77",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N333",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N334",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N335",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N252",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N336",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N337",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N338",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N339",
+    "target": "N330"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N340",
+    "target": "N330"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N341",
+    "target": "N342"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N343",
+    "target": "N342"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N320",
+    "target": "N344"
+  },
+  {
+    "type": "DISRUPTS",
+    "source": "N345",
+    "target": "N346"
+  },
+  {
+    "type": "DISRUPTS",
+    "source": "N346",
+    "target": "N193"
+  },
+  {
+    "type": "DISRUPTS",
+    "source": "N347",
+    "target": "N193"
+  },
+  {
+    "type": "DISRUPTS",
+    "source": "N348",
+    "target": "N349"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N275",
+    "target": "N6"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N275",
+    "target": "N78"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N350",
+    "target": "N351"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N350",
+    "target": "N352"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N350",
+    "target": "N353"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N345",
+    "target": "N354"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N355",
+    "target": "N356"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N336",
+    "target": "N357"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N336",
+    "target": "N358"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N153",
+    "target": "N359"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N155",
+    "target": "N149"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N143",
+    "target": "N360"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N141",
+    "target": "N361"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N153",
+    "target": "N164"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N155",
+    "target": "N164"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N61",
+    "target": "N362"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N363",
+    "target": "N6"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N363",
+    "target": "N364"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N365",
+    "target": "N6"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N365",
+    "target": "N364"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N366",
+    "target": "N367"
+  },
+  {
+    "type": "INHERES_IN",
+    "source": "N368",
+    "target": "N369"
+  },
+  {
+    "type": "INHERES_IN",
+    "source": "N368",
+    "target": "N370"
+  },
+  {
+    "type": "PART_OF",
+    "source": "N371",
+    "target": "N372"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N365",
+    "target": "N372"
+  },
+  {
+    "type": "INHERES_IN",
+    "source": "N58",
+    "target": "N373"
+  },
+  {
+    "type": "INHERES_IN",
+    "source": "N304",
+    "target": "N374"
+  },
+  {
+    "type": "INHERES_IN",
+    "source": "N153",
+    "target": "N375"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N376",
+    "target": "N6"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N377",
+    "target": "N364"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N377",
+    "target": "N372"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N378",
+    "target": "N6"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N379",
+    "target": "N364"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N380",
+    "target": "N381"
+  },
+  {
+    "type": "INCREASE",
+    "source": "N382",
+    "target": "N383"
+  },
+  {
+    "type": "INCREASE",
+    "source": "N382",
+    "target": "N384"
+  },
+  {
+    "type": "INCREASE",
+    "source": "N382",
+    "target": "N385"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N382",
+    "target": "N386"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N387",
+    "target": "N388"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N383",
+    "target": "N388"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N384",
+    "target": "N388"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N57",
+    "target": "N388"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N389",
+    "target": "N390"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N389",
+    "target": "N391"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N392",
+    "target": "N393"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N394",
+    "target": "N395"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N79",
+    "target": "N396"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N81",
+    "target": "N396"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N397",
+    "target": "N384"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N397",
+    "target": "N385"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N398",
+    "target": "N399"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N57",
+    "target": "N400"
+  },
+  {
+    "type": "INFLUENCE",
+    "source": "N384",
+    "target": "N400"
+  }
+]

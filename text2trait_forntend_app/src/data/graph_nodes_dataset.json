@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "N1",
+    "label": "Enzyme",
+    "text": "cytochrome P450 ",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N2",
+    "label": "Trait",
+    "text": "domestication",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N3",
+    "label": "Gene",
+    "text": "SlKLUH",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N4",
+    "label": "Trait",
+    "text": "plant architecture",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N5",
+    "label": "Trait",
+    "text": "fruit mass",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N6",
+    "label": "Trait",
+    "text": "fruit weight",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N7",
+    "label": "Gene",
+    "text": "CaKLUH",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N8",
+    "label": "QTL",
+    "text": "fw1.1",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N9",
+    "label": "QTL",
+    "text": "fw2.2",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N10",
+    "label": "QTL",
+    "text": "fw2.3",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N11",
+    "label": "QTL",
+    "text": "fw3.1",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N12",
+    "label": "QTL",
+    "text": "fw3.2",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N13",
+    "label": "QTL",
+    "text": "fw4.1",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N14",
+    "label": "QTL",
+    "text": "fw9.1",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N15",
+    "label": "Trait",
+    "text": "ripening",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N16",
+    "label": "QTL",
+    "text": "fw3.2(ys) NIL",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N17",
+    "label": "QTL",
+    "text": "fw3.2(ys)",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N18",
+    "label": "Trait",
+    "text": "seed mass",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N19",
+    "label": "Trait",
+    "text": "seed number",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N20",
+    "label": "QTL",
+    "text": "fw3.2(wt)",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N21",
+    "label": "Trait",
+    "text": "fruit number",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N22",
+    "label": "Trait",
+    "text": "yield per plant",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N23",
+    "label": "Trait",
+    "text": "inflorescences",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N24",
+    "label": "Trait",
+    "text": "side shoots",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N25",
+    "label": "Trait",
+    "text": "side shoot length",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N26",
+    "label": "Variant",
+    "text": "ORF6 promoter SNP",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N27",
+    "label": "Trait",
+    "text": "fruit mass differences",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N28",
+    "label": "Gene",
+    "text": "ORF6",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N29",
+    "label": "Gene",
+    "text": "ORF7",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N30",
+    "label": "Variant",
+    "text": "M9",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N31",
+    "label": "Trait",
+    "text": "increased fruit mass",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N32",
+    "label": "Gene",
+    "text": "KLUH",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N33",
+    "label": "Gene",
+    "text": "CYP78A9",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N34",
+    "label": "Trait",
+    "text": "organ size",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N35",
+    "label": "Gene",
+    "text": "CYP78A6",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N36",
+    "label": "Gene",
+    "text": "CYP78A11",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N37",
+    "label": "Gene",
+    "text": "CYP78A27",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N38",
+    "label": "Trait",
+    "text": "colony size",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N39",
+    "label": "Gene",
+    "text": "CYP78A28",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N40",
+    "label": "QTL",
+    "text": "SlFW2.2/CNR",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N41",
+    "label": "Trait",
+    "text": "plant growth",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N42",
+    "label": "Trait",
+    "text": "plant development",
+    "source": "https://doi.org/https://doi.org/10.1073/pnas.1307313110"
+  },
+  {
+    "id": "N43",
+    "label": "Protein",
+    "text": "OVATE",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N44",
+    "label": "Trait",
+    "text": "fruit shape",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N45",
+    "label": "Protein",
+    "text": "TONNEAU1",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N46",
+    "label": "Trait",
+    "text": "fruit length",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N47",
+    "label": "Protein",
+    "text": "LONGIFOLIA1",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N48",
+    "label": "Trait",
+    "text": "aerial parts",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N49",
+    "label": "Protein",
+    "text": "LONGIFOLIA2",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N50",
+    "label": "Trait",
+    "text": "grain shape",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N51",
+    "label": "Gene",
+    "text": "SlOFP20",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N52",
+    "label": "Trait",
+    "text": "leaf length",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N53",
+    "label": "Trait",
+    "text": "leaf shape",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N54",
+    "label": "Gene",
+    "text": "phytoene synthase 1",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N55",
+    "label": "Trait",
+    "text": "bicolored fruit",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N56",
+    "label": "Trait",
+    "text": "Fruit weight",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N57",
+    "label": "Trait",
+    "text": "Brix",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N58",
+    "label": "Gene",
+    "text": "fw2.2",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N59",
+    "label": "Gene",
+    "text": "cytochrome P450 Kluh",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N60",
+    "label": "Gene",
+    "text": "CELL SIZE REGULATOR",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N61",
+    "label": "Gene",
+    "text": "ENO",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N62",
+    "label": "Trait",
+    "text": "floral meristem activity",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N63",
+    "label": "Regulator",
+    "text": "AP2/ERF",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N64",
+    "label": "Gene",
+    "text": "Compound Inflorescence",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N65",
+    "label": "Trait",
+    "text": "inflorescence structure",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N66",
+    "label": "Variant",
+    "text": "(r) mutants",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N67",
+    "label": "Trait",
+    "text": "yellow sectors",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N68",
+    "label": "Variant",
+    "text": "solcap_snp_sl_18959",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N69",
+    "label": "Gene",
+    "text": "glutamate synthase",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N70",
+    "label": "Variant",
+    "text": "solcap_snp_39725",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N71",
+    "label": "Gene",
+    "text": "Lin5",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N72",
+    "label": "Variant",
+    "text": "solcap_snp_sl_21280",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N73",
+    "label": "Metabolite",
+    "text": "aspartate",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N74",
+    "label": "Variant",
+    "text": "solcap_snp_sl_56404",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N75",
+    "label": "Variant",
+    "text": "solcap_snp_sl_39725",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N76",
+    "label": "Gene",
+    "text": "SELP PRUNING",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N77",
+    "label": "Gene",
+    "text": "LIN5",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N78",
+    "label": "Trait",
+    "text": "sugar content",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.16268"
+  },
+  {
+    "id": "N79",
+    "label": "Gene",
+    "text": "rin",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N80",
+    "label": "Trait",
+    "text": "tomato fruit ripening",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N81",
+    "label": "Gene",
+    "text": "nor",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N82",
+    "label": "Gene",
+    "text": "cnr",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N83",
+    "label": "Metabolite",
+    "text": "phenylpropanoid volatiles",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N84",
+    "label": "Gene",
+    "text": "NSGT1",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N85",
+    "label": "Trait",
+    "text": "smoky fruit aroma",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N86",
+    "label": "Gene",
+    "text": "FLORAL4",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N87",
+    "label": "Metabolite",
+    "text": "increase in 3-methylvaleric acid",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N88",
+    "label": "Variant",
+    "text": "floral4",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N89",
+    "label": "Metabolite",
+    "text": "3-methylbutanol",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N90",
+    "label": "Metabolite",
+    "text": "PHET",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N91",
+    "label": "Metabolite",
+    "text": "leucine",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N92",
+    "label": "Enzyme",
+    "text": "chlorophyll b reductase",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N93",
+    "label": "Metabolite",
+    "text": "chlorophyll b",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N94",
+    "label": "Enzyme",
+    "text": "PSY",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N95",
+    "label": "Metabolite",
+    "text": "phytoene",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N96",
+    "label": "Metabolite",
+    "text": "GGPP",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N97",
+    "label": "Enzyme",
+    "text": "PDS",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N98",
+    "label": "Metabolite",
+    "text": "lycopene",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N99",
+    "label": "Enzyme",
+    "text": "ZDS",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N100",
+    "label": "Enzyme",
+    "text": "Z-ISO",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N101",
+    "label": "Enzyme",
+    "text": "CRTISO",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N102",
+    "label": "Enzyme",
+    "text": "LCYE",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N103",
+    "label": "Metabolite",
+    "text": "\u03b1-carotene",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N104",
+    "label": "Enzyme",
+    "text": "LCYB",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N105",
+    "label": "Metabolite",
+    "text": "\u03b2-carotene",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N106",
+    "label": "Enzyme",
+    "text": "BCH",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N107",
+    "label": "Metabolite",
+    "text": "zeinoxanthin",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N108",
+    "label": "Metabolite",
+    "text": "lutein",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N109",
+    "label": "Metabolite",
+    "text": "zeaxanthin",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N110",
+    "label": "Metabolite",
+    "text": "\u03b2-cryptoxanthin",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N111",
+    "label": "Enzyme",
+    "text": "ZEP",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N112",
+    "label": "Metabolite",
+    "text": "antherxanthin",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N113",
+    "label": "Metabolite",
+    "text": "violaxanthin",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N114",
+    "label": "Enzyme",
+    "text": "NSY",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N115",
+    "label": "Metabolite",
+    "text": "neoxanthin",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N116",
+    "label": "Enzyme",
+    "text": "cellulase",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N117",
+    "label": "Metabolite",
+    "text": "cellulose",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N118",
+    "label": "Enzyme",
+    "text": "xyloglucan-endotransglycosylase",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N119",
+    "label": "Metabolite",
+    "text": "hemicellulose",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N120",
+    "label": "Enzyme",
+    "text": "PG",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N121",
+    "label": "Metabolite",
+    "text": "galacturonide oligomers",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N122",
+    "label": "Enzyme",
+    "text": "SPS",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N123",
+    "label": "Metabolite",
+    "text": "UDPG",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N124",
+    "label": "Enzyme",
+    "text": "Invertase",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N125",
+    "label": "Metabolite",
+    "text": "sucrose",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N126",
+    "label": "Enzyme",
+    "text": "PEPC",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N127",
+    "label": "Metabolite",
+    "text": "oxaloacetate",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N128",
+    "label": "Metabolite",
+    "text": "OAA",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N129",
+    "label": "Metabolite",
+    "text": "citric acid",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N130",
+    "label": "Enzyme",
+    "text": "MDH",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N131",
+    "label": "Metabolite",
+    "text": "malic acid",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N132",
+    "label": "Enzyme",
+    "text": "DFR",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N133",
+    "label": "Metabolite",
+    "text": "anthocyanins",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N134",
+    "label": "Enzyme",
+    "text": "ANS",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N135",
+    "label": "Metabolite",
+    "text": "Terpenoid volatiles",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N136",
+    "label": "Metabolite",
+    "text": "isopentenyl diphosphate",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N137",
+    "label": "Metabolite",
+    "text": "dimethyl allyl diphosphate",
+    "source": "https://doi.org/https://doi.org/10.1186/s43897-022-00024-1"
+  },
+  {
+    "id": "N138",
+    "label": "Gene",
+    "text": "SUN",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N139",
+    "label": "Trait",
+    "text": "elonagated shape",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N140",
+    "label": "Gene",
+    "text": "OVATE",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N141",
+    "label": "Gene",
+    "text": "FAS",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N142",
+    "label": "Trait",
+    "text": "fruit locile number",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N143",
+    "label": "Gene",
+    "text": "LC",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N144",
+    "label": "Trait",
+    "text": "flat shape",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N145",
+    "label": "Regulator",
+    "text": "YABBY",
+    "source": "https://doi.org/https://doi.org/10.1111/tpj.14795"
+  },
+  {
+    "id": "N146",
+    "label": "Gene",
+    "text": "SlBES1.2",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N147",
+    "label": "Metabolite",
+    "text": "flavonoid",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N148",
+    "label": "Variant",
+    "text": "MYB12",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N149",
+    "label": "Trait",
+    "text": "fruit size",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N150",
+    "label": "QTL",
+    "text": "CNR",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N151",
+    "label": "Gene",
+    "text": "fw3.2",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N152",
+    "label": "QTL",
+    "text": "SlKLUH",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N153",
+    "label": "Gene",
+    "text": "lc",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N154",
+    "label": "QTL",
+    "text": "SlWUS",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N155",
+    "label": "Gene",
+    "text": "fas",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N156",
+    "label": "QTL",
+    "text": "SlCLV3",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N157",
+    "label": "Trait",
+    "text": "cell divsion",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N158",
+    "label": "Trait",
+    "text": "cell number",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N159",
+    "label": "Trait",
+    "text": "pericrap",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N160",
+    "label": "Trait",
+    "text": "septum",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N161",
+    "label": "Gene",
+    "text": "SFT",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N162",
+    "label": "Gene",
+    "text": "SP",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N163",
+    "label": "Trait",
+    "text": "tomato yield",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N164",
+    "label": "Gene",
+    "text": "SlWUS",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N165",
+    "label": "Gene",
+    "text": "SlCLV3",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N166",
+    "label": "Gene",
+    "text": "GLOBE",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N167",
+    "label": "Trait",
+    "text": "shape of the tomato fruit",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N168",
+    "label": "Trait",
+    "text": "size of the tomato fruit",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N169",
+    "label": "Regulator",
+    "text": "SlBES1.2",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N170",
+    "label": "Regulator",
+    "text": "SlMYB12",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N171",
+    "label": "Trait",
+    "text": "flavonoid content in fruit",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N172",
+    "label": "Gene",
+    "text": "Solyc09g082110",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N173",
+    "label": "Protein",
+    "text": "SlLEA",
+    "source": "https://doi.org/https://doi.org/10.1093/hr/uhad142"
+  },
+  {
+    "id": "N174",
+    "label": "Regulator",
+    "text": "RIN",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N175",
+    "label": "Trait",
+    "text": "ethylene biosynthesis",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N176",
+    "label": "Regulator",
+    "text": "CNR",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N177",
+    "label": "Regulator",
+    "text": "ACS",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N178",
+    "label": "Regulator",
+    "text": "ETR3/NR",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N179",
+    "label": "Trait",
+    "text": "ethylene perception",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N180",
+    "label": "Regulator",
+    "text": "ETR4",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N181",
+    "label": "Gene",
+    "text": "PHYB1",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N182",
+    "label": "Trait",
+    "text": "fruit quality",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N183",
+    "label": "Gene",
+    "text": "PHYB2",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N184",
+    "label": "Gene",
+    "text": "PSY1",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N185",
+    "label": "Trait",
+    "text": "lycopene biosynthesis",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N186",
+    "label": "Gene",
+    "text": "PSY2",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N187",
+    "label": "Gene",
+    "text": "P450",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N188",
+    "label": "Trait",
+    "text": "alkaloid biosynthesis",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N189",
+    "label": "Gene",
+    "text": "FT",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N190",
+    "label": "Protein",
+    "text": "florigen20",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N191",
+    "label": "Gene",
+    "text": "TFL1",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N192",
+    "label": "Gene",
+    "text": "SP3D",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N193",
+    "label": "Trait",
+    "text": "flowering",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N194",
+    "label": "Trait",
+    "text": "fruit yield",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N195",
+    "label": "Gene",
+    "text": "SP6A",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N196",
+    "label": "Variant",
+    "text": "premature stop codon",
+    "source": "https://doi.org/https://doi.org/10.1038/nature11119"
+  },
+  {
+    "id": "N197",
+    "label": "Gene",
+    "text": "SlCDF4",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N198",
+    "label": "Trait",
+    "text": "yield",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N199",
+    "label": "Trait",
+    "text": "gibberellin signalling",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N200",
+    "label": "Regulator",
+    "text": "cycling DOF-type",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N201",
+    "label": "Trait",
+    "text": "water and dry matter content",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N202",
+    "label": "Trait",
+    "text": "biomass",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N203",
+    "label": "Trait",
+    "text": "sink strength of the fruits",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N204",
+    "label": "Trait",
+    "text": "sucrose-metabolism",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N205",
+    "label": "Trait",
+    "text": "gibberellin-signalling",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N206",
+    "label": "Trait",
+    "text": "GA4 biosynthesis",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N207",
+    "label": "Trait",
+    "text": "Carbon and Nitrogen content",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N208",
+    "label": "Trait",
+    "text": "tomato size",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N209",
+    "label": "Trait",
+    "text": "tomato composition",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N210",
+    "label": "Enzyme",
+    "text": "invertase",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N211",
+    "label": "Trait",
+    "text": "transport from sources to sinks",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N212",
+    "label": "Trait",
+    "text": "fruit set",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N213",
+    "label": "Trait",
+    "text": "activation of cell division",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N214",
+    "label": "Regulator",
+    "text": "NAC",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N215",
+    "label": "Trait",
+    "text": "early fruit development",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N216",
+    "label": "Regulator",
+    "text": "GRAS",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N217",
+    "label": "Regulator",
+    "text": "ERF",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N218",
+    "label": "Regulator",
+    "text": "TCP",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N219",
+    "label": "Regulator",
+    "text": "WRKY",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N220",
+    "label": "Regulator",
+    "text": "MYB",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N221",
+    "label": "Regulator",
+    "text": "TALE",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N222",
+    "label": "Regulator",
+    "text": "HD-ZIP",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N223",
+    "label": "Regulator",
+    "text": "DOF",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N224",
+    "label": "Trait",
+    "text": "fruit development",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N225",
+    "label": "Gene",
+    "text": "SlCDF3",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N226",
+    "label": "Trait",
+    "text": "control of growth",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N227",
+    "label": "Trait",
+    "text": "C and N metabolism",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N228",
+    "label": "Trait",
+    "text": "fruit production",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N229",
+    "label": "Gene",
+    "text": "SlCDKB2",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N230",
+    "label": "Trait",
+    "text": "cell cycle control",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N231",
+    "label": "Gene",
+    "text": "SlCyclinB1",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N232",
+    "label": "Gene",
+    "text": "SlEXPA5",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N233",
+    "label": "Trait",
+    "text": "cell wall growth",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N234",
+    "label": "Gene",
+    "text": "SlXTH1",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N235",
+    "label": "Gene",
+    "text": "SlPEC17",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N236",
+    "label": "Gene",
+    "text": "SlTIP2.3",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N237",
+    "label": "Trait",
+    "text": "water uptake",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N238",
+    "label": "Gene",
+    "text": "SlPIP1.2",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N239",
+    "label": "Gene",
+    "text": "SlPIP2.1",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N240",
+    "label": "Gene",
+    "text": "CDF4",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N241",
+    "label": "Trait",
+    "text": "cell division rates in fruits",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N242",
+    "label": "Gene",
+    "text": "SlKRP1",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N243",
+    "label": "Trait",
+    "text": "endocycle control during cell expansion",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N244",
+    "label": "Gene",
+    "text": "SlWEE1",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N245",
+    "label": "Gene",
+    "text": "SlCCS52A",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N246",
+    "label": "Metabolite",
+    "text": "Auxins",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N247",
+    "label": "Trait",
+    "text": "final fruit size",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N248",
+    "label": "Metabolite",
+    "text": "gibberellins",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N249",
+    "label": "Gene",
+    "text": "flavin monoxygenase",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N250",
+    "label": "Trait",
+    "text": "auxin biosynthesis",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N251",
+    "label": "Gene",
+    "text": "SlARF5",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N252",
+    "label": "Gene",
+    "text": "SlIAA17",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N253",
+    "label": "Trait",
+    "text": "auxin signalling during fruit cell expansion",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N254",
+    "label": "Trait",
+    "text": "gibberellin biosynthesis",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N255",
+    "label": "Regulator",
+    "text": "ToFZY\u2013ARF5",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N256",
+    "label": "Gene",
+    "text": "SlCDF5",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N257",
+    "label": "Trait",
+    "text": "photoassimilate partition to the fruits",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N258",
+    "label": "Trait",
+    "text": "biomass accumulation",
+    "source": "https://doi.org/https://www.nature.com/articles/s41598-020-67537-x"
+  },
+  {
+    "id": "N259",
+    "label": "Trait",
+    "text": "fruit size and shape",
+    "source": "https://doi.org/https://doi.org/10.3390/genes11101117"
+  },
+  {
+    "id": "N260",
+    "label": "Gene",
+    "text": "CNR / FW2.2",
+    "source": "https://doi.org/https://doi.org/10.3390/genes11101117"
+  },
+  {
+    "id": "N261",
+    "label": "Gene",
+    "text": "SlKLUH / FW3.2",
+    "source": "https://doi.org/https://doi.org/10.3390/genes11101117"
+  },
+  {
+    "id": "N262",
+    "label": "Trait",
+    "text": "Sugar content",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N263",
+    "label": "Variant",
+    "text": "Lin5",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N264",
+    "label": "Trait",
+    "text": "fruit sugar content",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N265",
+    "label": "Metabolite",
+    "text": "Methylsalicylate",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N266",
+    "label": "Metabolite",
+    "text": "salicylic acid",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N267",
+    "label": "Trait",
+    "text": "consumer_liking",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N268",
+    "label": "Gene",
+    "text": "E8",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N269",
+    "label": "Gene",
+    "text": "lin5",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N270",
+    "label": "Coordinates",
+    "text": "Chr9:3477979",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N271",
+    "label": "Gene",
+    "text": "SSC11.1",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N272",
+    "label": "Coordinates",
+    "text": "Chr11:51186147",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N273",
+    "label": "Metabolite",
+    "text": "MHO",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N274",
+    "label": "Trait",
+    "text": "Fruit ripening",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N275",
+    "label": "QTL",
+    "text": "Lin5",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N276",
+    "label": "QTL",
+    "text": "SSC11.1",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N277",
+    "label": "Trait",
+    "text": "deep red fruits",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N278",
+    "label": "Coordinates",
+    "text": "chr2:40378276",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N279",
+    "label": "Coordinates",
+    "text": "chr3:4024959",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N280",
+    "label": "Coordinates",
+    "text": "chr9:66583920",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N281",
+    "label": "QTL",
+    "text": "MHO",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N282",
+    "label": "Enzyme",
+    "text": "Phytoene synthase",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N283",
+    "label": "Metabolite",
+    "text": "geranylacetone",
+    "source": "https://doi.org/https://doi.org/10.1126/science.aal1556"
+  },
+  {
+    "id": "N284",
+    "label": "regulator",
+    "text": "fasciated",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N285",
+    "label": "Trait",
+    "text": "carpel number ",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N286",
+    "label": "QTL",
+    "text": "locule number",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N287",
+    "label": "QTL",
+    "text": "fasciated",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N288",
+    "label": "Trait",
+    "text": "carpel number",
+    "source": "https://doi.org/https://doi.org/10.1038/ng.144"
+  },
+  {
+    "id": "N289",
+    "label": "Trait",
+    "text": "small fruit",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N290",
+    "label": "Gene",
+    "text": "FW2.2",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N291",
+    "label": "Trait",
+    "text": "large fruit",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N292",
+    "label": "Regulator",
+    "text": "ORFX",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N293",
+    "label": "Trait",
+    "text": "cell division",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N294",
+    "label": "Enzyme",
+    "text": "B-subunit CKII kinase",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N295",
+    "label": "Protein",
+    "text": "FW2.2",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N296",
+    "label": "Gene",
+    "text": "PLAC8",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N297",
+    "label": "Protein",
+    "text": "FWL",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N298",
+    "label": "QTL",
+    "text": "FW3.2",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N299",
+    "label": "Trait",
+    "text": "weight",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N300",
+    "label": "Gene",
+    "text": "SlKLUH",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N301",
+    "label": "Trait",
+    "text": "fruit volume",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N302",
+    "label": "Trait",
+    "text": "cell number in pericarp and septum",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N303",
+    "label": "QTL",
+    "text": "FW11.3",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N304",
+    "label": "Gene",
+    "text": "ovate",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N305",
+    "label": "Trait",
+    "text": "elongated fruits",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N306",
+    "label": "Regulator",
+    "text": "AtGA20ox1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N307",
+    "label": "Trait",
+    "text": "elongated fruit shape",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N308",
+    "label": "Regulator",
+    "text": "DEFL1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N309",
+    "label": "QTL",
+    "text": "FAS",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N310",
+    "label": "Regulator",
+    "text": "YABBY-like transcription factor",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N311",
+    "label": "Gene",
+    "text": "WUS",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N312",
+    "label": "Trait",
+    "text": "stem thickness",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N313",
+    "label": "Gene",
+    "text": "WUSCHEL",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N314",
+    "label": "Trait",
+    "text": "large number of locules",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N315",
+    "label": "Gene",
+    "text": "TAGL1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N316",
+    "label": "Trait",
+    "text": "pigmentation",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N317",
+    "label": "Trait",
+    "text": "development of the ovule cell",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N318",
+    "label": "Gene",
+    "text": "SlWUS",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N319",
+    "label": "Gene",
+    "text": "SlIMA",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N320",
+    "label": "Gene",
+    "text": "SlPIN4",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N321",
+    "label": "Gene",
+    "text": "SlTIR1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N322",
+    "label": "Gene",
+    "text": "SlARF7",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N323",
+    "label": "Gene",
+    "text": "SlARF8",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N324",
+    "label": "Gene",
+    "text": "SlIAA9",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N325",
+    "label": "Gene",
+    "text": "SlCDKA1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N326",
+    "label": "Trait",
+    "text": "fruit growth",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N327",
+    "label": "Gene",
+    "text": "SlCDCB1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N328",
+    "label": "Gene",
+    "text": "FW11.3",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N329",
+    "label": "Gene",
+    "text": "SLIMA",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N330",
+    "label": "Trait",
+    "text": "increasing fruit volume",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N331",
+    "label": "Gene",
+    "text": "HXK1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N332",
+    "label": "Gene",
+    "text": "SuSY",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N333",
+    "label": "Gene",
+    "text": "TIV1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N334",
+    "label": "Gene",
+    "text": "mMDH",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N335",
+    "label": "Gene",
+    "text": "cpFBP",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N336",
+    "label": "Gene",
+    "text": "SPA",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N337",
+    "label": "Gene",
+    "text": "NOTABILIS",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N338",
+    "label": "Gene",
+    "text": "FLACCA",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N339",
+    "label": "Gene",
+    "text": "Gal-LDH",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N340",
+    "label": "Gene",
+    "text": "GME",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N341",
+    "label": "Gene",
+    "text": "PIN",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N342",
+    "label": "Trait",
+    "text": "auxin transport",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N343",
+    "label": "Gene",
+    "text": "AUX/LAX",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N344",
+    "label": "Trait",
+    "text": "premature development of fruits",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N345",
+    "label": "Gene",
+    "text": "TIR1",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N346",
+    "label": "Regulator",
+    "text": "Aux/IAA",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N347",
+    "label": "Regulator",
+    "text": "ARF",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N348",
+    "label": "Regulator",
+    "text": "Auxin",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N349",
+    "label": "Enzyme",
+    "text": "GA-20 oxidases",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N350",
+    "label": "QTL",
+    "text": "LIN5",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N351",
+    "label": "Trait",
+    "text": "fruit yield reduction",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N352",
+    "label": "Trait",
+    "text": "fruit and seed size reduction",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N353",
+    "label": "Trait",
+    "text": "seed number reduction",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N354",
+    "label": "Trait",
+    "text": "sucrose content",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N355",
+    "label": "Trait",
+    "text": "small fruits",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N356",
+    "label": "Trait",
+    "text": "sucrose accumulation",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N357",
+    "label": "Trait",
+    "text": "harvesting index",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N358",
+    "label": "Metabolite",
+    "text": "sugar phosphates",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N359",
+    "label": "Trait",
+    "text": "number of locules",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N360",
+    "label": "Protein",
+    "text": "WUS",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N361",
+    "label": "Protein",
+    "text": "CLV3",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N362",
+    "label": "Trait",
+    "text": "activity of the flower meristem",
+    "source": "https://doi.org/https://doi.org/10.15389/agrobiology.2020.5.876eng"
+  },
+  {
+    "id": "N363",
+    "label": "Variant",
+    "text": "SLA773077",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N364",
+    "label": "Trait",
+    "text": "fruit width",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N365",
+    "label": "Variant",
+    "text": "SLA773357",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N366",
+    "label": "Variant",
+    "text": "SLA769530",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N367",
+    "label": "Trait",
+    "text": "pericarp thickness",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N368",
+    "label": "Variant",
+    "text": "MTAs on chromosome 2",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N369",
+    "label": "Coordinates",
+    "text": "Chr2: 35890000",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N370",
+    "label": "Coordinates",
+    "text": "Chr2: 50740000 ",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N371",
+    "label": "Variant",
+    "text": "MTAs",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N372",
+    "label": "Trait",
+    "text": "locule number",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N373",
+    "label": "Coordinates",
+    "text": "Chr2: 50290000",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N374",
+    "label": "Coordinates",
+    "text": "Chr2: 46380000",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N375",
+    "label": "Coordinates",
+    "text": "Chr2: 45190000",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N376",
+    "label": "Coordinates",
+    "text": "44.07 Mb Chr 2",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N377",
+    "label": "Coordinates",
+    "text": "44.07 Mb Chr2",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N378",
+    "label": "Coordinates",
+    "text": "35.19 Mb Chr2",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N379",
+    "label": "Coordinates",
+    "text": "34.84 Mb Chr2",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N380",
+    "label": "Coordinates",
+    "text": "62.64 Mb Chr9",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N381",
+    "label": "Trait",
+    "text": "brix",
+    "source": "https://doi.org/https://doi.org/10.1038/s41438-021-00638-4"
+  },
+  {
+    "id": "N382",
+    "label": "Trait",
+    "text": "Round/elongate fruits",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N383",
+    "label": "Trait",
+    "text": "PI",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N384",
+    "label": "Trait",
+    "text": "DW",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N385",
+    "label": "Trait",
+    "text": "Brix values",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N386",
+    "label": "Metabolite",
+    "text": "total alkaloid content",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N387",
+    "label": "Trait",
+    "text": "FS",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N388",
+    "label": "Metabolite",
+    "text": "glycoalkaloid content",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N389",
+    "label": "Trait",
+    "text": "ripe fruits",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N390",
+    "label": "Metabolite",
+    "text": "chlorogenic acid",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N391",
+    "label": "Metabolite",
+    "text": "caffeic acid hexoside",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N392",
+    "label": "Trait",
+    "text": "flat tomatoes",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N393",
+    "label": "Metabolite",
+    "text": "pentosyl rutin",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N394",
+    "label": "Variant",
+    "text": "pear/oxheart cultivars",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N395",
+    "label": "Metabolite",
+    "text": "total phenolics",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N396",
+    "label": "Trait",
+    "text": "red ripe fruits",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N397",
+    "label": "Metabolite",
+    "text": "alkaloid analytes",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N398",
+    "label": "Trait",
+    "text": "content in alkaloids",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N399",
+    "label": "Trait",
+    "text": "degree of resistance to pathogens and parasites",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  },
+  {
+    "id": "N400",
+    "label": "Trait",
+    "text": "fruit taste",
+    "source": "https://doi.org/https://doi.org/10.3389/fpls.2016.00664"
+  }
+]

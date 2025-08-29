@@ -1,0 +1,23 @@
+[project]
+name = "gwas-frontend-project"
+version = "0.1.0"
+description = "Requirments for the frontend"
+authors = [
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "numpy (>=2.3.2,<3.0.0)",
+    "plotly (>=6.2.0,<7.0.0)",
+    "dash (>=3.2.0,<4.0.0)",
+    "rapidfuzz (>=3.13.0,<4.0.0)",
+    "dash-bootstrap-components (>=2.0.3,<3.0.0)",
+    "dash-cytoscape (>=1.0.2,<2.0.0)",
+    "networkx (>=3.5,<4.0)",
+    "bio (>=1.8.0,<2.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -33,21 +33,21 @@ For local development and testing:
 python wsgi_t2tfe.py
 ```
 
-The application will be available at `http://localhost:8050/`
+The application will be available at `http://localhost:8051/`
 
 ### Production Deployment with Gunicorn
 
 For production deployment, use Gunicorn:
 
 ```bash
-gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --workers 4
+gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8051 --workers 4
 ```
 
 #### Recommended Gunicorn Configuration
 
 ```bash
 gunicorn wsgi_t2tfe:server \
-    --bind 127.0.0.1:8050 \
+    --bind 127.0.0.1:8051 \
     --workers 4 \
     --timeout 120 \
     --access-logfile /var/log/text2trait/access.log \
@@ -75,8 +75,8 @@ After=network.target
 
 [Service]
 Type=simple
-User=www-data
-Group=www-data
+User=harvest
+Group=harvest
 WorkingDirectory=/path/to/Text2Trait
 Environment="PATH=/path/to/venv/bin"
 ExecStart=/path/to/venv/bin/gunicorn wsgi_t2tfe:server \

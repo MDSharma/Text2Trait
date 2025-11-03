@@ -57,7 +57,7 @@ gunicorn wsgi_t2tfe:server \
 
 #### Configuration Options Explained
 
-- `--bind 127.0.0.1:8050` - Bind only to localhost on port 8050
+- `--bind 127.0.0.1:8051` - Bind only to localhost on port 8051
 - `--workers 4` - Use 4 worker processes (adjust based on CPU cores: 2-4 × CPU cores)
 - `--timeout 120` - Worker timeout in seconds (adjust based on your needs)
 - `--access-logfile` - Path for access logs
@@ -80,7 +80,7 @@ Group=harvest
 WorkingDirectory=/path/to/Text2Trait
 Environment="PATH=/path/to/venv/bin"
 ExecStart=/path/to/venv/bin/gunicorn wsgi_t2tfe:server \
-    --bind 127.0.0.1:8050 \
+    --bind 127.0.0.1:8051 \
     --workers 4 \
     --timeout 120 \
     --access-logfile /var/log/text2trait/access.log \
@@ -113,7 +113,7 @@ server {
     server_name your-domain.com;
 
     location / {
-        proxy_pass http://127.0.0.1:8050;
+        proxy_pass http://127.0.0.1:8051;
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
@@ -147,7 +147,7 @@ If your application requires environment variables, set them before running:
 ```bash
 export DATA_PATH=/path/to/data
 export LOG_LEVEL=INFO
-gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 4
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8051 --workers 4
 ```
 
 ## Monitoring and Logs
@@ -179,7 +179,7 @@ For the Dash application (mostly I/O-bound):
 
 ```bash
 # For a 4-core server:
-gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 17
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8051 --workers 17
 ```
 
 ### Worker Class
@@ -189,7 +189,7 @@ For better async support, use the gevent worker class:
 ```bash
 pip install gevent
 gunicorn wsgi_t2tfe:server \
-    --bind 127.0.0.1:8050 \
+    --bind 127.0.0.1:8051 \
     --workers 4 \
     --worker-class gevent \
     --worker-connections 1000
@@ -219,7 +219,7 @@ gunicorn wsgi_t2tfe:server \
 Reduce the number of workers:
 
 ```bash
-gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 2
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8051 --workers 2
 ```
 
 ### Timeout errors
@@ -227,14 +227,14 @@ gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 2
 Increase the timeout:
 
 ```bash
-gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --timeout 300
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8051 --timeout 300
 ```
 
 ## Security Considerations
 
 1. **Never expose Gunicorn directly to the internet** - Always use a reverse proxy like Nginx
 2. **Use HTTPS** - Configure SSL/TLS in Nginx
-3. **Firewall rules** - Restrict access to port 8050 to localhost only
+3. **Firewall rules** - Restrict access to port 8051 to localhost only
 4. **Keep dependencies updated** - Regularly update Python packages
 5. **Use a dedicated user** - Don't run as root
 

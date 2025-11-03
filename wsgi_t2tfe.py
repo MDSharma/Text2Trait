@@ -16,7 +16,7 @@ Environment Setup:
 
 The application is a Dash-based frontend that provides:
     - Multi-page navigation
-    - GWAS data visualization
+    - Text2Trait data visualization
     - Interactive search functionality
     - Results visualization with Cytoscape graphs
 """

@@ -1,5 +1,5 @@
 [project]
-name = "gwas-frontend-project"
+name = "text2trait-frontend-project"
 version = "0.1.0"
 description = "Requirments for the frontend"
 authors = [

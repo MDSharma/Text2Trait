@@ -1,6 +1,6 @@
 """
-Index Page – GWAS-P
--------------------
+Index Page – Text2Trait
+------------------------
 
 This page provides a browsable index of:
     - All traits in the knowledge graph.
@@ -186,7 +186,7 @@ def generate_trait_gene_tab() -> dash_table.DataTable:
 # Page Layout
 # ───────────────────────────────
 layout = dbc.Container([
-    html.H2("GWAS-P Knowledge Graph Explorer", className="my-4"),
+    html.H2("Text2Trait Knowledge Graph Explorer", className="my-4"),
     dbc.Row([
         dbc.Col([
             dbc.Tabs([

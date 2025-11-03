@@ -47,7 +47,7 @@ gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --workers 4
 
 ```bash
 gunicorn wsgi_t2tfe:server \
-    --bind 0.0.0.0:8050 \
+    --bind 127.0.0.1:8050 \
     --workers 4 \
     --timeout 120 \
     --access-logfile /var/log/text2trait/access.log \
@@ -57,7 +57,7 @@ gunicorn wsgi_t2tfe:server \
 
 #### Configuration Options Explained
 
-- `--bind 0.0.0.0:8050` - Bind to all interfaces on port 8050
+- `--bind 127.0.0.1:8050` - Bind only to localhost on port 8050
 - `--workers 4` - Use 4 worker processes (adjust based on CPU cores: 2-4 × CPU cores)
 - `--timeout 120` - Worker timeout in seconds (adjust based on your needs)
 - `--access-logfile` - Path for access logs
@@ -74,13 +74,13 @@ Description=Text2Trait Frontend Application
 After=network.target
 
 [Service]
-Type=notify
+Type=simple
 User=www-data
 Group=www-data
-WorkingDirectory=/path/to/Text2Trait_devel
+WorkingDirectory=/path/to/Text2Trait
 Environment="PATH=/path/to/venv/bin"
 ExecStart=/path/to/venv/bin/gunicorn wsgi_t2tfe:server \
-    --bind 0.0.0.0:8050 \
+    --bind 127.0.0.1:8050 \
     --workers 4 \
     --timeout 120 \
     --access-logfile /var/log/text2trait/access.log \
@@ -147,7 +147,7 @@ If your application requires environment variables, set them before running:
 ```bash
 export DATA_PATH=/path/to/data
 export LOG_LEVEL=INFO
-gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --workers 4
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 4
 ```
 
 ## Monitoring and Logs
@@ -179,7 +179,7 @@ For the Dash application (mostly I/O-bound):
 
 ```bash
 # For a 4-core server:
-gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --workers 17
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 17
 ```
 
 ### Worker Class
@@ -189,7 +189,7 @@ For better async support, use the gevent worker class:
 ```bash
 pip install gevent
 gunicorn wsgi_t2tfe:server \
-    --bind 0.0.0.0:8050 \
+    --bind 127.0.0.1:8050 \
     --workers 4 \
     --worker-class gevent \
     --worker-connections 1000
@@ -219,7 +219,7 @@ gunicorn wsgi_t2tfe:server \
 Reduce the number of workers:
 
 ```bash
-gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --workers 2
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 2
 ```
 
 ### Timeout errors
@@ -227,7 +227,7 @@ gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --workers 2
 Increase the timeout:
 
 ```bash
-gunicorn wsgi_t2tfe:server --bind 0.0.0.0:8050 --timeout 300
+gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --timeout 300
 ```
 
 ## Security Considerations

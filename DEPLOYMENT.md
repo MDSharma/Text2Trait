@@ -6,6 +6,7 @@ This guide explains how to deploy the Text2Trait frontend application using Guni
 
 1. Python 3.12 or higher
 2. Install dependencies from `text2trait_forntend_app/src/pyproject.toml`:
+   (Note: The directory name contains a typo 'forntend' - this is the actual name in the repository)
    ```bash
    cd text2trait_forntend_app/src
    pip install -r pyproject.toml

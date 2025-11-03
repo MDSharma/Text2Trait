@@ -10,6 +10,7 @@ Usage with Gunicorn:
 
 Environment Setup:
     1. Install dependencies from text2trait_forntend_app/src/pyproject.toml
+       (Note: directory name has typo 'forntend' - this is intentional, matching repo structure)
     2. Ensure all data files are in place
     3. Set appropriate environment variables if needed
 

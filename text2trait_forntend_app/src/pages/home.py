@@ -188,21 +188,37 @@ def redirect_to_results(_, __, trait_value: str, gene_value: str, species_value:
     Redirect to the results page with the selected query parameters.
 
     Args:
-        trait_value: Value from the trait search input (required).
-        gene_value: Value from the gene search input (optional).
+        trait_value: Value from the trait search input (optional if gene is provided).
+        gene_value: Value from the gene search input (optional if trait is provided).
         species_value: Value from the species dropdown (required).
 
     Returns:
         URL string with query parameters for the results page.
-        If no trait is provided, does not trigger a redirect.
+        If neither trait nor gene is provided, does not trigger a redirect.
     """
-    if not trait_value:
+    ctx = dash.callback_context
+    if not ctx.triggered:
         return dash.no_update
-
-    query = {"trait": trait_value}
+    
+    button_id = ctx.triggered[0]["prop_id"].split(".")[0]
+    
+    # Determine which search type was triggered
+    if button_id == "input-button-trait" and not trait_value:
+        return dash.no_update
+    elif button_id == "input-button-gene" and not gene_value:
+        return dash.no_update
+    
+    # Build query parameters
+    query = {}
+    if trait_value:
+        query["trait"] = trait_value
     if gene_value:
         query["gene"] = gene_value
     if species_value:
         query["species"] = species_value
+    
+    # Require at least trait or gene
+    if not query.get("trait") and not query.get("gene"):
+        return dash.no_update
 
     return "/results?" + urlencode(query)

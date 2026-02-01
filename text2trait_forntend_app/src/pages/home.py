@@ -1,8 +1,8 @@
 """
-Home Page – GWAS-P
-------------------
+Home Page – Text2Trait
+----------------------
 
-This is the landing page for the GWAS-P application.
+This is the landing page for the Text2Trait application.
 It provides:
     - An introductory description of the app.
     - Search inputs for traits and (optionally) specific genes.
@@ -22,7 +22,7 @@ dash.register_page(
     __name__,
     path="/",
     name="Home",
-    title="GWAS-P",
+    title="Text2Trait",
 )
 
 
@@ -38,7 +38,7 @@ layout = html.Div([
             [
                 html.Img(
                     src=dash.get_asset_url("text2trait_logo.png"),
-                    alt="GWAS-P logo",
+                    alt="Text2Trait logo",
                     style={
                         "width": "200px",
                         "height": "200px",

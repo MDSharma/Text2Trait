@@ -1,9 +1,9 @@
 """
-Questions Page – GWAS-P
------------------------
+Questions Page – Text2Trait
+----------------------------
 
 This page contains an FAQ section for common user questions
-about the GWAS-P application.
+about the Text2Trait application.
 """
 
 import dash

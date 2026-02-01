@@ -1,5 +1,5 @@
 """
-Main pipeline script for processing GWAS and literature data.
+Main pipeline script for processing Text2Trait and literature data.
 
 Workflow:
 1. Process Excel files → master_triplets.jsonl

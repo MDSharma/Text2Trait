@@ -1,8 +1,8 @@
 """
-Results Page – GWAS-P
-----------------------
+Results Page – Text2Trait
+--------------------------
 
-This page displays the GWAS-P results, including a trait-gene interaction 
+This page displays the Text2Trait results, including a trait-gene interaction 
 graph using Cytoscape, interactive tables for matched genes, and a side panel 
 for detailed gene information retrieved from NCBI.
 """
@@ -41,7 +41,7 @@ dash.register_page(
     __name__,
     path="/results",
     name="Results",
-    title="GWAS-P Results"
+    title="Text2Trait Results"
 )
 
 # ───────────────────────────────

@@ -107,7 +107,7 @@ layout = html.Div([
                 dbc.InputGroup([
                     dbc.Input(
                         id="input-query-trait",
-                        placeholder="e.g. Flowering time",
+                        placeholder="e.g. Flowering time or Pupation",
                         type="text",
                     ),
                     dbc.Button(
@@ -131,7 +131,7 @@ layout = html.Div([
                 dbc.InputGroup([
                     dbc.Input(
                         id="input-query-gene",
-                        placeholder="e.g. FT",
+                        placeholder="e.g. FT, KLUH or Tc-h",
                         type="text",
                     ),
                     dbc.Button(

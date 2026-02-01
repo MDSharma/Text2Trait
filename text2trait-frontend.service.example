@@ -1,0 +1,43 @@
+# Example Text2Trait Service file when running with gunicorn (recommended)
+[Unit]
+Description=Text2Trait Frontend Service
+After=network.target
+Requires=network.target
+
+[Service]
+Type=simple
+User=harvest
+Group=harvest
+WorkingDirectory=/opt/harvest/Text2Trait
+Environment="PATH=/opt/harvest/text2trait.venv/bin"
+# Prevent Python bytecode generation (IMPORTANT!)
+Environment="PYTHONDONTWRITEBYTECODE=1"
+# Use Gunicorn with 4 worker processes
+ExecStart=/opt/harvest/text2trait.venv/bin/gunicorn \
+    --workers 4 \
+    --bind 127.0.0.1:8051 \
+    --timeout 120 \
+    --access-logfile - \
+    --error-logfile - \
+    wsgi_t2tfe:server
+
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=text2trait-frontend
+
+# Security settings
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/harvest/Text2Trait
+
+# Resource limits
+LimitNOFILE=65535
+MemoryLimit=2G
+CPUQuota=200%
+
+[Install]
+WantedBy=multi-user.target

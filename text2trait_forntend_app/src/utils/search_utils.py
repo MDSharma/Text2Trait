@@ -51,7 +51,7 @@ def find_best_traits(
         if is_trait_node(data)
     }
 
-    # Use process_type to enable case-insensitive matching
+    # Use processor to enable case-insensitive matching
     matches = process.extract(
         query=trait_query,
         choices=trait_nodes,

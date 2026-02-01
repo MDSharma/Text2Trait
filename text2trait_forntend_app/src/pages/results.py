@@ -335,6 +335,27 @@ def load_graph_elements(search):
         focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
 
         subgraph = get_connected_subgraph(graph, focus_nodes)
+
+        # Ensure species metadata is preserved for downstream filtering and styling.
+        # get_connected_subgraph currently returns a simplified structure, so we
+        # re-attach the species information from the original graph nodes/edges.
+        for node in subgraph.get("nodes", []):
+            node_id = node.get("id")
+            if node_id is None:
+                continue
+            node_data = graph.nodes.get(node_id, {})
+            if "species" in node_data:
+                node["species"] = node_data["species"]
+
+        # Optionally propagate species metadata to edges if it exists on the graph.
+        for edge in subgraph.get("edges", []):
+            source_id = edge.get("source")
+            target_id = edge.get("target")
+            if source_id is None or target_id is None:
+                continue
+            edge_data = graph.get_edge_data(source_id, target_id, default={})
+            if isinstance(edge_data, dict) and "species" in edge_data:
+                edge["species"] = edge_data["species"]
         elements = build_cytoscape_elements(subgraph, RELATION_COLORS, all_species=available_species)
 
         all_displayed_nodes = []

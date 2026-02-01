@@ -15,9 +15,7 @@ For example:
 """
 
 from pathlib import Path
-from typing import List, Dict, Tuple, Optional
-import json
-import networkx as nx
+from typing import List, Dict, Tuple
 
 # Mapping of NCBI taxonomy IDs to species information
 # This provides a fallback when files follow naming conventions but aren't auto-discovered

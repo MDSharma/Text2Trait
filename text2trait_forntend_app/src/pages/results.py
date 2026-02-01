@@ -54,6 +54,11 @@ data_dir = script_dir.parent / "data"
 node_json_path = data_dir / "graph_nodes_dataset.json"
 edge_json_path = data_dir / "graph_edges_dataset.json"
 G, _ = load_graph(node_json_path, edge_json_path)
+
+# NOTE: AVAILABLE_SPECIES is computed once at module import time.
+# If species data files are added, removed, or modified in the data directory
+# while the application is running, this list will NOT be refreshed automatically.
+# A restart of the Dash application is required for changes to be detected.
 AVAILABLE_SPECIES = get_available_species_from_data(data_dir)
 
 

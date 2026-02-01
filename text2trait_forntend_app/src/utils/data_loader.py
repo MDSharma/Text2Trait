@@ -23,7 +23,7 @@ Returns:
 from pathlib import Path
 import json
 import networkx as nx
-from typing import Tuple, Dict, Any, Union, Optional, List
+from typing import Tuple, Dict, Any, Union, List
 
 
 def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
@@ -132,7 +132,11 @@ def load_all_species_graphs(data_dir: Union[str, Path]) -> Tuple[nx.DiGraph, Dic
     available_species = get_all_available_species(data_dir)
     
     if not available_species:
-        # Fall back to default dataset if no species-specific files found
+        # Fall back to default dataset if no species-specific files found.
+        # NOTE: The default dataset (graph_nodes_dataset.json, graph_edges_dataset.json)
+        # is a curated multi-species dataset that is NOT species-tagged. When this
+        # fallback occurs, the returned graph will not have species metadata, and 
+        # species filtering features will not be available.
         G, raw = load_graph(
             data_dir / "graph_nodes_dataset.json",
             data_dir / "graph_edges_dataset.json"

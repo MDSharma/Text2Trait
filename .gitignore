@@ -1,3 +1,6 @@
+# Github
+.github/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -5,13 +8,17 @@ __pycache__/
 *.so
 .Python
 *.egg-info/
+.cache/
 dist/
 build/
+*_original.py
+*_old_backup.py
 
 # Virtual environments
 venv/
 env/
 ENV/
+.env
 
 # IDE
 .vscode/

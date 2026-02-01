@@ -415,9 +415,7 @@ def load_graph_elements(search):
             focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
             # Normalize result structure for downstream processing
             normalized_result = {
-                "trait_id": result["trait_id"],
-                "trait_name": result["trait_name"],
-                "matched_genes": result["matched_genes"],
+                **result,
                 "gene_id": None,
                 "gene_name": None,
                 "matched_traits": []
@@ -431,12 +429,10 @@ def load_graph_elements(search):
             # Normalize result structure for downstream processing
             # For gene-only searches, we don't have a single trait, so use the gene as primary
             normalized_result = {
+                **result,
                 "trait_id": None,
                 "trait_name": None,
-                "matched_genes": [{"gene_id": result["gene_id"], "gene_name": result["gene_name"]}],
-                "gene_id": result["gene_id"],
-                "gene_name": result["gene_name"],
-                "matched_traits": result["matched_traits"]
+                "matched_genes": [{"gene_id": result["gene_id"], "gene_name": result["gene_name"]}]
             }
 
         subgraph = get_connected_subgraph(graph, focus_nodes)

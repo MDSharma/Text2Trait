@@ -51,11 +51,13 @@ def find_best_traits(
         if is_trait_node(data)
     }
 
+    # Use process_type to enable case-insensitive matching
     matches = process.extract(
         query=trait_query,
         choices=trait_nodes,
         scorer=scorer,
-        limit=limit
+        limit=limit,
+        processor=lambda x: x.lower()
     )
 
     return [(node_id, score) for _, score, node_id in matches if score >= min_score]
@@ -75,11 +77,13 @@ def find_best_genes(
         if is_gene_node(data)
     }
 
+    # Use processor to enable case-insensitive matching
     matches = process.extract(
         query=gene_query,
         choices=gene_nodes,
         scorer=scorer,
-        limit=limit
+        limit=limit,
+        processor=lambda x: x.lower()
     )
 
     return [(node_id, score) for _, score, node_id in matches if score >= min_score]
@@ -131,9 +135,14 @@ def resolve_trait_and_genes(
         if gene_query in {g["gene_id"] for g in candidate_genes}:
             matched_genes = [g for g in candidate_genes if g["gene_id"] == gene_query]
         else:
-            # Fuzzy match by gene name
+            # Fuzzy match by gene name (case-insensitive)
             gene_dict = {g["gene_id"]: g["gene_name"] for g in candidate_genes}
-            best_match = process.extractOne(gene_query, gene_dict, scorer=fuzz.WRatio)
+            best_match = process.extractOne(
+                gene_query, 
+                gene_dict, 
+                scorer=fuzz.WRatio,
+                processor=lambda x: x.lower()
+            )
             if best_match and best_match[1] >= min_score:
                 best_id = best_match[2]
                 matched_genes = [g for g in candidate_genes if g["gene_id"] == best_id]

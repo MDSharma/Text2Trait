@@ -413,12 +413,27 @@ def load_graph_elements(search):
             if not result:
                 return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}, load_errors
             focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
+            # Normalize result structure for downstream processing
+            normalized_result = {
+                **result,
+                "gene_id": None,
+                "gene_name": None,
+                "matched_traits": []
+            }
         else:
             # Gene-only search
             result = resolve_gene_only(graph, gene)
             if not result:
                 return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}, load_errors
             focus_nodes = [result["gene_id"]] + [t["trait_id"] for t in result["matched_traits"]]
+            # Normalize result structure for downstream processing
+            # For gene-only searches, we don't have a single trait, so use the gene as primary
+            normalized_result = {
+                **result,
+                "trait_id": None,
+                "trait_name": None,
+                "matched_genes": [{"gene_id": result["gene_id"], "gene_name": result["gene_name"]}]
+            }
 
         subgraph = get_connected_subgraph(graph, focus_nodes)
 
@@ -476,10 +491,13 @@ def load_graph_elements(search):
 
         return {
             "elements": elements,
-            "matched_genes": result["matched_genes"],
+            "matched_genes": normalized_result["matched_genes"],
             "all_displayed_nodes": all_displayed_nodes,
-            "trait_id": result["trait_id"],
-            "trait_name": result["trait_name"]
+            "trait_id": normalized_result["trait_id"],
+            "trait_name": normalized_result["trait_name"],
+            "gene_id": normalized_result["gene_id"],
+            "gene_name": normalized_result["gene_name"],
+            "matched_traits": normalized_result["matched_traits"]
         }, elements, build_stylesheet(), True, species_layers, load_errors
 
     except Exception as e:

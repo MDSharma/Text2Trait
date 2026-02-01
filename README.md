@@ -6,9 +6,7 @@ Text2Trait is a project that combines a user-friendly **frontend application** w
 
 ## 📂 Repository Structure
 1. **Frontend Application**  
-2. **Backend Algorithm** (LasUIE-based)
-3. **Utility Scripts**
-4. **Dataset**
+2. **Utility Scripts**
 
 ---
 
@@ -28,35 +26,6 @@ The frontend is relatively easy to use and designed for quick setup.
    ```
 4. Open the displayed link in your browser — the application should load immediately.
 Every part of the code in this section is well commented and described. If you have any doubts how certain method work, you can find it's description just under the method definition.
-
-## 🚀 Backend Application  
-This backend leverages the **LasUIE model** and is centered around three key files:  
-
-   ```bash
-   run_finetune.py
-   run_inference.py
-   config.json
-   ```
-
-1. `run_finetune.py`
-   This script fine-tunes a selected backbone model from popular GLMs such as **T5**, **BERT**, or **Flan-T5**.  
-   - A wide range of hyperparameters can be configured.  
-   - Due to limitations of the original implementation, several updates were made to align with the LasUIE workflow.  
-   - All modifications are clearly marked in the code for easy reference.  
-   - Additionally, `utils.py` (inside the `engine` folder) has been updated with similar improvements.  
-
-2. `run_inference.py`
-   Designed for straightforward usage:  
-   - Set your desired hyperparameters in the file.  
-   - Ensure the correct directory is selected.  
-   - Run the script.  
-   - ⚠️ **Note:** When using a trained model from the `checkpoint` folder, make sure to update the model name in the file to match the one in the folder.  
-
-3. `config.json`
-   A configuration file containing general parameters that influence both training and inference, such as:  
-   - Backbone model type  
-   - Learning rate  
-   - Other key settings  
 
 ---
 

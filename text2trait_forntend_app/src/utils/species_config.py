@@ -174,7 +174,7 @@ def species_files_exist(species: str, data_dir: Path) -> bool:
 
 def get_all_available_species(data_dir: Path) -> List[str]:
     """
-    Get list of all species taxon IDs that have data files available.
+    Get a list of all species taxon IDs that have data files available.
     
     Args:
         data_dir: The directory containing the data files

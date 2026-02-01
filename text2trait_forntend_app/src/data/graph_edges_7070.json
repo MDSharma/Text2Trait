@@ -1,0 +1,3212 @@
+[
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N1",
+    "target": "N2"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N3",
+    "target": "N4"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N5",
+    "target": "N4"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N6",
+    "target": "N4"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N7",
+    "target": "N8"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N9",
+    "target": "N10"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N11",
+    "target": "N12"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N13",
+    "target": "N14"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N13",
+    "target": "N15"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N16",
+    "target": "N17"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N18",
+    "target": "N17"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N19",
+    "target": "N17"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N20",
+    "target": "N21"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N22",
+    "target": "N23"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N24",
+    "target": "N25"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N26",
+    "target": "N27"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N28",
+    "target": "N29"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N30",
+    "target": "N31"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N32",
+    "target": "N33"
+  },
+  {
+    "type": "BINDS_TO",
+    "source": "N32",
+    "target": "N34"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N35",
+    "target": "N36"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N35",
+    "target": "N37"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N35",
+    "target": "N38"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N35",
+    "target": "N39"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N35",
+    "target": "N40"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N35",
+    "target": "N41"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N35",
+    "target": "N42"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N35",
+    "target": "N43"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N44",
+    "target": "N45"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N46",
+    "target": "N45"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N47",
+    "target": "N45"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N48",
+    "target": "N45"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N49",
+    "target": "N50"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N51",
+    "target": "N50"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N52",
+    "target": "N53"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N54",
+    "target": "N53"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N54",
+    "target": "N55"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N52",
+    "target": "N55"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N54",
+    "target": "N56"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N52",
+    "target": "N57"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N52",
+    "target": "N56"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N58",
+    "target": "N33"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N54",
+    "target": "N59"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N52",
+    "target": "N59"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N58",
+    "target": "N59"
+  },
+  {
+    "type": "EXPRESSED_IN",
+    "source": "N58",
+    "target": "N60"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N58",
+    "target": "N61"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N58",
+    "target": "N62"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N52",
+    "target": "N63"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N52",
+    "target": "N64"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N65",
+    "target": "N66"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N67",
+    "target": "N66"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N68",
+    "target": "N66"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N69",
+    "target": "N66"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N54",
+    "target": "N70"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N58",
+    "target": "N70"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N52",
+    "target": "N70"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N71",
+    "target": "N72"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N71",
+    "target": "N72"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N71",
+    "target": "N72"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N71",
+    "target": "N73"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N74",
+    "target": "N75"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N74",
+    "target": "N76"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N74",
+    "target": "N77"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N74",
+    "target": "N78"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N74",
+    "target": "N79"
+  },
+  {
+    "type": "EXPRESSED_IN",
+    "source": "N80",
+    "target": "N81"
+  },
+  {
+    "type": "EXPRESSED_IN",
+    "source": "N80",
+    "target": "N82"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N80",
+    "target": "N83"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N80",
+    "target": "N84"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N85",
+    "target": "N84"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N85",
+    "target": "N86"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N85",
+    "target": "N87"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N85",
+    "target": "N88"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N85",
+    "target": "N89"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N85",
+    "target": "N90"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N91",
+    "target": "N92"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N91",
+    "target": "N93"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N91",
+    "target": "N94"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N91",
+    "target": "N95"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N91",
+    "target": "N96"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N91",
+    "target": "N97"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N91",
+    "target": "N98"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N99",
+    "target": "N100"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N99",
+    "target": "N101"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N102",
+    "target": "N103"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N102",
+    "target": "N104"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N102",
+    "target": "N105"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N102",
+    "target": "N106"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N107",
+    "target": "N108"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N109",
+    "target": "N110"
+  },
+  {
+    "type": "INHIBITS",
+    "source": "N109",
+    "target": "N111"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N112",
+    "target": "N113"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N114",
+    "target": "N113"
+  },
+  {
+    "type": "TRIGGERS_DOSE_DEPENDENT_INHIBITION",
+    "source": "N115",
+    "target": "N116"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N117",
+    "target": "N118"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N117",
+    "target": "N119"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N114",
+    "target": "N120"
+  },
+  {
+    "type": "MEDIATES",
+    "source": "N114",
+    "target": "N121"
+  },
+  {
+    "type": "MEDIATES",
+    "source": "N114",
+    "target": "N122"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N115",
+    "target": "N122"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N123",
+    "target": "N124"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N125",
+    "target": "N124"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N126",
+    "target": "N127"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N126",
+    "target": "N128"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N107",
+    "target": "N129"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N123",
+    "target": "N130"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N125",
+    "target": "N130"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N131",
+    "target": "N132"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N131",
+    "target": "N133"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N131",
+    "target": "N134"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N131",
+    "target": "N135"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N117",
+    "target": "N136"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N117",
+    "target": "N137"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N117",
+    "target": "N138"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N130"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N130"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N141"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N141"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N142"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N142"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N143"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N143"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N144"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N144"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N145"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N145"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N146",
+    "target": "N109"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N147"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N147"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N148",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N150",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N151",
+    "target": "N149"
+  },
+  {
+    "type": "CAUSES",
+    "source": "N146",
+    "target": "N152"
+  },
+  {
+    "type": "REDUCES",
+    "source": "N153",
+    "target": "N154"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N155"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N155"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N140",
+    "target": "N156"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N139",
+    "target": "N156"
+  },
+  {
+    "type": "ACETYLATES",
+    "source": "N157",
+    "target": "N158"
+  },
+  {
+    "type": "ACETYLATES",
+    "source": "N159",
+    "target": "N160"
+  },
+  {
+    "type": "ACETYLATES",
+    "source": "N159",
+    "target": "N161"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N162",
+    "target": "N163"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N162",
+    "target": "N164"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N162",
+    "target": "N165"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N162",
+    "target": "N166"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N167"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N167"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N109",
+    "target": "N168"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N109",
+    "target": "N169"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N170",
+    "target": "N171"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N172",
+    "target": "N173"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N174",
+    "target": "N173"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N175",
+    "target": "N173"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N176",
+    "target": "N173"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N177",
+    "target": "N173"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N162",
+    "target": "N178"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N162",
+    "target": "N179"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N162",
+    "target": "N95"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N139",
+    "target": "N180"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N140",
+    "target": "N180"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N181"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N181"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N139",
+    "target": "N182"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N140",
+    "target": "N182"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N162",
+    "target": "N183"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N162",
+    "target": "N184"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N185",
+    "target": "N186"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N185",
+    "target": "N187"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N185",
+    "target": "N188"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N189",
+    "target": "N190"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N189",
+    "target": "N191"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N107",
+    "target": "N192"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N107",
+    "target": "N193"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N194",
+    "target": "N186"
+  },
+  {
+    "type": "INVOLVED_WITH",
+    "source": "N195",
+    "target": "N196"
+  },
+  {
+    "type": "INVOLVED_WITH",
+    "source": "N197",
+    "target": "N196"
+  },
+  {
+    "type": "INVOLVED_WITH",
+    "source": "N198",
+    "target": "N196"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N107",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N199",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N200",
+    "target": "N149"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N201",
+    "target": "N149"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N123",
+    "target": "N202"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N123",
+    "target": "N203"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N123",
+    "target": "N204"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N123",
+    "target": "N144"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N125",
+    "target": "N202"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N125",
+    "target": "N203"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N125",
+    "target": "N204"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N125",
+    "target": "N144"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N205",
+    "target": "N152"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N205",
+    "target": "N36"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N205",
+    "target": "N37"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N107",
+    "target": "N206"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N201",
+    "target": "N206"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N207",
+    "target": "N206"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N208",
+    "target": "N206"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N125",
+    "target": "N204"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N125",
+    "target": "N145"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N125",
+    "target": "N209"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N125",
+    "target": "N203"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N210",
+    "target": "N211"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N212",
+    "target": "N211"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N199",
+    "target": "N120"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N151",
+    "target": "N120"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N213",
+    "target": "N120"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N214",
+    "target": "N215"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N216",
+    "target": "N7"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N214",
+    "target": "N217"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N214",
+    "target": "N218"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N214",
+    "target": "N219"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N107",
+    "target": "N220"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N221",
+    "target": "N220"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N222",
+    "target": "N223"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N221",
+    "target": "N223"
+  },
+  {
+    "type": "BLOCKS",
+    "source": "N221",
+    "target": "N120"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N224",
+    "target": "N225"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N222",
+    "target": "N226"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N221",
+    "target": "N226"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N227",
+    "target": "N228"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N221",
+    "target": "N228"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N229",
+    "target": "N230"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N231",
+    "target": "N232"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N222",
+    "target": "N233"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N221",
+    "target": "N120"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N120",
+    "target": "N234"
+  },
+  {
+    "type": "INDUCES",
+    "source": "N235",
+    "target": "N122"
+  },
+  {
+    "type": "DOES_NOT_INDUCE",
+    "source": "N236",
+    "target": "N122"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N238"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N239"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N240"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N241"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N242"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N243"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N244"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N245"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N246"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N247"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N248"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N249"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N250"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N251"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N252"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N253"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N254"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N235",
+    "target": "N255"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N221",
+    "target": "N255"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N205",
+    "target": "N7"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N205",
+    "target": "N256"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N205",
+    "target": "N257"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N205",
+    "target": "N258"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N259",
+    "target": "N255"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N235",
+    "target": "N255"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N260",
+    "target": "N255"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N261",
+    "target": "N255"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N259",
+    "target": "N255"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N205",
+    "target": "N262"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N162",
+    "target": "N263"
+  },
+  {
+    "type": "INHIBITS",
+    "source": "N264",
+    "target": "N255"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N265",
+    "target": "N115"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N266"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N267"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N268"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N269"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N270"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N271"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N272"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N273"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N274"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N275"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N276"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N277"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N278"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N279"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N280"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N281"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N282"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N283"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N284"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N285",
+    "target": "N286"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N287"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N237",
+    "target": "N288"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N289",
+    "target": "N290"
+  },
+  {
+    "type": "MEDIATES",
+    "source": "N235",
+    "target": "N290"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N291",
+    "target": "N292"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N293",
+    "target": "N294"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N295",
+    "target": "N296"
+  },
+  {
+    "type": "ENCODES",
+    "source": "N297",
+    "target": "N298"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N299",
+    "target": "N300"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N299",
+    "target": "N301"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N299",
+    "target": "N302"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N303",
+    "target": "N300"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N303",
+    "target": "N301"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N303",
+    "target": "N302"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N304",
+    "target": "N300"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N304",
+    "target": "N301"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N304",
+    "target": "N302"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N300",
+    "target": "N305"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N301",
+    "target": "N305"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N302",
+    "target": "N305"
+  },
+  {
+    "type": "ENRICHES",
+    "source": "N306",
+    "target": "N307"
+  },
+  {
+    "type": "MEDIATES",
+    "source": "N308",
+    "target": "N309"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N310",
+    "target": "N311"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N312",
+    "target": "N313"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N312",
+    "target": "N314"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N315",
+    "target": "N307"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N316",
+    "target": "N307"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N307",
+    "target": "N317"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N307",
+    "target": "N318"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N307",
+    "target": "N319"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N314",
+    "target": "N320"
+  },
+  {
+    "type": "CO_OCCURS_WITH",
+    "source": "N321",
+    "target": "N314"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N321",
+    "target": "N314"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N321",
+    "target": "N314"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N322",
+    "target": "N323"
+  },
+  {
+    "type": "EXPRESSED_IN",
+    "source": "N322",
+    "target": "N324"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N322",
+    "target": "N325"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N322",
+    "target": "N326"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N327",
+    "target": "N328"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N329",
+    "target": "N328"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N126",
+    "target": "N328"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N126",
+    "target": "N330"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N327",
+    "target": "N330"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N329",
+    "target": "N330"
+  },
+  {
+    "type": "CONTRIBUTES_TO",
+    "source": "N327",
+    "target": "N331"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N327",
+    "target": "N332"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N329",
+    "target": "N331"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N329",
+    "target": "N333"
+  },
+  {
+    "type": "EXPRESSED_IN",
+    "source": "N126",
+    "target": "N331"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N126",
+    "target": "N333"
+  },
+  {
+    "type": "IS_NOT_RELATED_TO",
+    "source": "N334",
+    "target": "N335"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N334",
+    "target": "N336"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N334",
+    "target": "N337"
+  },
+  {
+    "type": "IS_RELATED_TO",
+    "source": "N334",
+    "target": "N338"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N339",
+    "target": "N340"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N341",
+    "target": "N340"
+  },
+  {
+    "type": "REGULATES",
+    "source": "N342",
+    "target": "N340"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N343",
+    "target": "N344"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N345",
+    "target": "N346"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N347",
+    "target": "N7"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N348",
+    "target": "N7"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N349",
+    "target": "N7"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N351"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N352"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N353"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N354"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N355"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N356",
+    "target": "N357"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N356",
+    "target": "N358"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N359"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N361"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N362"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N363"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N364"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N365"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N257"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N350",
+    "target": "N7"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N7"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N360",
+    "target": "N366"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N367"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N368"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N369"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N370"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N371"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N372"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N373"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N360",
+    "target": "N374"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N375"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N376",
+    "target": "N377"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N376",
+    "target": "N378"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N379",
+    "target": "N380"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N381"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N382"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N383"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N384"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N385"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N386"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N387"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N388"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N389"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N390"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N391"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N392"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N393"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N394"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N395"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N396"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N397"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N398"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N399"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N7"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N400"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N401"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N402"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N403"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N361"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N258",
+    "target": "N404"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N7"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N400"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N401"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N402"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N403"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N361"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N405",
+    "target": "N404"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N406",
+    "target": "N407"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N409"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N410"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N411"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N412"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N413"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N414"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N408",
+    "target": "N415"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N416",
+    "target": "N417"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N416",
+    "target": "N418"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N419",
+    "target": "N417"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N419",
+    "target": "N418"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N416",
+    "target": "N56"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N419",
+    "target": "N56"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N420",
+    "target": "N56"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N419",
+    "target": "N149"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N419",
+    "target": "N421"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N419",
+    "target": "N422"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N416",
+    "target": "N423"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N419",
+    "target": "N423"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N424",
+    "target": "N423"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N425",
+    "target": "N426"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N427",
+    "target": "N428"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N429",
+    "target": "N428"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N430",
+    "target": "N428"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N431",
+    "target": "N432"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N433",
+    "target": "N434"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N435",
+    "target": "N434"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N436",
+    "target": "N432"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N437",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N438",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N439",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N440",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N441",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N442",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N443",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N444",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N445",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N446",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N447",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N448",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N449",
+    "target": "N432"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N450",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N452",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N440",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N441",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N442",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N443",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N444",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N445",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N446",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N447",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N448",
+    "target": "N451"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N449",
+    "target": "N451"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N438",
+    "target": "N453"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N454",
+    "target": "N453"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N455",
+    "target": "N453"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N456",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N457",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N458",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N459",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N441",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N443",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N460",
+    "target": "N453"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N461",
+    "target": "N453"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N462",
+    "target": "N463"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N462",
+    "target": "N464"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N462",
+    "target": "N465"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N462",
+    "target": "N466"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N462",
+    "target": "N467"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N468",
+    "target": "N469"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N468",
+    "target": "N470"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N471",
+    "target": "N472"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N471",
+    "target": "N473"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N474",
+    "target": "N473"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N471",
+    "target": "N475"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N474",
+    "target": "N475"
+  },
+  {
+    "type": "ACTIVATES",
+    "source": "N476",
+    "target": "N477"
+  },
+  {
+    "type": "ACTIVATES",
+    "source": "N478",
+    "target": "N477"
+  },
+  {
+    "type": "ACTIVATES",
+    "source": "N479",
+    "target": "N477"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N476",
+    "target": "N480"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N481",
+    "target": "N482"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N481",
+    "target": "N483"
+  },
+  {
+    "type": "INCREASES",
+    "source": "N481",
+    "target": "N484"
+  },
+  {
+    "type": "INHIBITS",
+    "source": "N481",
+    "target": "N485"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N481",
+    "target": "N486"
+  },
+  {
+    "type": "DECREASES",
+    "source": "N481",
+    "target": "N487"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N471",
+    "target": "N488"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N474",
+    "target": "N488"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N489",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N491",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N492",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N493",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N494",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N495",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N496",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N497",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N498",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N499",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N500",
+    "target": "N501"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N502",
+    "target": "N501"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N503",
+    "target": "N501"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N504",
+    "target": "N501"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N503",
+    "target": "N505"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N504",
+    "target": "N505"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N506",
+    "target": "N505"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N502",
+    "target": "N505"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N500",
+    "target": "N507"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N508",
+    "target": "N490"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N509",
+    "target": "N490"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N510",
+    "target": "N490"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N511",
+    "target": "N490"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N512",
+    "target": "N490"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N513",
+    "target": "N490"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N508",
+    "target": "N501"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N509",
+    "target": "N501"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N510",
+    "target": "N501"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N511",
+    "target": "N501"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N512",
+    "target": "N501"
+  },
+  {
+    "type": "MAY_NOT_INFLUENCE",
+    "source": "N513",
+    "target": "N501"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N514",
+    "target": "N505"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N514",
+    "target": "N515"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N516",
+    "target": "N517"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N516",
+    "target": "N518"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N517"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N518"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N520"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N521"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N389"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N522"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N519",
+    "target": "N523"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N524",
+    "target": "N525"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N526",
+    "target": "N527"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N526",
+    "target": "N528"
+  },
+  {
+    "type": "EXPRESSED_IN",
+    "source": "N524",
+    "target": "N529"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N524",
+    "target": "N530"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N531",
+    "target": "N532"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N531",
+    "target": "N517"
+  },
+  {
+    "type": "ASSOCIATED_WITH",
+    "source": "N533",
+    "target": "N534"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N535",
+    "target": "N536"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N537",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N539",
+    "target": "N485"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N539",
+    "target": "N540"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N539",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N541",
+    "target": "N542"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N543",
+    "target": "N544"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N543",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N543",
+    "target": "N545"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N546",
+    "target": "N544"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N546",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N546",
+    "target": "N545"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N547",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N548",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N547",
+    "target": "N549"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N548",
+    "target": "N549"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N547",
+    "target": "N545"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N548",
+    "target": "N545"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N547",
+    "target": "N550"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N548",
+    "target": "N550"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N551",
+    "target": "N552"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N551",
+    "target": "N515"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N551",
+    "target": "N538"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N553",
+    "target": "N552"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N553",
+    "target": "N515"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N554",
+    "target": "N538"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N555",
+    "target": "N538"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N556",
+    "target": "N557"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N558",
+    "target": "N557"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N556",
+    "target": "N559"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N561"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N562"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N563"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N564"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N565"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N566"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N567"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N568"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N569"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N570"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N571"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N560",
+    "target": "N572"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N573",
+    "target": "N574"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N573",
+    "target": "N575"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N576"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N577"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N573",
+    "target": "N578"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N573",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N579"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N580"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N581"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N573",
+    "target": "N582"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N583"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N584",
+    "target": "N582"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N585"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N586"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N587"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N584",
+    "target": "N578"
+  },
+  {
+    "type": "MAY_INFLUENCE",
+    "source": "N584",
+    "target": "N490"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N588"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N589"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N590"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N591"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N573",
+    "target": "N549"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N592",
+    "target": "N549"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N584",
+    "target": "N549"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N593",
+    "target": "N594"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N595",
+    "target": "N596"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N595",
+    "target": "N130"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N597",
+    "target": "N596"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N597",
+    "target": "N598"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N599",
+    "target": "N596"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N599",
+    "target": "N598"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N600",
+    "target": "N596"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N601",
+    "target": "N596"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N600",
+    "target": "N602"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N601",
+    "target": "N602"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N600",
+    "target": "N124"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N601",
+    "target": "N124"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N600",
+    "target": "N603"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N601",
+    "target": "N603"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N604",
+    "target": "N596"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N605",
+    "target": "N596"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N606",
+    "target": "N596"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N607",
+    "target": "N596"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N604",
+    "target": "N124"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N605",
+    "target": "N124"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N606",
+    "target": "N124"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N607",
+    "target": "N124"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N604",
+    "target": "N608"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N605",
+    "target": "N608"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N606",
+    "target": "N608"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N607",
+    "target": "N608"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N604",
+    "target": "N609"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N605",
+    "target": "N609"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N606",
+    "target": "N609"
+  },
+  {
+    "type": "DOES_NOT_INFLUENCE",
+    "source": "N607",
+    "target": "N609"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N610",
+    "target": "N598"
+  },
+  {
+    "type": "INFLUENCES",
+    "source": "N611",
+    "target": "N598"
+  }
+]

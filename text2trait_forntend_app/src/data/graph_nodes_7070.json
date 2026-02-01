@@ -1,0 +1,3485 @@
+[
+  {
+    "id": "N1",
+    "label": "Regulator",
+    "text": "CBP",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N2",
+    "label": "Process",
+    "text": "Juvenile hormone induction which is important for larval development",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N3",
+    "label": "Protein",
+    "text": "C2H2-type Zinc finger",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N4",
+    "label": "Process",
+    "text": "insect development",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N5",
+    "label": "Protein",
+    "text": "BTB/PAZ",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N6",
+    "label": "Protein",
+    "text": "bHLH",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N7",
+    "label": "Gene",
+    "text": "Kr-h1",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N8",
+    "label": "Process",
+    "text": "insect molting",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N9",
+    "label": "Protein",
+    "text": "Apolipophorin",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N10",
+    "label": "Process",
+    "text": "larval melanization",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N11",
+    "label": "Protein",
+    "text": "TcCBP",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N12",
+    "label": "Process",
+    "text": "FAS",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N13",
+    "label": "Protein",
+    "text": "CBP",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N14",
+    "label": "Pathway",
+    "text": "JH",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N15",
+    "label": "Pathway",
+    "text": "20E",
+    "source": "https://doi.org/10.1186/s12864-017-4373-3"
+  },
+  {
+    "id": "N16",
+    "label": "Gene",
+    "text": "iB_05441",
+    "source": "https://doi.org/10.1186/s12864-022-08822-z"
+  },
+  {
+    "id": "N17",
+    "label": "Trait",
+    "text": "colorless",
+    "source": "https://doi.org/10.1186/s12864-022-08822-z"
+  },
+  {
+    "id": "N18",
+    "label": "Gene",
+    "text": "iB_04797",
+    "source": "https://doi.org/10.1186/s12864-022-08822-z"
+  },
+  {
+    "id": "N19",
+    "label": "Gene",
+    "text": "iB_09043",
+    "source": "https://doi.org/10.1186/s12864-022-08822-z"
+  },
+  {
+    "id": "N20",
+    "label": "Gene",
+    "text": "iB_09413",
+    "source": "https://doi.org/10.1186/s12864-022-08822-z"
+  },
+  {
+    "id": "N21",
+    "label": "Trait",
+    "text": "melanized phenotype",
+    "source": "https://doi.org/10.1186/s12864-022-08822-z"
+  },
+  {
+    "id": "N22",
+    "label": "Protein",
+    "text": "D6X4H5",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N23",
+    "label": "Process",
+    "text": "Odorant binding",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N24",
+    "label": "Protein",
+    "text": "D2A4H7 Apolipophorin-III",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N25",
+    "label": "Process",
+    "text": "Lipid Binding",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N26",
+    "label": "Protein",
+    "text": "Q0MRK3 Chemosensory protein 18",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N27",
+    "label": "Process",
+    "text": "odor sensing",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N28",
+    "label": "Protein",
+    "text": "Pyruvate dehydrogenase E alpha subunit",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N29",
+    "label": "Pathway",
+    "text": "actyl-transferring activity",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N30",
+    "label": "Protein",
+    "text": "ribosomal protein L13a",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N31",
+    "label": "Process",
+    "text": "larval metabolism",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N32",
+    "label": "Protein",
+    "text": "Apolipoprotein LI-II",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N33",
+    "label": "Process",
+    "text": "larval development",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N34",
+    "label": "Pathway",
+    "text": "lipid storage",
+    "source": "https://doi.org/10.1371/journal.pone.0055330"
+  },
+  {
+    "id": "N35",
+    "label": "Gene",
+    "text": "TcMCORP",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N36",
+    "label": "Trait",
+    "text": "pupal mortality",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N37",
+    "label": "Trait",
+    "text": "adult mortality",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N38",
+    "label": "Trait",
+    "text": "adulthood mortality",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N39",
+    "label": "Trait",
+    "text": "few progeny",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N40",
+    "label": "Trait",
+    "text": "reduces eggs laid",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N41",
+    "label": "Trait",
+    "text": "egg hatching",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N42",
+    "label": "Trait",
+    "text": "ovary development",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N43",
+    "label": "Trait",
+    "text": "male reproductive tissue",
+    "source": "https://doi.org/10.1371/journal.pone.0111344"
+  },
+  {
+    "id": "N44",
+    "label": "Gene",
+    "text": "rdgB",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N45",
+    "label": "Pathway",
+    "text": "chemosensory-specific",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N46",
+    "label": "Gene",
+    "text": "itpr",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N47",
+    "label": "Gene",
+    "text": "dgkd",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N48",
+    "label": "Gene",
+    "text": "dgkt",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N49",
+    "label": "Protein",
+    "text": "TcasSNMP1",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N50",
+    "label": "Process",
+    "text": "olfaction",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N51",
+    "label": "Protein",
+    "text": "TcasSNMP3",
+    "source": "https://doi.org/10.1186/s12915-016-0304-z"
+  },
+  {
+    "id": "N52",
+    "label": "Gene",
+    "text": "spo",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N53",
+    "label": "Process",
+    "text": "developmental arrest",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N54",
+    "label": "Gene",
+    "text": "phm",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N55",
+    "label": "Process",
+    "text": "molting",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N56",
+    "label": "Process",
+    "text": "pupation",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N57",
+    "label": "Process",
+    "text": "ecdysis",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N58",
+    "label": "Gene",
+    "text": "spot",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N59",
+    "label": "Pathway",
+    "text": "ecdysteroid synthesis",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N60",
+    "label": "Process",
+    "text": "the accessory glands",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N61",
+    "label": "Process",
+    "text": "male body",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N62",
+    "label": "Process",
+    "text": "other parts of reproductive system",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N63",
+    "label": "Pathway",
+    "text": "carcass",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N64",
+    "label": "Pathway",
+    "text": "reproductive system",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N65",
+    "label": "Enzyme",
+    "text": "terminal hydroxylases",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N66",
+    "label": "Process",
+    "text": "Ecdysone",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N67",
+    "label": "Gene",
+    "text": "Phm",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N68",
+    "label": "Gene",
+    "text": "Dib",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N69",
+    "label": "Gene",
+    "text": "Sad",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N70",
+    "label": "Process",
+    "text": "Fertility",
+    "source": "https://doi.org/10.1371/journal.pone.0055131"
+  },
+  {
+    "id": "N71",
+    "label": "Enzyme",
+    "text": "\u03b1-amylase",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N72",
+    "label": "Process",
+    "text": "digestion",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N73",
+    "label": "Process",
+    "text": "adult feeding",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N74",
+    "label": "Gene",
+    "text": "TcAmy",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N75",
+    "label": "Trait",
+    "text": "some life stages",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N76",
+    "label": "Trait",
+    "text": "feeding life stages",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N77",
+    "label": "Trait",
+    "text": "feeding",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N78",
+    "label": "Trait",
+    "text": "larval feeding",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N79",
+    "label": "Trait",
+    "text": "adults feeding",
+    "source": "https://doi.org/10.14411/eje.2014.022"
+  },
+  {
+    "id": "N80",
+    "label": "Gene",
+    "text": "Tcsu(var)3-9",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N81",
+    "label": "Developmental stage",
+    "text": "Early embryo",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N82",
+    "label": "Body part",
+    "text": "hemolymph of larvae and ovary of adult",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N83",
+    "label": "development",
+    "text": "development to adult",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N84",
+    "label": "Process",
+    "text": "offspring survival",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N85",
+    "label": "Gene",
+    "text": "TceIF2\u03b3",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N86",
+    "label": "Process",
+    "text": "mortality",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N87",
+    "label": "Process",
+    "text": "failure to molt to pupal stage",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N88",
+    "label": "Process",
+    "text": "failure to molt to adultstage",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N89",
+    "label": "movement",
+    "text": "locomotor activity",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N90",
+    "label": "Gene",
+    "text": "EcR/Usp",
+    "source": "https://doi.org/10.1042/bcj20200444"
+  },
+  {
+    "id": "N91",
+    "label": "Gene",
+    "text": "Tc-h",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N92",
+    "label": "Process",
+    "text": "head development embryonic stage",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N93",
+    "label": "Trait",
+    "text": "abdominal segments",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N94",
+    "label": "Trait",
+    "text": "segmentation",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N95",
+    "label": "Trait",
+    "text": "mandible",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N96",
+    "label": "Trait",
+    "text": "labium",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N97",
+    "label": "Trait",
+    "text": "midline formation",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N98",
+    "label": "Trait",
+    "text": "abnormal ventral midline",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N99",
+    "label": "Gene",
+    "text": "Tc-ftz",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N100",
+    "label": "Trait",
+    "text": "abnormal developmental segmentation",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N101",
+    "label": "Trait",
+    "text": "normal developmental segmentation",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N102",
+    "label": "Gene",
+    "text": "Tc-prd",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N103",
+    "label": "Trait",
+    "text": "normal segmentation",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N104",
+    "label": "Trait",
+    "text": "premature loss of segmentation stripe in embryos",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N105",
+    "label": "Trait",
+    "text": "mandible development",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N106",
+    "label": "Trait",
+    "text": "labial appendage development",
+    "source": "https://doi.org/10.1007/s00427-008-0240-1"
+  },
+  {
+    "id": "N107",
+    "label": "Receptor",
+    "text": "GPCR"
+  },
+  {
+    "id": "N108",
+    "label": "Trait",
+    "text": "fecundity"
+  },
+  {
+    "id": "N109",
+    "label": "Gene",
+    "text": "TcNav",
+    "source": "https://doi.org/10.1038/srep29301"
+  },
+  {
+    "id": "N110",
+    "label": "survival",
+    "text": "dose dependent survival",
+    "source": "https://doi.org/10.1038/srep29301"
+  },
+  {
+    "id": "N111",
+    "label": "Process",
+    "text": "adult emergence at eclosion"
+  },
+  {
+    "id": "N112",
+    "label": "Receptor",
+    "text": "Rhodopsin-like receptor"
+  },
+  {
+    "id": "N113",
+    "label": "Protein",
+    "text": "Vg accumulation"
+  },
+  {
+    "id": "N114",
+    "label": "Receptor",
+    "text": "Dopamine D2-like receptor"
+  },
+  {
+    "id": "N115",
+    "label": "Hormone",
+    "text": "JH"
+  },
+  {
+    "id": "N116",
+    "label": "Messenger",
+    "text": "intracellular cAMP levels"
+  },
+  {
+    "id": "N117",
+    "label": "Gene",
+    "text": "HDAC3"
+  },
+  {
+    "id": "N118",
+    "label": "Trait",
+    "text": "wing development in pupa"
+  },
+  {
+    "id": "N119",
+    "label": "Trait",
+    "text": "wing development in adults"
+  },
+  {
+    "id": "N120",
+    "label": "Protein",
+    "text": "Vg uptake"
+  },
+  {
+    "id": "N121",
+    "label": "Process",
+    "text": "JH regulation"
+  },
+  {
+    "id": "N122",
+    "label": "Process",
+    "text": "patency"
+  },
+  {
+    "id": "N123",
+    "label": "Gene",
+    "text": "dsTcCYP6K1",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N124",
+    "label": "Trait",
+    "text": "Survival",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N125",
+    "label": "Gene",
+    "text": "dsTcCYP9F2",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N126",
+    "label": "Gene",
+    "text": "giant",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N127",
+    "label": "Process",
+    "text": "segment formation",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N128",
+    "label": "Trait",
+    "text": "segment identity",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N129",
+    "label": "Process",
+    "text": "egg production",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N130",
+    "label": "Trait",
+    "text": "Larval survival",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N131",
+    "label": "Gene",
+    "text": "wg",
+    "source": "https://doi.org/10.1007/s00427-009-0310-z"
+  },
+  {
+    "id": "N132",
+    "label": "Process",
+    "text": "distal leg development",
+    "source": "https://doi.org/10.1007/s00427-009-0310-z"
+  },
+  {
+    "id": "N133",
+    "label": "Process",
+    "text": "ventral leg development",
+    "source": "https://doi.org/10.1007/s00427-009-0310-z"
+  },
+  {
+    "id": "N134",
+    "label": "Process",
+    "text": "proximal development",
+    "source": "https://doi.org/10.1007/s00427-009-0310-z"
+  },
+  {
+    "id": "N135",
+    "label": "Process",
+    "text": "limb allocation",
+    "source": "https://doi.org/10.1007/s00427-009-0310-z"
+  },
+  {
+    "id": "N136",
+    "label": "Gene",
+    "text": "Myosin 22 encoding gene"
+  },
+  {
+    "id": "N137",
+    "label": "Gene",
+    "text": "Shaven"
+  },
+  {
+    "id": "N138",
+    "label": "Gene",
+    "text": "nuclear receptor corepressor 1"
+  },
+  {
+    "id": "N139",
+    "label": "Gene",
+    "text": "TcCYP6K1",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N140",
+    "label": "Gene",
+    "text": "TcCYP9F2",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N141",
+    "label": "Metabolite",
+    "text": "glycogen content",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N142",
+    "label": "Metabolite",
+    "text": "trehalose content",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N143",
+    "label": "Enzyme",
+    "text": "trehalase enzyme activity",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N144",
+    "label": "Gene",
+    "text": "TPS",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N145",
+    "label": "Gene",
+    "text": "GS",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N146",
+    "label": "Gene",
+    "text": "nptII"
+  },
+  {
+    "id": "N147",
+    "label": "Metabolite",
+    "text": "ATP",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N148",
+    "label": "Receptor",
+    "text": "TC007170/CapaR"
+  },
+  {
+    "id": "N149",
+    "label": "Process",
+    "text": "egg laying"
+  },
+  {
+    "id": "N150",
+    "label": "Receptor",
+    "text": "TC012297/5-HT1A"
+  },
+  {
+    "id": "N151",
+    "label": "Receptor",
+    "text": "TC000118/Rh2"
+  },
+  {
+    "id": "N152",
+    "label": "Trait",
+    "text": "larval mortality"
+  },
+  {
+    "id": "N153",
+    "label": "",
+    "text": "nptII"
+  },
+  {
+    "id": "N154",
+    "label": "",
+    "text": "adult emergence"
+  },
+  {
+    "id": "N155",
+    "label": "Metabolite",
+    "text": "larvae glycogen content",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N156",
+    "label": "Metabolite",
+    "text": "larval glucose content",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N157",
+    "label": "Process",
+    "text": "HDAC3 knockdown"
+  },
+  {
+    "id": "N158",
+    "label": "Amino Acid",
+    "text": "H3K9"
+  },
+  {
+    "id": "N159",
+    "label": "Process",
+    "text": "HDAC3"
+  },
+  {
+    "id": "N160",
+    "label": "Amino Acid",
+    "text": "H3K18"
+  },
+  {
+    "id": "N161",
+    "label": "Amino Acid",
+    "text": "H3K27"
+  },
+  {
+    "id": "N162",
+    "label": "Gene",
+    "text": "Tc'giant",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N163",
+    "label": "Trait",
+    "text": "body segments",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N164",
+    "label": "Trait",
+    "text": "leg-bearing segments",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N165",
+    "label": "Trait",
+    "text": "gnathal appendages (labium)",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N166",
+    "label": "Trait",
+    "text": "gnathal appendages (maxilla)",
+    "source": "https://doi.org/10.1242/dev.01073"
+  },
+  {
+    "id": "N167",
+    "label": "Metabolite",
+    "text": "larvae  trehalose content",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N168",
+    "label": "Trait",
+    "text": "larval survival"
+  },
+  {
+    "id": "N169",
+    "label": "Trait",
+    "text": "adult emergence"
+  },
+  {
+    "id": "N170",
+    "label": "Receptor",
+    "text": "GCPR"
+  },
+  {
+    "id": "N171",
+    "label": "Process",
+    "text": "larva hatch rate"
+  },
+  {
+    "id": "N172",
+    "label": "Receptor",
+    "text": "TC013945/CcapR"
+  },
+  {
+    "id": "N173",
+    "label": "",
+    "text": "larva hatch rate"
+  },
+  {
+    "id": "N174",
+    "label": "Receptor",
+    "text": "TC007536"
+  },
+  {
+    "id": "N175",
+    "label": "Receptor",
+    "text": "TC007104"
+  },
+  {
+    "id": "N176",
+    "label": "Receptor",
+    "text": "TC010656"
+  },
+  {
+    "id": "N177",
+    "label": "Receptor",
+    "text": "TC009370"
+  },
+  {
+    "id": "N178",
+    "label": "Trait",
+    "text": "antenna"
+  },
+  {
+    "id": "N179",
+    "label": "Trait",
+    "text": "labrum"
+  },
+  {
+    "id": "N180",
+    "label": "Metabolite",
+    "text": "larvae soluble trehalase activity",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N181",
+    "label": "Metabolite",
+    "text": "larval membrane-bound trehalase activity",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N182",
+    "label": "Metabolite",
+    "text": "ATP levels",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N183",
+    "label": "Gene",
+    "text": "homeotic genes"
+  },
+  {
+    "id": "N184",
+    "label": "Gene",
+    "text": "Hox"
+  },
+  {
+    "id": "N185",
+    "label": "Gene",
+    "text": "TcAMPK\u03b1"
+  },
+  {
+    "id": "N186",
+    "label": "lipid",
+    "text": "triglyceride"
+  },
+  {
+    "id": "N187",
+    "label": "Sugars",
+    "text": "glucose"
+  },
+  {
+    "id": "N188",
+    "label": "Sugars",
+    "text": "trelahose"
+  },
+  {
+    "id": "N189",
+    "label": "Gene",
+    "text": "dsTcAMPK\u03b1"
+  },
+  {
+    "id": "N190",
+    "label": "sugar",
+    "text": "glucose"
+  },
+  {
+    "id": "N191",
+    "label": "sugar",
+    "text": "trehalose"
+  },
+  {
+    "id": "N192",
+    "label": "Protein",
+    "text": "circulating Vg levels",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N193",
+    "label": "Protein",
+    "text": "ovarian Vg levels",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N194",
+    "label": "Gene",
+    "text": "TcAMPK"
+  },
+  {
+    "id": "N195",
+    "label": "Gene",
+    "text": "Toll3",
+    "source": "https://doi.org/10.3390/ijms24021523"
+  },
+  {
+    "id": "N196",
+    "label": "Gene",
+    "text": "AMP gene induction",
+    "source": "https://doi.org/10.3390/ijms24021523"
+  },
+  {
+    "id": "N197",
+    "label": "Gene",
+    "text": "Toll4",
+    "source": "https://doi.org/10.3390/ijms24021523"
+  },
+  {
+    "id": "N198",
+    "label": "Gene",
+    "text": "spz7",
+    "source": "https://doi.org/10.3390/ijms24021523"
+  },
+  {
+    "id": "N199",
+    "label": "Receptor",
+    "text": "TC007490/D2R",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N200",
+    "label": "Receptor",
+    "text": "TC011655/NPFR",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N201",
+    "label": "Receptor",
+    "text": "TC001872/Cirl",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N202",
+    "label": "Gene",
+    "text": "TRE1-1",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N203",
+    "label": "Gene",
+    "text": "PK",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N204",
+    "label": "Gene",
+    "text": "TRE1-4",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N205",
+    "label": "Gene",
+    "text": "HDAC3 knockdown"
+  },
+  {
+    "id": "N206",
+    "label": "Protein",
+    "text": "Vg levels",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N207",
+    "label": "Receptor",
+    "text": "TC007170/capaR",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N208",
+    "label": "Receptor",
+    "text": "TC003150/sNPFR",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N209",
+    "label": "Gene",
+    "text": "TRE1-2",
+    "source": "https://doi.org/10.3390/insects15070502"
+  },
+  {
+    "id": "N210",
+    "label": "Receptor",
+    "text": "TC003331",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N211",
+    "label": "Protein",
+    "text": "Vg synthesis",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N212",
+    "label": "Receptor",
+    "text": "TC001056",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N213",
+    "label": "Trait",
+    "text": "beetle age",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N214",
+    "label": "Environmental Stressor",
+    "text": "Heat stress",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N215",
+    "label": "Gene",
+    "text": "TCAST1 satellite DNA",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N216",
+    "label": "Hormone mimic",
+    "text": "hydropene"
+  },
+  {
+    "id": "N217",
+    "label": "Gene",
+    "text": "TCAST 1 element 2"
+  },
+  {
+    "id": "N218",
+    "label": "",
+    "text": "TCAST 1 element 21"
+  },
+  {
+    "id": "N219",
+    "label": "",
+    "text": "TCAST 1 element 46"
+  },
+  {
+    "id": "N220",
+    "label": "Protein",
+    "text": "ovary Vg accumulation",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N221",
+    "label": "Receptor",
+    "text": "TcD2R",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N222",
+    "label": "Receptor",
+    "text": "TcRh2",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N223",
+    "label": "Protein",
+    "text": "Vg release into hemolymph",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N224",
+    "label": "Environmental stressor",
+    "text": "Long-term heat stress",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N225",
+    "label": "Gene",
+    "text": "TCAST1",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N226",
+    "label": "Process",
+    "text": "slow growth of primary follicle",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N227",
+    "label": "Receptor",
+    "text": "malE",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N228",
+    "label": "Trait",
+    "text": "follicle length",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N229",
+    "label": "Gene",
+    "text": "TCAST1 element 46 located at the 5' end",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N230",
+    "label": "Gene",
+    "text": "ribonucleoside-diphosphate reductase",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N231",
+    "label": "Environmental Stressor",
+    "text": "Long-term heat stress",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N232",
+    "label": "Gene",
+    "text": "TCAST1 element 2",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N233",
+    "label": "Trait",
+    "text": "undeveloped, previtellogenic oocytes",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N234",
+    "label": "Process",
+    "text": "ovarian growth and development",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N235",
+    "label": "Hormone",
+    "text": "JH III",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N236",
+    "label": "Hormone",
+    "text": "20-hydroxy ecdysone",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N237",
+    "label": "Factor",
+    "text": "Heat stress",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N238",
+    "label": "Gene",
+    "text": "TCAST 1 element 10",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N239",
+    "label": "Gene",
+    "text": "TCAST 1 element 11",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N240",
+    "label": "Gene",
+    "text": "TCAST 1 element 13",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N241",
+    "label": "Gene",
+    "text": "TCAST1 element14",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N242",
+    "label": "Gene",
+    "text": "TCAST1 element 15",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N243",
+    "label": "Gene",
+    "text": "TCAST1 element 16",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N244",
+    "label": "Gene",
+    "text": "TCAST1 element 23",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N245",
+    "label": "Gene",
+    "text": "TCAST1 element 25",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N246",
+    "label": "Gene",
+    "text": "TCAST1 element 27",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N247",
+    "label": "Gene",
+    "text": "TCAST1 element 30",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N248",
+    "label": "Gene",
+    "text": "TCAST1 element 39",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N249",
+    "label": "Gene",
+    "text": "TCAST1 element 41",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N250",
+    "label": "Gene",
+    "text": "TCAST1 element 42",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N251",
+    "label": "Gene",
+    "text": "TCAST1 element 52",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N252",
+    "label": "Gene",
+    "text": "TCAST1 element 57",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N253",
+    "label": "Gene",
+    "text": "TCAST1 element 59",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N254",
+    "label": "Gene",
+    "text": "TCAST1 element 67",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N255",
+    "label": "Messenger",
+    "text": "cAMP levels",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N256",
+    "label": "Gene",
+    "text": "4EBP"
+  },
+  {
+    "id": "N257",
+    "label": "Gene",
+    "text": "SRC"
+  },
+  {
+    "id": "N258",
+    "label": "Gene",
+    "text": "CBP"
+  },
+  {
+    "id": "N259",
+    "label": "Metabolite",
+    "text": "forskolin",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N260",
+    "label": "Receptor",
+    "text": "TcDR2",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N261",
+    "label": "Hormones",
+    "text": "JH III",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N262",
+    "label": "Protein",
+    "text": "Met expression"
+  },
+  {
+    "id": "N263",
+    "label": "Trait",
+    "text": "segment patterning"
+  },
+  {
+    "id": "N264",
+    "label": "Hormone",
+    "text": "dopamine",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N265",
+    "label": "Receptor",
+    "text": "TcD24",
+    "source": "https://doi.org/10.1038/srep27648"
+  },
+  {
+    "id": "N266",
+    "label": "Gene",
+    "text": "661947",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N267",
+    "label": "Gene",
+    "text": "656290",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N268",
+    "label": "Gene",
+    "text": "656976",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N269",
+    "label": "Gene",
+    "text": "663231",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N270",
+    "label": "Gene",
+    "text": "661207",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N271",
+    "label": "Gene",
+    "text": "657535",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N272",
+    "label": "Gene",
+    "text": "654938",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N273",
+    "label": "Gene",
+    "text": "657098",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N274",
+    "label": "Gene",
+    "text": "655561",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N275",
+    "label": "Gene",
+    "text": "655640",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N276",
+    "label": "Gene",
+    "text": "655011",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N277",
+    "label": "Gene",
+    "text": "660195",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N278",
+    "label": "Gene",
+    "text": "656174",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N279",
+    "label": "Gene",
+    "text": "659233",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N280",
+    "label": "Gene",
+    "text": "658463",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N281",
+    "label": "Gene",
+    "text": "100142507",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N282",
+    "label": "Gene",
+    "text": "662058",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N283",
+    "label": "Gene",
+    "text": "657778",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N284",
+    "label": "Gene",
+    "text": "655916",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N285",
+    "label": "Gene",
+    "text": "TCAST1 siRNAs",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N286",
+    "label": "Gene",
+    "text": "H3K9 methylation",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N287",
+    "label": "Gene",
+    "text": "H3K9me2",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N288",
+    "label": "Gene",
+    "text": "H3K9me3",
+    "source": "https://doi.org/10.1371/journal.pgen.1005466"
+  },
+  {
+    "id": "N289",
+    "label": "Protein",
+    "text": "Met"
+  },
+  {
+    "id": "N290",
+    "label": "Gene",
+    "text": "HDAC3 gene expression"
+  },
+  {
+    "id": "N291",
+    "label": "Gene",
+    "text": "Tchpd",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N292",
+    "label": "Enzyme",
+    "text": "4-hydroxyphenylpyruvate dioxygenase",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N293",
+    "label": "Gene",
+    "text": "Tcnat",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N294",
+    "label": "Enzyme",
+    "text": "N-acetyltransferase",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N295",
+    "label": "Gene",
+    "text": "Tctat",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N296",
+    "label": "Enzyme",
+    "text": "tat",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N297",
+    "label": "Gene",
+    "text": "Tcddc",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N298",
+    "label": "Enzyme",
+    "text": "ddc",
+    "source": "https://doi.org/10.1038/s41598-019-50440-5"
+  },
+  {
+    "id": "N299",
+    "label": "Protein",
+    "text": "burs",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N300",
+    "label": "Protein",
+    "text": "Vg1",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N301",
+    "label": "Protein",
+    "text": "Vg2",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N302",
+    "label": "Gene",
+    "text": "Vg receptor genes",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N303",
+    "label": "Protein",
+    "text": "Receptor Tribolium castaneum rickets (Tcrk)",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N304",
+    "label": "Protein",
+    "text": "pburs",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N305",
+    "label": "Process",
+    "text": "Oocyte development",
+    "source": "https://doi.org/10.3389/fphys.2021.717437"
+  },
+  {
+    "id": "N306",
+    "label": "Gene",
+    "text": "TC013096",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N307",
+    "label": "Gene",
+    "text": "Nha1",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N308",
+    "label": "cell",
+    "text": "leptophragmata",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N309",
+    "label": "Pathway",
+    "text": "hemolymph-to-tubule transport",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N310",
+    "label": "Tissue",
+    "text": "K+ cation substrates",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N311",
+    "label": "Protein",
+    "text": "structural protein stability",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N312",
+    "label": "Environmental Stressor",
+    "text": "High humidity",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N313",
+    "label": "Protein",
+    "text": "NHA1",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N314",
+    "label": "Gene",
+    "text": "NHA1",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N315",
+    "label": "Gene",
+    "text": "DH37",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N316",
+    "label": "Gene",
+    "text": "Urn8",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N317",
+    "label": "Process",
+    "text": "dessication",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N318",
+    "label": "Process",
+    "text": "fluid loss",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N319",
+    "label": "Process",
+    "text": "fluid retention",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N320",
+    "label": "Process",
+    "text": "water absorption",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N321",
+    "label": "Transcription Factor",
+    "text": "Tio",
+    "source": "https://doi.org/10.1073/pnas.2217084120"
+  },
+  {
+    "id": "N322",
+    "label": "Gene",
+    "text": "mlpt",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N323",
+    "label": "Process",
+    "text": "abdominal segments",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N324",
+    "label": "Process",
+    "text": "blastoderm stage to develop head lobes",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N325",
+    "label": "Process",
+    "text": "embryo development",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N326",
+    "label": "Process",
+    "text": "tracheal pit",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N327",
+    "label": "Gene",
+    "text": "hunchback",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N328",
+    "label": "Process",
+    "text": "blastoderm",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N329",
+    "label": "Gene",
+    "text": "Kr\u00fcppel",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N330",
+    "label": "Process",
+    "text": "germband growth",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N331",
+    "label": "Process",
+    "text": "first trunk development",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N332",
+    "label": "Process",
+    "text": "progression of trunk development",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N333",
+    "label": "Process",
+    "text": "second trunk development",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N334",
+    "label": "Gene",
+    "text": "mlpt knockdown",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N335",
+    "label": "Process",
+    "text": "thoracic segmentation",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N336",
+    "label": "Process",
+    "text": "posterior thoracic segmentation",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N337",
+    "label": "Process",
+    "text": "posterior border thoracic segmentation",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N338",
+    "label": "Process",
+    "text": "trunk domain",
+    "source": "https://doi.org/10.1016/j.cell.2006.05.053"
+  },
+  {
+    "id": "N339",
+    "label": "Gene",
+    "text": "tc-akh1",
+    "source": "https://doi.org/10.3390/insects16040407"
+  },
+  {
+    "id": "N340",
+    "label": "Trait",
+    "text": "locomotion",
+    "source": "https://doi.org/10.3390/insects16040407"
+  },
+  {
+    "id": "N341",
+    "label": "Gene",
+    "text": "tc-akh2",
+    "source": "https://doi.org/10.3390/insects16040407"
+  },
+  {
+    "id": "N342",
+    "label": "Gene",
+    "text": "tc-akhr",
+    "source": "https://doi.org/10.3390/insects16040407"
+  },
+  {
+    "id": "N343",
+    "label": "Gene",
+    "text": "en",
+    "source": "https://doi.org/10.3390/insects14080691"
+  },
+  {
+    "id": "N344",
+    "label": "Process",
+    "text": "embryo segmentation",
+    "source": "https://doi.org/10.3390/insects14080691"
+  },
+  {
+    "id": "N345",
+    "label": "Gene",
+    "text": "inv",
+    "source": "https://doi.org/10.3390/insects14080691"
+  },
+  {
+    "id": "N346",
+    "label": "Gene",
+    "text": "hh",
+    "source": "https://doi.org/10.3390/insects14080691"
+  },
+  {
+    "id": "N347",
+    "label": "Process",
+    "text": "dsmalE+",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N348",
+    "label": "Process",
+    "text": "JHIII",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N349",
+    "label": "Process",
+    "text": "MJ",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N350",
+    "label": "Regulator",
+    "text": "JH",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N351",
+    "label": "Gene",
+    "text": "ankyrin 3",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N352",
+    "label": "Gene",
+    "text": "Vitellogenin",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N353",
+    "label": "Gene",
+    "text": "matrix metalloproteinase-3",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N354",
+    "label": "Gene",
+    "text": "neurexin-1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N355",
+    "label": "Gene",
+    "text": "alpha-2C adrenergic receptor",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N356",
+    "label": "Gene",
+    "text": "Mmp1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N357",
+    "label": "Trait",
+    "text": "pupal developmental arrest",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N358",
+    "label": "Gene",
+    "text": "Mmp3",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N359",
+    "label": "Receptor",
+    "text": "alpha 2C adrenergic receptor",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N360",
+    "label": "Regulator",
+    "text": "TSA",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N361",
+    "label": "Gene",
+    "text": "FoxO",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N362",
+    "label": "Gene",
+    "text": "Ftz transcription factor 1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N363",
+    "label": "Gene",
+    "text": "Hormone receptor 51",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N364",
+    "label": "Gene",
+    "text": "Seven-up",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N365",
+    "label": "Gene",
+    "text": "Hormone receptor 38",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N366",
+    "label": "Gene",
+    "text": "Met",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N367",
+    "label": "Gene",
+    "text": "fatty acid synthase",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N368",
+    "label": "Gene",
+    "text": "calcium channel flower",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N369",
+    "label": "Gene",
+    "text": "calcium-transporting ATPase type 2C member 1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N370",
+    "label": "Gene",
+    "text": "calpain-C",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N371",
+    "label": "Gene",
+    "text": "MAPK",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N372",
+    "label": "Gene",
+    "text": "Hippo",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N373",
+    "label": "Gene",
+    "text": "Wnt",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N374",
+    "label": "Gene",
+    "text": "TGF\u03b2",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N375",
+    "label": "Gene",
+    "text": "Cat Eye Critical Region 1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N376",
+    "label": "Protein",
+    "text": "dsCBP",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N377",
+    "label": "Regulator",
+    "text": "mad2",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N378",
+    "label": "Regulator",
+    "text": "bambi",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N379",
+    "label": "Process",
+    "text": "CBP",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N380",
+    "label": "Gene",
+    "text": "eyegone",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N381",
+    "label": "Gene",
+    "text": "HR38",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N382",
+    "label": "Gene",
+    "text": "hexokinase 2",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N383",
+    "label": "Gene",
+    "text": "Takeout",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N384",
+    "label": "Gene",
+    "text": "H17",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N385",
+    "label": "Gene",
+    "text": "Cyt18A1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N386",
+    "label": "Gene",
+    "text": "Cyt303A1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N387",
+    "label": "Gene",
+    "text": "Cyp4q6",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N388",
+    "label": "Gene",
+    "text": "Cyp4C1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N389",
+    "label": "Gene",
+    "text": "farnesol dehydrogenase",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N390",
+    "label": "Gene",
+    "text": "calcium-activated chloride channel regulator 4",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N391",
+    "label": "Gene",
+    "text": "sodium/potassium-transporting ATPase subunit alpha",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N392",
+    "label": "Gene",
+    "text": "calcium release-activated calcium channel protein 1",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N393",
+    "label": "Pathway",
+    "text": "FoxO signaling",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N394",
+    "label": "Process",
+    "text": "fatty acid metabolism",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N395",
+    "label": "Metabolite",
+    "text": "Insect hormone biosynthesis",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N396",
+    "label": "Pathway",
+    "text": "Toll",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N397",
+    "label": "Pathway",
+    "text": "IMD",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N398",
+    "label": "Pathway",
+    "text": "TGF-\u03b2",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N399",
+    "label": "Pathway",
+    "text": "Hedgehog signaling",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N400",
+    "label": "Gene",
+    "text": "svp",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N401",
+    "label": "Gene",
+    "text": "Fz2",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N402",
+    "label": "Gene",
+    "text": "polycomb",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N403",
+    "label": "Gene",
+    "text": "lanA",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N404",
+    "label": "Gene",
+    "text": "BMP receptor type-1B",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N405",
+    "label": "Gene",
+    "text": "TSA",
+    "source": "https://doi.org/10.1186/s12864-018-5323-4"
+  },
+  {
+    "id": "N406",
+    "label": "Fungus",
+    "text": "Beauveria bassiana",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N407",
+    "label": "Gene",
+    "text": "benzoquinone oxidoreductase",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N408",
+    "label": "Fungus",
+    "text": "B. bassiana",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N409",
+    "label": "Gene",
+    "text": "BBA_00807",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N410",
+    "label": "Gene",
+    "text": "BBA_01593",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N411",
+    "label": "Gene",
+    "text": "BBA_06856",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N412",
+    "label": "Gene",
+    "text": "BBA_06629",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N413",
+    "label": "Gene",
+    "text": "BBA_03616",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N414",
+    "label": "Gene",
+    "text": "BBA_06727",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N415",
+    "label": "Gene",
+    "text": "spaetzle",
+    "source": "https://doi.org/10.1038/s41598-023-43889-y"
+  },
+  {
+    "id": "N416",
+    "label": "Gene",
+    "text": "dsTcAce1",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N417",
+    "label": "Gene",
+    "text": "TcAce1",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N418",
+    "label": "Gene",
+    "text": "TcAce2",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N419",
+    "label": "Gene",
+    "text": "dsTcAce2",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N420",
+    "label": "Gene",
+    "text": "dsTcAce112",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N421",
+    "label": "Process",
+    "text": "egg hatching",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N422",
+    "label": "Process",
+    "text": "larval body weight",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N423",
+    "label": "Trait",
+    "text": "Insecticide mortality",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N424",
+    "label": "Gene",
+    "text": "dsTcAce1+2",
+    "source": "https://doi.org/10.1038/srep00288"
+  },
+  {
+    "id": "N425",
+    "label": "Gene",
+    "text": "dachshund",
+    "source": "https://doi.org/10.1111/ede.12066"
+  },
+  {
+    "id": "N426",
+    "label": "Process",
+    "text": "labral axis development",
+    "source": "https://doi.org/10.1111/ede.12066"
+  },
+  {
+    "id": "N427",
+    "label": "Gene",
+    "text": "homothorax"
+  },
+  {
+    "id": "N428",
+    "label": "Process",
+    "text": "labral development"
+  },
+  {
+    "id": "N429",
+    "label": "Gene",
+    "text": "Extradenticle (exd)"
+  },
+  {
+    "id": "N430",
+    "label": "Gene",
+    "text": "Distal\u2010less (Dll)"
+  },
+  {
+    "id": "N431",
+    "label": "Gene",
+    "text": "Keren"
+  },
+  {
+    "id": "N432",
+    "label": "Process",
+    "text": "Labral development"
+  },
+  {
+    "id": "N433",
+    "label": "Gene",
+    "text": "Decapentaplegic (dpp)"
+  },
+  {
+    "id": "N434",
+    "label": "Process",
+    "text": "Labral sclerite development"
+  },
+  {
+    "id": "N435",
+    "label": "Gene",
+    "text": "drumstick (drm)"
+  },
+  {
+    "id": "N436",
+    "label": "Gene",
+    "text": "apterous a"
+  },
+  {
+    "id": "N437",
+    "label": "Gene",
+    "text": "apterous b"
+  },
+  {
+    "id": "N438",
+    "label": "Gene",
+    "text": "Notch (Tc-N)"
+  },
+  {
+    "id": "N439",
+    "label": "Gene",
+    "text": "Serrate (Tc-Ser)"
+  },
+  {
+    "id": "N440",
+    "label": "Gene",
+    "text": "Delta (Tc\u2010Dl)"
+  },
+  {
+    "id": "N441",
+    "label": "Gene",
+    "text": "abrupt (Tc\u2010ab)"
+  },
+  {
+    "id": "N442",
+    "label": "Gene",
+    "text": "aristaless (Tc\u2010al)"
+  },
+  {
+    "id": "N443",
+    "label": "Gene",
+    "text": "bric \u00e0 brac (Tc\u2010bab)"
+  },
+  {
+    "id": "N444",
+    "label": "Gene",
+    "text": "clawless (Tc\u2010cll)"
+  },
+  {
+    "id": "N445",
+    "label": "Gene",
+    "text": "dachshund (Tc\u2010dac)"
+  },
+  {
+    "id": "N446",
+    "label": "Gene",
+    "text": "pdm/nubbin"
+  },
+  {
+    "id": "N447",
+    "label": "Gene",
+    "text": "rotund"
+  },
+  {
+    "id": "N448",
+    "label": "Gene",
+    "text": "spalt"
+  },
+  {
+    "id": "N449",
+    "label": "Gene",
+    "text": "spineless"
+  },
+  {
+    "id": "N450",
+    "label": "Gene",
+    "text": "Notch"
+  },
+  {
+    "id": "N451",
+    "label": "Process",
+    "text": "Labral sclerite patterning development"
+  },
+  {
+    "id": "N452",
+    "label": "Gene",
+    "text": "Serrate"
+  },
+  {
+    "id": "N453",
+    "label": "Process",
+    "text": "Labral sensory patterning development"
+  },
+  {
+    "id": "N454",
+    "label": "Gene",
+    "text": "Delta (Tc-Dl)"
+  },
+  {
+    "id": "N455",
+    "label": "Gene",
+    "text": "Keren (Tc\u2010Krn)"
+  },
+  {
+    "id": "N456",
+    "label": "Gene",
+    "text": "Distal\u2010less (Tc\u2010Dll)"
+  },
+  {
+    "id": "N457",
+    "label": "Gene",
+    "text": "extradenticle (Tc\u2010exd)"
+  },
+  {
+    "id": "N458",
+    "label": "Gene",
+    "text": "homothorax (Tc\u2010hth)"
+  },
+  {
+    "id": "N459",
+    "label": "Gene",
+    "text": "decapentaplegic (Tc\u2010dpp)"
+  },
+  {
+    "id": "N460",
+    "label": "Gene",
+    "text": "apterous a (Tc\u2010ap a)"
+  },
+  {
+    "id": "N461",
+    "label": "Gene",
+    "text": "apterous b (Tc\u2010ap b)"
+  },
+  {
+    "id": "N462",
+    "label": "Gene",
+    "text": "hairy",
+    "source": "https://doi.org/10.1038/sj.embor.7400148"
+  },
+  {
+    "id": "N463",
+    "label": "Process",
+    "text": "Blastodermal stripe development",
+    "source": "https://doi.org/10.1038/sj.embor.7400148"
+  },
+  {
+    "id": "N464",
+    "label": "Process",
+    "text": "Blastodermal posterior cap development",
+    "source": "https://doi.org/10.1038/sj.embor.7400148"
+  },
+  {
+    "id": "N465",
+    "label": "Process",
+    "text": "Segmental expression patterning development"
+  },
+  {
+    "id": "N466",
+    "label": "Process",
+    "text": "Midline expression patterning development"
+  },
+  {
+    "id": "N467",
+    "label": "Process",
+    "text": "Neurogenesis"
+  },
+  {
+    "id": "N468",
+    "label": "Gene",
+    "text": "gap"
+  },
+  {
+    "id": "N469",
+    "label": "Process",
+    "text": "Delta\u2013Notch signalling"
+  },
+  {
+    "id": "N470",
+    "label": "Process",
+    "text": "Wnt signalling"
+  },
+  {
+    "id": "N471",
+    "label": "Process",
+    "text": "Cold shock",
+    "source": "https://doi.org/10.1002/ece3.1443"
+  },
+  {
+    "id": "N472",
+    "label": "Trait",
+    "text": "Offspring resistance (to bacterial infection)",
+    "source": "https://doi.org/10.1002/ece3.1443"
+  },
+  {
+    "id": "N473",
+    "label": "Trait",
+    "text": "Offspring phenoloxidase activity"
+  },
+  {
+    "id": "N474",
+    "label": "Process",
+    "text": "Heat shock"
+  },
+  {
+    "id": "N475",
+    "label": "Process",
+    "text": "Offspring development"
+  },
+  {
+    "id": "N476",
+    "label": "Peptide",
+    "text": "Trica-AS",
+    "source": "https://doi.org/10.1016/j.ibmb.2012.09.007"
+  },
+  {
+    "id": "N477",
+    "label": "Receptor",
+    "text": "Trica-AS receptor",
+    "source": "https://doi.org/10.1016/j.ibmb.2012.09.007"
+  },
+  {
+    "id": "N478",
+    "label": "Peptide",
+    "text": "Trica-ASTCC",
+    "source": "https://doi.org/10.1016/j.ibmb.2012.09.007"
+  },
+  {
+    "id": "N479",
+    "label": "Peptide",
+    "text": "Manse-AS",
+    "source": "https://doi.org/10.1016/j.ibmb.2012.09.007"
+  },
+  {
+    "id": "N480",
+    "label": "Process",
+    "text": "spontaneous contractions of the gut or ovaries",
+    "source": "https://doi.org/10.1016/j.ibmb.2012.09.007"
+  },
+  {
+    "id": "N481",
+    "label": "Pesticide",
+    "text": "Lufenuron",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N482",
+    "label": "Trait",
+    "text": "Larval mortality",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N483",
+    "label": "Trait",
+    "text": "Larval weight",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N484",
+    "label": "Trait",
+    "text": "Larval duration",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N485",
+    "label": "Process",
+    "text": "Pupation",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N486",
+    "label": "Trait",
+    "text": "Egg laying",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N487",
+    "label": "Trait",
+    "text": "Hatchability",
+    "source": "https://doi.org/10.17576/jsm-2019-4801-09"
+  },
+  {
+    "id": "N488",
+    "label": "Trait",
+    "text": "Offspring number",
+    "source": "https://doi.org/10.1002/ece3.1443"
+  },
+  {
+    "id": "N489",
+    "label": "Gene",
+    "text": "TcE75",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N490",
+    "label": "Process",
+    "text": "Metamorphosis",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N491",
+    "label": "Gene",
+    "text": "TcHR3",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N492",
+    "label": "Gene",
+    "text": "TcHR4",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N493",
+    "label": "Gene",
+    "text": "TcEcR",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N494",
+    "label": "Gene",
+    "text": "TcUSP",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N495",
+    "label": "Gene",
+    "text": "TcFTZ-F1",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N496",
+    "label": "Gene",
+    "text": "TcHR51",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N497",
+    "label": "Gene",
+    "text": "seven-up (SVP)",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N498",
+    "label": "Gene",
+    "text": "TcHR38",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N499",
+    "label": "Gene",
+    "text": "TcHR39",
+    "source": "https://doi.org/10.1016/j.ibmb.2007.09.012"
+  },
+  {
+    "id": "N500",
+    "label": "Gene",
+    "text": "TcTll"
+  },
+  {
+    "id": "N501",
+    "label": "Process",
+    "text": "Offspring production"
+  },
+  {
+    "id": "N502",
+    "label": "Gene",
+    "text": "TcDsf"
+  },
+  {
+    "id": "N503",
+    "label": "Gene",
+    "text": "TcHNF4"
+  },
+  {
+    "id": "N504",
+    "label": "Gene",
+    "text": "TcHR78"
+  },
+  {
+    "id": "N505",
+    "label": "Process",
+    "text": "Egg production"
+  },
+  {
+    "id": "N506",
+    "label": "Gene",
+    "text": "TCHR51"
+  },
+  {
+    "id": "N507",
+    "label": "Process",
+    "text": "Embryonic development"
+  },
+  {
+    "id": "N508",
+    "label": "Gene",
+    "text": "Eagle"
+  },
+  {
+    "id": "N509",
+    "label": "Gene",
+    "text": "TcE78"
+  },
+  {
+    "id": "N510",
+    "label": "Gene",
+    "text": "TcHR83"
+  },
+  {
+    "id": "N511",
+    "label": "Gene",
+    "text": "TcHR96"
+  },
+  {
+    "id": "N512",
+    "label": "Gene",
+    "text": "TcPNR-like"
+  },
+  {
+    "id": "N513",
+    "label": "Gene",
+    "text": "TcERR"
+  },
+  {
+    "id": "N514",
+    "label": "Gene",
+    "text": "Knirps-like"
+  },
+  {
+    "id": "N515",
+    "label": "Process",
+    "text": "Adult development"
+  },
+  {
+    "id": "N516",
+    "label": "Gene",
+    "text": "dsTnT",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N517",
+    "label": "Trait",
+    "text": "mortality",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N518",
+    "label": "Trait",
+    "text": "reproductive development",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N519",
+    "label": "Gene",
+    "text": "TnT",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N520",
+    "label": "Trait",
+    "text": "body weight",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N521",
+    "label": "Trait",
+    "text": "activity ability",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N522",
+    "label": "Gene",
+    "text": "aldehyde dehydrogenase family 3 member B1",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N523",
+    "label": "Gene",
+    "text": "CYP314A1",
+    "source": "https://doi.org/10.3390/ijms26062786"
+  },
+  {
+    "id": "N524",
+    "label": "Gene",
+    "text": "TcRyR",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N525",
+    "label": "Trait",
+    "text": "abnormal wing folding",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N526",
+    "label": "Gene",
+    "text": "TcIP3R",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N527",
+    "label": "development",
+    "text": "pupal\u2013adult metamorphosis",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N528",
+    "label": "development",
+    "text": "larval\u2013pupal metamorphosis",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N529",
+    "label": "Variant",
+    "text": "adult",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N530",
+    "label": "Trait",
+    "text": "hind wing folding",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N531",
+    "label": "Gene",
+    "text": "dsTcRyR",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N532",
+    "label": "Trait",
+    "text": "crawl ability",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N533",
+    "label": "Gene",
+    "text": "dsTcIP3R",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N534",
+    "label": "Trait",
+    "text": "larval\u2013pupal metamorphosis",
+    "source": "https://doi.org/10.1038/srep06702"
+  },
+  {
+    "id": "N535",
+    "label": "Gene",
+    "text": "Tcpgant3",
+    "source": "https://doi.org/10.3389/fphys.2021.629682"
+  },
+  {
+    "id": "N536",
+    "label": "Trait",
+    "text": "Adult mobility",
+    "source": "https://doi.org/10.3389/fphys.2021.629682"
+  },
+  {
+    "id": "N537",
+    "label": "Gene",
+    "text": "Tcpgant5"
+  },
+  {
+    "id": "N538",
+    "label": "Process",
+    "text": "Elytra development"
+  },
+  {
+    "id": "N539",
+    "label": "Gene",
+    "text": "Tcpgant35A"
+  },
+  {
+    "id": "N540",
+    "label": "Process",
+    "text": "Eclosion"
+  },
+  {
+    "id": "N541",
+    "label": "Gene",
+    "text": "TcC1GalTA"
+  },
+  {
+    "id": "N542",
+    "label": "Trait",
+    "text": "Adult motility"
+  },
+  {
+    "id": "N543",
+    "label": "Gene",
+    "text": "TcEOGT"
+  },
+  {
+    "id": "N544",
+    "label": "Process",
+    "text": "Antenna development"
+  },
+  {
+    "id": "N545",
+    "label": "Process",
+    "text": "Wing development"
+  },
+  {
+    "id": "N546",
+    "label": "Gene",
+    "text": "TcOGT"
+  },
+  {
+    "id": "N547",
+    "label": "Gene",
+    "text": "TcPOMT1"
+  },
+  {
+    "id": "N548",
+    "label": "Gene",
+    "text": "TcPOMT2"
+  },
+  {
+    "id": "N549",
+    "label": "Trait",
+    "text": "Adult survival"
+  },
+  {
+    "id": "N550",
+    "label": "Trait",
+    "text": "Pupal elytra gap"
+  },
+  {
+    "id": "N551",
+    "label": "Gene",
+    "text": "TcOfut1"
+  },
+  {
+    "id": "N552",
+    "label": "Process",
+    "text": "Pupa development"
+  },
+  {
+    "id": "N553",
+    "label": "Gene",
+    "text": "TcOfut2"
+  },
+  {
+    "id": "N554",
+    "label": "Gene",
+    "text": "TcRumi"
+  },
+  {
+    "id": "N555",
+    "label": "Gene",
+    "text": "Tcfng"
+  },
+  {
+    "id": "N556",
+    "label": "Gene",
+    "text": "TcGALE1"
+  },
+  {
+    "id": "N557",
+    "label": "Trait",
+    "text": "Morphology"
+  },
+  {
+    "id": "N558",
+    "label": "Gene",
+    "text": "TcGALE2"
+  },
+  {
+    "id": "N559",
+    "label": "Process",
+    "text": "Adult mobility"
+  },
+  {
+    "id": "N560",
+    "label": "Gene",
+    "text": "TcPTP61F",
+    "source": "https://doi.org/10.3389/fphys.2020.01071"
+  },
+  {
+    "id": "N561",
+    "label": "Enzyme",
+    "text": "Pyruvate kinase",
+    "source": "https://doi.org/10.3389/fphys.2020.01071"
+  },
+  {
+    "id": "N562",
+    "label": "Metabolite",
+    "text": "Adenosine triphosphate",
+    "source": "https://doi.org/10.3389/fphys.2020.01071"
+  },
+  {
+    "id": "N563",
+    "label": "Trait",
+    "text": "TcTre1-1 expression"
+  },
+  {
+    "id": "N564",
+    "label": "Trait",
+    "text": "TcTre1-4 expression"
+  },
+  {
+    "id": "N565",
+    "label": "Trait",
+    "text": "TcTre2 expression"
+  },
+  {
+    "id": "N566",
+    "label": "Trait",
+    "text": "TcTPS expression"
+  },
+  {
+    "id": "N567",
+    "label": "Trait",
+    "text": "HK1 expression"
+  },
+  {
+    "id": "N568",
+    "label": "Trait",
+    "text": "HK2 expression"
+  },
+  {
+    "id": "N569",
+    "label": "Trait",
+    "text": "G6PI expression"
+  },
+  {
+    "id": "N570",
+    "label": "Metabolite",
+    "text": "Trehalose"
+  },
+  {
+    "id": "N571",
+    "label": "Metabolite",
+    "text": "Glycogen"
+  },
+  {
+    "id": "N572",
+    "label": "Metabolite",
+    "text": "Glucose"
+  },
+  {
+    "id": "N573",
+    "label": "Process",
+    "text": "Naphthalene inhalation",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N574",
+    "label": "Pathway",
+    "text": "Oxidative stress",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N575",
+    "label": "Pathway",
+    "text": "Metabolism",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N576",
+    "label": "Trait",
+    "text": "Glutathione S-Transferase expression",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N577",
+    "label": "Trait",
+    "text": "Cytochrome P450 6BQ8 expression",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N578",
+    "label": "Process",
+    "text": "Reproduction",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N579",
+    "label": "Trait",
+    "text": "Hormone receptor in 39-like protein expression",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N580",
+    "label": "Trait",
+    "text": "Ecdysone receptor expression",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N581",
+    "label": "Trait",
+    "text": "Chitin synthase 2 expression",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N582",
+    "label": "Process",
+    "text": "Neurotransmission",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N583",
+    "label": "Trait",
+    "text": "Histamine-gated chloride channel 2 expression",
+    "source": "https://doi.org/10.3390/ijerph14060667"
+  },
+  {
+    "id": "N584",
+    "label": "Process",
+    "text": "Benzene inhalation"
+  },
+  {
+    "id": "N585",
+    "label": "Trait",
+    "text": "GABA-gated anion channel expression"
+  },
+  {
+    "id": "N586",
+    "label": "Trait",
+    "text": "Hiscl2 expression"
+  },
+  {
+    "id": "N587",
+    "label": "Trait",
+    "text": "GABA-gated ion channel expression"
+  },
+  {
+    "id": "N588",
+    "label": "Trait",
+    "text": "Ultraspiracle nuclear receptor expression"
+  },
+  {
+    "id": "N589",
+    "label": "Trait",
+    "text": "Ecr expression"
+  },
+  {
+    "id": "N590",
+    "label": "Trait",
+    "text": "Hr39 expression"
+  },
+  {
+    "id": "N591",
+    "label": "Trait",
+    "text": "Chs2 expression"
+  },
+  {
+    "id": "N592",
+    "label": "Process",
+    "text": "Naphthalin inhalation"
+  },
+  {
+    "id": "N593",
+    "label": "Enzyme",
+    "text": "\u03b1-glucosidase",
+    "source": "https://doi.org/10.1038/srep35151"
+  },
+  {
+    "id": "N594",
+    "label": "Process",
+    "text": "Larva to pupa transition",
+    "source": "https://doi.org/10.1038/srep35151"
+  },
+  {
+    "id": "N595",
+    "label": "Gene",
+    "text": "TcDad1"
+  },
+  {
+    "id": "N596",
+    "label": "Process",
+    "text": "Larval growth"
+  },
+  {
+    "id": "N597",
+    "label": "Gene",
+    "text": "Stt3A"
+  },
+  {
+    "id": "N598",
+    "label": "Trait",
+    "text": "Adult movement speed"
+  },
+  {
+    "id": "N599",
+    "label": "Gene",
+    "text": "Stt3B"
+  },
+  {
+    "id": "N600",
+    "label": "Gene",
+    "text": "Tc\u03b1-Man-Ia"
+  },
+  {
+    "id": "N601",
+    "label": "Gene",
+    "text": "Tc\u03b1-Man-Ib"
+  },
+  {
+    "id": "N602",
+    "label": "Trait",
+    "text": "Pupation time"
+  },
+  {
+    "id": "N603",
+    "label": "Trait",
+    "text": "Pupae morphology"
+  },
+  {
+    "id": "N604",
+    "label": "Gene",
+    "text": "Mgat1"
+  },
+  {
+    "id": "N605",
+    "label": "Gene",
+    "text": "\u03b1-Man-IIa"
+  },
+  {
+    "id": "N606",
+    "label": "Gene",
+    "text": "\u03b1-Man-IIb"
+  },
+  {
+    "id": "N607",
+    "label": "Gene",
+    "text": "fdl"
+  },
+  {
+    "id": "N608",
+    "label": "Trait",
+    "text": "Pupation timing"
+  },
+  {
+    "id": "N609",
+    "label": "Process",
+    "text": "Adult eclosion"
+  },
+  {
+    "id": "N610",
+    "label": "Gene",
+    "text": "TcMgat1"
+  },
+  {
+    "id": "N611",
+    "label": "Gene",
+    "text": "Tc\u03b1-Man-IIa"
+  }
+]

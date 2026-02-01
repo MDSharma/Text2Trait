@@ -20,7 +20,7 @@ import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
 
 from utils.data_loader import load_graph, load_graph_by_species, load_all_species_graphs
-from utils.search_utils import get_connected_subgraph, resolve_trait_and_genes, is_gene_node, is_trait_node, get_node_name
+from utils.search_utils import get_connected_subgraph, resolve_trait_and_genes, resolve_gene_only, is_gene_node, is_trait_node, get_node_name
 from utils.search_NCBI import set_email, fetch_multiple_nodes_info
 from utils.species_config import get_available_species_from_data, get_species_label, get_species_color
 from components.results.cytoscape_config import COSE_LAYOUT
@@ -367,7 +367,8 @@ def load_graph_elements(search):
         gene = params.get("gene", [None])[0]
         species = params.get("species", ["all"])[0]
 
-        if not trait:
+        # Require at least trait or gene
+        if not trait and not gene:
             return [], [], build_stylesheet(), True, {"available": [], "selected": []}, []
 
         # Refresh species list (checks for changes every 12 hours)
@@ -405,11 +406,19 @@ def load_graph_elements(search):
                 load_errors.append(error_msg)
                 graph = G
 
-        result = resolve_trait_and_genes(graph, trait, gene)
-        if not result:
-            return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}, load_errors
-
-        focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
+        # Resolve search based on what was provided
+        if trait:
+            # Trait search (with optional gene filter)
+            result = resolve_trait_and_genes(graph, trait, gene)
+            if not result:
+                return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}, load_errors
+            focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
+        else:
+            # Gene-only search
+            result = resolve_gene_only(graph, gene)
+            if not result:
+                return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}, load_errors
+            focus_nodes = [result["gene_id"]] + [t["trait_id"] for t in result["matched_traits"]]
 
         subgraph = get_connected_subgraph(graph, focus_nodes)
 

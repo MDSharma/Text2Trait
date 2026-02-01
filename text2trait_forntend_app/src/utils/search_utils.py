@@ -44,7 +44,7 @@ def find_best_traits(
     min_score: int = 70,
     scorer=fuzz.WRatio
 ) -> List[Tuple[str, float]]:
-    """Fuzzy match trait nodes by text."""
+    """Fuzzy match trait nodes by text (case-insensitive)."""
     trait_nodes = {
         n_id: data.get("text", n_id)
         for n_id, data in graph.nodes(data=True)
@@ -54,6 +54,30 @@ def find_best_traits(
     matches = process.extract(
         query=trait_query,
         choices=trait_nodes,
+        scorer=scorer,
+        limit=limit
+    )
+
+    return [(node_id, score) for _, score, node_id in matches if score >= min_score]
+
+
+def find_best_genes(
+    graph: nx.DiGraph,
+    gene_query: str,
+    limit: int = 5,
+    min_score: int = 70,
+    scorer=fuzz.WRatio
+) -> List[Tuple[str, float]]:
+    """Fuzzy match gene nodes by text (case-insensitive)."""
+    gene_nodes = {
+        n_id: data.get("text", n_id)
+        for n_id, data in graph.nodes(data=True)
+        if is_gene_node(data)
+    }
+
+    matches = process.extract(
+        query=gene_query,
+        choices=gene_nodes,
         scorer=scorer,
         limit=limit
     )
@@ -120,6 +144,47 @@ def resolve_trait_and_genes(
         "trait_id": trait_id,
         "trait_name": trait_name,
         "matched_genes": matched_genes
+    }
+
+
+def resolve_gene_only(
+    graph: nx.DiGraph,
+    gene_query: str,
+    min_score: int = 70
+) -> Optional[Dict]:
+    """
+    Resolve a gene-only search and find all connected traits.
+    Returns:
+        {
+            "gene_id": str,
+            "gene_name": str,
+            "matched_traits": [ { "trait_id": str, "trait_name": str } ]
+        }
+    """
+    # Find gene using fuzzy matching (case-insensitive)
+    if gene_query in graph.nodes and is_gene_node(graph.nodes[gene_query]):
+        gene_id = gene_query
+    else:
+        matches = find_best_genes(graph, gene_query, min_score=min_score)
+        if not matches:
+            return None
+        gene_id, _ = matches[0]
+    
+    gene_name = get_node_name(graph, gene_id)
+    
+    # Find all connected traits
+    connected_traits = []
+    for neighbor in set(graph.predecessors(gene_id)) | set(graph.successors(gene_id)):
+        if is_trait_node(graph.nodes[neighbor]):
+            connected_traits.append({
+                "trait_id": neighbor,
+                "trait_name": get_node_name(graph, neighbor)
+            })
+    
+    return {
+        "gene_id": gene_id,
+        "gene_name": gene_name,
+        "matched_traits": connected_traits
     }
 
 

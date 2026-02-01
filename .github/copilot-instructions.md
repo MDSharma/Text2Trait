@@ -159,7 +159,6 @@ Copilot should **not assume an existing test framework** unless present.
 
 - Inline comments explain *why*, not *what*
 - Any new UI component or transformation step should include a docstring
-- README alignment is mandatory — Copilot must not contradict it
 
 ---
 

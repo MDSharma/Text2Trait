@@ -6,23 +6,24 @@ This page provides a browsable index of:
     - All traits in the knowledge graph.
     - All trait–gene pairs.
 
-Users can click "View Results" links to navigate directly to the results page
-for a specific trait or trait–gene combination.
+Users can select a species and click "View Results" links to navigate directly 
+to the results page for a specific trait or trait–gene combination.
 """
 
 import dash
-from dash import html, dash_table
+from dash import html, dash_table, dcc, callback, Output, Input
 import dash_bootstrap_components as dbc
 from urllib.parse import urlencode
 from pathlib import Path
 import networkx as nx
 
-from utils.data_loader import load_graph
+from utils.data_loader import load_graph, load_graph_by_species
 from utils.search_utils import (
     get_node_name,
     is_trait_node,
     is_gene_node
 )
+from utils.species_config import get_available_species_from_data
 
 # ───────────────────────────────
 # Page Registration
@@ -38,20 +39,24 @@ dash.register_page(
 # Load Graph Data
 # ───────────────────────────────
 script_dir = Path(__file__).resolve().parent
-node_json_path = script_dir.parent / "data" / "graph_nodes_dataset.json"
-edge_json_path = script_dir.parent / "data" / "graph_edges_dataset.json"
+data_dir = script_dir.parent / "data"
+node_json_path = data_dir / "graph_nodes_dataset.json"
+edge_json_path = data_dir / "graph_edges_dataset.json"
 G, _ = load_graph(node_json_path, edge_json_path)
+AVAILABLE_SPECIES = get_available_species_from_data(data_dir)
 
 # ───────────────────────────────
 # Helper Functions
 # ───────────────────────────────
-def make_link(trait_id: str = None, gene_id: str = None) -> str:
-    """Construct a URL to the results page with optional trait and gene parameters."""
+def make_link(trait_id: str = None, gene_id: str = None, species: str = "all") -> str:
+    """Construct a URL to the results page with optional trait, gene, and species parameters."""
     params = {}
     if trait_id:
         params["trait"] = trait_id
     if gene_id:
         params["gene"] = gene_id
+    if species:
+        params["species"] = species
     return f"/results?{urlencode(params)}"
 
 
@@ -126,14 +131,14 @@ shared_styles = {
 # ───────────────────────────────
 # Table Generators
 # ───────────────────────────────
-def generate_traits_tab() -> dash_table.DataTable:
+def generate_traits_tab(graph: nx.DiGraph, species: str = "all") -> dash_table.DataTable:
     """Create a DataTable listing all traits in the graph, each linking to results."""
     data = [
         {
-            "Trait": get_node_name(G, trait_id),
-            "Link": f"[View Results]({make_link(trait_id=trait_id)})"
+            "Trait": get_node_name(graph, trait_id),
+            "Link": f"[View Results]({make_link(trait_id=trait_id, species=species)})"
         }
-        for trait_id in get_all_traits(G)
+        for trait_id in get_all_traits(graph)
     ]
 
     return dash_table.DataTable(
@@ -153,14 +158,14 @@ def generate_traits_tab() -> dash_table.DataTable:
     )
 
 
-def generate_trait_gene_tab() -> dash_table.DataTable:
+def generate_trait_gene_tab(graph: nx.DiGraph, species: str = "all") -> dash_table.DataTable:
     """Create a DataTable listing all trait–gene pairs in the graph, each linking to results."""
-    pairs = get_all_trait_gene_pairs(G)
+    pairs = get_all_trait_gene_pairs(graph)
     data = [
         {
             "Trait": trait_name,
             "Gene": gene_name,
-            "Link": f"[View Results]({make_link(trait_id=trait_id, gene_id=gene_id)})"
+            "Link": f"[View Results]({make_link(trait_id=trait_id, gene_id=gene_id, species=species)})"
         }
         for trait_id, trait_name, gene_id, gene_name in pairs
     ]
@@ -187,12 +192,56 @@ def generate_trait_gene_tab() -> dash_table.DataTable:
 # ───────────────────────────────
 layout = dbc.Container([
     html.H2("Text2Trait Knowledge Graph Explorer", className="my-4"),
+    
+    # Species selector
+    dbc.Row([
+        dbc.Col([
+            html.Label("Select Species:", style={"fontWeight": "bold"}),
+            dcc.Dropdown(
+                id="index-species-dropdown",
+                options=AVAILABLE_SPECIES,
+                value="all",
+                clearable=False,
+            ),
+        ], width=4)
+    ], className="mb-3"),
+    
+    # Tables
     dbc.Row([
         dbc.Col([
             dbc.Tabs([
-                dbc.Tab(generate_traits_tab(), label="Traits"),
-                dbc.Tab(generate_trait_gene_tab(), label="Traits & Genes"),
-            ])
+                dbc.Tab(label="Traits", tab_id="traits"),
+                dbc.Tab(label="Traits & Genes", tab_id="trait_genes"),
+            ], id="index-tabs", active_tab="traits"),
+            html.Div(id="index-table-content")
         ])
     ])
 ], fluid=True)
+
+
+# ───────────────────────────────
+# Callbacks
+# ───────────────────────────────
+@callback(
+    Output("index-table-content", "children"),
+    Input("index-tabs", "active_tab"),
+    Input("index-species-dropdown", "value"),
+)
+def update_index_tables(active_tab, species):
+    """Update the displayed table based on the active tab and selected species."""
+    try:
+        # Load the appropriate graph based on species
+        try:
+            graph, _ = load_graph_by_species(species, data_dir)
+        except FileNotFoundError:
+            # Fall back to default graph if species-specific files don't exist
+            graph = G
+        
+        if active_tab == "traits":
+            return generate_traits_tab(graph, species)
+        elif active_tab == "trait_genes":
+            return generate_trait_gene_tab(graph, species)
+    except Exception as e:
+        return html.Div(f"Error loading data: {str(e)}", style={"color": "red"})
+    
+    return html.Div("No data available")

@@ -16,9 +16,10 @@ from dash import html, dcc, Input, Output, State, callback
 import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
 
-from utils.data_loader import load_graph
+from utils.data_loader import load_graph, load_graph_by_species
 from utils.search_utils import get_connected_subgraph, resolve_trait_and_genes, is_gene_node, is_trait_node, get_node_name
 from utils.search_NCBI import set_email, fetch_multiple_nodes_info
+from utils.species_config import get_available_species_from_data
 from components.results.cytoscape_config import COSE_LAYOUT
 from components.results.cytoscape_styles import build_stylesheet, RELATION_COLORS
 from components.results.layout_styles import (
@@ -48,9 +49,12 @@ dash.register_page(
 # Load Graph Data
 # ───────────────────────────────
 script_dir = Path(__file__).resolve().parent
-node_json_path = script_dir.parent / "data" / "graph_nodes_dataset.json"
-edge_json_path = script_dir.parent / "data" / "graph_edges_dataset.json"
+data_dir = script_dir.parent / "data"
+# Default graph loaded at module level (for backward compatibility)
+node_json_path = data_dir / "graph_nodes_dataset.json"
+edge_json_path = data_dir / "graph_edges_dataset.json"
 G, _ = load_graph(node_json_path, edge_json_path)
+AVAILABLE_SPECIES = get_available_species_from_data(data_dir)
 
 
 # ───────────────────────────────
@@ -264,34 +268,42 @@ def load_graph_elements(search):
         params = parse_qs(search[1:])
         trait = params.get("trait", [None])[0]
         gene = params.get("gene", [None])[0]
+        species = params.get("species", ["all"])[0]
 
         if not trait:
             return [], [], build_stylesheet(), True
 
-        result = resolve_trait_and_genes(G, trait, gene)
+        # Load the appropriate graph based on species
+        try:
+            graph, _ = load_graph_by_species(species, data_dir)
+        except FileNotFoundError:
+            # Fall back to default graph if species-specific files don't exist
+            graph = G
+
+        result = resolve_trait_and_genes(graph, trait, gene)
         if not result:
             return [], [], build_stylesheet(), True
 
         focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
 
-        subgraph = get_connected_subgraph(G, focus_nodes)
+        subgraph = get_connected_subgraph(graph, focus_nodes)
         elements = build_cytoscape_elements(subgraph, RELATION_COLORS)
 
         all_displayed_nodes = []
         for n in subgraph["nodes"]:
             node_id = n["id"]
-            node_data = G.nodes[node_id]
+            node_data = graph.nodes[node_id]
             label = node_data.get("label", "unknown")
 
             if is_gene_node(node_data):
                 node_type = "gene"
-                node_name = get_node_name(G, node_id)
+                node_name = get_node_name(graph, node_id)
             elif label.lower() == "protein":
                 node_type = "protein"
                 node_name = node_data.get("text", node_id)
             elif is_trait_node(node_data):
                 node_type = "trait"
-                node_name = get_node_name(G, node_id)
+                node_name = get_node_name(graph, node_id)
             else:
                 node_type = "other"
                 node_name = node_data.get("text", node_id)

@@ -23,7 +23,7 @@ Returns:
 from pathlib import Path
 import json
 import networkx as nx
-from typing import Tuple, Dict, Any, Union
+from typing import Tuple, Dict, Any, Union, Optional
 
 
 def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
@@ -85,6 +85,29 @@ def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tu
         G.add_edge(source, target, **edge_attr)
 
     return G, raw
+
+
+def load_graph_by_species(species: str, data_dir: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
+    """
+    Load a knowledge graph for a specific species.
+    
+    Args:
+        species: Species identifier (e.g., "arabidopsis", "tomato", or "all")
+        data_dir: Directory containing the data files
+        
+    Returns:
+        - nx.DiGraph: A directed graph with nodes and edges loaded from files.
+        - dict: Combined raw JSON data in the format {"nodes": [...], "edges": [...]}.
+        
+    Raises:
+        FileNotFoundError: If either nodes or edges file is missing.
+    """
+    from utils.species_config import get_species_data_paths
+    
+    data_dir = Path(data_dir)
+    nodes_path, edges_path = get_species_data_paths(species, data_dir)
+    
+    return load_graph(nodes_path, edges_path)
 
 
 # ───────────────────────────────

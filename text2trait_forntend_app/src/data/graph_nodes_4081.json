@@ -1,0 +1,20 @@
+[
+  {
+    "id": "T1",
+    "label": "Gene",
+    "text": "SlKLUH",
+    "source": "https://doi.org/test2"
+  },
+  {
+    "id": "T2",
+    "label": "Trait",
+    "text": "fruit mass",
+    "source": "https://doi.org/test2"
+  },
+  {
+    "id": "T3",
+    "label": "Gene",
+    "text": "FW2.2",
+    "source": "https://doi.org/test2"
+  }
+]

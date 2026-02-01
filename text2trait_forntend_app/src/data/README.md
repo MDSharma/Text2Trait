@@ -1,6 +1,6 @@
 # Data Directory - Multi-Species Graph Support
 
-This directory contains graph data files for the Text2Trait application. The application supports multiple species through a flexible file naming convention.
+This directory contains graph data files for the Text2Trait application. The application supports multiple species through a flexible file naming convention with **layered visualization** when multiple species are loaded.
 
 ## File Naming Convention
 
@@ -28,6 +28,23 @@ graph_edges_{taxon_id}.json
 ## Default Dataset
 
 The files `graph_nodes_dataset.json` and `graph_edges_dataset.json` serve as the default "All Species" dataset and are always available.
+
+## Multi-Species Layered Visualization
+
+When users select **"All Species"** on the home page and navigate to results, the application:
+
+1. **Automatically discovers** all species-specific data files in this directory
+2. **Loads and merges** graphs from all available species
+3. **Tags each node and edge** with its species of origin
+4. **Displays species layer controls** with checkboxes for each species
+5. **Allows toggling** individual species layers on/off in real-time
+6. **Uses color-coded indicators** (● bullets) to distinguish between species
+
+### Features:
+- **Real-time filtering**: Toggle species visibility without reloading the page
+- **Color coordination**: Each species gets a unique color for easy identification
+- **Flexible selection**: View all species together or focus on specific ones
+- **No conflicts**: Species-specific node IDs are prefixed to avoid collisions
 
 ## Finding NCBI Taxonomy IDs
 
@@ -64,7 +81,10 @@ To add data for a new species:
    }
    ```
 
-3. **Restart the application** - The new species will be automatically discovered and added to the dropdown menus.
+3. **Restart the application** - The new species will be automatically discovered and:
+   - Added to the species dropdown on the home page
+   - Included in the "All Species" multi-layer visualization
+   - Assigned a unique color for layer identification
 
 ## File Format
 
@@ -106,3 +126,4 @@ The application automatically discovers available species by scanning for files 
 3. **File-system friendly**: No spaces or special characters
 4. **Extensibility**: Easy to add new species without code changes
 5. **Interoperability**: Can be linked to other biological databases
+6. **Multi-species support**: Enables layered visualization across species

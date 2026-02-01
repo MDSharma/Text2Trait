@@ -1,0 +1,12 @@
+[
+  {
+    "type": "INFLUENCES",
+    "source": "T1",
+    "target": "T2"
+  },
+  {
+    "type": "REGULATES",
+    "source": "T3",
+    "target": "T2"
+  }
+]

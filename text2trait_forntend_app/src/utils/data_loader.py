@@ -23,7 +23,7 @@ Returns:
 from pathlib import Path
 import json
 import networkx as nx
-from typing import Tuple, Dict, Any, Union, Optional
+from typing import Tuple, Dict, Any, Union, Optional, List
 
 
 def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:

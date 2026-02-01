@@ -89,6 +89,18 @@ layout = html.Div([
         # RIGHT COLUMN – Two stacked input sections
         dbc.Col([
 
+            # Species selector section
+            html.Div([
+                html.H6("Select species for graph visualization:", style={'fontSize': 16}),
+                dcc.Dropdown(
+                    id="species-dropdown",
+                    options=AVAILABLE_SPECIES,
+                    value="all",
+                    clearable=False,
+                    className="mb-3"
+                ),
+            ], className="mb-3"),
+
             # Trait input section
             html.Div([
                 html.H6("Search by the trait you're interested in:", style={'fontSize': 16}),
@@ -111,18 +123,6 @@ layout = html.Div([
                         className="ms-2",
                     ),
                 ])
-            ], className="mb-3"),
-
-            # Species selector section
-            html.Div([
-                html.H6("Select species for graph visualization:", style={'fontSize': 16}),
-                dcc.Dropdown(
-                    id="species-dropdown",
-                    options=AVAILABLE_SPECIES,
-                    value="all",
-                    clearable=False,
-                    className="mb-3"
-                ),
             ], className="mb-3"),
 
             # Gene input section

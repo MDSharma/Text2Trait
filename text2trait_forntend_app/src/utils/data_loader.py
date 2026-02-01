@@ -22,8 +22,12 @@ Returns:
 
 from pathlib import Path
 import json
+import logging
 import networkx as nx
-from typing import Tuple, Dict, Any, Union
+from typing import Tuple, Dict, Any, Union, List
+
+# Configure logging
+logger = logging.getLogger(__name__)
 
 
 def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
@@ -85,6 +89,160 @@ def load_graph(nodes_path: Union[str, Path], edges_path: Union[str, Path]) -> Tu
         G.add_edge(source, target, **edge_attr)
 
     return G, raw
+
+
+def load_graph_by_species(species: str, data_dir: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any]]:
+    """
+    Load a knowledge graph for a specific species.
+    
+    Args:
+        species: Species identifier (NCBI taxon ID like "3702", or "all")
+        data_dir: Directory containing the data files
+        
+    Returns:
+        - nx.DiGraph: A directed graph with nodes and edges loaded from files.
+        - dict: Combined raw JSON data in the format {"nodes": [...], "edges": [...]}.
+        
+    Raises:
+        FileNotFoundError: If either nodes or edges file is missing.
+    """
+    from utils.species_config import get_species_data_paths
+    
+    data_dir = Path(data_dir)
+    nodes_path, edges_path = get_species_data_paths(species, data_dir)
+    
+    return load_graph(nodes_path, edges_path)
+
+
+def load_all_species_graphs(data_dir: Union[str, Path]) -> Tuple[nx.DiGraph, Dict[str, Any], List[str], List[Dict[str, str]]]:
+    """
+    Load and merge graphs from all available species.
+    
+    This function discovers all species-specific data files, loads them,
+    and merges them into a single graph. Each node and edge is tagged
+    with its species of origin.
+    
+    Args:
+        data_dir: Directory containing the data files
+        
+    Returns:
+        - nx.DiGraph: Combined graph with all species
+        - dict: Combined raw JSON data with species metadata
+        - list: List of species taxon IDs successfully included in the graph
+        - list: List of dicts with failed species info (taxon_id, error message)
+    """
+    from utils.species_config import get_all_available_species, get_species_data_paths
+    
+    data_dir = Path(data_dir)
+    available_species = get_all_available_species(data_dir)
+    
+    if not available_species:
+        # Fall back to default dataset if no species-specific files found.
+        # NOTE: The default dataset (graph_nodes_dataset.json, graph_edges_dataset.json)
+        # is a curated multi-species dataset that is NOT species-tagged. When this
+        # fallback occurs, the returned graph will not have species metadata, and 
+        # species filtering features will not be available.
+        logger.info("No species-specific files found. Loading default dataset.")
+        G, raw = load_graph(
+            data_dir / "graph_nodes_dataset.json",
+            data_dir / "graph_edges_dataset.json"
+        )
+        return G, raw, [], []
+    
+    # Create combined graph
+    combined_graph = nx.DiGraph()
+    all_nodes = []
+    all_edges = []
+    successful_species = []
+    failed_species = []
+    
+    for taxon_id in available_species:
+        nodes_path, edges_path = get_species_data_paths(taxon_id, data_dir)
+        
+        try:
+            # Load the species-specific graph
+            with nodes_path.open("r", encoding="utf-8") as f:
+                nodes = json.load(f)
+            
+            with edges_path.open("r", encoding="utf-8") as f:
+                edges = json.load(f)
+            
+            # Validate data is not empty
+            if not nodes:
+                logger.warning(f"Species {taxon_id} has empty nodes file: {nodes_path}")
+                failed_species.append({
+                    "taxon_id": taxon_id,
+                    "error": "Empty nodes file"
+                })
+                continue
+                
+            # Add species metadata to nodes
+            for node in nodes:
+                node_with_species = dict(node)
+                node_with_species["species"] = taxon_id
+                node_id = node_with_species["id"]
+                
+                # Use "::" separator to avoid conflicts with node IDs containing underscores
+                # This distinctive separator makes it clear where species ID ends and node ID begins
+                species_node_id = f"{taxon_id}::{node_id}"
+                node_with_species["id"] = species_node_id
+                node_with_species["original_id"] = node_id
+                
+                # Add node to graph
+                combined_graph.add_node(species_node_id, **node_with_species)
+                all_nodes.append(node_with_species)
+            
+            # Add species metadata to edges
+            for edge in edges:
+                edge_with_species = dict(edge)
+                edge_with_species["species"] = taxon_id
+                
+                # Update source and target to use species-prefixed IDs with "::" separator
+                source = f"{taxon_id}::{edge['source']}"
+                target = f"{taxon_id}::{edge['target']}"
+                
+                edge_attr = dict(edge_with_species)
+                edge_attr.pop("source", None)
+                edge_attr.pop("target", None)
+                
+                # Add edge to graph
+                combined_graph.add_edge(source, target, **edge_attr)
+                
+                # Store for raw data
+                edge_with_species["source"] = source
+                edge_with_species["target"] = target
+                all_edges.append(edge_with_species)
+            
+            successful_species.append(taxon_id)
+            logger.info(f"Successfully loaded species {taxon_id}: {len(nodes)} nodes, {len(edges)} edges")
+                
+        except FileNotFoundError as e:
+            error_msg = f"Data files not found: {e.filename}"
+            logger.error(f"Failed to load species {taxon_id}: {error_msg}")
+            failed_species.append({
+                "taxon_id": taxon_id,
+                "error": error_msg
+            })
+            continue
+        except json.JSONDecodeError as e:
+            error_msg = f"Invalid JSON format: {str(e)}"
+            logger.error(f"Failed to load species {taxon_id}: {error_msg}")
+            failed_species.append({
+                "taxon_id": taxon_id,
+                "error": error_msg
+            })
+            continue
+        except Exception as e:
+            error_msg = str(e)
+            logger.error(f"Unexpected error loading species {taxon_id}: {error_msg}")
+            failed_species.append({
+                "taxon_id": taxon_id,
+                "error": error_msg
+            })
+            continue
+    
+    raw = {"nodes": all_nodes, "edges": all_edges}
+    return combined_graph, raw, successful_species, failed_species
 
 
 # ───────────────────────────────

@@ -130,7 +130,7 @@ def resolve_trait_and_genes(
 def get_connected_subgraph(graph: nx.DiGraph, focus_nodes: List[str]) -> Dict[str, list]:
     """
     Return all nodes + edges connected to the focus nodes (trait + matched genes).
-    Includes ALL relation types.
+    Includes ALL relation types and preserves all node attributes including species metadata.
     """
     connected_nodes = set(focus_nodes)
     connected_edges = []
@@ -143,16 +143,17 @@ def get_connected_subgraph(graph: nx.DiGraph, focus_nodes: List[str]) -> Dict[st
             connected_nodes.add(neighbor)
             connected_edges.append((neighbor, n, graph.get_edge_data(neighbor, n)))
 
-    # Build dict
-    nodes_data = [
-        {
-            "id": nid,
-            "label": graph.nodes[nid].get("label", "unknown"),
-            "text": get_node_name(graph, nid),
-            "source": graph.nodes[nid].get("source", "")
-        }
-        for nid in connected_nodes
-    ]
+    # Build dict - preserve ALL node attributes including species metadata
+    nodes_data = []
+    for nid in connected_nodes:
+        node_dict = dict(graph.nodes[nid])  # Copy all attributes
+        # Ensure critical attributes exist
+        node_dict.setdefault("id", nid)
+        node_dict.setdefault("label", "unknown")
+        node_dict.setdefault("text", get_node_name(graph, nid))
+        node_dict.setdefault("source", "")
+        nodes_data.append(node_dict)
+    
     edges_data = [
         {"source": src, "target": tgt, **(edata or {})}
         for src, tgt, edata in connected_edges

@@ -6,6 +6,7 @@ This is the landing page for the Text2Trait application.
 It provides:
     - An introductory description of the app.
     - Search inputs for traits and (optionally) specific genes.
+    - Species selection dropdown for graph visualization.
     - Redirect to the results page with query parameters.
 """
 
@@ -13,6 +14,9 @@ import dash
 from dash import dcc, html, callback, Output, Input, State
 import dash_bootstrap_components as dbc
 from urllib.parse import urlencode
+from pathlib import Path
+
+from utils.species_config import get_available_species_from_data
 
 
 # ───────────────────────────────
@@ -24,6 +28,13 @@ dash.register_page(
     name="Home",
     title="Text2Trait",
 )
+
+# ───────────────────────────────
+# Load Available Species
+# ───────────────────────────────
+script_dir = Path(__file__).resolve().parent
+data_dir = script_dir.parent / "data"
+AVAILABLE_SPECIES = get_available_species_from_data(data_dir)
 
 
 # ───────────────────────────────
@@ -102,6 +113,18 @@ layout = html.Div([
                 ])
             ], className="mb-3"),
 
+            # Species selector section
+            html.Div([
+                html.H6("Select species for graph visualization:", style={'fontSize': 16}),
+                dcc.Dropdown(
+                    id="species-dropdown",
+                    options=AVAILABLE_SPECIES,
+                    value="all",
+                    clearable=False,
+                    className="mb-3"
+                ),
+            ], className="mb-3"),
+
             # Gene input section
             html.Div([
                 html.H6("Looking for something more specific? Search by gene:", style={'fontSize': 16}),
@@ -157,15 +180,17 @@ def toggle_gene_button(gene_input: str) -> bool:
     Input("input-button-gene", "n_clicks"),
     State("input-query-trait", "value"),
     State("input-query-gene", "value"),
+    State("species-dropdown", "value"),
     prevent_initial_call=True
 )
-def redirect_to_results(_, __, trait_value: str, gene_value: str) -> str:
+def redirect_to_results(_, __, trait_value: str, gene_value: str, species_value: str) -> str:
     """
     Redirect to the results page with the selected query parameters.
 
     Args:
         trait_value: Value from the trait search input (required).
         gene_value: Value from the gene search input (optional).
+        species_value: Value from the species dropdown (required).
 
     Returns:
         URL string with query parameters for the results page.
@@ -177,5 +202,7 @@ def redirect_to_results(_, __, trait_value: str, gene_value: str) -> str:
     query = {"trait": trait_value}
     if gene_value:
         query["gene"] = gene_value
+    if species_value:
+        query["species"] = species_value
 
     return "/results?" + urlencode(query)

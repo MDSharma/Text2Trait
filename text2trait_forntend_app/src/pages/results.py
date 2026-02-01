@@ -16,10 +16,10 @@ from dash import html, dcc, Input, Output, State, callback
 import dash_bootstrap_components as dbc
 import dash_cytoscape as cyto
 
-from utils.data_loader import load_graph, load_graph_by_species
+from utils.data_loader import load_graph, load_graph_by_species, load_all_species_graphs
 from utils.search_utils import get_connected_subgraph, resolve_trait_and_genes, is_gene_node, is_trait_node, get_node_name
 from utils.search_NCBI import set_email, fetch_multiple_nodes_info
-from utils.species_config import get_available_species_from_data
+from utils.species_config import get_available_species_from_data, get_species_label, get_species_color
 from components.results.cytoscape_config import COSE_LAYOUT
 from components.results.cytoscape_styles import build_stylesheet, RELATION_COLORS
 from components.results.layout_styles import (
@@ -60,27 +60,52 @@ AVAILABLE_SPECIES = get_available_species_from_data(data_dir)
 # ───────────────────────────────
 # Cytoscape Elements Builder
 # ───────────────────────────────
-def build_cytoscape_elements(subgraph: dict, relation_colors: dict):
+def build_cytoscape_elements(subgraph: dict, relation_colors: dict, species_filter: list = None, all_species: list = None):
     """
     Build Cytoscape elements from a subgraph dict with 'nodes' and 'edges'.
+    
+    Args:
+        subgraph: Dictionary with 'nodes' and 'edges' lists
+        relation_colors: Dictionary mapping relation types to colors
+        species_filter: List of species to include (None means include all)
+        all_species: List of all available species for consistent color assignment
     """
     elements = []
 
     # Nodes
     for node in subgraph["nodes"]:
+        # Filter by species if specified
+        node_species = node.get("species")
+        if species_filter and node_species and node_species not in species_filter:
+            continue
+            
         node_type = node["label"].lower()
+        
+        # Prepare node data
+        node_data = {
+            "id": node["id"],
+            "label": node["text"],
+            "node_type": node_type,
+            "source": node.get("source", "")
+        }
+        
+        # Add species information if available
+        if node_species:
+            node_data["species"] = node_species
+            node_data["species_label"] = get_species_label(node_species)
+        
         elements.append({
-            "data": {
-                "id": node["id"],
-                "label": node["text"],
-                "node_type": node_type,
-                "source": node.get("source", "")
-            },
+            "data": node_data,
             "classes": node_type
         })
 
     # Edges
     for edge in subgraph["edges"]:
+        # Filter by species if specified
+        edge_species = edge.get("species")
+        if species_filter and edge_species and edge_species not in species_filter:
+            continue
+            
         # Normalize the relation type: lowercase, strip spaces, replace spaces with underscore
         relation_class = str(edge.get("type", "")).strip().lower().replace(" ", "_")
         if relation_class not in relation_colors:
@@ -89,14 +114,20 @@ def build_cytoscape_elements(subgraph: dict, relation_colors: dict):
         edge_id = f"{edge['source']}_{edge['target']}_{relation_class}"
         label = (edge.get("type") or "N/A").replace("_", " ").capitalize()
 
+        edge_data = {
+            "id": edge_id,
+            "source": edge["source"],
+            "target": edge["target"],
+            "relation_type": edge.get("type", "N/A"),
+            "label": label,
+        }
+        
+        # Add species information if available
+        if edge_species:
+            edge_data["species"] = edge_species
+        
         elements.append({
-            "data": {
-                "id": edge_id,
-                "source": edge["source"],
-                "target": edge["target"],
-                "relation_type": edge.get("type", "N/A"),
-                "label": label,
-            },
+            "data": edge_data,
             "classes": relation_class
         })
 
@@ -115,6 +146,7 @@ layout = html.Div([
     dcc.Store(id="ncbi-store", data={}),
     dcc.Store(id="graph-loaded", data=False),
     dcc.Store(id="timer-done", data=False),
+    dcc.Store(id="species-layers-store", data={"available": [], "selected": []}),
     dcc.Interval(id="loading-timer", interval=2000, n_intervals=0, max_intervals=1),
 
     # ──────────────── Loading Modal ────────────────
@@ -180,6 +212,9 @@ layout = html.Div([
         className="mt-2 mb-2 pb-2",
         style=TOOLBAR_STYLE
     ),
+    
+    # ──────────────── Species Layer Controls ────────────────
+    html.Div(id="species-layer-controls", style={"display": "none"}),
 
     # ──────────────── Graph & Side Panels ────────────────
     html.Div([
@@ -257,12 +292,13 @@ def update_modal(graph_loaded, timer_done):
     Output("graph-output", "elements"),
     Output("graph-output", "stylesheet"),
     Output("graph-loaded", "data"),
+    Output("species-layers-store", "data"),
     Input("url", "search"),
     prevent_initial_call=True
 )
 def load_graph_elements(search):
     if not search:
-        return [], [], build_stylesheet(), True
+        return [], [], build_stylesheet(), True, {"available": [], "selected": []}
 
     try:
         params = parse_qs(search[1:])
@@ -271,23 +307,35 @@ def load_graph_elements(search):
         species = params.get("species", ["all"])[0]
 
         if not trait:
-            return [], [], build_stylesheet(), True
+            return [], [], build_stylesheet(), True, {"available": [], "selected": []}
 
         # Load the appropriate graph based on species
-        try:
-            graph, _ = load_graph_by_species(species, data_dir)
-        except FileNotFoundError:
-            # Fall back to default graph if species-specific files don't exist
-            graph = G
+        available_species = []
+        if species == "all":
+            # Load all species and merge
+            try:
+                graph, raw_data, available_species = load_all_species_graphs(data_dir)
+                if not available_species:
+                    # Fall back to default graph if no species files found
+                    graph = G
+            except Exception as e:
+                print(f"Error loading all species: {e}")
+                graph = G
+        else:
+            try:
+                graph, _ = load_graph_by_species(species, data_dir)
+            except FileNotFoundError:
+                # Fall back to default graph if species-specific files don't exist
+                graph = G
 
         result = resolve_trait_and_genes(graph, trait, gene)
         if not result:
-            return [], [], build_stylesheet(), True
+            return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}
 
         focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
 
         subgraph = get_connected_subgraph(graph, focus_nodes)
-        elements = build_cytoscape_elements(subgraph, RELATION_COLORS)
+        elements = build_cytoscape_elements(subgraph, RELATION_COLORS, all_species=available_species)
 
         all_displayed_nodes = []
         for n in subgraph["nodes"]:
@@ -314,17 +362,22 @@ def load_graph_elements(search):
                 "type": node_type
             })
 
+        species_layers = {
+            "available": available_species,
+            "selected": available_species  # All selected by default
+        }
+
         return {
             "elements": elements,
             "matched_genes": result["matched_genes"],
             "all_displayed_nodes": all_displayed_nodes,
             "trait_id": result["trait_id"],
             "trait_name": result["trait_name"]
-        }, elements, build_stylesheet(), True
+        }, elements, build_stylesheet(), True, species_layers
 
     except Exception as e:
         print("Error in load_graph_elements:", e)
-        return [], [], build_stylesheet(), True
+        return [], [], build_stylesheet(), True, {"available": [], "selected": []}
 
 
 @callback(
@@ -597,3 +650,88 @@ def update_table(tab, table_visible, elements_data, search, ncbi_store):
         return build_ncbi_table(matched_genes, ncbi_store, node_type="gene")
 
     return ""
+
+
+# Species layer controls callback
+@callback(
+    Output("species-layer-controls", "children"),
+    Output("species-layer-controls", "style"),
+    Input("species-layers-store", "data"),
+    prevent_initial_call=True
+)
+def update_species_controls(species_layers):
+    """Show species layer controls when multiple species are loaded."""
+    available = species_layers.get("available", [])
+    
+    if not available or len(available) == 0:
+        return [], {"display": "none"}
+    
+    # Create checkboxes for each species
+    checkboxes = []
+    for taxon_id in available:
+        label = get_species_label(taxon_id)
+        color = get_species_color(taxon_id, available)
+        
+        checkboxes.append(
+            dbc.Checkbox(
+                id={"type": "species-checkbox", "index": taxon_id},
+                label=html.Span([
+                    html.Span("●", style={"color": color, "marginRight": "5px", "fontSize": "1.2em"}),
+                    label
+                ]),
+                value=True,
+                className="mb-1"
+            )
+        )
+    
+    controls = dbc.Card([
+        dbc.CardBody([
+            html.H6("Species Layers", className="mb-2"),
+            html.Div(checkboxes),
+        ])
+    ], className="mb-2", style={"padding": "10px"})
+    
+    return controls, {"display": "block"}
+
+
+# Filter graph by selected species
+@callback(
+    Output("graph-output", "elements", allow_duplicate=True),
+    Input({"type": "species-checkbox", "index": dash.dependencies.ALL}, "value"),
+    State({"type": "species-checkbox", "index": dash.dependencies.ALL}, "id"),
+    State("cyto-elements-store", "data"),
+    State("species-layers-store", "data"),
+    prevent_initial_call=True
+)
+def filter_by_species(checkbox_values, checkbox_ids, elements_data, species_layers):
+    """Filter graph elements based on selected species."""
+    if not elements_data or not isinstance(elements_data, dict):
+        return []
+    
+    # Get selected species based on checkbox states
+    selected_species = []
+    for i, is_checked in enumerate(checkbox_values):
+        if is_checked and i < len(checkbox_ids):
+            taxon_id = checkbox_ids[i]["index"]
+            selected_species.append(taxon_id)
+    
+    # Get all available species
+    available = species_layers.get("available", [])
+    
+    # If no species metadata available, return all elements
+    if not available:
+        return elements_data.get("elements", [])
+    
+    # Get the subgraph data from stored elements
+    stored_elements = elements_data.get("elements", [])
+    
+    # Filter elements by selected species
+    filtered_elements = []
+    for elem in stored_elements:
+        elem_species = elem.get("data", {}).get("species")
+        
+        # Include elements that either don't have species metadata or are in selected list
+        if not elem_species or elem_species in selected_species:
+            filtered_elements.append(elem)
+    
+    return filtered_elements

@@ -170,3 +170,69 @@ def species_files_exist(species: str, data_dir: Path) -> bool:
     """
     nodes_path, edges_path = get_species_data_paths(species, data_dir)
     return nodes_path.exists() and edges_path.exists()
+
+
+def get_all_available_species(data_dir: Path) -> List[str]:
+    """
+    Get list of all species taxon IDs that have data files available.
+    
+    Args:
+        data_dir: The directory containing the data files
+        
+    Returns:
+        List of taxon IDs (excluding "all")
+    """
+    species_ids = []
+    
+    # Check for species-specific node files
+    for file_path in data_dir.glob("graph_nodes_*.json"):
+        filename = file_path.stem
+        if filename == "graph_nodes_dataset":
+            continue
+        
+        taxon_id = filename.replace("graph_nodes_", "")
+        
+        # Check if corresponding edges file exists
+        edges_file = data_dir / f"graph_edges_{taxon_id}.json"
+        if edges_file.exists():
+            species_ids.append(taxon_id)
+    
+    return sorted(species_ids)
+
+
+# Color palette for species visualization
+SPECIES_COLORS = [
+    "#1f77b4",  # Blue
+    "#ff7f0e",  # Orange
+    "#2ca02c",  # Green
+    "#d62728",  # Red
+    "#9467bd",  # Purple
+    "#8c564b",  # Brown
+    "#e377c2",  # Pink
+    "#7f7f7f",  # Gray
+    "#bcbd22",  # Olive
+    "#17becf",  # Cyan
+]
+
+
+def get_species_color(taxon_id: str, all_species: List[str] = None) -> str:
+    """
+    Get a unique color for a species based on its taxon ID.
+    
+    Args:
+        taxon_id: The NCBI taxonomy ID
+        all_species: Optional list of all species to ensure consistent color assignment
+        
+    Returns:
+        Hex color code
+    """
+    if all_species:
+        try:
+            index = all_species.index(taxon_id)
+            return SPECIES_COLORS[index % len(SPECIES_COLORS)]
+        except ValueError:
+            pass
+    
+    # Fallback: hash-based color assignment
+    color_index = hash(taxon_id) % len(SPECIES_COLORS)
+    return SPECIES_COLORS[color_index]

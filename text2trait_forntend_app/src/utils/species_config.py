@@ -11,7 +11,7 @@ Species files should be named using NCBI taxonomy IDs:
 
 For example:
 - graph_nodes_3702.json and graph_edges_3702.json for Arabidopsis thaliana (taxon ID: 3702)
-- graph_nodes_4081.json and graph_edges_4081.json for Solanum lycopersicum (tomato, taxon ID: 4081)
+- graph_nodes_4081.json and graph_edges_4081.json for Solanum lycopersicum (Tomato, taxon ID: 4081)
 """
 
 from pathlib import Path

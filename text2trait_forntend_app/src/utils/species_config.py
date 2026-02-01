@@ -20,17 +20,17 @@ from typing import List, Dict, Tuple
 # Mapping of NCBI taxonomy IDs to species information
 # This provides a fallback when files follow naming conventions but aren't auto-discovered
 SPECIES_TAXONOMY_MAP = {
-    "3702": {
-        "scientific_name": "Arabidopsis thaliana",
-        "common_name": "Arabidopsis"
+    "7070": {
+        "scientific_name": "Tribolium castanaeum",
+        "common_name": "Tribolium"
     },
     "4081": {
         "scientific_name": "Solanum lycopersicum",
         "common_name": "Tomato"
     },
-    "4530": {
-        "scientific_name": "Oryza sativa",
-        "common_name": "Rice"
+    "1553328": {
+        "scientific_name": "Gnatocerus cornutus",
+        "common_name": "Broad Horned Flour Beetle"
     },
     "3880": {
         "scientific_name": "Medicago truncatula",
@@ -42,9 +42,9 @@ SPECIES_TAXONOMY_MAP = {
 # The default dataset is treated as a general/all species dataset
 AVAILABLE_SPECIES = [
     {"value": "all", "label": "All Species"},
-    {"value": "3702", "label": "Arabidopsis thaliana"},
+    {"value": "7070", "label": "Tribolium castanaeum"},
     {"value": "4081", "label": "Solanum lycopersicum (Tomato)"},
-    {"value": "4530", "label": "Oryza sativa (Rice)"},
+    {"value": "1553328", "label": "Gnatocerus cornutus (Broad Horned Flour Beetle)"},
 ]
 
 

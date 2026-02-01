@@ -17,7 +17,7 @@ from urllib.parse import urlencode
 from pathlib import Path
 import networkx as nx
 
-from utils.data_loader import load_graph, load_graph_by_species
+from utils.data_loader import load_graph, load_graph_by_species, load_all_species_graphs
 from utils.search_utils import (
     get_node_name,
     is_trait_node,
@@ -231,11 +231,22 @@ def update_index_tables(active_tab, species):
     """Update the displayed table based on the active tab and selected species."""
     try:
         # Load the appropriate graph based on species
-        try:
-            graph, _ = load_graph_by_species(species, data_dir)
-        except FileNotFoundError:
-            # Fall back to default graph if species-specific files don't exist
-            graph = G
+        if species == "all":
+            # Load all species and merge for consistency with results page
+            try:
+                graph, _, successful_species, failed_species = load_all_species_graphs(data_dir)
+                if not successful_species:
+                    # Fall back to default graph if no species files found
+                    graph = G
+            except Exception:
+                # Fall back to default graph on any error
+                graph = G
+        else:
+            try:
+                graph, _ = load_graph_by_species(species, data_dir)
+            except FileNotFoundError:
+                # Fall back to default graph if species-specific files don't exist
+                graph = G
         
         if active_tab == "traits":
             return generate_traits_tab(graph, species)

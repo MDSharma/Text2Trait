@@ -8,8 +8,11 @@ for detailed gene information retrieved from NCBI.
 """
 
 import os
+import logging
 from pathlib import Path
 from urllib.parse import parse_qs
+from datetime import datetime, timedelta
+from typing import Optional
 
 import dash
 from dash import html, dcc, Input, Output, State, callback
@@ -28,6 +31,10 @@ from components.results.layout_styles import (
     TABLE_CONTAINER_STYLE, TABLE_CONTAINER_EXPANDED_STYLE,
 )
 from components.results.ui_elements import build_gene_table, build_ncbi_table
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 # ───────────────────────────────
 # NCBI Configuration
@@ -55,11 +62,54 @@ node_json_path = data_dir / "graph_nodes_dataset.json"
 edge_json_path = data_dir / "graph_edges_dataset.json"
 G, _ = load_graph(node_json_path, edge_json_path)
 
-# NOTE: AVAILABLE_SPECIES is computed once at module import time.
-# If species data files are added, removed, or modified in the data directory
-# while the application is running, this list will NOT be refreshed automatically.
-# A restart of the Dash application is required for changes to be detected.
-AVAILABLE_SPECIES = get_available_species_from_data(data_dir)
+# Species discovery with automatic refresh mechanism
+# Checks directory every 12 hours for new species files
+_species_cache = {
+    "species": None,
+    "last_check": None,
+    "dir_mtime": None
+}
+REFRESH_INTERVAL = timedelta(hours=12)
+
+
+def get_current_species() -> list:
+    """
+    Get available species with automatic refresh every 12 hours if directory changes.
+    
+    Returns:
+        List of species dictionaries with 'value' and 'label' keys
+    """
+    global _species_cache
+    current_time = datetime.now()
+    
+    # Check if directory modification time has changed
+    try:
+        current_mtime = data_dir.stat().st_mtime
+    except OSError:
+        current_mtime = None
+    
+    # Refresh if:
+    # 1. Never checked before
+    # 2. More than 12 hours have passed
+    # 3. Directory modification time has changed
+    should_refresh = (
+        _species_cache["species"] is None or
+        _species_cache["last_check"] is None or
+        (current_time - _species_cache["last_check"]) > REFRESH_INTERVAL or
+        current_mtime != _species_cache["dir_mtime"]
+    )
+    
+    if should_refresh:
+        logger.info("Refreshing species list from data directory")
+        _species_cache["species"] = get_available_species_from_data(data_dir)
+        _species_cache["last_check"] = current_time
+        _species_cache["dir_mtime"] = current_mtime
+    
+    return _species_cache["species"]
+
+
+# Initialize species list
+AVAILABLE_SPECIES = get_current_species()
 
 
 # ───────────────────────────────
@@ -152,7 +202,11 @@ layout = html.Div([
     dcc.Store(id="graph-loaded", data=False),
     dcc.Store(id="timer-done", data=False),
     dcc.Store(id="species-layers-store", data={"available": [], "selected": []}),
+    dcc.Store(id="load-errors-store", data=[]),
     dcc.Interval(id="loading-timer", interval=2000, n_intervals=0, max_intervals=1),
+    
+    # ──────────────── Error/Warning Toast ────────────────
+    html.Div(id="error-toast-container"),
 
     # ──────────────── Loading Modal ────────────────
     dbc.Modal(
@@ -298,13 +352,15 @@ def update_modal(graph_loaded, timer_done):
     Output("graph-output", "stylesheet"),
     Output("graph-loaded", "data"),
     Output("species-layers-store", "data"),
+    Output("load-errors-store", "data"),
     Input("url", "search"),
     prevent_initial_call=True
 )
 def load_graph_elements(search):
     if not search:
-        return [], [], build_stylesheet(), True, {"available": [], "selected": []}
+        return [], [], build_stylesheet(), True, {"available": [], "selected": []}, []
 
+    load_errors = []
     try:
         params = parse_qs(search[1:])
         trait = params.get("trait", [None])[0]
@@ -312,30 +368,46 @@ def load_graph_elements(search):
         species = params.get("species", ["all"])[0]
 
         if not trait:
-            return [], [], build_stylesheet(), True, {"available": [], "selected": []}
+            return [], [], build_stylesheet(), True, {"available": [], "selected": []}, []
+
+        # Refresh species list (checks for changes every 12 hours)
+        get_current_species()
 
         # Load the appropriate graph based on species
         available_species = []
+        failed_species = []
         if species == "all":
             # Load all species and merge
             try:
-                graph, raw_data, available_species = load_all_species_graphs(data_dir)
+                graph, raw_data, available_species, failed_species = load_all_species_graphs(data_dir)
                 if not available_species:
                     # Fall back to default graph if no species files found
+                    logger.info("No species-specific files found, using default dataset")
                     graph = G
+                elif failed_species:
+                    # Log failed species for user notification
+                    for failed in failed_species:
+                        error_msg = f"Failed to load {get_species_label(failed['taxon_id'])}: {failed['error']}"
+                        logger.warning(error_msg)
+                        load_errors.append(error_msg)
             except Exception as e:
-                print(f"Error loading all species: {e}")
+                error_msg = f"Error loading multi-species data: {str(e)}"
+                logger.error(error_msg)
+                load_errors.append(error_msg)
                 graph = G
         else:
             try:
                 graph, _ = load_graph_by_species(species, data_dir)
-            except FileNotFoundError:
+            except FileNotFoundError as e:
                 # Fall back to default graph if species-specific files don't exist
+                error_msg = f"Species data not found for {get_species_label(species)}, using default dataset"
+                logger.warning(error_msg)
+                load_errors.append(error_msg)
                 graph = G
 
         result = resolve_trait_and_genes(graph, trait, gene)
         if not result:
-            return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}
+            return [], [], build_stylesheet(), True, {"available": available_species, "selected": available_species}, load_errors
 
         focus_nodes = [result["trait_id"]] + [g["gene_id"] for g in result["matched_genes"]]
 
@@ -399,11 +471,40 @@ def load_graph_elements(search):
             "all_displayed_nodes": all_displayed_nodes,
             "trait_id": result["trait_id"],
             "trait_name": result["trait_name"]
-        }, elements, build_stylesheet(), True, species_layers
+        }, elements, build_stylesheet(), True, species_layers, load_errors
 
     except Exception as e:
-        print("Error in load_graph_elements:", e)
-        return [], [], build_stylesheet(), True, {"available": [], "selected": []}
+        error_msg = f"Error in load_graph_elements: {str(e)}"
+        logger.error(error_msg)
+        return [], [], build_stylesheet(), True, {"available": [], "selected": []}, [error_msg]
+
+
+# Error toast callback
+@callback(
+    Output("error-toast-container", "children"),
+    Input("load-errors-store", "data"),
+    prevent_initial_call=True
+)
+def show_error_toast(errors):
+    """Display error/warning toasts for loading issues."""
+    if not errors:
+        return []
+    
+    toasts = []
+    for i, error in enumerate(errors):
+        toast = dbc.Toast(
+            error,
+            id=f"error-toast-{i}",
+            header="Warning",
+            icon="warning",
+            duration=8000,
+            is_open=True,
+            style={"position": "fixed", "top": 66 + (i * 80), "right": 10, "width": 350, "zIndex": 9999},
+        )
+        toasts.append(toast)
+    
+    return toasts
+
 
 
 @callback(

@@ -6,7 +6,7 @@ This module provides a Gunicorn-compatible WSGI entry point for the Text2Trait
 frontend Dash application.
 
 Usage with Gunicorn:
-    gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8050 --workers 4
+    gunicorn wsgi_t2tfe:server --bind 127.0.0.1:8051 --workers 4
 
 Environment Setup:
     1. Install dependencies from text2trait_forntend_app/src/pyproject.toml

@@ -22,7 +22,7 @@ The frontend is relatively easy to use and designed for quick setup.
    ```
 3. After running the script, your terminal will display a message similar to:
    ```bash
-   Running on http://127.0.0.1:5000/
+   Running on http://127.0.0.1:8051/
    ```
 4. Open the displayed link in your browser — the application should load immediately.
 Every part of the code in this section is well commented and described. If you have any doubts how certain method work, you can find it's description just under the method definition.
@@ -31,6 +31,7 @@ Every part of the code in this section is well commented and described. If you h
 
 ## 🛠️ Utility Scripts  
 This section provides a collection of lightweight, well-documented scripts to streamline **data preparation for training**. Each script is clearly named and does exactly what it promises. You can use them to:  
+Note however that these scripts are in the process of being migrated to the HARVEST project.
 
 - Convert PDF data into `.txt` and `.json` formats  
 - Transform Excel data into the required JSON training format  
